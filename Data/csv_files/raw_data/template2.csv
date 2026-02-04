@@ -1,0 +1,7816 @@
+BUYER,DATE,GST(7%),GSTIN,INVOICE_INFO,LOGO,NUMBER,OTHER,SELLER_ADDRESS,SELLER_NAME,SUB_TOTAL,TABLE,TITLE,TOTAL,_source_file
+"Bill to:Suzanne Sandoval
+13868 Michael Wall
+North Cindytown, CT 45483 US
+Tel:+(836)744-4229
+Email:ljames@example.org
+Site:http://www.campbell-baker.com/",Invoice Date: 23-Feb-2014,GST(7%) : 45.21,GSTIN: 33123456789102Z1,[],,INVOICE # INV17967327,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Suzanne Sandoval
+
+13868 Michael Wall
+
+North Cindytown, CT 45483 US
+Tel:+(836)744-4229
+Email:ljames@example.org
+Site:http://www.campbell-baker.com/
+
+INVOICE
+
+INVOICE # INV17967327
+Invoice Date: 23-Feb-2014
+
+Description QUANTITY PRICE
+Resource above real. 5.00 $87.40
+Manage. 3.00 $66.60
+Necessary newspaper. 3.00 $3.04
+
+SUB_TOTAL : 645.92 $
+
+GST(7%) : 45.21
+
+TOTAL : 653.95 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 645.92  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 653.95 $,Template2_Instance0.json
+"Buyer :Anthony Brown
+184 Christopher Ridge
+Mitchellchester, MN 32776 US
+Tel:+(298)995-0812
+Email:ericmontgomery@example.org
+Site:http://www.pierce.biz/",Date: 27-Mar-2008,GST(7%) : 51.08,GSTIN: 33123456789102Z1,[],,Invoice number 2Y9M4d-800,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Anthony Brown
+
+184 Christopher Ridge
+Mitchellchester, MN 32776 US
+Tel:+(298)995-0812
+Email:ericmontgomery@example.org
+Site:http://www.pierce.biz/
+
+INVOICE
+
+Invoice number 2Y9M4d-800
+Date: 27-Mar-2008
+
+Description QUANTITY PRICE
+Key hotel. 6.00 $83.88
+Professor market beautiful. 5.00 $12.31
+Report tree. 6.00 $27.47
+
+SUB_TOTAL : 729.65 USD
+
+GST(7%) : 51.08
+
+TOTAL : 739.31 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 729.65  USD,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 739.31 USD,Template2_Instance1.json
+"Buyer :Marvin Smith
+7611 Jesse Hollow Apt. 613
+Port Andrewside, OK 89679 US
+Tel:+(385)761-7629
+Email:lmorris@example.net
+Site:https://www.ramirez-cook.net/",Invoice Date: 01-Apr-2021,GST(7%) : 75.55,GSTIN: 33123456789102Z1,[],,INVOICE # 2533-604,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Marvin Smith
+
+7611 Jesse Hollow Apt. 613
+
+Port Andrewside, OK 89679 US
+Tel:+(385)761-7629
+Email:lmorris@example.net
+Site:https://www.ramirez-cook.net/
+
+TAX INVOICE
+
+INVOICE # 2533-604
+Invoice Date: 01-Apr-2021
+
+Description QUANTITY PRICE
+Most notice. 4.00 $63.30
+Under administration east. 6.00 $32.18
+Social in center. 3.00 $93.18
+Reveal maintain investment. 5.00 $70.69
+
+SUB_TOTAL : 1079.27 $
+
+GST(7%) : 75.55
+
+TOTAL : 1107.09 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1079.27  $,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 1107.09 $,Template2_Instance10.json
+"Buyer :Katherine Mclaughlin
+66384 Lisa Hollow
+Port Rachelfort, GU 62290 US
+Tel:+(428)286-4205
+Email:xlucas@example.org
+Site:https://www.campos-wagner.com/",Date: 09-Dec-2013,GST(7%) : 24.57,GSTIN: 33123456789102Z1,[],,INVOICE ID INV06961250,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Katherine Mclaughlin
+
+66384 Lisa Hollow
+
+Port Rachelfort, GU 62290 US
+Tel:+(428)286-4205
+Email:xlucas@example.org
+Site:https:/;www.campos-wagner.com/
+
+COMMERCIAL INVOICE
+
+INVOICE ID INV06961250
+Date: 09-Dec-2013
+
+Description QUANTITY PRICE
+Owner owner leg method. 3.00 $91.72
+Exactly even she need. 3.00 $25.28
+
+SUB_TOTAL : 351.00 USD
+
+GST(7%) : 24.57
+
+TOTAL : 357.40 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 351.00  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 357.40 USD,Template2_Instance100.json
+"Buyer :Tiffany Mendoza
+10965 Sullivan Summit
+Port Jeffrey, DC 98039 US
+Tel:+(205)168-6734
+Email:mcbridejasmine@example.org
+Site:https://lara.biz/",Date: 10-Feb-1995,GST(7%) : 2.68,GSTIN: 33123456789102Z1,[],,INVOICE # 5701-821,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Tiffany Mendoza
+10965 Sullivan Summit
+
+Port Jeffrey, DC 98039 US
+
+Tel:+(205)168-6734
+
+Email:mcbridejasmine@example.org
+
+Site:https://lara.biz/
+
+TAX INVOICE
+
+INVOICE # 5701-821
+Date: 10-Feb-1995
+
+Description QUANTITY PRICE
+Question particularly memory. 3.00 $2.81
+Food note. 2.00 $14.94
+
+SUB_TOTAL : 38.31 EUR
+
+GST(7%) : 2.68
+
+TOTAL : 37.88 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 38.31  EUR,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 37.88 EUR,Template2_Instance101.json
+"Bill to:Maria Hoover
+8174 Knight Center Apt. 180
+Melanieborough, GA 30904 US
+Tel:+(532)450-3638
+Email:shannonparsons@example.org
+Site:http://www.day.com/",Invoice Date: 07-Nov-2004,GST(7%) : 24.56,GSTIN: 33123456789102Z1,[],,Invoice number 1Y8M4d-252,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Maria Hoover
+
+8174 Knight Center Apt. 180
+Melanieborough, GA 30904 US
+Tel:+(532)450-3638
+Email:shannonparsons@example.org
+Site:http://www.day.com/
+
+INVOICE
+
+Invoice number 1Y8M4d-252
+Invoice Date: 07-Nov-2004
+
+Description QUANTITY PRICE
+Show pay. 2.00 $50.40
+Career sound police. 5.00 $50.02
+
+SUB_TOTAL : 350.90 USD
+
+GST(7%) : 24.56
+
+TOTAL : 353.11 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 350.90  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 353.11 USD,Template2_Instance102.json
+"Bill to:Michael Jones
+4504 Tina Cliffs Suite 034
+Kellyhaven, MI 80835 US
+Tel:+(772)987-7343
+Email:wadkins@example.com
+Site:https://www.garcia.net/",Date: 13-May-1999,GST(7%) : 40.34,GSTIN: 33123456789102Z1,[],,INVOICE # INV53756945,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Michael Jones
+
+4504 Tina Cliffs Suite 034
+Kellyhaven, MI 80835 US
+Tel:+(772)987-7343
+Email:wadkins@example.com
+Site:https://www.garcia.net/
+
+INVOICE
+
+INVOICE # INV53756945
+Date: 13-May-1999
+
+Description QUANTITY PRICE
+Project interview. 5.00 $78.59
+Floor. 2.00 $5.08
+
+Interview eat letter. 2.00 $56.32
+Save consumer food. 2.00 $30.30
+
+SUB_TOTAL : 576.35 $
+
+GST(7%) : 40.34
+
+TOTAL : 571.42 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 576.35  $,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 571.42 $,Template2_Instance103.json
+"Buyer :Emily Gordon
+582 Blake Meadow Apt. 421
+Donaldhaven, MH 13167 US
+Tel:+(701)792-5827
+Email:espinozajoseph@example.org
+Site:http://walker.com/",Date: 18-Apr-1994,GST(7%) : 44.12,GSTIN: 33123456789102Z1,[],,INVOICE ID 8309-658,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Emily Gordon
+
+582 Blake Meadow Apt. 421
+Donaldhaven, MH 13167 US
+Tel:+(701)792-5827
+Email:espinozajoseph@example.org
+Site:http://walker.com/
+
+COMMERCIAL INVOICE
+
+INVOICE ID 8309-658
+Date: 18-Apr-1994
+
+Description QUANTITY PRICE
+College. 1.00 $42.03
+Agree data build gas. 6.00 $41.36
+Body organization. 6.00 $56.68
+
+SUB_TOTAL : 630.27 $
+
+GST(7%) : 44.12
+
+TOTAL : 641.62 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 630.27  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 641.62 $,Template2_Instance104.json
+"Buyer :Diana Frey
+819 Paul Prairie
+Jonesborough, MP 38972 US
+Tel:+(769)153-1879
+Email:brownmaria@example.org
+Site:http://parks.com/",Date: 25-Jun-1995,GST(7%) : 109.27,GSTIN: 33123456789102Z1,[],,Invoice number 7Y5M7d-024,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Diana Frey
+
+819 Paul Prairie
+
+Jonesborough, MP 38972 US
+Tel:+(769)153-1879
+Email:brownmaria@example.org
+Site:http://parks.com/
+
+COMMERCIAL INVOICE
+
+Invoice number 7Y5M7d-024
+Date: 25-Jun-1995
+
+Description QUANTITY PRICE
+Growth exist. 5.00 $99.38
+Responsibility modern truth. 1.00 $13.13
+The talk structure chance. 6.00 $92.97
+Talk interview past. 6.00 $82.18
+
+SUB_TOTAL : 1560.93 EUR
+
+GST(7%) : 109.27
+
+TOTAL : 1604.79 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1560.93  EUR,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 1604.79 EUR,Template2_Instance105.json
+"Bill to:Amanda Gross
+6095 Mark Creek Apt. 795
+Laurabury, OH 76369 US
+Tel:+(299)889-7825
+Email:ortizphilip@example.com
+Site:https://bailey-mcintyre.com/",Date: 11-Nov-2000,GST(7%) : 49.08,GSTIN: 33123456789102Z1,[],,INVOICE # INV/91-46/641,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Amanda Gross
+
+6095 Mark Creek Apt. 795
+Laurabury, OH 76369 US
+Tel:+(299)889-7825
+Email:ortizphilip@example.com
+Site:https://bailey-mcintyre.com/
+
+COMMERCIAL INVOICE
+
+INVOICE # INV/91-46/641
+Date: 11-Nov-2000
+
+Description QUANTITY PRICE
+Change culture know. 1.00 $12.73
+Step budget administration. 5.00 $84.51
+Possible school establish life. 6.00 $44.31
+
+SUB_TOTAL : 701.14 USD
+
+GST(7%) : 49.08
+
+TOTAL : 735.94 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 701.14  USD,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 735.94 USD,Template2_Instance106.json
+"Bill to:Michael Wilkins
+64283 Chavez Circle
+West Laura, MS 20638 US
+Tel:+(626)466-0548
+Email:jill35@example.net
+Site:http://bishop.com/",Invoice Date: 18-Jan-2002,GST(7%) : 60.29,GSTIN: 33123456789102Z1,[],,INVOICE # INV/83-58/218,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Michael Wilkins
+64283 Chavez Circle
+West Laura, MS 20638 US
+Tel:+(626)466-0548
+Email:jill35@example.net
+Site:http://bishop.com/
+
+INVOICE
+
+INVOICE # INV/83-58/218
+Invoice Date: 18-Jan-2002
+
+Description QUANTITY PRICE
+Alone spring student. 6.00 $72.12
+Oil north throughout family. 4.00 $85.79
+Specific why growth. 1.00 $85.41
+
+SUB_TOTAL : 861.29 USD
+
+GST(7%) : 60.29
+
+TOTAL : 874.34 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 861.29  USD,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 874.34 USD,Template2_Instance107.json
+"Buyer :Julia Delgado
+653 Miller Oval Apt. 148
+Wigginschester, MD 81962 US
+Tel:+(703)604-5400
+Email:vrodriguez@example.org
+Site:http://www.meyer-cunningham.com/",Date: 17-Jun-2013,GST(7%) : 26.77,GSTIN: 33123456789102Z1,[],,INVOICE ID INV89073127,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Julia Delgado
+
+653 Miller Oval Apt. 148
+
+Wigginschester, MD 81962 US
+Tel:+(703)604-5400
+Email:vrodriguez@example.org
+Site:http:/www.meyer-cunningham.com/
+
+TAX INVOICE
+
+INVOICE ID INV89073127
+Date: 17-Jun-2013
+
+Description QUANTITY PRICE
+Decade Democrat significant life. 1.00 $47.65
+Collection perform. 1.00 $86.84
+Year agent. 3.00 $82.67
+
+SUB_TOTAL : 382.50 USD
+
+GST(7%) : 26.77
+
+TOTAL : 388.72 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 382.50  USD,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 388.72 USD,Template2_Instance108.json
+"Buyer :Shaun Marshall
+835 Arthur Common Apt. 382
+New Sabrinafort, PA 82120 US
+Tel:+(197)671-9955
+Email:stonerichard@example.com
+Site:https://www.banks-velez.com/",Date: 25-Dec-2018,GST(7%) : 81.38,GSTIN: 33123456789102Z1,[],,Invoice number INV16849390,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Shaun Marshall
+
+835 Arthur Common Apt. 382
+
+New Sabrinafort, PA 82120 US
+Tel:+(197)671-9955
+Email:stonerichard@example.com
+Site:https://www.banks-velez.com/
+
+TAX INVOICE
+
+Invoice number INV16849390
+Date: 25-Dec-2018
+
+Description QUANTITY PRICE
+Throughout culture. 5.00 $92.53
+Expect. 3.00 $91.89
+Risk. 1.00 $75.35
+Interview over about. 4.00 $87.22
+
+SUB_TOTAL : 1162.55 $
+
+GST(7%) : 81.38
+
+TOTAL : 1204.13 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1162.55  $,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 1204.13 $,Template2_Instance109.json
+"Buyer :April Sherman
+574 Michelle Haven
+Castillobury, MT 32771 US
+Tel:+(698)845-1268
+Email:gregoryhamilton@example.org
+Site:https://www.tucker.org/",Invoice Date: 13-Nov-1999,GST(7%) : 23.84,GSTIN: 33123456789102Z1,[],,Invoice number 6508-985,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :April Sherman
+
+574 Michelle Haven
+
+Castillobury, MT 32771 US
+Tel:+(698)845-1268
+Email:gregoryhamilton@example.org
+Site:https://www.tucker.org/
+
+COMMERCIAL INVOICE
+
+Invoice number 6508-985
+Invoice Date: 13-Nov-1999
+
+Description QUANTITY PRICE
+Now how. 5.00 $64.11
+Southern wide early. 6.00 $3.34
+
+SUB_TOTAL : 340.59 EUR
+
+GST(7%) : 23.84
+
+TOTAL : 357.49 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 340.59  EUR,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 357.49 EUR,Template2_Instance11.json
+"Bill to:James Fernandez
+7382 Ferguson Plaza
+New Samantha, MN 36762 US
+Tel:+(316)470-7210
+Email:williamssean@example.com
+Site:https://www.turner.com/",Date: 15-Oct-1996,GST(7%) : 47.72,GSTIN: 33123456789102Z1,[],,INVOICE ID INV/41-08/772,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: James Fernandez
+
+7382 Ferguson Plaza
+
+New Samantha, MN 36762 US
+Tel:+(316)470-7210
+Email:williamssean@example.com
+Site:https://www.turner.com/
+
+COMMERCIAL INVOICE
+
+INVOICE ID INV/41-08/772
+Date: 15-Oct-1996
+
+Description QUANTITY PRICE
+Name black method. 4.00 $55.51
+Light would pass. 5.00 $76.90
+Pay send. 1.00 $75.24
+
+SUB_TOTAL : 681.78 USD
+
+GST(7%) : 47.72
+
+TOTAL : 702.66 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 681.78  USD,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 702.66 USD,Template2_Instance110.json
+"Bill to:Kristin Warren
+21005 Cruz Stravenue Suite 158
+North Sandra, PA 49514 US
+Tel:+(517)411-9094
+Email:upatton@example.net
+Site:https://www.leon.com/",Date: 02-Jul-2008,GST(7%) : 10.85,GSTIN: 33123456789102Z1,[],,Invoice number 1073-132,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Kristin Warren
+
+21005 Cruz Stravenue Suite 158
+North Sandra, PA 49514 US
+Tel:+(517)411-9094
+Email:upatton@example.net
+Site:https://www.leon.com/
+
+COMMERCIAL INVOICE
+
+Invoice number 1073-132
+Date: 02-Jul-2008
+
+Description QUANTITY PRICE
+Way experience. 5.00 $6.29
+Model black bank. 5.00 $24.71
+
+SUB_TOTAL : 155.00 $
+
+GST(7%) : 10.85
+
+TOTAL : 160.46 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 155.00  $,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 160.46 $,Template2_Instance111.json
+"Bill to:Casey Price
+8828 Christian Vista
+Carolynchester, NH 46194 US
+Tel:+(577)243-4460
+Email:olivia74@example.org
+Site:http://www.ryan.com/",Date: 09-Dec-2020,GST(7%) : 32.62,GSTIN: 33123456789102Z1,[],,Invoice number 7Y8M6d-266,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Casey Price
+
+8828 Christian Vista
+Carolynchester, NH 46194 US
+Tel:+(577)243-4460
+Email:olivia74@example.org
+Site:http:/www.ryan.com/
+
+COMMERCIAL INVOICE
+
+Invoice number 7Y8M6d-266
+Date: 09-Dec-2020
+
+Description QUANTITY PRICE
+Skin six. 5.00 $78.68
+Option myself leave. 6.00 $12.09
+
+SUB_TOTAL : 465.94 EUR
+
+GST(7%) : 32.62
+
+TOTAL : 469.42 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 465.94  EUR,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 469.42 EUR,Template2_Instance112.json
+"Buyer :Scott Griffin
+87847 Ponce Street
+Port Andreafort, VT 19910 US
+Tel:+(079)419-2613
+Email:michaelbryant@example.com
+Site:https://www.wilson.com/",Invoice Date: 25-Jul-2007,GST(7%) : 55.47,GSTIN: 33123456789102Z1,[],,INVOICE ID 4Y2M5d-430,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Scott Griffin
+
+87847 Ponce Street
+
+Port Andreafort, VT 19910 US
+Tel:+(079)419-2613
+Email:michaelbryant@example.com
+Site:https://www.wilson.com/
+
+INVOICE
+
+INVOICE ID 4Y2M5d-430
+Invoice Date: 25-Jul-2007
+
+Description QUANTITY PRICE
+Stage something. 1.00 $43.10
+Nor bank prepare. 3.00 $73.27
+Number enough. 3.00 $98.64
+Lay reflect. 4.00 $50.95
+Discover method family. 5.00 $5.95
+
+SUB_TOTAL : 792.38 EUR
+
+GST(7%) : 55.47
+
+TOTAL : 810.41 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 792.38  EUR,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 810.41 EUR,Template2_Instance113.json
+"Bill to:Megan Cardenas
+1609 Charles Glens Suite 029
+South Robert, IL 85116 US
+Tel:+(074)373-7411
+Email:fross@example.com
+Site:http://www.yates.net/",Date: 02-Jun-1998,GST(7%) : 33.63,GSTIN: 33123456789102Z1,[],,INVOICE # 1662-250,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Megan Cardenas
+
+1609 Charles Glens Suite 029
+South Robert, IL 85116 US
+Tel:+(074)373-7411
+Email:fross@example.com
+Site:http://www.yates.net/
+
+TAX INVOICE
+
+INVOICE # 1662-250
+Date: 02-Jun-1998
+
+Description QUANTITY PRICE
+Authority bit. 3.00 $29.13
+This series. 4.00 $76.66
+Officer. 2.00 $43.22
+
+SUB_TOTAL : 480.47 USD
+
+GST(7%) : 33.63
+
+TOTAL : 502.79 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 480.47  USD,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 502.79 USD,Template2_Instance114.json
+"Buyer :Marcus Taylor
+824 Miranda Run Suite 820
+Kimberlyshire, NV 33263 US
+Tel:+(137)464-9034
+Email:dwalker@example.com
+Site:https://www.martinez-rivera.com/",Invoice Date: 29-Mar-2013,GST(7%) : 69.05,GSTIN: 33123456789102Z1,[],,Invoice number 2241-894,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Marcus Taylor
+
+824 Miranda Run Suite 820
+Kimberlyshire, NV 33263 US
+Tel:+(137)464-9034
+Email:dwalker@example.com
+Site:https://www.martinez-rivera.com/
+
+INVOICE
+
+Invoice number 2241-894
+Invoice Date: 29-Mar-2013
+
+Description QUANTITY PRICE
+Hand eight. 4.00 $58.71
+Blood up. 3.00 $63.44
+Assume choose. 4.00 $33.78
+Common before like. 4.00 $67.92
+Star trip. 2.00 $77.22
+
+SUB_TOTAL : 986.40 $
+
+GST(7%) : 69.05
+
+TOTAL : 1013.63 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 986.40  $,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 1013.63 $,Template2_Instance115.json
+"Buyer :Emily White
+008 Hendricks Hills
+Port Patriciaton, WI 82172 US
+Tel:+(961)959-8860
+Email:rturner@example.com
+Site:http://hartman-mosley.com/",Date: 14-May-2008,GST(7%) : 18.81,GSTIN: 33123456789102Z1,[],,Invoice number INV/56-66/023,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Emily White
+
+008 Hendricks Hills
+
+Port Patriciaton, WI 82172 US
+Tel:+(961)959-8860
+Email:rturner@example.com
+Site:http://hartman-mosley.com/
+
+INVOICE
+
+Invoice number INV/56-66/023
+Date: 14-May-2008
+
+Description QUANTITY PRICE
+Upon arm technology. 3.00 $82.47
+Interview many nearly. 1.00 $21.33
+
+SUB_TOTAL : 268.74 EUR
+
+GST(7%) : 18.81
+
+TOTAL : 264.52 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 268.74  EUR,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 264.52 EUR,Template2_Instance116.json
+"Bill to:Brian Sullivan
+201 Luna Lodge
+Gailside, MP 26309 US
+Tel:+(579)583-0781
+Email:christianjordan@example.com
+Site:http://www.thompson.com/",Invoice Date: 23-May-2012,GST(7%) : 63.76,GSTIN: 33123456789102Z1,[],,INVOICE # 3406-660,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Brian Sullivan
+
+201 Luna Lodge
+
+Gailside, MP 26309 US
+Tel:+(579)583-0781
+Email:christianjordan@example.com
+Site:http:/www.thompson.com/
+
+INVOICE
+
+INVOICE # 3406-660
+Invoice Date: 23-May-2012
+
+Description QUANTITY PRICE
+Attack network. 3.00 $22.05
+Trouble probably dinner. 6.00 $89.42
+Yard wind financial. 3.00 $28.72
+Purpose church. 3.00 $23.12
+Son usually. 2.00 $76.30
+
+SUB_TOTAL : 910.79 EUR
+
+GST(7%) : 63.76
+
+TOTAL : 921.29 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 910.79  EUR,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 921.29 EUR,Template2_Instance117.json
+"Buyer :Douglas Anderson
+7606 John Mills
+New Gregory, DE 60383 US
+Tel:+(640)284-4456
+Email:jonathanreyes@example.org
+Site:http://coleman.com/",Date: 26-Dec-2022,GST(7%) : 88.11,GSTIN: 33123456789102Z1,[],,Invoice number INV/73-01/424,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Douglas Anderson
+
+7606 John Mills
+
+New Gregory, DE 60383 US
+Tel:+(640)284-4456
+Email:jonathanreyes@example.org
+Site:http://coleman.com/
+
+COMMERCIAL INVOICE
+
+Invoice number INV/73-01/424
+Date: 26-Dec-2022
+
+Description QUANTITY PRICE
+Three know nor. 3.00 $7.31
+
+Say trial network. 5.00 $47.42
+Sound. 4.00 $91.51
+Leg. 6.00 $89.38
+Ever information team. 2.00 $48.67
+
+SUB_TOTAL : 1258.69 USD
+
+GST(7%) : 88.11
+
+TOTAL : 1266.64 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1258.69  USD,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 1266.64 USD,Template2_Instance118.json
+"Buyer :Jason Young
+48012 Mcclure Union
+Andersonbury, HI 28562 US
+Tel:+(262)754-2951
+Email:vegatammy@example.org
+Site:https://small.com/",Date: 25-Feb-1999,GST(7%) : 30.57,GSTIN: 33123456789102Z1,[],,INVOICE ID INV77605907,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Jason Young
+48012 Mcclure Union
+
+Andersonbury, HI 28562 US
+
+Tel:+(262)754-2951
+
+Email:vegatammy@example.org
+
+Site:https://small.com/
+
+COMMERCIAL INVOICE
+
+INVOICE ID INV77605907
+Date: 25-Feb-1999
+
+Description QUANTITY PRICE
+Prepare month key outside. 5.00 $72.30
+Cultural perhaps treat. 3.00 $25.06
+
+SUB_TOTAL : 436.68 EUR
+
+GST(7%) : 30.57
+
+TOTAL : 452.55 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 436.68  EUR,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 452.55 EUR,Template2_Instance119.json
+"Buyer :Thomas Reese
+129 Armstrong Turnpike
+Jeanetteborough, GU 73437 US
+Tel:+(376)541-3808
+Email:fjones@example.org
+Site:https://www.mcdonald-wilson.com/",Date: 26-Aug-2004,GST(7%) : 19.73,GSTIN: 33123456789102Z1,[],,INVOICE # INV77878385,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Thomas Reese
+
+129 Armstrong Turnpike
+Jeanetteborough, GU 73437 US
+Tel:+(376)541-3808
+Email:fjones@example.org
+Site:https://www.mcdonald-wilson.com/
+
+TAX INVOICE
+
+INVOICE # INV77878385
+Date: 26-Aug-2004
+
+Description QUANTITY PRICE
+Animal about American. 6.00 $40.18
+Evening course. 3.00 $13.58
+
+SUB_TOTAL : 281.82 USD
+
+GST(7%) : 19.73
+
+TOTAL : 292.41 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 281.82  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 292.41 USD,Template2_Instance12.json
+"Buyer :Kelly Hendrix
+24926 Sandra Spur Apt. 883
+South Michael, ME 90172 US
+Tel:+(099)761-8294
+Email:joshua31@example.net
+Site:https://baker-richardson.com/",Invoice Date: 21-Feb-2011,GST(7%) : 49.84,GSTIN: 33123456789102Z1,[],,INVOICE ID INV75415141,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Kelly Hendrix
+
+24926 Sandra Spur Apt. 883
+
+South Michael, ME 90172 US
+Tel:+(099)761-8294
+Email:joshua31@example.net
+Site:https://baker-richardson.com/
+
+COMMERCIAL INVOICE
+
+INVOICE ID INV75415141
+Invoice Date: 21-Feb-2011
+
+Description QUANTITY PRICE
+Agree assume. 2.00 $79.19
+Nothing total. 6.00 $5.28
+
+Responsibility. 6.00 $19.99
+Toward dinner record. 2.00 $37.88
+Then act win. 6.00 $54.37
+
+SUB_TOTAL : 711.98 USD
+
+GST(7%) : 49.84
+
+TOTAL : 745.66 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 711.98  USD,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 745.66 USD,Template2_Instance120.json
+"Buyer :Christine Shaw
+40368 Cory Brook Apt. 357
+Lake Julie, OK 33970 US
+Tel:+(064)389-3596
+Email:brittany56@example.net
+Site:https://www.wood-obrien.info/",Invoice Date: 21-May-1995,GST(7%) : 48.23,GSTIN: 33123456789102Z1,[],,Invoice number 0887-909,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Christine Shaw
+
+40368 Cory Brook Apt. 357
+
+Lake Julie, OK 33970 US
+Tel:+(064)389-3596
+Email:brittany56@example.net
+Site:https://www.wood-obrien.info/
+
+INVOICE
+
+Invoice number 0887-909
+Invoice Date: 21-May-1995
+
+Description QUANTITY PRICE
+Successful. 4.00 $44.53
+Start discover detail. 1.00 $16.07
+His old suffer develop. 4.00 $54.88
+Others. 4.00 $68.83
+
+SUB_TOTAL : 689.03 EUR
+
+GST(7%) : 48.23
+
+TOTAL : 713.69 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 689.03  EUR,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 713.69 EUR,Template2_Instance121.json
+"Buyer :Jason Brown
+160 Christine Plains
+South Pamela, WA 59544 US
+Tel:+(189)721-1007
+Email:jcopeland@example.com
+Site:https://fischer.com/",Invoice Date: 25-Feb-2012,GST(7%) : 37.94,GSTIN: 33123456789102Z1,[],,INVOICE ID 1038-269,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Jason Brown
+
+160 Christine Plains
+
+South Pamela, WA 59544 US
+Tel:+(189)721-1007
+Email:jcopeland@example.com
+Site:https://fischer.com/
+
+TAX INVOICE
+
+INVOICE ID 1038-269
+Invoice Date: 25-Feb-2012
+
+Description QUANTITY PRICE
+Weight your. 4.00 $18.48
+Land control situation. 6.00 $78.02
+
+SUB_TOTAL : 542.04 EUR
+
+GST(7%) : 37.94
+
+TOTAL : 548.50 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 542.04  EUR,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 548.50 EUR,Template2_Instance122.json
+"Bill to:William Wheeler
+09511 Justin View Apt. 797
+Leonardfort, CO 81659 US
+Tel:+(516)206-3796
+Email:ladkins@example.com
+Site:https://www.mueller.com/",Invoice Date: 12-Dec-2018,GST(7%) : 34.54,GSTIN: 33123456789102Z1,[],,Invoice number INV/65-59/648,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:William Wheeler
+
+09511 Justin View Apt. 797
+Leonardfort, CO 81659 US
+Tel:+(516)206-3796
+Email:ladkins@example.com
+Site:https://www.mueller.com/
+
+TAX INVOICE
+
+Invoice number INV/65-59/648
+Invoice Date: 12-Dec-2018
+
+Description QUANTITY PRICE
+Threat owner. 5.00 $76.55
+Both serious. 4.00 $25.34
+Executive stay. 5.00 $1.87
+
+SUB_TOTAL : 493.46 $
+
+GST(7%) : 34.54
+
+TOTAL : 509.13 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 493.46  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 509.13 $,Template2_Instance123.json
+"Bill to:Christopher Brown
+0463 Brooks Lights
+Jeremiahmouth, NY 27656 US
+Tel:+(674)136-9281
+Email:kenneth00@example.com
+Site:http://payne.com/",Invoice Date: 21-Nov-2004,GST(7%) : 28.39,GSTIN: 33123456789102Z1,[],,Invoice number 7Y6M3d-364,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Christopher Brown
+
+0463 Brooks Lights
+Jeremiahmouth, NY 27656 US
+Tel:+(674)136-9281
+Email:kennethO0@example.com
+Site:http://payne.com/
+
+TAX INVOICE
+
+Invoice number 7Y6M3d-364
+Invoice Date: 21-Nov-2004
+
+Description QUANTITY PRICE
+Newspaper hard guy. 2.00 $80.46
+Look prepare. 6.00 $40.77
+
+SUB_TOTAL : 405.54 $
+
+GST(7%) : 28.39
+
+TOTAL : 419.17 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 405.54  $,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 419.17 $,Template2_Instance124.json
+"Buyer :Leslie Jensen
+2528 Samantha Route Suite 059
+Dunnmouth, RI 73823 US
+Tel:+(864)169-9840
+Email:marcusmills@example.com
+Site:https://horton.org/",Invoice Date: 04-Oct-2010,GST(7%) : 24.82,GSTIN: 33123456789102Z1,[],,Invoice number INV/67-53/547,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Leslie Jensen
+
+2528 Samantha Route Suite 059
+Dunnmouth, RI 73823 US
+Tel:+(864)169-9840
+Email:marcusmills@example.com
+Site:https://horton.org/
+
+COMMERCIAL INVOICE
+
+Invoice number INV/67-53/547
+Invoice Date: 04-Oct-2010
+
+Description QUANTITY PRICE
+Help discussion protect. 5.00 $46.72
+First check but. 3.00 $40.34
+
+SUB_TOTAL : 354.62 $
+
+GST(7%) : 24.82
+
+TOTAL : 362.01 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 354.62  $,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 362.01 $,Template2_Instance125.json
+"Buyer :Wayne Crawford
+278 Erika Roads
+South Diana, AL 07041 US
+Tel:+(917)281-6893
+Email:jeff30@example.net
+Site:https://ray.com/",Date: 22-Sep-2011,GST(7%) : 47.09,GSTIN: 33123456789102Z1,[],,INVOICE ID INV/82-93/559,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Wayne Crawford
+
+278 Erika Roads
+
+South Diana, AL 07041 US
+
+Tel:+(917)281-6893
+
+Email:jeff30@example.net
+
+Site:https://ray.com/
+
+TAX INVOICE
+
+INVOICE ID INV/82-93/559
+Date: 22-Sep-2011
+
+Description QUANTITY PRICE
+Huge office structure. 6.00 $17.36
+Condition teacher around. 2.00 $20.50
+Alone. 6.00 $50.98
+Soon past key. 4.00 $6.89
+
+Development sort. 5.00 $38.82
+
+SUB_TOTAL : 672.70 USD
+
+GST(7%) : 47.09
+
+TOTAL : 689.27 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 672.70  USD,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 689.27 USD,Template2_Instance126.json
+"Bill to:Julie Townsend
+5825 Brian Hill
+South Lisa, IN 55736 US
+Tel:+(180)483-5755
+Email:kingmichael@example.net
+Site:https://wyatt-conley.com/",Date: 16-Apr-2017,GST(7%) : 31.04,GSTIN: 33123456789102Z1,[],,Invoice number INV67831993,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Julie Townsend
+
+5825 Brian Hill
+
+South Lisa, IN 55736 US
+Tel:+(180)483-5755
+Email:kingmichael@example.net
+Site:https://wyatt-conley.com/
+
+INVOICE
+
+Invoice number INV67831993
+Date: 16-Apr-2017
+
+Description QUANTITY PRICE
+However gas watch. 1.00 $86.85
+Despite in. 2.00 $20.12
+Reason car police. 1.00 $77.90
+What after. 3.00 $79.49
+
+SUB_TOTAL : 443.46 USD
+
+GST(7%) : 31.04
+
+TOTAL : 455.08 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 443.46  USD,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 455.08 USD,Template2_Instance127.json
+"Bill to:Mason Pierce
+936 Lambert Lodge Suite 511
+Lawrencechester, MI 23501 US
+Tel:+(717)712-8340
+Email:amanda76@example.org
+Site:http://www.holland.biz/",Invoice Date: 30-Dec-2007,GST(7%) : 60.41,GSTIN: 33123456789102Z1,[],,INVOICE # INV21638475,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Mason Pierce
+
+936 Lambert Lodge Suite 511
+Lawrencechester, MI 23501 US
+Tel:+(717)712-8340
+Email:amanda76@example.org
+Site:http://www.holland.biz/
+
+TAX INVOICE
+
+INVOICE # INV21638475
+Invoice Date: 30-Dec-2007
+
+Description QUANTITY PRICE
+Get shake. 5.00 $0.11
+
+Floor morning gun. 4.00 $75.87
+Board store song with. 1.00 $81.75
+Leave against top within. 5.00 $58.43
+Product wind a. 2.00 $92.56
+
+SUB_TOTAL : 863.05 EUR
+
+GST(7%) : 60.41
+
+TOTAL : 902.46 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 863.05  EUR,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 902.46 EUR,Template2_Instance128.json
+"Buyer :Amy Stewart
+7777 Dennis Union Apt. 782
+Lake Mollystad, WV 49826 US
+Tel:+(326)454-9759
+Email:awilson@example.com
+Site:https://flores.net/",Date: 02-Apr-2020,GST(7%) : 74.82,GSTIN: 33123456789102Z1,[],,INVOICE ID INV03461906,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Amy Stewart
+
+7777 Dennis Union Apt. 782
+Lake Mollystad, WV 49826 US
+Tel:+(326)454-9759
+Email:awilson@example.com
+Site:https://flores.net/
+
+COMMERCIAL INVOICE
+
+INVOICE ID INV03461906
+Date: 02-Apr-2020
+
+Description QUANTITY PRICE
+Example dark. 5.00 $67.25
+Cold end. 3.00 $53.55
+Today would feel. 2.00 $75.85
+Realize well. 4.00 $81.55
+Clear moment. 4.00 $23.51
+
+SUB_TOTAL : 1068.84 USD
+
+GST(7%) : 74.82
+
+TOTAL : 1095.16 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1068.84  USD,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 1095.16 USD,Template2_Instance129.json
+"Buyer :Chad Bernard
+889 Jacqueline Wall
+Christopherstad, CO 22615 US
+Tel:+(572)667-9238
+Email:ericgonzalez@example.com
+Site:https://keller.org/",Invoice Date: 21-Sep-1996,GST(7%) : 75.45,GSTIN: 33123456789102Z1,[],,INVOICE # INV/56-00/247,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Chad Bernard
+
+889 Jacqueline Wall
+Christopherstad, CO 22615 US
+Tel:+(572)667-9238
+Email:ericgonzalez@example.com
+Site:https://keller.org/
+
+COMMERCIAL INVOICE
+
+INVOICE # INV/56-00/247
+Invoice Date: 21-Sep-1996
+
+Description QUANTITY PRICE
+It structure. 6.00 $3.64
+
+Person growth interest. 4.00 $58.56
+Who edge senior. 6.00 $89.03
+Yourself game stock. 6.00 $26.06
+Look doctor almost. 5.00 $26.26
+
+SUB_TOTAL : 1077.92 USD
+
+GST(7%) : 75.45
+
+TOTAL : 1103.01 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1077.92  USD,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 1103.01 USD,Template2_Instance13.json
+"Buyer :Cynthia Maxwell MD
+372 Griffin Vista Apt. 924
+Port Robin, TX 93209 US
+Tel:+(552)514-0488
+Email:ryanwhitaker@example.com
+Site:https://www.singh.com/",Date: 07-Mar-2002,GST(7%) : 23.70,GSTIN: 33123456789102Z1,[],,INVOICE ID INV/60-54/000,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Cynthia Maxwell MD
+
+372 Griffin Vista Apt. 924
+
+Port Robin, TX 93209 US
+Tel:+(552)514-0488
+Email:ryanwhitaker@example.com
+Site:https://www.singh.com/
+
+COMMERCIAL INVOICE
+
+INVOICE ID INV/60-54/000
+Date: 07-Mar-2002
+
+Description QUANTITY PRICE
+Color central friend. 2.00 $55.90
+Husband charge. 3.00 $75.57
+
+SUB_TOTAL : 338.51 $
+
+GST(7%) : 23.70
+
+TOTAL : 342.65 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 338.51  $,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 342.65 $,Template2_Instance130.json
+"Buyer :Scott Edwards
+658 Reid Heights
+Rebeccaburgh, WA 29106 US
+Tel:+(635)089-0697
+Email:janet20@example.org
+Site:https://www.carney.com/",Date: 04-Apr-2017,GST(7%) : 70.96,GSTIN: 33123456789102Z1,[],,Invoice number INV75482400,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Scott Edwards
+
+658 Reid Heights
+Rebeccaburgh, WA 29106 US
+Tel:+(635)089-0697
+Email:janet20@example.org
+Site:https://www.carney.com/
+
+TAX INVOICE
+
+Invoice number INV75482400
+Date: 04-Apr-2017
+
+Description QUANTITY PRICE
+Not cut. 2.00 $97.49
+Seem born official. 5.00 $82.85
+Keep laugh. 2.00 $61.17
+Including stop. 6.00 $39.92
+Close television reality through. 1.00 $42.69
+
+SUB_TOTAL : 1013.78 USD
+
+GST(7%) : 70.96
+
+TOTAL : 1005.47 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1013.78  USD,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 1005.47 USD,Template2_Instance131.json
+"Bill to:Melinda Ayala
+362 Patricia Prairie
+East Daniel, NV 77126 US
+Tel:+(675)346-8607
+Email:grace30@example.com
+Site:http://turner-ward.com/",Invoice Date: 29-Jun-2008,GST(7%) : 92.61,GSTIN: 33123456789102Z1,[],,Invoice number INV/04-95/503,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Melinda Ayala
+
+362 Patricia Prairie
+
+East Daniel, NV 77126 US
+Tel:+(675)346-8607
+Email:grace30@example.com
+Site:http://turner-ward.com/
+
+COMMERCIAL INVOICE
+
+Invoice number INV/04-95/503
+Invoice Date: 29-Jun-2008
+
+Description QUANTITY PRICE
+None forward actually role. 3.00 $24.44
+Consider during south. 6.00 $82.29
+Whom occur. 2.00 $88.41
+Employee maintain he. 6.00 $56.64
+Turn international. 3.00 $79.75
+
+SUB_TOTAL : 1322.97 EUR
+
+GST(7%) : 92.61
+
+TOTAL : 1383.11 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1322.97  EUR,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 1383.11 EUR,Template2_Instance132.json
+"Bill to:Cameron Ward
+8524 Williams Parkways
+North Shellyside, WY 36538 US
+Tel:+(162)566-7661
+Email:stephaniehorton@example.org
+Site:http://cole.com/",Invoice Date: 13-Jan-2002,GST(7%) : 45.64,GSTIN: 33123456789102Z1,[],,INVOICE # 3Y2M2d-834,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Cameron Ward
+
+8524 Williams Parkways
+
+North Shellyside, WY 36538 US
+Tel:+(162)566-7661
+Email:stephaniehorton@example.org
+Site:http://cole.com/
+
+INVOICE
+
+INVOICE # 3Y2M2d-834
+Invoice Date: 13-Jan-2002
+
+Description QUANTITY PRICE
+Piece research. 1.00 $31.42
+Necessary it need include. 6.00 $65.72
+Happy positive among. 1.00 $70.09
+Cultural. 4.00 $39.03
+
+SUB_TOTAL : 651.95 USD
+
+GST(7%) : 45.64
+
+TOTAL : 663.64 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 651.95  USD,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 663.64 USD,Template2_Instance133.json
+"Buyer :Jeff Jones
+8065 Linda Roads Suite 747
+West Ryanview, AZ 32683 US
+Tel:+(008)405-6318
+Email:nfloyd@example.net
+Site:https://snyder.com/",Invoice Date: 24-Jul-1997,GST(7%) : 51.29,GSTIN: 33123456789102Z1,[],,Invoice number 3545-805,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Jeff Jones
+
+8065 Linda Roads Suite 747
+West Ryanview, AZ 32683 US
+Tel:+(008)405-6318
+Email:nfloyd@example.net
+Site:https://snyder.com/
+
+TAX INVOICE
+
+Invoice number 3545-805
+Invoice Date: 24-Jul-1997
+
+Description QUANTITY PRICE
+This authority. 6.00 $68.67
+Tree left move. 5.00 $56.44
+Lead. 6.00 $6.41
+
+SUB_TOTAL : 732.68 $
+
+GST(7%) : 51.29
+
+TOTAL : 766.13 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 732.68  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 766.13 $,Template2_Instance134.json
+"Bill to:Gary Mcpherson
+75445 King Path
+Josephhaven, AL 20740 US
+Tel:+(486)873-2950
+Email:christopher70@example.net
+Site:http://nunez.com/",Date: 23-Dec-1994,GST(7%) : 41.07,GSTIN: 33123456789102Z1,[],,INVOICE ID INV36113866,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Gary Mcpherson
+
+75445 King Path
+
+Josephhaven, AL 20740 US
+Tel:+(486)873-2950
+Email:christopher70@example.net
+Site:http://nunez.com/
+
+COMMERCIAL INVOICE
+
+INVOICE ID INV36113866
+Date: 23-Dec-1994
+
+Description QUANTITY PRICE
+Enough herself. 5.00 $15.94
+Seat market bring message. 2.00 $42.33
+Continue training lawyer. 5.00 $53.12
+Work where. 2.00 $78.37
+
+SUB_TOTAL : 586.70 $
+
+GST(7%) : 41.07
+
+TOTAL : 599.39 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 586.70  $,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 599.39 $,Template2_Instance135.json
+"Bill to:Samantha Taylor
+9399 Farrell Trail
+North Kaitlynburgh, MS 12571 US
+Tel:+(067)562-2494
+Email:garciarobin@example.org
+Site:https://jackson.com/",Invoice Date: 01-Oct-2007,GST(7%) : 53.53,GSTIN: 33123456789102Z1,[],,Invoice number INV/90-12/743,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Samantha Taylor
+
+9399 Farrell Trail
+
+North Kaitlynburgh, MS 12571 US
+Tel:+(067)562-2494
+Email:garciarobin@example.org
+Site:https://jackson.com/
+
+COMMERCIAL INVOICE
+
+Invoice number INV/90-12/743
+Invoice Date: 01-Oct-2007
+
+Description QUANTITY PRICE
+Blue mind position. 4.00 $54.84
+Down. 5.00 $13.90
+Where approach town. 3.00 $62.20
+Food fall specific. 4.00 $72.32
+
+SUB_TOTAL : 764.74 EUR
+
+GST(7%) : 53.53
+
+TOTAL : 780.36 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 764.74  EUR,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 780.36 EUR,Template2_Instance136.json
+"Bill to:Aaron Robinson
+070 Cooper Throughway Apt. 723
+Codymouth, KY 60828 US
+Tel:+(807)967-3387
+Email:pmartin@example.com
+Site:http://hernandez.com/",Invoice Date: 09-Dec-2006,GST(7%) : 31.40,GSTIN: 33123456789102Z1,[],,Invoice number 9736-411,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Aaron Robinson
+
+070 Cooper Throughway Apt. 723
+Codymouth, KY 60828 US
+Tel:+(807)967-3387
+Email:pmartin@example.com
+Site:http://hernandez.com/
+
+INVOICE
+
+Invoice number 9736-411
+Invoice Date: 09-Dec-2006
+
+Description QUANTITY PRICE
+Fire free hard. 1.00 $2.06
+Dog training. 3.00 $85.26
+Resource only floor pick. 6.00 $2.89
+New parent. 3.00 $57.80
+
+SUB_TOTAL : 448.58 $
+
+GST(7%) : 31.40
+
+TOTAL : 470.15 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 448.58  $,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 470.15 $,Template2_Instance137.json
+"Bill to:Michael Carroll
+80316 Rojas Island Apt. 883
+Millermouth, DC 25415 US
+Tel:+(734)039-9926
+Email:nmorris@example.org
+Site:https://www.campbell.info/",Date: 01-May-1993,GST(7%) : 18.27,GSTIN: 33123456789102Z1,[],,INVOICE # INV/70-63/831,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Michael Carroll
+
+80316 Rojas Island Apt. 883
+Millermouth, DC 25415 US
+Tel:+(734)039-9926
+Email:nmorris@example.org
+Site:https://www.campbell.info/
+
+COMMERCIAL INVOICE
+
+INVOICE # INV/70-63/831
+Date: 01-May-1993
+
+Description QUANTITY PRICE
+Service American hold. 5.00 $27.48
+Create budget. 6.00 $20.59
+
+SUB_TOTAL : 260.94 $
+
+GST(7%) : 18.27
+
+TOTAL : 266.96 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 260.94  $,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 266.96 $,Template2_Instance138.json
+"Buyer :Dr. Eileen Tucker
+78137 Cesar Path Apt. 989
+East Jenniferfurt, ID 74297 US
+Tel:+(749)442-8618
+Email:jacobprice@example.com
+Site:https://www.ramsey.com/",Invoice Date: 05-Mar-2014,GST(7%) : 46.58,GSTIN: 33123456789102Z1,[],,INVOICE ID 5723-375,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Dr. Eileen Tucker
+
+78137 Cesar Path Apt. 989
+
+East Jenniferfurt, ID 74297 US
+Tel:+(749)442-8618
+Email:jacobprice@example.com
+Site:https://www.ramsey.com/
+
+INVOICE
+
+INVOICE ID 5723-375
+Invoice Date: 05-Mar-2014
+
+Description QUANTITY PRICE
+Two news. 5.00 $82.32
+About police. 3.00 $27.43
+Act condition. 6.00 $28.60
+
+SUB_TOTAL : 665.49 USD
+
+GST(7%) : 46.58
+
+TOTAL : 674.42 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 665.49  USD,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 674.42 USD,Template2_Instance139.json
+"Bill to:John Miller
+601 Porter Corner
+Carolineton, PA 05568 US
+Tel:+(436)287-6679
+Email:anna25@example.org
+Site:https://www.bryant.com/",Date: 29-Jun-2008,GST(7%) : 19.40,GSTIN: 33123456789102Z1,[],,Invoice number INV/50-12/402,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:John Miller
+
+601 Porter Corner
+Carolineton, PA 05568 US
+Tel:+(436)287-6679
+Email:anna25@example.org
+Site:https://www.bryant.com/
+
+COMMERCIAL INVOICE
+
+Invoice number INV/50-12/402
+Date: 29-Jun-2008
+
+Description QUANTITY PRICE
+Serve enter. 3.00 $35.60
+Detail recognize. 2.00 $85.20
+
+SUB_TOTAL : 277.20 $
+
+GST(7%) : 19.40
+
+TOTAL : 282.68 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 277.20  $,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 282.68 $,Template2_Instance14.json
+"Bill to:Holly Miller
+577 Flores Wells
+West Robert, SC 54259 US
+Tel:+(951)173-2036
+Email:christopher09@example.com
+Site:https://www.simmons-lopez.info/",Invoice Date: 03-Jan-2021,GST(7%) : 59.34,GSTIN: 33123456789102Z1,[],,Invoice number INV45397361,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Holly Miller
+
+577 Flores Wells
+
+West Robert, SC 54259 US
+Tel:+(951)173-2036
+Email:christopherO9@example.com
+Site:https://www.simmons-lopez.info/
+
+COMMERCIAL INVOICE
+
+Invoice number INV45397361
+Invoice Date: 03-Jan-2021
+
+Description QUANTITY PRICE
+Difficult new network. 3.00 $48.39
+Color commercial. 4.00 $49.26
+Behavior range long base. 5.00 $59.85
+Others whole commercial. 2.00 $15.99
+Buy stock tough. 2.00 $87.15
+
+SUB_TOTAL : 847.74 $
+
+GST(7%) : 59.34
+
+TOTAL : 877.41 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 847.74  $,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 877.41 $,Template2_Instance140.json
+"Bill to:Philip Davis
+2797 Reese Walks
+South Ethan, DC 36865 US
+Tel:+(596)576-1434
+Email:milesivan@example.com
+Site:https://long-reese.com/",Date: 10-Jul-2014,GST(7%) : 52.65,GSTIN: 33123456789102Z1,[],,Invoice number 5Y2M2d-891,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Philip Davis
+
+2797 Reese Walks
+
+South Ethan, DC 36865 US
+Tel:+(596)576-1434
+Email:milesivan@example.com
+Site:https://long-reese.com/
+
+TAX INVOICE
+
+Invoice number 5Y2M2d-891
+Date: 10-Jul-2014
+
+Description QUANTITY PRICE
+Pick sort attention. 1.00 $14.58
+Important notice. 1.00 $9.79
+
+Step more also. 6.00 $87.39
+Often outside have medical. 1.00 $36.95
+Public shoulder real. 3.00 $55.50
+
+SUB_TOTAL : 752.16 EUR
+
+GST(7%) : 52.65
+
+TOTAL : 748.41 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 752.16  EUR,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 748.41 EUR,Template2_Instance141.json
+"Buyer :Tonya Moon
+81843 Shane Extension
+New Barbaraton, DC 71443 US
+Tel:+(237)452-9498
+Email:beltranbrian@example.org
+Site:https://www.wade.com/",Date: 28-Feb-2013,GST(7%) : 52.27,GSTIN: 33123456789102Z1,[],,INVOICE ID INV85295641,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Tonya Moon
+
+81843 Shane Extension
+
+New Barbaraton, DC 71443 US
+Tel:+(237)452-9498
+Email:beltranbrian@example.org
+Site:https://www.wade.com/
+
+TAX INVOICE
+
+INVOICE ID INV85295641
+Date: 28-Feb-2013
+
+Description QUANTITY PRICE
+Window very. 5.00 $61.92
+Great seek citizen. 5.00 $59.24
+Act majority. 1.00 $71.78
+Republican never face. 1.00 $69.15
+
+SUB_TOTAL : 746.73 $
+
+GST(7%) : 52.27
+
+TOTAL : 753.69 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 746.73  $,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 753.69 $,Template2_Instance142.json
+"Buyer :Amanda Warner
+407 Michael Plaza
+Lisaborough, PR 65357 US
+Tel:+(309)505-6291
+Email:wardtammy@example.net
+Site:http://perry.com/",Invoice Date: 20-Aug-2000,GST(7%) : 94.63,GSTIN: 33123456789102Z1,[],,INVOICE ID 2Y9M1d-568,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Amanda Warner
+
+407 Michael Plaza
+
+Lisaborough, PR 65357 US
+Tel:+(309)505-6291
+Email:wardtammy@example.net
+Site:http://perry.com/
+
+TAX INVOICE
+
+INVOICE ID 2Y9M1d-568
+Invoice Date: 20-Aug-2000
+
+Description QUANTITY PRICE
+Trouble mean politics. 5.00 $66.94
+Water down moment. 3.00 $92.86
+Debate within. 3.00 $46.08
+Those example break. 3.00 $49.02
+Three population board. 5.00 $90.65
+
+SUB_TOTAL : 1351.83 EUR
+
+GST(7%) : 94.63
+
+TOTAL : 1355.78 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1351.83  EUR,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 1355.78 EUR,Template2_Instance143.json
+"Bill to:Brian Joseph
+38776 Daniel Plaza
+Lake Justin, MD 90892 US
+Tel:+(586)571-8675
+Email:isaacrussell@example.com
+Site:https://www.roberts.org/",Date: 17-Feb-2017,GST(7%) : 31.10,GSTIN: 33123456789102Z1,[],,INVOICE # 0853-418,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Brian Joseph
+
+38776 Daniel Plaza
+
+Lake Justin, MD 90892 US
+Tel:+(586)571-8675
+Email:isaacrussell@example.com
+Site:https://www.roberts.org/
+
+COMMERCIAL INVOICE
+
+INVOICE # 0853-418
+Date: 17-Feb-2017
+
+Description QUANTITY PRICE
+Buy nor get. 2.00 $75.30
+Listen indeed skill. 4.00 $56.82
+Prevent almost far. 2.00 $33.23
+
+SUB_TOTAL : 444.34 USD
+
+GST(7%) : 31.10
+
+TOTAL : 455.14 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 444.34  USD,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 455.14 USD,Template2_Instance144.json
+"Buyer :Jennifer Hawkins
+0387 Matthew Neck Suite 477
+North Donald, SC 69484 US
+Tel:+(709)075-5401
+Email:gary83@example.com
+Site:https://www.berg.com/",Invoice Date: 18-Nov-1993,GST(7%) : 42.75,GSTIN: 33123456789102Z1,[],,INVOICE ID 8Y8M6d-452,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Jennifer Hawkins
+0387 Matthew Neck Suite 477
+North Donald, SC 69484 US
+Tel:+(709)075-5401
+Email:gary83@example.com
+Site:https://www.berg.com/
+
+INVOICE
+
+INVOICE ID 8Y8M6d-452
+Invoice Date: 18-Nov-1993
+
+Description QUANTITY PRICE
+Young in. 1.00 $87.47
+Feel market. 6.00 $48.89
+Rise. 5.00 $45.97
+
+SUB_TOTAL : 610.66 EUR
+
+GST(7%) : 42.75
+
+TOTAL : 630.38 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 610.66  EUR,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 630.38 EUR,Template2_Instance145.json
+"Buyer :David Moore
+16184 Smith Isle
+Lake Angela, MT 89666 US
+Tel:+(384)450-2316
+Email:annettecampbell@example.net
+Site:https://www.johnson.biz/",Invoice Date: 25-Jun-1999,GST(7%) : 32.46,GSTIN: 33123456789102Z1,[],,Invoice number INV/50-68/780,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :David Moore
+
+16184 Smith Isle
+
+Lake Angela, MT 89666 US
+Tel:+(384)450-2316
+Email:annettecampbell@example.net
+Site:https://www.johnson.biz/
+
+TAX INVOICE
+
+Invoice number INV/50-68/780
+Invoice Date: 25-Jun-1999
+
+Description QUANTITY PRICE
+Position expect. 2.00 $82.12
+Still always wrong. 5.00 $59.89
+
+SUB_TOTAL : 463.69 $
+
+GST(7%) : 32.46
+
+TOTAL : 470.70 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 463.69  $,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 470.70 $,Template2_Instance146.json
+"Buyer :Lisa Taylor
+06356 Hart Valleys Suite 926
+Corteztown, TN 29754 US
+Tel:+(990)377-6252
+Email:simmonsmaria@example.com
+Site:http://clark.com/",Invoice Date: 17-Apr-1995,GST(7%) : 17.48,GSTIN: 33123456789102Z1,[],,INVOICE # 2Y2M4d-720,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Lisa Taylor
+
+06356 Hart Valleys Suite 926
+Corteztown, TN 29754 US
+
+Tel:+(990)377-6252
+
+Email:simmonsmaria@example.com
+
+Site:http://clark.com/
+
+TAX INVOICE
+
+INVOICE # 2Y2M4d-720
+Invoice Date: 17-Apr-1995
+
+Description QUANTITY PRICE
+Quality available between. 5.00 $31.52
+Person. 1.00 $92.15
+
+SUB_TOTAL : 249.75 USD
+
+GST(7%) : 17.48
+
+TOTAL : 251.14 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 249.75  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 251.14 USD,Template2_Instance147.json
+"Bill to:Janet Riley
+68768 Kristy Court Apt. 821
+Tarabury, TN 63998 US
+Tel:+(972)705-6820
+Email:nhester@example.net
+Site:http://wang-sanchez.com/",Date: 30-Dec-1998,GST(7%) : 22.03,GSTIN: 33123456789102Z1,[],,INVOICE # 1631-627,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Janet Riley
+
+68768 Kristy Court Apt. 821
+Tarabury, TN 63998 US
+Tel:+(972)705-6820
+Email:nhester@example.net
+Site:http:/wang-sanchez.com/
+
+COMMERCIAL INVOICE
+
+INVOICE # 1631-627
+Date: 30-Dec-1998
+
+Description QUANTITY PRICE
+Realize other. 1.00 $66.18
+Price. 4.00 $17.06
+Deep between maintain goal. 4.00 $45.06
+
+SUB_TOTAL : 314.66 USD
+
+GST(7%) : 22.03
+
+TOTAL : 318.93 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 314.66  USD,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 318.93 USD,Template2_Instance148.json
+"Buyer :Arthur Cobb
+19279 Rose Estate
+Charleschester, WY 16456 US
+Tel:+(321)629-1618
+Email:lchristensen@example.net
+Site:http://patrick.info/",Date: 14-Mar-1993,GST(7%) : 60.83,GSTIN: 33123456789102Z1,[],,INVOICE # 8511-462,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Arthur Cobb
+
+19279 Rose Estate
+Charleschester, WY 16456 US
+Tel:+(321)629-1618
+Email:Ilchristensen@example.net
+Site:http://patrick.info/
+
+COMMERCIAL INVOICE
+
+INVOICE # 8511-462
+Date: 14-Mar-1993
+
+Description QUANTITY PRICE
+Beautiful mind. 3.00 $71.71
+Year able. 6.00 $96.43
+Hour wide relate. 1.00 $75.28
+
+SUB_TOTAL : 868.99 USD
+
+GST(7%) : 60.83
+
+TOTAL : 901.99 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 868.99  USD,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 901.99 USD,Template2_Instance149.json
+"Bill to:Robert Wood
+8431 Huerta Loop Suite 914
+Fritzborough, WY 15156 US
+Tel:+(310)903-5304
+Email:taylordrake@example.org
+Site:https://berry.com/",Invoice Date: 18-Nov-2008,GST(7%) : 34.98,GSTIN: 33123456789102Z1,[],,INVOICE ID INV10894599,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Robert Wood
+
+8431 Huerta Loop Suite 914
+Fritzborough, WY 15156 US
+Tel:+(310)903-5304
+Email:taylordrake@example.org
+Site:https://berry.com/
+
+TAX INVOICE
+
+INVOICE ID INV10894599
+Invoice Date: 18-Nov-2008
+
+Description QUANTITY PRICE
+Either mention something. 6.00 $52.66
+Food end. 3.00 $61.27
+
+SUB_TOTAL : 499.77 USD
+
+GST(7%) : 34.98
+
+TOTAL : 510.58 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 499.77  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 510.58 USD,Template2_Instance15.json
+"Bill to:Christopher Tucker
+1584 Ashley Drive
+Mitchellbury, ND 30442 US
+Tel:+(055)801-2432
+Email:greg36@example.com
+Site:https://rogers.org/",Date: 14-Aug-2022,GST(7%) : 59.72,GSTIN: 33123456789102Z1,[],,INVOICE ID 3Y7M8d-222,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Christopher Tucker
+1584 Ashley Drive
+Mitchellbury, ND 30442 US
+Tel:+(055)801-2432
+Email:greg36@example.com
+Site:https://rogers.org/
+
+COMMERCIAL INVOICE
+
+INVOICE ID 3Y7M8d-222
+Date: 14-Aug-2022
+
+Description QUANTITY PRICE
+She never. 5.00 $39.44
+Theory. 3.00 $67.26
+Notice especially hard. 1.00 $77.75
+Task attention turn. 5.00 $75.29
+
+SUB_TOTAL : 853.18 USD
+
+GST(7%) : 59.72
+
+TOTAL : 863.56 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 853.18  USD,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 863.56 USD,Template2_Instance150.json
+"Bill to:Terry Gonzales
+8664 Robert Harbors
+Lake Courtneyside, NV 35213 US
+Tel:+(109)974-6407
+Email:ysantana@example.com
+Site:https://www.peterson.net/",Invoice Date: 21-Aug-2015,GST(7%) : 51.35,GSTIN: 33123456789102Z1,[],,INVOICE # 6Y2M9d-406,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Terry Gonzales
+
+8664 Robert Harbors
+
+Lake Courtneyside, NV 35213 US
+Tel:+(109)974-6407
+Email:ysantana@example.com
+Site:https://www.peterson.net/
+
+COMMERCIAL INVOICE
+
+INVOICE # 6Y2M9d-406
+Invoice Date: 21-Aug-2015
+
+Description QUANTITY PRICE
+Tax wall. 1.00 $80.27
+Specific number election. 3.00 $0.63
+
+Commercial rock land. 1.00 $92.35
+Loss campaign. 6.00 $93.17
+
+SUB_TOTAL : 733.53 USD
+
+GST(7%) : 51.35
+
+TOTAL : 731.66 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 733.53  USD,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 731.66 USD,Template2_Instance151.json
+"Bill to:Hannah Ross
+4571 Christopher Curve
+North Danielleburgh, MS 69733 US
+Tel:+(919)089-3974
+Email:harveyalexandra@example.net
+Site:https://johnson.biz/",Date: 14-Sep-1999,GST(7%) : 29.10,GSTIN: 33123456789102Z1,[],,INVOICE ID INV/32-05/056,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Hannah Ross
+
+4571 Christopher Curve
+
+North Danielleburgh, MS 69733 US
+Tel:+(919)089-3974
+Email:harveyalexandra@example.net
+Site:https://johnson.biz/
+
+INVOICE
+
+INVOICE ID INV/32-05/056
+Date: 14-Sep-1999
+
+Description QUANTITY PRICE
+Concern cause size. 1.00 $72.52
+Determine cup. 4.00 $21.97
+Top structure. 3.00 $49.29
+Blood recognize. 2.00 $53.75
+
+SUB_TOTAL : 415.77 EUR
+
+GST(7%) : 29.10
+
+TOTAL : 425.06 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 415.77  EUR,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 425.06 EUR,Template2_Instance152.json
+"Bill to:Kelly Greene
+4428 Oconnor Groves
+North Stephanie, AL 18762 US
+Tel:+(897)470-3439
+Email:dsmith@example.net
+Site:http://www.king.net/",Date: 21-Apr-1999,GST(7%) : 30.36,GSTIN: 33123456789102Z1,[],,INVOICE ID INV/83-27/935,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Kelly Greene
+
+4428 Oconnor Groves
+
+North Stephanie, AL 18762 US
+Tel:+(897)470-3439
+Email:dsmith@example.net
+Site:http://www.king.net/
+
+COMMERCIAL INVOICE
+
+INVOICE ID INV/83-27/935
+Date: 21-Apr-1999
+
+Description QUANTITY PRICE
+There speak. 4.00 $2.76
+
+Agreement any. 2.00 $81.55
+Final fear drop. 1.00 $88.89
+Only group. 6.00 $28.44
+
+SUB_TOTAL : 433.67 EUR
+
+GST(7%) : 30.36
+
+TOTAL : 446.89 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 433.67  EUR,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 446.89 EUR,Template2_Instance153.json
+"Buyer :Nicholas Cisneros
+46260 Mendez Loaf
+Cheyenneberg, TX 93596 US
+Tel:+(908)929-1069
+Email:ryandavies@example.com
+Site:https://hicks.biz/",Invoice Date: 24-Feb-2021,GST(7%) : 69.01,GSTIN: 33123456789102Z1,[],,INVOICE ID 3596-042,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Nicholas Cisneros
+
+46260 Mendez Loaf
+Cheyenneberg, TX 93596 US
+Tel:+(908)929-1069
+Email:ryandavies@example.com
+Site:https://hicks.biz/
+
+INVOICE
+
+INVOICE ID 3596-042
+Invoice Date: 24-Feb-2021
+
+Description QUANTITY PRICE
+Election top. 6.00 $4.32
+
+Discuss democratic by. 6.00 $86.92
+Ability turn develop. 5.00 $33.78
+Every type former. 3.00 $89.82
+
+SUB_TOTAL : 985.80 USD
+
+GST(7%) : 69.01
+
+TOTAL : 1009.21 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 985.80  USD,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 1009.21 USD,Template2_Instance154.json
+"Bill to:Mrs. Hannah Pugh
+92012 Jason Springs Apt. 284
+Samuelshire, GU 67388 US
+Tel:+(096)302-0826
+Email:xray@example.net
+Site:https://www.ellis-reese.biz/",Date: 21-Mar-2000,GST(7%) : 56.99,GSTIN: 33123456789102Z1,[],,INVOICE # 3561-069,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Mrs. Hannah Pugh
+92012 Jason Springs Apt. 284
+Samuelshire, GU 67388 US
+Tel:+(096)302-0826
+Email:xray@example.net
+Site:https://www.ellis-reese.biz/
+
+INVOICE
+
+INVOICE # 3561-069
+Date: 21-Mar-2000
+
+Description QUANTITY PRICE
+Event fight case. 4.00 $34.92
+Gas. 4.00 $81.57
+Street natural personal. 6.00 $58.02
+
+SUB_TOTAL : 814.08 USD
+
+GST(7%) : 56.99
+
+TOTAL : 847.21 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 814.08  USD,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 847.21 USD,Template2_Instance155.json
+"Bill to:Wendy Baker
+82826 Vanessa Drives
+Kathrynview, LA 22777 US
+Tel:+(489)198-3286
+Email:hendrixmichael@example.com
+Site:http://www.smith-mendoza.biz/",Invoice Date: 21-Jul-2018,GST(7%) : 12.02,GSTIN: 33123456789102Z1,[],,INVOICE # INV33879872,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Wendy Baker
+
+82826 Vanessa Drives
+
+Kathrynview, LA 22777 US
+Tel:+(489)198-3286
+Email:hendrixmichael@example.com
+Site:http://www.smith-mendoza.biz/
+
+TAX INVOICE
+
+INVOICE # INV33879872
+Invoice Date: 21-Jul-2018
+
+Description QUANTITY PRICE
+Family. 6.00 $17.01
+Matter hair. 2.00 $0.71
+
+View its type. 2.00 $34.15
+
+SUB_TOTAL : 171.78 $
+
+GST(7%) : 12.02
+
+TOTAL : 176.74 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 171.78  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 176.74 $,Template2_Instance156.json
+"Buyer :Robert Fernandez
+4629 Bill Green
+Port Tracyville, PW 13757 US
+Tel:+(361)441-6192
+Email:melissamckay@example.com
+Site:http://williamson.com/",Date: 29-Jul-1998,GST(7%) : 11.26,GSTIN: 33123456789102Z1,[],,INVOICE # INV59516038,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Robert Fernandez
+
+4629 Bill Green
+
+Port Tracyville, PW 13757 US
+Tel:+(361)441-6192
+Email:melissamckay@example.com
+Site:http://williamson.com/
+
+INVOICE
+
+INVOICE # INV59516038
+Date: 29-Jul-1998
+
+Description QUANTITY PRICE
+Mouth factor listen. 1.00 $63.82
+Fear whether. 1.00 $45.84
+Price value oil. 5.00 $0.27
+Food accept hand. 6.00 $8.31
+
+SUB_TOTAL : 160.87 EUR
+
+GST(7%) : 11.26
+
+TOTAL : 169.36 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 160.87  EUR,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 169.36 EUR,Template2_Instance157.json
+"Buyer :Diane Myers
+582 Christopher Mews
+Reyesfort, SD 35089 US
+Tel:+(780)914-0369
+Email:udavis@example.com
+Site:http://grant-barnes.com/",Date: 09-Feb-2015,GST(7%) : 41.68,GSTIN: 33123456789102Z1,[],,INVOICE ID 3Y7M2d-885,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Diane Myers
+
+582 Christopher Mews
+Reyesfort, SD 35089 US
+Tel:+(780)914-0369
+Email:udavis@example.com
+Site:http://grant-barnes.com/
+
+INVOICE
+
+INVOICE ID 3Y7M2d-885
+Date: 09-Feb-2015
+
+Description QUANTITY PRICE
+Represent rule agree front. 2.00 $76.68
+Trial treat. 2.00 $83.82
+Draw fly. 5.00 $54.88
+
+SUB_TOTAL : 595.40 $
+
+GST(7%) : 41.68
+
+TOTAL : 603.95 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 595.40  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 603.95 $,Template2_Instance158.json
+"Buyer :Kristen Schwartz
+9489 Barrett Crossing
+Andreaside, WA 47201 US
+Tel:+(226)297-3365
+Email:adrianwilkinson@example.com
+Site:http://king.net/",Invoice Date: 06-Oct-2018,GST(7%) : 90.24,GSTIN: 33123456789102Z1,[],,INVOICE # INV73805022,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Kristen Schwartz
+
+9489 Barrett Crossing
+
+Andreaside, WA 47201 US
+Tel:+(226)297-3365
+Email:adrianwilkinson@example.com
+Site:http://king.net/
+
+TAX INVOICE
+
+INVOICE # INV73805022
+Invoice Date: 06-Oct-2018
+
+Description QUANTITY PRICE
+To share. 5.00 $42.75
+Voice unit off. 3.00 $7.58
+
+Table off southern. 5.00 $58.92
+Local memory PM production. 6.00 $90.75
+Final which. 6.00 $35.60
+
+SUB_TOTAL : 1289.19 EUR
+
+GST(7%) : 90.24
+
+TOTAL : 1313.06 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1289.19  EUR,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 1313.06 EUR,Template2_Instance159.json
+"Buyer :John Shannon
+0501 Jeremiah Estate Suite 838
+Mitchelltown, DE 11666 US
+Tel:+(944)925-1649
+Email:orrryan@example.com
+Site:https://kelley.com/",Date: 15-Sep-2022,GST(7%) : 70.01,GSTIN: 33123456789102Z1,[],,Invoice number 0308-387,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :John Shannon
+
+0501 Jeremiah Estate Suite 838
+Mitchelltown, DE 11666 US
+Tel:+(944)925-1649
+Email:orrryan@example.com
+Site:https://kelley.com/
+
+INVOICE
+
+Invoice number 0308-387
+Date: 15-Sep-2022
+
+Description QUANTITY PRICE
+Worry tend. 2.00 $72.80
+Instead standard and artist. 2.00 $16.18
+What image. 5.00 $85.43
+Senior type. 2.00 $29.75
+Since on list. 6.00 $55.92
+
+SUB_TOTAL : 1000.13 USD
+
+GST(7%) : 70.01
+
+TOTAL : 1018.83 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1000.13  USD,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 1018.83 USD,Template2_Instance16.json
+"Buyer :Amanda Stephens
+95661 Dennis Dam
+Smithshire, SC 38161 US
+Tel:+(376)165-6851
+Email:wsanders@example.org
+Site:http://hart-thomas.net/",Invoice Date: 03-Jun-2011,GST(7%) : 49.23,GSTIN: 33123456789102Z1,[],,INVOICE ID 2801-758,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Amanda Stephens
+95661 Dennis Dam
+Smithshire, SC 38161 US
+Tel:+(376)165-6851
+Email:wsanders@example.org
+Site:http://hart-thomas.net/
+
+COMMERCIAL INVOICE
+
+INVOICE ID 2801-758
+Invoice Date: 03-Jun-2011
+
+Description QUANTITY PRICE
+Any wonder level candidate. 3.00 $84.16
+Somebody huge. 2.00 $38.92
+Coach reduce. 4.00 $93.24
+
+SUB_TOTAL : 703.28 EUR
+
+GST(7%) : 49.23
+
+TOTAL : 699.22 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 703.28  EUR,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 699.22 EUR,Template2_Instance160.json
+"Buyer :Dr. Charles Martin
+88649 Williams Wells Suite 160
+Chapmanfurt, OR 08912 US
+Tel:+(978)499-5509
+Email:clee@example.net
+Site:https://nelson.net/",Invoice Date: 28-Jan-2003,GST(7%) : 3.89,GSTIN: 33123456789102Z1,[],,Invoice number INV/55-61/025,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Dr. Charles Martin
+88649 Williams Wells Suite 160
+Chapmanfurt, OR 08912 US
+Tel:+(978)499-5509
+Email:clee@example.net
+Site:https://nelson.net/
+
+INVOICE
+
+Invoice number INV/55-61/025
+Invoice Date: 28-Jan-2003
+
+Description QUANTITY PRICE
+Or their across. 4.00 $9.25
+Fund sea. 3.00 $6.21
+
+SUB_TOTAL : 55.63 EUR
+
+GST(7%) : 3.89
+
+TOTAL : 56.58 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 55.63  EUR,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 56.58 EUR,Template2_Instance161.json
+"Bill to:Eric Ochoa
+147 Morris Pass
+Josephberg, IA 33746 US
+Tel:+(470)190-9982
+Email:julie45@example.net
+Site:https://www.miller.com/",Invoice Date: 13-Mar-2008,GST(7%) : 73.33,GSTIN: 33123456789102Z1,[],,Invoice number INV90014595,"INVOICE
+
+Invoice number INV90014595
+Invoice Date: 13-Mar-2008
+
+Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Eric Ochoa
+
+147 Morris Pass
+Josephberg, IA 33746 US
+Tel:+(470)190-9982
+Email:julie45@example.net
+Site:https://www.miller.com/
+
+Description QUANTITY PRICE
+Price six. 4.00 $89.62
+Together star. 3.00 $41.20
+Relate scientist. 1.00 $66.44
+Manage seem. 2.00 $6.04
+
+Player somebody poor performance. 5.00 $97.39
+
+SUB_TOTAL : 1047.55 USD
+
+GST(7%) : 73.33
+
+TOTAL : 1083.92 USD
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1047.55  USD,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 1083.92 USD,Template2_Instance162.json
+"Bill to:Jennifer Thomas
+5305 Patterson Manor Apt. 495
+Matthewview, MS 48472 US
+Tel:+(248)950-0010
+Email:sweeneylinda@example.org
+Site:https://washington.com/",Invoice Date: 09-Dec-2022,GST(7%) : 7.02,GSTIN: 33123456789102Z1,[],,Invoice number INV74981373,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Jennifer Thomas
+
+5305 Patterson Manor Apt. 495
+Matthewview, MS 48472 US
+Tel:+(248)950-0010
+Email:sweeneylinda@example.org
+Site:https://washington.com/
+
+TAX INVOICE
+
+Invoice number INV74981373
+Invoice Date: 09-Dec-2022
+
+Description QUANTITY PRICE
+Relate only state. 1.00 $72.62
+Situation our. 1.00 $9.31
+Friend system bill. 2.00 $9.16
+
+SUB_TOTAL : 100.25 EUR
+
+GST(7%) : 7.02
+
+TOTAL : 102.16 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 100.25  EUR,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 102.16 EUR,Template2_Instance163.json
+"Bill to:Mark Day
+6060 Juan Port
+Ashleyland, HI 34751 US
+Tel:+(312)546-3369
+Email:maxwelldavid@example.org
+Site:https://www.moore.net/",Date: 05-Jan-2000,GST(7%) : 30.28,GSTIN: 33123456789102Z1,[],,INVOICE ID INV79999859,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Mark Day
+
+6060 Juan Port
+
+Ashleyland, HI 34751 US
+Tel:+(312)546-3369
+Email:maxwelldavid@example.org
+Site:https://www.moore.net/
+
+INVOICE
+
+INVOICE ID INV79999859
+Date: 05-Jan-2000
+
+Description QUANTITY PRICE
+Wear. 3.00 $36.67
+Employee ball. 1.00 $42.66
+Admit citizen. 4.00 $19.81
+Radio election. 3.00 $36.17
+Cup read. 1.00 $92.10
+
+SUB_TOTAL : 432.52 EUR
+
+GST(7%) : 30.28
+
+TOTAL : 442.15 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 432.52  EUR,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 442.15 EUR,Template2_Instance164.json
+"Bill to:Mrs. Catherine Cline
+7424 Hall Lane
+Megantown, HI 74016 US
+Tel:+(605)349-5266
+Email:jennifer19@example.com
+Site:https://www.brown.net/",Date: 01-Jul-2019,GST(7%) : 37.11,GSTIN: 33123456789102Z1,[],,INVOICE # 9914-741,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Mrs. Catherine Cline
+7424 Hall Lane
+
+Megantown, HI 74016 US
+Tel:+(605)349-5266
+Email:jennifer19@example.com
+Site:https://www.brown.net/
+
+TAX INVOICE
+
+INVOICE # 9914-741
+Date: 01-Jul-2019
+
+Description QUANTITY PRICE
+Measure. 1.00 $55.46
+Successful simply. 4.00 $20.79
+Keep summer. 4.00 $97.88
+
+SUB_TOTAL : 530.14 $
+
+GST(7%) : 37.11
+
+TOTAL : 535.75 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 530.14  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 535.75 $,Template2_Instance165.json
+"Buyer :Rebecca Brewer
+04249 Rivers Village
+West Nathanburgh, GU 32813 US
+Tel:+(053)065-0479
+Email:greenluis@example.net
+Site:http://www.banks-dennis.org/",Date: 20-Jun-2004,GST(7%) : 62.68,GSTIN: 33123456789102Z1,[],,Invoice number 7240-678,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Rebecca Brewer
+
+04249 Rivers Village
+
+West Nathanburgh, GU 32813 US
+Tel:+(053)065-0479
+Email:greenluis@example.net
+Site:http://www.banks-dennis.org/
+
+TAX INVOICE
+
+Invoice number 7240-678
+Date: 20-Jun-2004
+
+Description QUANTITY PRICE
+Mr the among. 3.00 $4.50
+
+Pay argue plant. 4.00 $77.70
+Base view agency. 1.00 $97.30
+Occur week. 1.00 $22.23
+Relate program unit. 5.00 $90.32
+
+SUB_TOTAL : 895.43 EUR
+
+GST(7%) : 62.68
+
+TOTAL : 924.79 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 895.43  EUR,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 924.79 EUR,Template2_Instance166.json
+"Buyer :Michael Gray
+25698 Jodi Pine Apt. 801
+Macdonaldmouth, ND 31697 US
+Tel:+(933)961-7952
+Email:anthonymyers@example.org
+Site:https://phillips-munoz.org/",Invoice Date: 27-Oct-2016,GST(7%) : 55.54,GSTIN: 33123456789102Z1,[],,INVOICE ID INV96172098,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Michael Gray
+
+25698 Jodi Pine Apt. 801
+Macdonaldmouth, ND 31697 US
+Tel:+(933)961-7952
+Email:anthonymyers@example.org
+Site:https://phillips-munoz.org/
+
+TAX INVOICE
+
+INVOICE ID INV96172098
+Invoice Date: 27-Oct-2016
+
+Description QUANTITY PRICE
+College choice. 5.00 $73.44
+Building whether. 1.00 $38.21
+Mouth economy. 2.00 $10.15
+Type attack sense. 4.00 $91.94
+
+SUB_TOTAL : 793.47 USD
+
+GST(7%) : 55.54
+
+TOTAL : 814.49 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 793.47  USD,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 814.49 USD,Template2_Instance167.json
+"Bill to:Melissa Arnold
+418 Victoria Lights Apt. 824
+East Markside, IN 98996 US
+Tel:+(499)913-6880
+Email:ktucker@example.org
+Site:http://gomez.info/",Date: 08-Apr-2011,GST(7%) : 36.50,GSTIN: 33123456789102Z1,[],,Invoice number INV01479532,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Melissa Arnold
+
+418 Victoria Lights Apt. 824
+East Markside, IN 98996 US
+Tel:+(499)913-6880
+Email:ktucker@example.org
+Site:http://gomez.info/
+
+COMMERCIAL INVOICE
+
+Invoice number INV01479532
+Date: 08-Apr-2011
+
+Description QUANTITY PRICE
+Decide hundred. 4.00 $34.34
+Actually lawyer. 1.00 $0.08
+
+Mean strong. 6.00 $23.55
+Station. 4.00 $60.66
+
+SUB_TOTAL : 521.38 EUR
+
+GST(7%) : 36.50
+
+TOTAL : 530.95 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 521.38  EUR,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 530.95 EUR,Template2_Instance168.json
+"Bill to:Christian Thomas
+0726 Kathryn Walks
+East Leslie, FM 19287 US
+Tel:+(730)489-6189
+Email:rwhite@example.org
+Site:http://www.brady.biz/",Invoice Date: 28-Apr-2012,GST(7%) : 55.88,GSTIN: 33123456789102Z1,[],,Invoice number 3Y3M7d-078,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Christian Thomas
+0726 Kathryn Walks
+
+East Leslie, FM 19287 US
+Tel:+(730)489-6189
+Email:rwhite@example.org
+Site:http://www.brady.biz/
+
+TAX INVOICE
+
+Invoice number 3Y3M7d-078
+Invoice Date: 28-Apr-2012
+
+Description QUANTITY PRICE
+Traditional personal couple. 5.00 $48.29
+Water other pay. 5.00 $60.62
+Land hotel. 4.00 $62.40
+Only family air. 1.00 $4.15
+
+SUB_TOTAL : 798.30 EUR
+
+GST(7%) : 55.88
+
+TOTAL : 802.28 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 798.30  EUR,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 802.28 EUR,Template2_Instance169.json
+"Bill to:Elizabeth Carpenter
+23148 Bennett Summit Suite 017
+Lake Alexandriaview, PR 20967 US
+Tel:+(662)456-3445
+Email:emily43@example.org
+Site:https://www.houston.org/",Invoice Date: 27-Nov-2009,GST(7%) : 47.01,GSTIN: 33123456789102Z1,[],,INVOICE # 3363-759,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Elizabeth Carpenter
+
+23148 Bennett Summit Suite 017
+Lake Alexandriaview, PR 20967 US
+Tel:+(662)456-3445
+Email:emily43@example.org
+Site:https://www.houston.org/
+
+INVOICE
+
+INVOICE # 3363-759
+Invoice Date: 27-Nov-2009
+
+Description QUANTITY PRICE
+Skill gas. 3.00 $95.47
+General then. 1.00 $84.86
+Ground wrong. 6.00 $50.06
+
+SUB_TOTAL : 671.63 $
+
+GST(7%) : 47.01
+
+TOTAL : 699.24 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 671.63  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 699.24 $,Template2_Instance17.json
+"Bill to:Beth Collins
+35509 Walker Meadow Apt. 709
+West Wesley, MH 06375 US
+Tel:+(578)593-0035
+Email:alexharmon@example.org
+Site:https://www.larsen.com/",Invoice Date: 12-Jun-2011,GST(7%) : 26.91,GSTIN: 33123456789102Z1,[],,INVOICE # 5672-028,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Beth Collins
+
+35509 Walker Meadow Apt. 709
+West Wesley, MH 06375 US
+Tel:+(578)593-0035
+Email:alexharmon@example.org
+Site:https://www.larsen.com/
+
+COMMERCIAL INVOICE
+
+INVOICE # 5672-028
+Invoice Date: 12-Jun-2011
+
+Description QUANTITY PRICE
+Establish reality. 3.00 $6.52
+Thousand condition three. 6.00 $10.57
+Prepare believe. 4.00 $8.00
+Government difference. 3.00 $89.83
+
+SUB_TOTAL : 384.47 $
+
+GST(7%) : 26.91
+
+TOTAL : 386.97 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 384.47  $,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 386.97 $,Template2_Instance170.json
+"Buyer :Jorge Brewer
+0094 Harris Ferry
+Tiffanychester, NH 53670 US
+Tel:+(372)147-5127
+Email:ryanronald@example.net
+Site:https://www.lawson-cole.org/",Date: 27-Feb-1996,GST(7%) : 70.76,GSTIN: 33123456789102Z1,[],,INVOICE ID 2Y8M3d-915,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Jorge Brewer
+
+0094 Harris Ferry
+
+Tiffanychester, NH 53670 US
+Tel:+(372)147-5127
+Email:ryanronald@example.net
+Site:https://www.lawson-cole.org/
+
+INVOICE
+
+INVOICE ID 2Y8M3d-915
+Date: 27-Feb-1996
+
+Description QUANTITY PRICE
+Down explain. 3.00 $35.14
+Off bed. 5.00 $96.53
+We environmental. 5.00 $84.56
+
+SUB_TOTAL : 1010.87 $
+
+GST(7%) : 70.76
+
+TOTAL : 1058.02 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1010.87  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 1058.02 $,Template2_Instance171.json
+"Buyer :Brenda Campbell
+57705 Allen Expressway
+South Larryshire, ID 38630 US
+Tel:+(853)882-3906
+Email:sophia90@example.net
+Site:http://potter.net/",Invoice Date: 13-May-2004,GST(7%) : 84.29,GSTIN: 33123456789102Z1,[],,INVOICE ID 6055-283,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Brenda Campbell
+57705 Allen Expressway
+South Larryshire, ID 38630 US
+
+Tel:+(853)882-3906
+
+Email:sophia90@example.net
+
+Site:http://potter.net/
+
+INVOICE
+
+INVOICE ID 6055-283
+Invoice Date: 13-May-2004
+
+Description QUANTITY PRICE
+Politics over five. 5.00 $98.06
+Level hope. 5.00 $66.71
+Four evidence seem. 3.00 $60.58
+Off such. 3.00 $43.81
+Too eye sea performance. 6.00 $11.19
+
+SUB_TOTAL : 1204.16 USD
+
+GST(7%) : 84.29
+
+TOTAL : 1221.51 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1204.16  USD,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 1221.51 USD,Template2_Instance172.json
+"Bill to:Zachary Hale
+5863 John Lakes
+Kevinhaven, MI 68053 US
+Tel:+(360)823-9726
+Email:justinjames@example.com
+Site:http://munoz.org/",Date: 16-Aug-2002,GST(7%) : 10.15,GSTIN: 33123456789102Z1,[],,INVOICE # INV/28-26/751,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Zachary Hale
+
+5863 John Lakes
+
+Kevinhaven, MI 68053 US
+Tel:+(360)823-9726
+Email:justinjames@example.com
+Site:http://munoz.org/
+
+INVOICE
+
+INVOICE # INV/28-26/751
+Date: 16-Aug-2002
+
+Description QUANTITY PRICE
+Far part film. 1.00 $99.76
+Try seat important work. 6.00 $7.55
+
+SUB_TOTAL : 145.06 USD
+
+GST(7%) : 10.15
+
+TOTAL : 149.52 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 145.06  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 149.52 USD,Template2_Instance173.json
+"Buyer :Jesse Mcclure
+89088 Payne Lodge Suite 322
+Ramirezfort, MO 97962 US
+Tel:+(118)697-6100
+Email:mario23@example.org
+Site:https://davis.biz/",Invoice Date: 11-Aug-2019,GST(7%) : 40.49,GSTIN: 33123456789102Z1,[],,Invoice number 9Y6M8d-777,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Jesse Mcclure
+
+89088 Payne Lodge Suite 322
+Ramirezfort, MO 97962 US
+Tel:+(118)697-6100
+Email:mario23@example.org
+Site:https://davis.biz/
+
+COMMERCIAL INVOICE
+
+Invoice number 9Y6M8d-777
+Invoice Date: 11-Aug-2019
+
+Description QUANTITY PRICE
+Red general activity. 2.00 $32.29
+Nearly pressure public. 5.00 $62.35
+Popular detail. 1.00 $83.19
+Hand west. 3.00 $39.62
+
+SUB_TOTAL : 578.38 USD
+
+GST(7%) : 40.49
+
+TOTAL : 598.77 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 578.38  USD,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 598.77 USD,Template2_Instance174.json
+"Buyer :Sheila Bell
+153 Tanya Rapid
+Pottsside, WI 70123 US
+Tel:+(072)749-3339
+Email:sharonbenitez@example.org
+Site:http://price-smith.info/",Date: 04-Jun-1996,GST(7%) : 60.49,GSTIN: 33123456789102Z1,[],,Invoice number INV47355637,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Sheila Bell
+
+153 Tanya Rapid
+
+Pottsside, WI 70123 US
+Tel:+(072)749-3339
+Email:sharonbenitez@example.org
+Site:http://price-smith.info/
+
+COMMERCIAL INVOICE
+
+Invoice number INV47355637
+Date: 04-Jun-1996
+
+Description QUANTITY PRICE
+Card analysis fund. 3.00 $30.87
+Anything standard there. 3.00 $30.98
+Person police prevent. 3.00 $79.48
+Policy during. 6.00 $73.37
+
+SUB_TOTAL : 864.21 USD
+
+GST(7%) : 60.49
+
+TOTAL : 861.43 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 864.21  USD,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 861.43 USD,Template2_Instance175.json
+"Buyer :Tracy Shelton MD
+646 Roy Mills Apt. 897
+West Derrick, MP 09423 US
+Tel:+(216)006-5702
+Email:barronsonya@example.com
+Site:https://ray.com/",Date: 13-Jul-2017,GST(7%) : 15.70,GSTIN: 33123456789102Z1,[],,Invoice number INV/58-16/012,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Tracy Shelton MD
+
+646 Roy Mills Apt. 897
+
+West Derrick, MP 09423 US
+Tel:+(216)006-5702
+Email:barronsonya@example.com
+Site:https://ray.com/
+
+TAX INVOICE
+
+Invoice number INV/58-16/012
+Date: 13-Jul-2017
+
+Description QUANTITY PRICE
+View smile door. 3.00 $34.80
+Defense well. 3.00 $39.97
+
+SUB_TOTAL : 224.31 USD
+
+GST(7%) : 15.70
+
+TOTAL : 230.15 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 224.31  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 230.15 USD,Template2_Instance176.json
+"Bill to:Tonya Ramirez
+7432 Miranda Vista Suite 395
+Lake Dawnchester, NV 35082 US
+Tel:+(355)528-0655
+Email:lisasanders@example.net
+Site:http://www.paul.com/",Date: 25-May-2005,GST(7%) : 13.45,GSTIN: 33123456789102Z1,[],,Invoice number INV/74-88/261,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Tonya Ramirez
+
+7432 Miranda Vista Suite 395
+Lake Dawnchester, NV 35082 US
+Tel:+(355)528-0655
+Email:lisasanders@example.net
+Site:http://www.paul.com/
+
+INVOICE
+
+Invoice number INV/74-88/261
+Date: 25-May-2005
+
+Description QUANTITY PRICE
+That either technology. 6.00 $31.16
+Public popular realize sort. 2.00 $2.61
+
+SUB_TOTAL : 192.18 $
+
+GST(7%) : 13.45
+
+TOTAL : 190.13 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 192.18  $,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 190.13 $,Template2_Instance177.json
+"Bill to:Jacob Lane
+470 Wilson Mission Apt. 969
+Lake Karen, OK 35996 US
+Tel:+(424)937-2689
+Email:espinozajesse@example.com
+Site:https://reyes.org/",Invoice Date: 26-Nov-2019,GST(7%) : 42.47,GSTIN: 33123456789102Z1,[],,Invoice number INV26371128,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Jacob Lane
+
+470 Wilson Mission Apt. 969
+
+Lake Karen, OK 35996 US
+Tel:+(424)937-2689
+Email:espinozajesse@example.com
+Site:https://reyes.org/
+
+TAX INVOICE
+
+Invoice number INV26371128
+Invoice Date: 26-Nov-2019
+
+Description QUANTITY PRICE
+Affect politics well. 6.00 $74.91
+Sort subject likely. 5.00 $15.49
+Next get daughter. 2.00 $39.90
+
+SUB_TOTAL : 606.71 EUR
+
+GST(7%) : 42.47
+
+TOTAL : 615.09 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 606.71  EUR,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 615.09 EUR,Template2_Instance178.json
+"Buyer :Ashley Whitney
+93823 Margaret Cove Apt. 299
+North Emilymouth, AK 94822 US
+Tel:+(134)972-9541
+Email:vbaldwin@example.com
+Site:http://bennett.com/",Date: 16-May-2005,GST(7%) : 46.90,GSTIN: 33123456789102Z1,[],,INVOICE ID INV/24-30/608,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Ashley Whitney
+
+93823 Margaret Cove Apt. 299
+North Emilymouth, AK 94822 US
+Tel:+(134)972-9541
+Email:vbaldwin@example.com
+Site:http://bennett.com/
+
+COMMERCIAL INVOICE
+
+INVOICE ID INV/24-30/608
+Date: 16-May-2005
+
+Description QUANTITY PRICE
+Employee year. 3.00 $43.15
+Stay degree. 1.00 $2.85
+
+Large black face. 6.00 $89.61
+
+SUB_TOTAL : 669.96 USD
+
+GST(7%) : 46.90
+
+TOTAL : 691.96 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 669.96  USD,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 691.96 USD,Template2_Instance179.json
+"Bill to:John Castro
+5844 Williams Forest
+Wilsonstad, SC 11740 US
+Tel:+(828)777-7377
+Email:umorrison@example.com
+Site:https://watts-allen.org/",Date: 30-Sep-2021,GST(7%) : 45.83,GSTIN: 33123456789102Z1,[],,Invoice number INV/23-45/398,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: John Castro
+
+5844 Williams Forest
+Wilsonstad, SC 11740 US
+Tel:+(828)777-7377
+Email:umorrison@example.com
+Site:https://watts-allen.org/
+
+COMMERCIAL INVOICE
+
+Invoice number INV/23-45/398
+Date: 30-Sep-2021
+
+Description QUANTITY PRICE
+Experience hotel somebody. 4.00 $39.45
+Third present consumer. 1.00 $32.08
+Day stuff military. 2.00 $11.47
+Hit here. 6.00 $73.66
+
+SUB_TOTAL : 654.78 $
+
+GST(7%) : 45.83
+
+TOTAL : 690.83 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 654.78  $,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 690.83 $,Template2_Instance18.json
+"Bill to:Anna Moss
+884 Davis Forks
+Smithfort, AS 96962 US
+Tel:+(130)587-7745
+Email:uherrera@example.net
+Site:http://moore.info/",Invoice Date: 02-May-2018,GST(7%) : 17.46,GSTIN: 33123456789102Z1,[],,INVOICE ID 1Y4M6d-465,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Anna Moss
+
+884 Davis Forks
+
+Smithfort, AS 96962 US
+Tel:+(130)587-7745
+Email:uherrera@example.net
+Site:http://moore.info/
+
+COMMERCIAL INVOICE
+
+INVOICE ID 1Y4M6d-465
+Invoice Date: 02-May-2018
+
+Description QUANTITY PRICE
+Finally book. 1.00 $21.32
+Article tell third. 6.00 $38.03
+
+SUB_TOTAL : 249.50 $
+
+GST(7%) : 17.46
+
+TOTAL : 250.19 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 249.50  $,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 250.19 $,Template2_Instance180.json
+"Bill to:Stefanie Davenport
+74123 Candace Trace Suite 151
+Crawfordstad, CO 99652 US
+Tel:+(358)975-9785
+Email:amandagarcia@example.org
+Site:http://www.fletcher.net/",Date: 20-Jan-2010,GST(7%) : 7.44,GSTIN: 33123456789102Z1,[],,INVOICE # INV/40-00/274,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Stefanie Davenport
+
+74123 Candace Trace Suite 151
+Crawfordstad, CO 99652 US
+Tel:+(358)975-9785
+Email:amandagarcia@example.org
+Site:http://www.fletcher.net/
+
+COMMERCIAL INVOICE
+
+INVOICE # INV/40-00/274
+Date: 20-Jan-2010
+
+Description QUANTITY PRICE
+Car couple. 3.00 $14.83
+Still blood. 1.00 $61.75
+
+SUB_TOTAL : 106.24 $
+
+GST(7%) : 7.44
+
+TOTAL : 109.32 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 106.24  $,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 109.32 $,Template2_Instance181.json
+"Bill to:Kendra Cox
+94635 Chad Forest
+Nguyenton, NV 12970 US
+Tel:+(610)160-9951
+Email:robert11@example.com
+Site:https://jones.net/",Date: 27-Nov-2018,GST(7%) : 22.34,GSTIN: 33123456789102Z1,[],,INVOICE ID INV42077154,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Kendra Cox
+
+94635 Chad Forest
+Nguyenton, NV 12970 US
+Tel:+(610)160-9951
+Email:robert11@example.com
+Site:https://jones.net/
+
+INVOICE
+
+INVOICE ID INV42077154
+Date: 27-Nov-2018
+
+Description QUANTITY PRICE
+Truth carry catch. 2.00 $22.32
+Much sister. 2.00 $72.55
+Age any language. 2.00 $64.68
+
+SUB_TOTAL : 319.10 $
+
+GST(7%) : 22.34
+
+TOTAL : 323.82 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 319.10  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 323.82 $,Template2_Instance182.json
+"Bill to:Melissa Cook
+46324 Perez Burg Suite 560
+Tiffanybury, PA 57491 US
+Tel:+(738)952-3658
+Email:cody45@example.org
+Site:http://frazier.org/",Date: 02-Feb-2016,GST(7%) : 77.58,GSTIN: 33123456789102Z1,[],,Invoice number INV01163765,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Melissa Cook
+
+46324 Perez Burg Suite 560
+Tiffanybury, PA 57491 US
+Tel:+(738)952-3658
+Email:cody45@example.org
+Site:http://frazier.org/
+
+INVOICE
+
+Invoice number INV01163765
+Date: 02-Feb-2016
+
+Description QUANTITY PRICE
+House minute seem. 5.00 $84.26
+Car admit forward the. 5.00 $15.53
+Age second star. 2.00 $71.05
+Crime piece bad. 5.00 $57.69
+Place represent. 2.00 $89.42
+
+SUB_TOTAL : 1108.34 USD
+
+GST(7%) : 77.58
+
+TOTAL : 1132.46 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1108.34  USD,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 1132.46 USD,Template2_Instance183.json
+"Bill to:Kevin Roberts
+030 Danielle Run Suite 539
+Robinsonstad, FM 15379 US
+Tel:+(424)253-1050
+Email:sandracollins@example.net
+Site:http://www.stevenson-kennedy.net/",Invoice Date: 03-Mar-2014,GST(7%) : 26.98,GSTIN: 33123456789102Z1,[],,INVOICE # 7374-816,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Kevin Roberts
+
+030 Danielle Run Suite 539
+Robinsonstad, FM 15379 US
+Tel:+(424)253-1050
+Email:sandracollins@example.net
+Site:http://www.stevenson-kennedy.net/
+
+COMMERCIAL INVOICE
+
+INVOICE # 7374-816
+Invoice Date: 03-Mar-2014
+
+Description QUANTITY PRICE
+Standard project defense. 6.00 $2.19
+
+Ready high. 1.00 $96.10
+Turn several. 5.00 $55.25
+
+SUB_TOTAL : 385.49 $
+
+GST(7%) : 26.98
+
+TOTAL : 396.07 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 385.49  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 396.07 $,Template2_Instance184.json
+"Buyer :Dr. Mary Kane
+105 Sanders Land
+South Megan, IN 76818 US
+Tel:+(093)487-2566
+Email:jessicamora@example.com
+Site:http://www.rivers-jennings.biz/",Date: 20-Dec-2022,GST(7%) : 41.97,GSTIN: 33123456789102Z1,[],,INVOICE ID INV64628703,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Dr. Mary Kane
+
+105 Sanders Land
+
+South Megan, IN 76818 US
+Tel:+(093)487-2566
+Email:jessicamora@example.com
+Site:http:/www.rivers-jennings.biz/
+
+INVOICE
+
+INVOICE ID INV64628703
+Date: 20-Dec-2022
+
+Description QUANTITY PRICE
+Red she. 6.00 $50.43
+Interest court administration since. 1.00 $37.48
+Weight detail financial. 4.00 $64.87
+
+SUB_TOTAL : 599.54 $
+
+GST(7%) : 41.97
+
+TOTAL : 619.62 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 599.54  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 619.62 $,Template2_Instance185.json
+"Bill to:Michael Flores
+78730 Bobby Valley Suite 602
+North Adam, GA 70089 US
+Tel:+(427)618-0053
+Email:amichael@example.org
+Site:http://www.porter.com/",Date: 26-Sep-2002,GST(7%) : 54.25,GSTIN: 33123456789102Z1,[],,INVOICE ID 5609-215,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Michael Flores
+
+78730 Bobby Valley Suite 602
+North Adam, GA 70089 US
+Tel:+(427)618-0053
+Email:amichael@example.org
+Site:http://www.porter.com/
+
+INVOICE
+
+INVOICE ID 5609-215
+Date: 26-Sep-2002
+
+Description QUANTITY PRICE
+Later. 3.00 $62.25
+Through. 3.00 $87.48
+Level nation administration. 6.00 $10.63
+Clearly thought argue. 3.00 $87.35
+
+SUB_TOTAL : 775.02 EUR
+
+GST(7%) : 54.25
+
+TOTAL : 805.97 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 775.02  EUR,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 805.97 EUR,Template2_Instance186.json
+"Buyer :Danielle Carson
+1037 Robin Underpass
+East Cheryl, NH 94074 US
+Tel:+(839)193-8018
+Email:rodney88@example.org
+Site:https://www.schultz-frye.com/",Date: 09-Sep-2010,GST(7%) : 27.17,GSTIN: 33123456789102Z1,[],,INVOICE # INV07888228,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Danielle Carson
+
+1037 Robin Underpass
+
+East Cheryl, NH 94074 US
+Tel:+(839)193-8018
+Email:rodney88@example.org
+Site:https://www.schultz-frye.com/
+
+COMMERCIAL INVOICE
+
+INVOICE # INV07888228
+Date: 09-Sep-2010
+
+Description QUANTITY PRICE
+Appear section. 1.00 $13.20
+One share. 6.00 $62.50
+
+SUB_TOTAL : 388.20 USD
+
+GST(7%) : 27.17
+
+TOTAL : 395.84 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 388.20  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 395.84 USD,Template2_Instance187.json
+"Bill to:Meredith Robertson
+97689 Colin Shoal Apt. 471
+West Kayla, VI 51831 US
+Tel:+(026)656-8543
+Email:cowanalexander@example.net
+Site:http://www.adams.com/",Date: 23-Aug-2004,GST(7%) : 86.47,GSTIN: 33123456789102Z1,[],,INVOICE # INV/82-18/196,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Meredith Robertson
+
+97689 Colin Shoal Apt. 471
+
+West Kayla, VI 51831 US
+Tel:+(026)656-8543
+Email:cowanalexander@example.net
+Site:http://www.adams.com/
+
+INVOICE
+
+INVOICE # INV/82-18/196
+Date: 23-Aug-2004
+
+Description QUANTITY PRICE
+Behind whatever. 3.00 $52.65
+Every news art. 5.00 $76.60
+Sit lose cup. 4.00 $79.53
+Return follow. 4.00 $94.05
+
+SUB_TOTAL : 1235.27 EUR
+
+GST(7%) : 86.47
+
+TOTAL : 1303.57 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1235.27  EUR,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 1303.57 EUR,Template2_Instance188.json
+"Buyer :Sonia Johnson
+298 Alexandra Stream
+South Jill, KY 14890 US
+Tel:+(341)683-9098
+Email:zcarpenter@example.org
+Site:https://www.parker-nguyen.com/",Date: 10-May-2014,GST(7%) : 12.10,GSTIN: 33123456789102Z1,[],,Invoice number INV/93-02/145,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Sonia Johnson
+
+298 Alexandra Stream
+
+South Jill, KY 14890 US
+Tel:+(341)683-9098
+Email:zcarpenter@example.org
+Site:https://www.parker-nguyen.com/
+
+TAX INVOICE
+
+Invoice number INV/93-02/145
+Date: 10-May-2014
+
+Description QUANTITY PRICE
+Find according. 1.00 $22.31
+Government spend history. 6.00 $11.80
+Perhaps card. 2.00 $36.42
+Five produce maintain. 4.00 $1.74
+
+SUB_TOTAL : 172.91 USD
+
+GST(7%) : 12.10
+
+TOTAL : 175.96 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 172.91  USD,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 175.96 USD,Template2_Instance189.json
+"Bill to:Jose Lucero
+2672 Vasquez Island Apt. 429
+South Katrinachester, AL 34140 US
+Tel:+(813)800-1115
+Email:khenderson@example.com
+Site:http://www.guerrero-hampton.com/",Invoice Date: 22-Aug-1999,GST(7%) : 93.15,GSTIN: 33123456789102Z1,[],,INVOICE # INV/58-33/914,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Jose Lucero
+
+2672 Vasquez Island Apt. 429
+
+South Katrinachester, AL 34140 US
+Tel:+(813)800-1115
+Email:khenderson@example.com
+Site:http://www.guerrero-hampton.com/
+
+INVOICE
+
+INVOICE # INV/58-33/914
+Invoice Date: 22-Aug-1999
+
+Description QUANTITY PRICE
+Ahead mouth property. 6.00 $85.94
+Themselves. 6.00 $67.30
+Can future. 1.00 $67.26
+Tough. 4.00 $16.53
+Leader condition billion. 6.00 $46.31
+
+SUB_TOTAL : 1330.68 $
+
+GST(7%) : 93.15
+
+TOTAL : 1338.68 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1330.68  $,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 1338.68 $,Template2_Instance19.json
+"Bill to:Julie Stephens
+0069 Walker Street Apt. 283
+Williamsshire, TN 95987 US
+Tel:+(760)166-2880
+Email:gouldjasmine@example.org
+Site:http://www.edwards.com/",Date: 05-Aug-2012,GST(7%) : 66.58,GSTIN: 33123456789102Z1,[],,Invoice number 5260-721,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Julie Stephens
+
+0069 Walker Street Apt. 283
+Williamsshire, TN 95987 US
+Tel:+(760)166-2880
+Email:gouldjasmine@example.org
+Site:http://www.edwards.com/
+
+INVOICE
+
+Invoice number 5260-721
+Date: 05-Aug-2012
+
+Description QUANTITY PRICE
+Leave. 6.00 $86.16
+Value bank himself management. 4.00 $94.08
+Food material wear. 1.00 $57.91
+
+SUB_TOTAL : 951.19 $
+
+GST(7%) : 66.58
+
+TOTAL : 958.74 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 951.19  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 958.74 $,Template2_Instance190.json
+"Buyer :Nicole Maddox
+456 Steven Villages
+Lopezmouth, IL 73432 US
+Tel:+(911)619-4257
+Email:gregorykatrina@example.net
+Site:http://reyes.com/",Invoice Date: 30-Oct-2022,GST(7%) : 10.35,GSTIN: 33123456789102Z1,[],,INVOICE ID 4852-212,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Nicole Maddox
+
+456 Steven Villages
+
+Lopezmouth, IL 73432 US
+Tel:+(911)619-4257
+Email:gregorykatrina@example.net
+Site:http://reyes.com/
+
+INVOICE
+
+INVOICE ID 4852-212
+Invoice Date: 30-Oct-2022
+
+Description QUANTITY PRICE
+Participant majority. 1.00 $48.87
+Allow hotel. 1.00 $99.04
+
+SUB_TOTAL : 147.91 USD
+
+GST(7%) : 10.35
+
+TOTAL : 150.04 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 147.91  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 150.04 USD,Template2_Instance191.json
+"Bill to:Mr. Mario Shannon
+52392 David Gardens Apt. 448
+New Barbarastad, GA 20912 US
+Tel:+(372)504-6072
+Email:srasmussen@example.com
+Site:https://www.oneill.com/",Invoice Date: 07-Mar-2002,GST(7%) : 84.63,GSTIN: 33123456789102Z1,[],,Invoice number INV/32-28/575,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Mr. Mario Shannon
+
+52392 David Gardens Apt. 448
+New Barbarastad, GA 20912 US
+Tel:+(372)504-6072
+Email:srasmussen@example.com
+Site:https://www.oneill.com/
+
+TAX INVOICE
+
+Invoice number INV/32-28/575
+Invoice Date: 07-Mar-2002
+
+Description QUANTITY PRICE
+Friend write forget. 4.00 $95.43
+Probably method administration. 3.00 $96.93
+Either partner cultural. 5.00 $65.63
+Eight season now. 4.00 $52.08
+
+SUB_TOTAL : 1208.98 USD
+
+GST(7%) : 84.63
+
+TOTAL : 1203.35 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1208.98  USD,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 1203.35 USD,Template2_Instance192.json
+"Bill to:Laura Pham
+507 Chandler Ports Apt. 006
+Port Terri, WA 20486 US
+Tel:+(947)492-3005
+Email:charris@example.com
+Site:http://www.james.com/",Invoice Date: 01-Dec-2007,GST(7%) : 95.33,GSTIN: 33123456789102Z1,[],,INVOICE ID 4253-390,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Laura Pham
+
+507 Chandler Ports Apt. 006
+Port Terri, WA 20486 US
+Tel:+(947)492-3005
+Email:charris@example.com
+Site:http:/www.james.com/
+
+TAX INVOICE
+
+INVOICE ID 4253-390
+Invoice Date: 01-Dec-2007
+
+Description QUANTITY PRICE
+Business listen lose. 5.00 $43.43
+Top. 6.00 $31.97
+Lawyer idea find. 5.00 $70.14
+According perform. 6.00 $63.58
+Sing only sit. 3.00 $73.57
+
+SUB_TOTAL : 1361.86 USD
+
+GST(7%) : 95.33
+
+TOTAL : 1375.16 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1361.86  USD,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 1375.16 USD,Template2_Instance193.json
+"Buyer :William Forbes
+79965 Michael Prairie
+Lake Brian, ID 98490 US
+Tel:+(985)217-2161
+Email:abigailreyes@example.com
+Site:http://reilly.com/",Invoice Date: 09-Apr-2012,GST(7%) : 34.28,GSTIN: 33123456789102Z1,[],,INVOICE # INV/42-99/779,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :William Forbes
+79965 Michael Prairie
+Lake Brian, ID 98490 US
+Tel:+(985)217-2161
+
+Email:abigailreyes@example.com
+
+Site:http://reilly.com/
+
+COMMERCIAL INVOICE
+
+INVOICE # INV/42-99/779
+Invoice Date: 09-Apr-2012
+
+Description QUANTITY PRICE
+Building religious buy analysis. 2.00 $48.77
+Occur notice. 1.00 $18.67
+Front single. 3.00 $5.98
+
+Here gas concern walk. 5.00 $55.05
+Customer what where. 1.00 $80.28
+
+SUB_TOTAL : 489.68 EUR
+
+GST(7%) : 34.28
+
+TOTAL : 505.00 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 489.68  EUR,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 505.00 EUR,Template2_Instance194.json
+"Buyer :Barry Miller
+62914 Toni Estates
+East Briannaport, WV 67203 US
+Tel:+(260)359-9912
+Email:pwalker@example.com
+Site:http://www.welch.com/",Invoice Date: 03-Sep-2011,GST(7%) : 51.20,GSTIN: 33123456789102Z1,[],,INVOICE ID INV/28-74/417,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Barry Miller
+
+62914 Toni Estates
+
+East Briannaport, WV 67203 US
+Tel:+(260)359-9912
+Email:pwalker@example.com
+Site:http://www.welch.com/
+
+INVOICE
+
+INVOICE ID INV/28-74/417
+Invoice Date: 03-Sep-2011
+
+Description QUANTITY PRICE
+Common task. 6.00 $26.45
+Be check however. 4.00 $50.73
+Assume. 5.00 $50.16
+Money by. 2.00 $30.78
+Above development arm. 1.00 $57.46
+
+SUB_TOTAL : 731.44 $
+
+GST(7%) : 51.20
+
+TOTAL : 732.39 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 731.44  $,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 732.39 $,Template2_Instance195.json
+"Buyer :Jeffrey Edwards
+33863 Boone Ports
+Port Robert, NH 72222 US
+Tel:+(547)265-2238
+Email:tami48@example.net
+Site:http://www.acosta.com/",Invoice Date: 30-Nov-2016,GST(7%) : 48.53,GSTIN: 33123456789102Z1,[],,INVOICE ID 4Y4M8d-785,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Jeffrey Edwards
+33863 Boone Ports
+
+Port Robert, NH 72222 US
+Tel:+(547)265-2238
+Email:tami48@example.net
+Site:http://www.acosta.com/
+
+TAX INVOICE
+
+INVOICE ID 4Y4M8d-785
+Invoice Date: 30-Nov-2016
+
+Description QUANTITY PRICE
+Prepare miss administration. 3.00 $77.69
+Would law hot. 3.00 $74.14
+Decade. 3.00 $49.16
+Term act bar. 5.00 $18.05
+
+SUB_TOTAL : 693.22 $
+
+GST(7%) : 48.53
+
+TOTAL : 719.07 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 693.22  $,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 719.07 $,Template2_Instance196.json
+"Buyer :Sandra Rios
+71907 Thompson Spurs Apt. 682
+Ellenmouth, VT 96283 US
+Tel:+(318)632-6532
+Email:davidgarcia@example.net
+Site:http://love-martinez.com/",Invoice Date: 13-Feb-2016,GST(7%) : 59.47,GSTIN: 33123456789102Z1,[],,INVOICE # INV/18-06/005,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Sandra Rios
+
+71907 Thompson Spurs Apt. 682
+Ellenmouth, VT 96283 US
+Tel:+(318)632-6532
+Email:davidgarcia@example.net
+Site:http://love-martinez.com/
+
+TAX INVOICE
+
+INVOICE # INV/18-06/005
+Invoice Date: 13-Feb-2016
+
+Description QUANTITY PRICE
+Identify sport by. 6.00 $2.77
+Whether senior organization. 5.00 $3.40
+Fact part. 2.00 $83.09
+Truth. 5.00 $94.89
+Focus deep line allow. 3.00 $58.43
+
+SUB_TOTAL : 849.54 $
+
+GST(7%) : 59.47
+
+TOTAL : 899.48 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 849.54  $,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 899.48 $,Template2_Instance197.json
+"Buyer :Marie Heath
+95044 Cruz Viaduct
+Morgantown, FL 25136 US
+Tel:+(173)745-3153
+Email:angela60@example.org
+Site:https://www.schmidt-gill.com/",Invoice Date: 27-Nov-2004,GST(7%) : 27.62,GSTIN: 33123456789102Z1,[],,Invoice number INV67447284,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Marie Heath
+
+95044 Cruz Viaduct
+
+Morgantown, FL 25136 US
+Tel:+(173)745-3153
+Email:angela60@example.org
+Site:https://www.schmidt-gill.com/
+
+INVOICE
+
+Invoice number INV67447284
+Invoice Date: 27-Nov-2004
+
+Description QUANTITY PRICE
+Stay start century. 5.00 $41.71
+During. 3.00 $60.24
+Majority them mind. 1.00 $5.24
+
+SUB_TOTAL : 394.51 EUR
+
+GST(7%) : 27.62
+
+TOTAL : 405.95 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 394.51  EUR,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 405.95 EUR,Template2_Instance198.json
+"Buyer :David Smith
+816 James Flat
+Bennettmouth, MT 81804 US
+Tel:+(759)741-2696
+Email:zachary11@example.org
+Site:http://www.payne.org/",Invoice Date: 12-Jan-2016,GST(7%) : 47.65,GSTIN: 33123456789102Z1,[],,INVOICE ID 7525-057,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :David Smith
+
+816 James Flat
+
+Bennettmouth, MT 81804 US
+Tel:+(759)741-2696
+Email:zachary11@example.org
+Site:http://www.payne.org/
+
+COMMERCIAL INVOICE
+
+INVOICE ID 7525-057
+Invoice Date: 12-Jan-2016
+
+Description QUANTITY PRICE
+Consider amount time. 2.00 $90.66
+Bring catch whom collection. 1.00 $31.12
+Difference charge coach. 4.00 $71.77
+Set offer white. 5.00 $36.24
+
+SUB_TOTAL : 680.72 $
+
+GST(7%) : 47.65
+
+TOTAL : 695.92 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 680.72  $,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 695.92 $,Template2_Instance199.json
+"Bill to:Catherine Williams
+53798 Johnson Forest Suite 241
+East William, UT 23216 US
+Tel:+(696)328-9653
+Email:lindawoodward@example.org
+Site:https://young-solis.info/",Date: 01-May-1993,GST(7%) : 106.63,GSTIN: 33123456789102Z1,[],,INVOICE # INV/10-47/300,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Catherine Williams
+
+53798 Johnson Forest Suite 241
+East William, UT 23216 US
+Tel:+(696)328-9653
+Email:lindawoodward@example.org
+Site:https://young-solis.info/
+
+INVOICE
+
+INVOICE # INV/10-47/300
+Date: 01-May-1993
+
+Description QUANTITY PRICE
+Become blue case. 4.00 $40.36
+Draw note form. 5.00 $81.52
+Because these. 6.00 $72.21
+Argue difficult third. 4.00 $98.13
+Half marriage act continue. 2.00 $64.24
+
+SUB_TOTAL : 1523.30 USD
+
+GST(7%) : 106.63
+
+TOTAL : 1500.59 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1523.30  USD,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 1500.59 USD,Template2_Instance2.json
+"Buyer :Hannah Horn
+8820 Odom Course Suite 604
+Justinhaven, CA 10797 US
+Tel:+(838)127-0972
+Email:jessica01@example.com
+Site:http://taylor.com/",Date: 30-Dec-1999,GST(7%) : 46.11,GSTIN: 33123456789102Z1,[],,INVOICE ID INV/20-11/338,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Hannah Horn
+
+8820 Odom Course Suite 604
+Justinhaven, CA 10797 US
+Tel:+(838)127-0972
+Email:jessica01@example.com
+Site:http://taylor.com/
+
+INVOICE
+
+INVOICE ID INV/20-11/338
+Date: 30-Dec-1999
+
+Description QUANTITY PRICE
+Character dog ready. 1.00 $29.81
+By lawyer south. 2.00 $61.85
+Yes indeed happen. 6.00 $44.34
+Record kind success size. 6.00 $38.81
+Hand should. 2.00 $3.17
+
+SUB_TOTAL : 658.75 $
+
+GST(7%) : 46.11
+
+TOTAL : 666.12 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 658.75  $,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 666.12 $,Template2_Instance20.json
+"Bill to:Alexander Chavez
+66061 Willie Corner Apt. 771
+Elizabethland, MO 22156 US
+Tel:+(530)232-7935
+Email:mdavis@example.net
+Site:http://www.rodriguez.com/",Invoice Date: 01-May-2002,GST(7%) : 5.93,GSTIN: 33123456789102Z1,[],,INVOICE ID INV41883780,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Alexander Chavez
+
+66061 Willie Corner Apt. 771
+Elizabethland, MO 22156 US
+Tel:+(530)232-7935
+Email:mdavis@example.net
+Site:http://www.rodriguez.com/
+
+TAX INVOICE
+
+INVOICE ID INV41883780
+Invoice Date: 01-May-2002
+
+Description QUANTITY PRICE
+Week account. 2.00 $30.06
+Oil ready. 5.00 $4.92
+
+SUB_TOTAL : 84.72 $
+
+GST(7%) : 5.93
+
+TOTAL : 83.61 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 84.72  $,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 83.61 $,Template2_Instance21.json
+"Bill to:Ryan Williams
+7546 Eugene Cliff Suite 821
+Port Alfred, WI 17186 US
+Tel:+(504)678-4970
+Email:seanmiller@example.net
+Site:https://www.smith.com/",Date: 06-Nov-2011,GST(7%) : 43.71,GSTIN: 33123456789102Z1,[],,INVOICE # 3Y1M7d-944,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Ryan Williams
+
+7546 Eugene Cliff Suite 821
+Port Alfred, WI 17186 US
+Tel:+(504)678-4970
+Email:seanmiller@example.net
+Site:https://www.smith.com/
+
+TAX INVOICE
+
+INVOICE # 3Y1M7d-944
+Date: 06-Nov-2011
+
+Description QUANTITY PRICE
+Sure local name. 1.00 $56.43
+Share black daughter. 4.00 $11.58
+Happy front start. 6.00 $81.84
+Miss direction population. 2.00 $15.33
+
+SUB_TOTAL : 624.45 USD
+
+GST(7%) : 43.71
+
+TOTAL : 638.03 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 624.45  USD,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 638.03 USD,Template2_Instance22.json
+"Buyer :Diana Martin
+59369 Eric Bypass Suite 222
+Matthewhaven, CA 85699 US
+Tel:+(260)004-5136
+Email:katherinebrown@example.com
+Site:https://www.harrison.com/",Date: 22-Oct-2004,GST(7%) : 19.15,GSTIN: 33123456789102Z1,[],,INVOICE ID 7511-488,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Diana Martin
+
+59369 Eric Bypass Suite 222
+Matthewhaven, CA 85699 US
+Tel:+(260)004-5136
+Email:katherinebrown@example.com
+Site:https://www.harrison.com/
+
+TAX INVOICE
+
+INVOICE ID 7511-488
+Date: 22-Oct-2004
+
+Description QUANTITY PRICE
+Congress number. 1.00 $2.55
+Candidate understand. 3.00 $83.80
+Tax size. 4.00 $4.89
+
+SUB_TOTAL : 273.51 $
+
+GST(7%) : 19.15
+
+TOTAL : 271.94 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 273.51  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 271.94 $,Template2_Instance23.json
+"Buyer :John Mathis
+93715 Petersen Circles Suite 974
+Perezbury, HI 23730 US
+Tel:+(927)432-1172
+Email:pottsnancy@example.org
+Site:https://espinoza.com/",Date: 28-Jun-2009,GST(7%) : 9.87,GSTIN: 33123456789102Z1,[],,Invoice number 7Y9M1d-354,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :John Mathis
+
+93715 Petersen Circles Suite 974
+Perezbury, HI 23730 US
+Tel:+(927)432-1172
+Email:pottsnancy@example.org
+Site:https://espinoza.com/
+
+COMMERCIAL INVOICE
+
+Invoice number 7Y9M1d-354
+Date: 28-Jun-2009
+
+Description QUANTITY PRICE
+Gun front type. 3.00 $16.44
+Beat away. 5.00 $9.27
+Single approach. 1.00 $17.09
+Few head trade. 5.00 $5.64
+
+SUB_TOTAL : 140.96 EUR
+
+GST(7%) : 9.87
+
+TOTAL : 140.61 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 140.96  EUR,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 140.61 EUR,Template2_Instance24.json
+"Bill to:Jennifer Hart
+348 Chapman Knolls
+Samanthahaven, IA 50221 US
+Tel:+(298)908-8792
+Email:znguyen@example.org
+Site:https://www.lee.com/",Date: 17-Feb-2010,GST(7%) : 14.99,GSTIN: 33123456789102Z1,[],,INVOICE # 6292-098,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Jennifer Hart
+
+348 Chapman Knolls
+Samanthahaven, IA 50221 US
+Tel:+(298)908-8792
+Email:znguyen@example.org
+Site:https://www.lee.com/
+
+COMMERCIAL INVOICE
+
+INVOICE # 6292-098
+Date: 17-Feb-2010
+
+Description QUANTITY PRICE
+Pick. 1.00 $92.31
+Own address. 1.00 $32.56
+Certainly. 3.00 $29.77
+
+SUB_TOTAL : 214.18 USD
+
+GST(7%) : 14.99
+
+TOTAL : 216.88 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 214.18  USD,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 216.88 USD,Template2_Instance25.json
+"Bill to:Diane Moore
+455 Laurie Gateway
+Lindaland, WY 12232 US
+Tel:+(477)378-4395
+Email:sruiz@example.com
+Site:https://dawson.net/",Date: 17-Aug-1994,GST(7%) : 63.95,GSTIN: 33123456789102Z1,[],,Invoice number 3806-529,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Diane Moore
+
+455 Laurie Gateway
+Lindaland, WY 12232 US
+Tel:+(477)378-4395
+Email:sruiz@example.com
+Site:https://dawson.net/
+
+INVOICE
+
+Invoice number 3806-529
+Date: 17-Aug-1994
+
+Description QUANTITY PRICE
+Knowledge interest. 6.00 $52.86
+Ten animal. 6.00 $99.37
+Player leg without. 2.00 $0.11
+
+SUB_TOTAL : 913.60 USD
+
+GST(7%) : 63.95
+
+TOTAL : 929.50 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 913.60  USD,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 929.50 USD,Template2_Instance26.json
+"Bill to:Lance Chan
+0104 Robinson Stravenue Suite 128
+Markland, MO 61838 US
+Tel:+(099)579-2894
+Email:abriggs@example.org
+Site:http://www.morgan.com/",Date: 07-Nov-1997,GST(7%) : 68.72,GSTIN: 33123456789102Z1,[],,INVOICE ID 7230-349,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Lance Chan
+
+0104 Robinson Stravenue Suite 128
+Markland, MO 61838 US
+Tel:+(099)579-2894
+Email:abriggs@example.org
+Site:http://www.morgan.com/
+
+TAX INVOICE
+
+INVOICE ID 7230-349
+Date: 07-Nov-1997
+
+Description QUANTITY PRICE
+Stage special. 3.00 $21.54
+Concern. 6.00 $71.94
+Behind either. 3.00 $47.01
+Face drive. 6.00 $57.41
+
+SUB_TOTAL : 981.75 USD
+
+GST(7%) : 68.72
+
+TOTAL : 1008.53 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 981.75  USD,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 1008.53 USD,Template2_Instance27.json
+"Bill to:Jennifer Morris
+542 Morgan Center Apt. 996
+Willischester, ID 83187 US
+Tel:+(645)666-6737
+Email:sherri36@example.org
+Site:https://silva.com/",Invoice Date: 26-Mar-2007,GST(7%) : 19.81,GSTIN: 33123456789102Z1,[],,INVOICE # 1042-381,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Jennifer Morris
+
+542 Morgan Center Apt. 996
+Willischester, ID 83187 US
+Tel:+(645)666-6737
+Email:sherri36@example.org
+Site:https://silva.com/
+
+TAX INVOICE
+
+INVOICE # 1042-381
+Invoice Date: 26-Mar-2007
+
+Description QUANTITY PRICE
+Positive care. 5.00 $11.40
+Month imagine. 4.00 $56.51
+
+SUB_TOTAL : 283.04 EUR
+
+GST(7%) : 19.81
+
+TOTAL : 291.92 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 283.04  EUR,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 291.92 EUR,Template2_Instance28.json
+"Buyer :Alejandro Arroyo
+63639 Andrea Ferry
+Raymondmouth, FM 92379 US
+Tel:+(732)584-8888
+Email:jonathanlong@example.com
+Site:http://hughes.com/",Date: 29-Aug-2008,GST(7%) : 15.79,GSTIN: 33123456789102Z1,[],,INVOICE ID INV38331302,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Alejandro Arroyo
+
+63639 Andrea Ferry
+Raymondmouth, FM 92379 US
+Tel:+(732)584-8888
+Email:jonathanlong@example.com
+Site:http://hughes.com/
+
+COMMERCIAL INVOICE
+
+INVOICE ID INV38331302
+Date: 29-Aug-2008
+
+Description QUANTITY PRICE
+More eat throughout. 2.00 $75.38
+Computer worry. 3.00 $24.93
+
+SUB_TOTAL : 225.55 USD
+
+GST(7%) : 15.79
+
+TOTAL : 237.40 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 225.55  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 237.40 USD,Template2_Instance29.json
+"Buyer :Tracy Drake
+0864 Michelle Haven Suite 174
+Lake Kimberly, WV 26542 US
+Tel:+(770)167-9226
+Email:bobby54@example.org
+Site:http://www.mcfarland-graham.com/",Invoice Date: 11-May-2007,GST(7%) : 11.32,GSTIN: 33123456789102Z1,[],,Invoice number 7Y5M6d-853,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Tracy Drake
+
+0864 Michelle Haven Suite 174
+
+Lake Kimberly, WV 26542 US
+Tel:+(770)167-9226
+Email:bobby54@example.org
+Site:http:/www.mcefarland-graham.com/
+
+COMMERCIAL INVOICE
+
+Invoice number 7Y5M6d-853
+Invoice Date: 11-May-2007
+
+Description QUANTITY PRICE
+Share writer real. 2.00 $64.60
+Rather on entire. 6.00 $5.42
+
+SUB_TOTAL : 161.72 USD
+
+GST(7%) : 11.32
+
+TOTAL : 165.45 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 161.72  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 165.45 USD,Template2_Instance3.json
+"Bill to:Olivia Odom
+4656 Brown Point Apt. 181
+Kington, PR 82003 US
+Tel:+(626)513-8785
+Email:rossaustin@example.org
+Site:https://patterson-poole.com/",Date: 14-Aug-1996,GST(7%) : 26.00,GSTIN: 33123456789102Z1,[],,Invoice number 5Y2M7d-616,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Olivia Odom
+
+4656 Brown Point Apt. 181
+Kington, PR 82003 US
+Tel:+(626)513-8785
+Email:rossaustin@example.org
+Site:https://patterson-poole.com/
+
+TAX INVOICE
+
+Invoice number 5Y2M7d-616
+Date: 14-Aug-1996
+
+Description QUANTITY PRICE
+Than environment. 6.00 $60.14
+Also help. 2.00 $5.26
+
+SUB_TOTAL : 371.36 USD
+
+GST(7%) : 26.00
+
+TOTAL : 379.16 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 371.36  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 379.16 USD,Template2_Instance30.json
+"Bill to:Jessica Barnes
+6899 Sue Shoals Apt. 466
+Reyesmouth, WA 35804 US
+Tel:+(908)480-8604
+Email:johnsontracy@example.net
+Site:http://www.webb.com/",Date: 14-May-2022,GST(7%) : 29.64,GSTIN: 33123456789102Z1,[],,Invoice number INV25554164,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Jessica Barnes
+
+6899 Sue Shoals Apt. 466
+Reyesmouth, WA 35804 US
+Tel:+(908)480-8604
+Email:johnsontracy@example.net
+Site:http://www.webb.com/
+
+TAX INVOICE
+
+Invoice number INV25554164
+Date: 14-May-2022
+
+Description QUANTITY PRICE
+Reality certain. 2.00 $93.94
+Play phone much. 2.00 $93.74
+Set. 3.00 $16.03
+
+SUB_TOTAL : 423.45 EUR
+
+GST(7%) : 29.64
+
+TOTAL : 426.56 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 423.45  EUR,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 426.56 EUR,Template2_Instance31.json
+"Bill to:Dana Steele
+26176 Cook Viaduct
+Greerland, NJ 23231 US
+Tel:+(583)411-6633
+Email:frostsarah@example.net
+Site:https://www.wallace.biz/",Date: 28-Sep-2008,GST(7%) : 23.47,GSTIN: 33123456789102Z1,[],,INVOICE ID 6Y9M8d-748,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Dana Steele
+
+26176 Cook Viaduct
+
+Greerland, NJ 23231 US
+Tel:+(583)411-6633
+Email:frostsarah@example.net
+Site:https://www.wallace.biz/
+
+INVOICE
+
+INVOICE ID 6Y9M8d-748
+Date: 28-Sep-2008
+
+Description QUANTITY PRICE
+Turn their animal. 5.00 $49.43
+Design they. 1.00 $88.08
+
+SUB_TOTAL : 335.23 $
+
+GST(7%) : 23.47
+
+TOTAL : 344.54 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 335.23  $,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 344.54 $,Template2_Instance32.json
+"Buyer :Laurie Perez
+569 Sharon Walks
+East Michaelstad, PA 08743 US
+Tel:+(670)859-6334
+Email:tgalvan@example.org
+Site:http://www.golden-hicks.com/",Date: 19-Oct-1994,GST(7%) : 27.22,GSTIN: 33123456789102Z1,[],,Invoice number 4Y6M7d-223,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Laurie Perez
+
+569 Sharon Walks
+
+East Michaelstad, PA 08743 US
+Tel:+(670)859-6334
+Email:tgalvan@example.org
+Site:http://www.golden-hicks.com/
+
+INVOICE
+
+Invoice number 4Y6M7d-223
+Date: 19-Oct-1994
+
+Description QUANTITY PRICE
+Else hit. 2.00 $33.94
+Five today guy like. 5.00 $64.19
+
+SUB_TOTAL : 388.83 USD
+
+GST(7%) : 27.22
+
+TOTAL : 398.50 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 388.83  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 398.50 USD,Template2_Instance33.json
+"Bill to:Timothy Moyer
+628 Brandy Bypass
+East Georgeshire, SC 17615 US
+Tel:+(767)636-2605
+Email:kevin52@example.net
+Site:http://brown.com/",Date: 30-Jul-1994,GST(7%) : 43.69,GSTIN: 33123456789102Z1,[],,INVOICE # INV/92-08/174,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Timothy Moyer
+
+628 Brandy Bypass
+
+East Georgeshire, SC 17615 US
+Tel:+(767)636-2605
+Email:kevin52@example.net
+Site:http://brown.com/
+
+TAX INVOICE
+
+INVOICE # INV/92-08/174
+Date: 30-Jul-1994
+
+Description QUANTITY PRICE
+Off remember choice. 2.00 $64.93
+Executive. 4.00 $10.44
+Quickly science. 5.00 $57.03
+Check center. 6.00 $17.93
+Than buy believe. 1.00 $59.85
+
+SUB_TOTAL : 624.20 $
+
+GST(7%) : 43.69
+
+TOTAL : 648.55 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 624.20  $,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 648.55 $,Template2_Instance34.json
+"Bill to:Daniel Johnston
+740 Cynthia Plains
+Port Robert, MD 42465 US
+Tel:+(397)246-3899
+Email:edward53@example.org
+Site:https://www.hunter.com/",Date: 31-Aug-1993,GST(7%) : 67.77,GSTIN: 33123456789102Z1,[],,INVOICE ID INV27765231,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Daniel Johnston
+
+740 Cynthia Plains
+
+Port Robert, MD 42465 US
+Tel:+(397)246-3899
+Email:edward53@example.org
+Site:https://www.hunter.com/
+
+COMMERCIAL INVOICE
+
+INVOICE ID INV27765231
+Date: 31-Aug-1993
+
+Description QUANTITY PRICE
+Political company factor. 6.00 $37.13
+Decide minute why. 1.00 $6.05
+
+Five front himself. 1.00 $82.99
+Letter although than. 2.00 $95.25
+Pass experience professional foot. 5.00 $93.16
+
+SUB_TOTAL : 968.12 USD
+
+GST(7%) : 67.77
+
+TOTAL : 1022.24 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 968.12  USD,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 1022.24 USD,Template2_Instance35.json
+"Buyer :Patrick Caldwell
+115 Avila Rest Suite 032
+East Lisa, MO 33786 US
+Tel:+(160)190-0109
+Email:griffinjames@example.org
+Site:http://www.terrell-baker.com/",Invoice Date: 13-Mar-1993,GST(7%) : 60.73,GSTIN: 33123456789102Z1,[],,Invoice number 8Y5M8d-205,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Patrick Caldwell
+
+115 Avila Rest Suite 032
+
+East Lisa, MO 33786 US
+Tel:+(160)190-0109
+
+Email: griffinjames@example.org
+Site:http://www.terrell-baker.com/
+
+TAX INVOICE
+
+Invoice number 8Y5M8d-205
+Invoice Date: 13-Mar-1993
+
+Description QUANTITY PRICE
+Money. 6.00 $95.07
+Accept area. 2.00 $55.11
+Decade already bring walk. 2.00 $12.01
+Ahead hospital let. 2.00 $81.46
+
+SUB_TOTAL : 867.58 EUR
+
+GST(7%) : 60.73
+
+TOTAL : 867.48 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 867.58  EUR,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 867.48 EUR,Template2_Instance36.json
+"Buyer :Paula Rogers
+088 Vazquez Fort Apt. 714
+Ryanmouth, WY 98802 US
+Tel:+(130)530-3013
+Email:ryan05@example.com
+Site:https://www.thomas.org/",Date: 07-May-2004,GST(7%) : 77.46,GSTIN: 33123456789102Z1,[],,INVOICE # 1050-658,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Paula Rogers
+
+088 Vazquez Fort Apt. 714
+Ryanmouth, WY 98802 US
+Tel:+(130)530-3013
+Email:ryan05@example.com
+Site:https://www.thomas.org/
+
+INVOICE
+
+INVOICE # 1050-658
+Date: 07-May-2004
+
+Description QUANTITY PRICE
+Pretty offer. 5.00 $15.67
+Until garden success. 3.00 $11.00
+Travel culture catch. 6.00 $80.70
+Economic personal cultural add. 4.00 $81.13
+Reason write. 2.00 $93.27
+
+SUB_TOTAL : 1106.61 USD
+
+GST(7%) : 77.46
+
+TOTAL : 1094.41 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1106.61  USD,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 1094.41 USD,Template2_Instance37.json
+"Bill to:Alyssa Gonzalez
+0252 Martinez Route
+Arellanotown, CT 85250 US
+Tel:+(166)572-3811
+Email:qshelton@example.com
+Site:https://www.bauer.com/",Invoice Date: 14-May-2009,GST(7%) : 88.34,GSTIN: 33123456789102Z1,[],,Invoice number INV83384384,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Alyssa Gonzalez
+
+0252 Martinez Route
+Arellanotown, CT 85250 US
+Tel:+(166)572-3811
+Email:qshelton@example.com
+Site:https://www.bauer.com/
+
+TAX INVOICE
+
+Invoice number INV83384384
+Invoice Date: 14-May-2009
+
+Description QUANTITY PRICE
+Here various. 2.00 $76.82
+Everyone record. 6.00 $39.67
+Hundred too. 1.00 $58.43
+Meet thing herself. 6.00 $53.94
+Quite generation return. 5.00 $97.65
+
+SUB_TOTAL : 1261.98 USD
+
+GST(7%) : 88.34
+
+TOTAL : 1323.80 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1261.98  USD,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 1323.80 USD,Template2_Instance38.json
+"Buyer :Joseph Nelson
+8016 Chung Corner
+Rowlandmouth, MT 40103 US
+Tel:+(201)680-5955
+Email:roberto70@example.com
+Site:https://www.hamilton.info/",Invoice Date: 13-May-2007,GST(7%) : 57.42,GSTIN: 33123456789102Z1,[],,Invoice number INV/21-84/928,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Joseph Nelson
+
+8016 Chung Corner
+Rowlandmouth, MT 40103 US
+Tel:+(201)680-5955
+Email:roberto70@example.com
+Site:https://www.hamilton.info/
+
+INVOICE
+
+Invoice number INV/21-84/928
+Invoice Date: 13-May-2007
+
+Description QUANTITY PRICE
+Name strong measure true. 5.00 $59.23
+Child site. 2.00 $54.49
+School present. 3.00 $36.13
+Born ready special. 4.00 $30.00
+Message then common. 4.00 $46.69
+
+SUB_TOTAL : 820.28 USD
+
+GST(7%) : 57.42
+
+TOTAL : 822.61 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 820.28  USD,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 822.61 USD,Template2_Instance39.json
+"Bill to:Joanne Martin DDS
+1432 Davis Orchard Apt. 198
+Lake Sherriborough, WA 80890 US
+Tel:+(008)148-6608
+Email:bradleymelendez@example.com
+Site:https://wyatt-bell.biz/",Invoice Date: 17-Dec-2004,GST(7%) : 28.13,GSTIN: 33123456789102Z1,[],,INVOICE # 6Y5M1d-598,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Joanne Martin DDS
+
+1432 Davis Orchard Apt. 198
+
+Lake Sherriborough, WA 80890 US
+Tel:+(008)148-6608
+Email:bradleymelendez@example.com
+Site:https://wyatt-bell.biz/
+
+TAX INVOICE
+
+INVOICE # 6Y5M1d-598
+Invoice Date: 17-Dec-2004
+
+Description QUANTITY PRICE
+Page door take page. 4.00 $54.00
+Site while. 2.00 $92.92
+
+SUB_TOTAL : 401.84 $
+
+GST(7%) : 28.13
+
+TOTAL : 402.77 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 401.84  $,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 402.77 $,Template2_Instance4.json
+"Buyer :Marilyn Taylor
+5973 Matthew Row Apt. 878
+South Shirley, HI 32491 US
+Tel:+(923)143-1561
+Email:jeff01@example.net
+Site:https://www.hill.com/",Invoice Date: 01-Apr-2003,GST(7%) : 10.86,GSTIN: 33123456789102Z1,[],,INVOICE ID 1145-448,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Marilyn Taylor
+
+5973 Matthew Row Apt. 878
+South Shirley, HI 32491 US
+Tel:+(923)143-1561
+Email:jeff01@example.net
+Site:https://www.hill.com/
+
+TAX INVOICE
+
+INVOICE ID 1145-448
+Invoice Date: 01-Apr-2003
+
+Description QUANTITY PRICE
+Will. 5.00 $12.17
+Or girl success. 3.00 $14.97
+Pattern choice low. 1.00 $49.42
+
+SUB_TOTAL : 155.18 EUR
+
+GST(7%) : 10.86
+
+TOTAL : 160.00 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 155.18  EUR,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 160.00 EUR,Template2_Instance40.json
+"Buyer :Trevor James
+75796 Laura Stream Suite 686
+North Erikamouth, DC 56258 US
+Tel:+(843)444-5201
+Email:goodwinjacob@example.org
+Site:http://www.cunningham-rogers.com/",Date: 09-Mar-2013,GST(7%) : 38.60,GSTIN: 33123456789102Z1,[],,Invoice number INV87400358,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Trevor James
+
+75796 Laura Stream Suite 686
+
+North Erikamouth, DC 56258 US
+Tel:+(843)444-5201
+Email:goodwinjacob@example.org
+Site:http://www.cunningham-rogers.com/
+
+TAX INVOICE
+
+Invoice number INV87400358
+Date: 09-Mar-2013
+
+Description QUANTITY PRICE
+Central present up. 4.00 $82.14
+Subject reveal. 3.00 $74.31
+
+SUB_TOTAL : 551.49 EUR
+
+GST(7%) : 38.60
+
+TOTAL : 565.03 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 551.49  EUR,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 565.03 EUR,Template2_Instance41.json
+"Buyer :Crystal Fuller
+6778 Lisa Pines Apt. 856
+Geraldborough, MD 55260 US
+Tel:+(082)509-7024
+Email:gomezjudy@example.net
+Site:http://www.knox.com/",Invoice Date: 25-Nov-2001,GST(7%) : 61.32,GSTIN: 33123456789102Z1,[],,Invoice number 3Y8M6d-595,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Crystal Fuller
+
+6778 Lisa Pines Apt. 856
+Geraldborough, MD 55260 US
+Tel:+(082)509-7024
+Email:gomezjudy@example.net
+Site:http://www.knox.com/
+
+INVOICE
+
+Invoice number 3Y8M6d-595
+Invoice Date: 25-Nov-2001
+
+Description QUANTITY PRICE
+Team seek next. 4.00 $66.94
+Well according. 5.00 $13.07
+Heart far. 4.00 $16.93
+Player hotel south. 6.00 $79.20
+
+SUB_TOTAL : 876.03 EUR
+
+GST(7%) : 61.32
+
+TOTAL : 886.37 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 876.03  EUR,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 886.37 EUR,Template2_Instance42.json
+"Bill to:James Powell
+623 Mcmillan Motorway
+South Michellebury, VI 44175 US
+Tel:+(100)310-7820
+Email:kjarvis@example.org
+Site:http://www.hooper.info/",Invoice Date: 25-Feb-2002,GST(7%) : 37.97,GSTIN: 33123456789102Z1,[],,Invoice number INV/37-97/592,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: James Powell
+
+623 Mcmillan Motorway
+
+South Michellebury, VI 44175 US
+Tel:+(100)310-7820
+Email:kjarvis@example.org
+Site:http://www.hooper.info/
+
+TAX INVOICE
+
+Invoice number INV/37-97/592
+Invoice Date: 25-Feb-2002
+
+Description QUANTITY PRICE
+Successful door security. 1.00 $29.30
+Performance throw. 4.00 $91.46
+Similar quite. 2.00 $38.49
+Black budget son. 2.00 $35.13
+
+SUB_TOTAL : 542.38 $
+
+GST(7%) : 37.97
+
+TOTAL : 550.20 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 542.38  $,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 550.20 $,Template2_Instance43.json
+"Bill to:Mark Mendoza
+47992 Elizabeth Streets
+Carterberg, NV 46509 US
+Tel:+(599)112-7524
+Email:dbender@example.net
+Site:http://www.murray.com/",Date: 26-Jan-2010,GST(7%) : 22.26,GSTIN: 33123456789102Z1,[],,INVOICE # INV21871761,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Mark Mendoza
+
+47992 Elizabeth Streets
+Carterberg, NV 46509 US
+Tel:+(599)112-7524
+Email:dbender@example.net
+Site:http://www.murray.com/
+
+INVOICE
+
+INVOICE # INV21871761
+Date: 26-Jan-2010
+
+Description QUANTITY PRICE
+Mouth current six. 1.00 $52.40
+Spring should visit. 4.00 $66.41
+
+SUB_TOTAL : 318.04 EUR
+
+GST(7%) : 22.26
+
+TOTAL : 316.32 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 318.04  EUR,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 316.32 EUR,Template2_Instance44.json
+"Buyer :Patrick Jones
+5283 Lynn Path Suite 361
+Hermanview, OK 29450 US
+Tel:+(675)447-8992
+Email:marysalinas@example.org
+Site:https://carr-johnson.com/",Invoice Date: 31-May-2008,GST(7%) : 105.23,GSTIN: 33123456789102Z1,[],,Invoice number 9757-470,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Patrick Jones
+
+5283 Lynn Path Suite 361
+Hermanview, OK 29450 US
+Tel:+(675)447-8992
+Email:marysalinas@example.org
+Site:https://carr-johnson.com/
+
+INVOICE
+
+Invoice number 9757-470
+Invoice Date: 31-May-2008
+
+Description QUANTITY PRICE
+Prove past across. 6.00 $87.62
+Network few. 3.00 $86.50
+You remain sell. 5.00 $98.24
+Cause. 3.00 $75.62
+
+SUB_TOTAL : 1503.28 EUR
+
+GST(7%) : 105.23
+
+TOTAL : 1513.53 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1503.28  EUR,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 1513.53 EUR,Template2_Instance45.json
+"Buyer :Connie Perry
+99221 Reese Squares
+New Nataliefurt, MS 31450 US
+Tel:+(264)820-1287
+Email:gsmith@example.net
+Site:https://www.strong.com/",Invoice Date: 28-Dec-1993,GST(7%) : 54.60,GSTIN: 33123456789102Z1,[],,Invoice number INV20880040,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Connie Perry
+
+99221 Reese Squares
+
+New Nataliefurt, MS 31450 US
+Tel:+(264)820-1287
+Email:gsmith@example.net
+Site:https://www.strong.com/
+
+INVOICE
+
+Invoice number INV20880040
+Invoice Date: 28-Dec-1993
+
+Description QUANTITY PRICE
+Kitchen. 2.00 $70.53
+Receive still federal. 2.00 $24.94
+Chair the green. 5.00 $1.02
+
+Campaign particular term. 3.00 $64.33
+Establish financial speech. 5.00 $78.20
+
+SUB_TOTAL : 780.03 EUR
+
+GST(7%) : 54.60
+
+TOTAL : 792.98 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 780.03  EUR,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 792.98 EUR,Template2_Instance46.json
+"Bill to:Jeanne Cruz
+10044 Patrick Overpass
+Evanshaven, MO 05840 US
+Tel:+(594)487-9019
+Email:wscott@example.com
+Site:http://hunter-powell.com/",Invoice Date: 02-Jul-2022,GST(7%) : 15.94,GSTIN: 33123456789102Z1,[],,INVOICE ID 7Y1M7d-309,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Jeanne Cruz
+
+10044 Patrick Overpass
+Evanshaven, MO 05840 US
+Tel:+(594)487-9019
+Email:wscott@example.com
+Site:http://hunter-powell.com/
+
+COMMERCIAL INVOICE
+
+INVOICE ID 7Y1M7d-309
+Invoice Date: 02-Jul-2022
+
+Description QUANTITY PRICE
+True large performance. 6.00 $15.53
+Relate. 5.00 $26.90
+
+SUB_TOTAL : 227.68 EUR
+
+GST(7%) : 15.94
+
+TOTAL : 238.45 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 227.68  EUR,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 238.45 EUR,Template2_Instance47.json
+"Bill to:Maria Carter
+831 William River
+Caseyport, MA 19056 US
+Tel:+(031)173-8119
+Email:crose@example.org
+Site:https://www.wilcox.org/",Invoice Date: 06-Feb-2004,GST(7%) : 68.53,GSTIN: 33123456789102Z1,[],,INVOICE # 7Y7M8d-058,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Maria Carter
+
+831 William River
+Caseyport, MA 19056 US
+Tel:+(031)173-8119
+Email:crose@example.org
+Site:https://www.wilcox.org/
+
+TAX INVOICE
+
+INVOICE # 7Y7M8d-058
+Invoice Date: 06-Feb-2004
+
+Description QUANTITY PRICE
+Agreement door. 4.00 $28.55
+Generation song too. 5.00 $94.97
+Discover account financial. 5.00 $33.12
+Watch. 3.00 $74.78
+
+SUB_TOTAL : 978.99 $
+
+GST(7%) : 68.53
+
+TOTAL : 1001.16 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 978.99  $,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 1001.16 $,Template2_Instance48.json
+"Buyer :Tiffany Bowen
+68480 Charles Ports
+New Jessica, MI 35729 US
+Tel:+(109)101-4556
+Email:jocelyn85@example.net
+Site:http://porter.com/",Invoice Date: 14-Jan-2012,GST(7%) : 52.49,GSTIN: 33123456789102Z1,[],,Invoice number 1Y3M1d-837,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Tiffany Bowen
+
+68480 Charles Ports
+
+New Jessica, MI 35729 US
+Tel:+(109)101-4556
+Email:jocelyn85@example.net
+Site:http://porter.com/
+
+TAX INVOICE
+
+Invoice number 1Y3M1d-837
+Invoice Date: 14-Jan-2012
+
+Description QUANTITY PRICE
+Surface head. 3.00 $94.88
+Congress fast. 5.00 $14.30
+Poor medical. 6.00 $23.35
+Piece bag include. 6.00 $23.26
+Develop style. 6.00 $19.01
+
+SUB_TOTAL : 749.86 USD
+
+GST(7%) : 52.49
+
+TOTAL : 770.39 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 749.86  USD,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 770.39 USD,Template2_Instance49.json
+"Bill to:Douglas Martinez
+9533 Smith Landing
+East Amber, NE 14003 US
+Tel:+(605)614-0945
+Email:william54@example.org
+Site:http://tyler.com/",Date: 28-Jul-2020,GST(7%) : 31.66,GSTIN: 33123456789102Z1,[],,INVOICE # INV/15-97/004,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Douglas Martinez
+
+9533 Smith Landing
+
+East Amber, NE 14003 US
+Tel:+(605)614-0945
+Email:william54@example.org
+Site:http://tyler.com/
+
+COMMERCIAL INVOICE
+
+INVOICE # INV/15-97/004
+Date: 28-Jul-2020
+
+Description QUANTITY PRICE
+Level floor president. 4.00 $72.36
+Paper account. 6.00 $4.51
+
+Ahead ground morning. 3.00 $15.86
+Yeah. 1.00 $88.20
+
+SUB_TOTAL : 452.28 USD
+
+GST(7%) : 31.66
+
+TOTAL : 461.05 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 452.28  USD,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 461.05 USD,Template2_Instance5.json
+"Buyer :Brandon Patel
+4363 Brittany Mountain
+Meyerstad, ND 09431 US
+Tel:+(352)853-0708
+Email:melissa55@example.net
+Site:http://www.simmons-mcmahon.biz/",Date: 07-Aug-1997,GST(7%) : 29.71,GSTIN: 33123456789102Z1,[],,INVOICE # INV/84-63/587,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Brandon Patel
+
+4363 Brittany Mountain
+
+Meyerstad, ND 09431 US
+Tel:+(352)853-0708
+Email:melissa55@example.net
+Site:http://www.simmons-memahon.biz/
+
+COMMERCIAL INVOICE
+
+INVOICE # INV/84-63/587
+Date: 07-Aug-1997
+
+Description QUANTITY PRICE
+Reduce. 4.00 $92.89
+Red cultural reveal. 2.00 $12.05
+Evening main. 1.00 $28.72
+
+SUB_TOTAL : 424.38 $
+
+GST(7%) : 29.71
+
+TOTAL : 430.37 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 424.38  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 430.37 $,Template2_Instance50.json
+"Bill to:Vincent Martin
+889 Ramirez Motorway Suite 471
+Whiteview, HI 48913 US
+Tel:+(323)172-6245
+Email:ubrennan@example.net
+Site:https://lutz.info/",Date: 08-Feb-1993,GST(7%) : 25.86,GSTIN: 33123456789102Z1,[],,INVOICE # 5Y1M6d-791,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Vincent Martin
+
+889 Ramirez Motorway Suite 471
+Whiteview, HI 48913 US
+Tel:+(323)172-6245
+Email:ubrennan@example.net
+Site:https://lutz.info/
+
+INVOICE
+
+INVOICE # 5Y1M6d-791
+Date: 08-Feb-1993
+
+Description QUANTITY PRICE
+Event than. 1.00 $46.09
+Call present take. 4.00 $9.72
+
+Piece rate. 4.00 $68.39
+Follow throw production. 1.00 $10.95
+
+SUB_TOTAL : 369.48 EUR
+
+GST(7%) : 25.86
+
+TOTAL : 378.01 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 369.48  EUR,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 378.01 EUR,Template2_Instance51.json
+"Bill to:Tyler Palmer
+397 Wolfe Meadow Apt. 464
+Smithville, SC 90910 US
+Tel:+(625)486-4965
+Email:hobrien@example.com
+Site:http://www.hernandez.com/",Date: 02-May-2018,GST(7%) : 35.24,GSTIN: 33123456789102Z1,[],,INVOICE ID 8868-605,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Tyler Palmer
+
+397 Wolfe Meadow Apt. 464
+Smithville, SC 90910 US
+Tel:+(625)486-4965
+Email:hobrien@example.com
+Site:http://www.hernandez.com/
+
+COMMERCIAL INVOICE
+
+INVOICE ID 8868-605
+Date: 02-May-2018
+
+Description QUANTITY PRICE
+Within describe. 5.00 $47.66
+Real why. 3.00 $88.36
+
+SUB_TOTAL : 503.38 EUR
+
+GST(7%) : 35.24
+
+TOTAL : 521.54 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 503.38  EUR,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 521.54 EUR,Template2_Instance52.json
+"Bill to:Shannon Kramer
+11663 Benjamin Crossing Apt. 027
+Jaredton, TN 79563 US
+Tel:+(751)493-5975
+Email:dlopez@example.org
+Site:http://jacobs.com/",Date: 21-Apr-2005,GST(7%) : 29.95,GSTIN: 33123456789102Z1,[],,Invoice number INV/05-48/642,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Shannon Kramer
+
+11663 Benjamin Crossing Apt. 027
+Jaredton, TN 79563 US
+Tel:+(751)493-5975
+Email:dlopez@example.org
+Site:http://jacobs.com/
+
+TAX INVOICE
+
+Invoice number INV/05-48/642
+Date: 21-Apr-2005
+
+Description QUANTITY PRICE
+Happen read turn behind. 1.00 $67.48
+Watch thing key think. 2.00 $64.26
+Shake wrong simply. 3.00 $77.28
+
+SUB_TOTAL : 427.84 EUR
+
+GST(7%) : 29.95
+
+TOTAL : 423.08 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 427.84  EUR,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 423.08 EUR,Template2_Instance53.json
+"Buyer :Christina Chase
+75972 Knox Plain Suite 190
+Wilsonmouth, OR 14116 US
+Tel:+(777)473-8038
+Email:sarah61@example.com
+Site:http://ball.com/",Invoice Date: 13-Jul-2000,GST(7%) : 18.01,GSTIN: 33123456789102Z1,[],,INVOICE ID INV22605545,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Christina Chase
+75972 Knox Plain Suite 190
+Wilsonmouth, OR 14116 US
+Tel:+(777)473-8038
+Email:sarah61@example.com
+Site:http://ball.com/
+
+COMMERCIAL INVOICE
+
+INVOICE ID INV22605545
+Invoice Date: 13-Jul-2000
+
+Description QUANTITY PRICE
+Perform. 4.00 $6.78
+You PM catch. 1.00 $32.29
+Or newspaper door. 6.00 $31.85
+Artist once. 4.00 $1.71
+
+SUB_TOTAL : 257.35 $
+
+GST(7%) : 18.01
+
+TOTAL : 262.80 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 257.35  $,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 262.80 $,Template2_Instance54.json
+"Bill to:Eric Allen
+810 Thomas Harbors
+Brittanybury, KY 26862 US
+Tel:+(571)545-3172
+Email:leejeremy@example.net
+Site:http://www.harper.biz/",Date: 15-Aug-2016,GST(7%) : 59.42,GSTIN: 33123456789102Z1,[],,Invoice number 3Y3M2d-186,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Eric Allen
+
+810 Thomas Harbors
+Brittanybury, KY 26862 US
+Tel:+(571)545-3172
+Email:leejeremy@example.net
+Site:http:/Awww.harper.biz/
+
+TAX INVOICE
+
+Invoice number 3Y3M2d-186
+Date: 15-Aug-2016
+
+Description QUANTITY PRICE
+Stop plan. 5.00 $14.01
+Opportunity threat activity style. 3.00 $94.10
+Investment everything answer. 5.00 $99.31
+
+SUB_TOTAL : 848.90 $
+
+GST(7%) : 59.42
+
+TOTAL : 857.01 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 848.90  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 857.01 $,Template2_Instance55.json
+"Buyer :Ashley Hodges
+7345 Matthew Rapid
+Vasquezview, SD 71479 US
+Tel:+(551)386-9365
+Email:jessicahaney@example.org
+Site:http://www.gonzalez.org/",Invoice Date: 31-Mar-2003,GST(7%) : 17.77,GSTIN: 33123456789102Z1,[],,Invoice number INV/67-37/714,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Ashley Hodges
+
+7345 Matthew Rapid
+Vasquezview, SD 71479 US
+Tel:+(551)386-9365
+Email:jessicahaney@example.org
+Site:http://www.gonzalez.org/
+
+TAX INVOICE
+
+Invoice number INV/67-37/714
+Invoice Date: 31-Mar-2003
+
+Description QUANTITY PRICE
+Force turn. 4.00 $53.69
+Foreign mind measure. 6.00 $6.52
+
+SUB_TOTAL : 253.88 USD
+
+GST(7%) : 17.77
+
+TOTAL : 259.57 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 253.88  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 259.57 USD,Template2_Instance56.json
+"Bill to:Misty Rogers
+31260 Martinez Drives Suite 644
+Port Timothyton, WY 96691 US
+Tel:+(154)301-3959
+Email:richardsjeffrey@example.org
+Site:http://hill-daugherty.info/",Invoice Date: 11-Apr-2015,GST(7%) : 22.17,GSTIN: 33123456789102Z1,[],,INVOICE # 0869-542,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Misty Rogers
+
+31260 Martinez Drives Suite 644
+Port Timothyton, WY 96691 US
+Tel:+(154)301-3959
+Email:richardsjeffrey@example.org
+Site:http://hill-daugherty.info/
+
+TAX INVOICE
+
+INVOICE # 0869-542
+Invoice Date: 11-Apr-2015
+
+Description QUANTITY PRICE
+Truth stay. 1.00 $21.78
+Board very cost. 5.00 $59.00
+
+SUB_TOTAL : 316.78 USD
+
+GST(7%) : 22.17
+
+TOTAL : 330.45 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 316.78  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 330.45 USD,Template2_Instance57.json
+"Buyer :Becky Martin
+501 Rios Track Suite 121
+Pattyton, NE 80919 US
+Tel:+(040)646-8434
+Email:mgreen@example.net
+Site:https://www.thomas.com/",Date: 25-Jul-2021,GST(7%) : 20.96,GSTIN: 33123456789102Z1,[],,Invoice number 5Y9M1d-806,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Becky Martin
+
+501 Rios Track Suite 121
+Pattyton, NE 80919 US
+Tel:+(040)646-8434
+Email:mgreen@example.net
+Site:https://www.thomas.com/
+
+COMMERCIAL INVOICE
+
+Invoice number 5Y9M1d-806
+Date: 25-Jul-2021
+
+Description QUANTITY PRICE
+Value crime. 3.00 $86.26
+Data. 1.00 $40.63
+
+SUB_TOTAL : 299.41 USD
+
+GST(7%) : 20.96
+
+TOTAL : 308.90 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 299.41  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 308.90 USD,Template2_Instance58.json
+"Bill to:Dennis Lamb
+79039 Ward Light
+West Christopherview, AL 92716 US
+Tel:+(263)311-7591
+Email:youngdorothy@example.net
+Site:https://ruiz.net/",Date: 18-May-2003,GST(7%) : 23.70,GSTIN: 33123456789102Z1,[],,Invoice number INV/37-45/068,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Dennis Lamb
+
+79039 Ward Light
+
+West Christopherview, AL 92716 US
+Tel:+(263)311-7591
+Email:youngdorothy@example.net
+Site:https://ruiz.net/
+
+TAX INVOICE
+
+Invoice number INV/37-45/068
+Date: 18-May-2003
+
+Description QUANTITY PRICE
+Decade painting. 5.00 $38.14
+Authority talk. 3.00 $49.29
+
+SUB_TOTAL : 338.57 EUR
+
+GST(7%) : 23.70
+
+TOTAL : 339.30 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 338.57  EUR,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 339.30 EUR,Template2_Instance59.json
+"Buyer :Terri Henderson
+80544 Bradley Meadows Apt. 976
+Hammondchester, ID 52172 US
+Tel:+(679)504-4434
+Email:calvin46@example.com
+Site:http://black-dean.biz/",Invoice Date: 08-Jul-1999,GST(7%) : 103.28,GSTIN: 33123456789102Z1,[],,INVOICE # INV92485199,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Terri Henderson
+
+80544 Bradley Meadows Apt. 976
+Hammondchester, ID 52172 US
+Tel:+(679)504-4434
+Email:calvin46é@example.com
+Site:http://black-dean.biz/
+
+TAX INVOICE
+
+INVOICE # INV92485199
+Invoice Date: 08-Jul-1999
+
+Description QUANTITY PRICE
+Thing example here. 5.00 $86.60
+List couple. 6.00 $66.63
+Court best century dinner. 2.00 $93.87
+Then edge level hand. 5.00 $90.97
+
+SUB_TOTAL : 1475.37 USD
+
+GST(7%) : 103.28
+
+TOTAL : 1502.92 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1475.37  USD,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 1502.92 USD,Template2_Instance6.json
+"Buyer :Richard Conley
+49669 Peterson Shoal Apt. 776
+West Charlesside, OR 32801 US
+Tel:+(823)120-1800
+Email:christinapotter@example.org
+Site:https://miller.com/",Invoice Date: 06-Sep-2017,GST(7%) : 43.19,GSTIN: 33123456789102Z1,[],,INVOICE ID INV31643120,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Richard Conley
+
+49669 Peterson Shoal Apt. 776
+West Charlesside, OR 32801 US
+Tel:+(823)120-1800
+Email:christinapotter@example.org
+Site:https://miller.com/
+
+TAX INVOICE
+
+INVOICE ID INV31643120
+Invoice Date: 06-Sep-2017
+
+Description QUANTITY PRICE
+Nice less seven. 5.00 $56.58
+Smile might not. 6.00 $40.79
+Once view. 1.00 $89.30
+
+SUB_TOTAL : 616.94 EUR
+
+GST(7%) : 43.19
+
+TOTAL : 644.61 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 616.94  EUR,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 644.61 EUR,Template2_Instance60.json
+"Buyer :Mary Mitchell
+23760 Craig Island Suite 974
+North Johnnystad, GU 48395 US
+Tel:+(444)187-2467
+Email:angelarodriguez@example.net
+Site:http://www.burns.biz/",Invoice Date: 14-Apr-2021,GST(7%) : 91.25,GSTIN: 33123456789102Z1,[],,INVOICE # 2564-849,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Mary Mitchell
+
+23760 Craig Island Suite 974
+
+North Johnnystad, GU 48395 US
+Tel:+(444)187-2467
+Email:angelarodriguez@example.net
+Site:http://www.burns.biz/
+
+INVOICE
+
+INVOICE # 2564-849
+Invoice Date: 14-Apr-2021
+
+Description QUANTITY PRICE
+Someone. 4.00 $91.41
+Rise institution. 5.00 $97.93
+Story loss. 5.00 $84.40
+Share miss. 1.00 $26.23
+
+SUB_TOTAL : 1303.52 USD
+
+GST(7%) : 91.25
+
+TOTAL : 1377.03 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1303.52  USD,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 1377.03 USD,Template2_Instance61.json
+"Bill to:Lori Weaver
+7398 Edwards Well
+Greenland, NM 47699 US
+Tel:+(339)936-0252
+Email:perezerin@example.org
+Site:https://alvarado.net/",Date: 17-Jul-1999,GST(7%) : 16.75,GSTIN: 33123456789102Z1,[],,INVOICE # INV/47-50/936,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Lori Weaver
+
+7398 Edwards Well
+Greenland, NM 47699 US
+Tel:+(339)936-0252
+Email:perezerin@example.org
+Site:https://alvarado.net/
+
+INVOICE
+
+INVOICE # INV/47-50/936
+Date: 17-Jul-1999
+
+Description QUANTITY PRICE
+Rich treat. 6.00 $34.23
+Ball seven. 1.00 $6.70
+
+Remember all painting. 1.00 $27.26
+
+SUB_TOTAL : 239.34 USD
+
+GST(7%) : 16.75
+
+TOTAL : 244.49 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 239.34  USD,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 244.49 USD,Template2_Instance62.json
+"Buyer :Jessica Brown
+4404 Matthew Terrace Suite 352
+Carrilloshire, IN 53133 US
+Tel:+(391)470-5220
+Email:bradfordgina@example.org
+Site:http://www.delgado.com/",Date: 31-Jan-2015,GST(7%) : 61.72,GSTIN: 33123456789102Z1,[],,INVOICE # 2655-318,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Jessica Brown
+
+4404 Matthew Terrace Suite 352
+Carrilloshire, IN 53133 US
+Tel:+(391)470-5220
+Email:bradfordgina@example.org
+Site:http:/Mwww.delgado.com/
+
+TAX INVOICE
+
+INVOICE # 2655-318
+Date: 31-Jan-2015
+
+Description QUANTITY PRICE
+Develop happy. 1.00 $55.45
+Power next summer. 6.00 $88.19
+Action blood above. 1.00 $42.80
+Rule keep world. 5.00 $50.87
+
+SUB_TOTAL : 881.74 USD
+
+GST(7%) : 61.72
+
+TOTAL : 906.07 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 881.74  USD,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 906.07 USD,Template2_Instance63.json
+"Bill to:Dr. James Walter MD
+911 Castillo Route Suite 916
+Joshuaport, AL 07481 US
+Tel:+(110)543-3457
+Email:golson@example.org
+Site:http://chapman.com/",Invoice Date: 24-Jul-2010,GST(7%) : 36.44,GSTIN: 33123456789102Z1,[],,Invoice number INV80590621,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Dr. James Walter MD
+911 Castillo Route Suite 916
+Joshuaport, AL 07481 US
+Tel:+(110)543-3457
+Email:golson@example.org
+Site:http://chapman.com/
+
+COMMERCIAL INVOICE
+
+Invoice number INV80590621
+Invoice Date: 24-Jul-2010
+
+Description QUANTITY PRICE
+Door bad tonight. 3.00 $16.85
+Type box suggest. 3.00 $90.58
+Election college. 4.00 $49.58
+
+SUB_TOTAL : 520.61 $
+
+GST(7%) : 36.44
+
+TOTAL : 538.70 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 520.61  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 538.70 $,Template2_Instance64.json
+"Buyer :Shannon Murray
+640 Rachel Drives Apt. 540
+Grossville, SD 85843 US
+Tel:+(107)022-1710
+Email:francismunoz@example.org
+Site:http://www.lynch.com/",Date: 18-Sep-2002,GST(7%) : 81.40,GSTIN: 33123456789102Z1,[],,INVOICE ID 3Y6M3d-415,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Shannon Murray
+
+640 Rachel Drives Apt. 540
+Grossville, SD 85843 US
+Tel:+(107)022-1710
+Email:francismunoz@example.org
+Site:http://www.lynch.com/
+
+TAX INVOICE
+
+INVOICE ID 3Y6M3d-415
+Date: 18-Sep-2002
+
+Description QUANTITY PRICE
+Other. 6.00 $99.96
+Free. 1.00 $6.86
+
+Likely college. 2.00 $68.85
+Assume amount support. 5.00 $71.76
+Window decision area. 2.00 $29.90
+
+SUB_TOTAL : 1162.92 $
+
+GST(7%) : 81.40
+
+TOTAL : 1160.13 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1162.92  $,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 1160.13 $,Template2_Instance65.json
+"Bill to:Nathaniel Brown
+9604 Moore Wells Suite 292
+New Jesseport, MD 04973 US
+Tel:+(393)038-0701
+Email:karenrusso@example.com
+Site:https://www.johnson.biz/",Invoice Date: 03-Jun-2000,GST(7%) : 29.14,GSTIN: 33123456789102Z1,[],,INVOICE # INV51564723,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Nathaniel Brown
+
+9604 Moore Wells Suite 292
+
+New Jesseport, MD 04973 US
+Tel:+(393)038-0701
+Email:karenrusso@example.com
+Site:https://www.johnson.biz/
+
+TAX INVOICE
+
+INVOICE # INV51564723
+Invoice Date: 03-Jun-2000
+
+Description QUANTITY PRICE
+Save property. 4.00 $22.97
+High. 2.00 $41.17
+Challenge. 3.00 $80.68
+
+SUB_TOTAL : 416.26 EUR
+
+GST(7%) : 29.14
+
+TOTAL : 415.41 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 416.26  EUR,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 415.41 EUR,Template2_Instance66.json
+"Bill to:Chad Stephenson
+66749 Cantu Camp
+Lake Allenmouth, AL 80140 US
+Tel:+(391)959-7367
+Email:mvazquez@example.org
+Site:http://www.shea.org/",Invoice Date: 06-Oct-2010,GST(7%) : 43.17,GSTIN: 33123456789102Z1,[],,INVOICE ID INV27259051,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Chad Stephenson
+66749 Cantu Camp
+
+Lake Allenmouth, AL 80140 US
+Tel:+(391)959-7367
+Email:mvazquez@example.org
+Site:http://www.shea.org/
+
+TAX INVOICE
+
+INVOICE ID INV27259051
+Invoice Date: 06-Oct-2010
+
+Description QUANTITY PRICE
+Agent measure. 1.00 $5.29
+Look finally dark must. 2.00 $2.99
+Practice outside. 4.00 $75.55
+Rock send skin. 1.00 $75.21
+Head eat response. 3.00 $76.01
+
+SUB_TOTAL : 616.71 EUR
+
+GST(7%) : 43.17
+
+TOTAL : 640.13 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 616.71  EUR,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 640.13 EUR,Template2_Instance67.json
+"Bill to:Joseph Kelly
+432 Johnson Grove
+Masonbury, MS 10869 US
+Tel:+(469)580-6111
+Email:nicholas37@example.com
+Site:http://www.howell.net/",Invoice Date: 19-Sep-2021,GST(7%) : 72.46,GSTIN: 33123456789102Z1,[],,INVOICE ID 5Y2M9d-549,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Joseph Kelly
+
+432 Johnson Grove
+
+Masonbury, MS 10869 US
+Tel:+(469)580-6111
+Email:nicholas37@example.com
+Site:http://www.howell.net/
+
+INVOICE
+
+INVOICE ID 5Y2M9d-549
+Invoice Date: 19-Sep-2021
+
+Description QUANTITY PRICE
+Imagine sport. 6.00 $74.26
+Hand deep. 3.00 $8.00
+
+Special that. 6.00 $94.26
+
+SUB_TOTAL : 1035.12 $
+
+GST(7%) : 72.46
+
+TOTAL : 1077.65 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1035.12  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 1077.65 $,Template2_Instance68.json
+"Bill to:Emily Johnson
+8486 Mercer Neck
+Martinhaven, TN 42560 US
+Tel:+(188)985-9868
+Email:jennifer97@example.com
+Site:https://ballard.com/",Invoice Date: 07-May-1993,GST(7%) : 25.94,GSTIN: 33123456789102Z1,[],,INVOICE ID INV07032376,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Emily Johnson
+
+8486 Mercer Neck
+
+Martinhaven, TN 42560 US
+Tel:+(188)985-9868
+Email:jennifer97@example.com
+Site:https://ballard.com/
+
+TAX INVOICE
+
+INVOICE ID INV07032376
+Invoice Date: 07-May-1993
+
+Description QUANTITY PRICE
+Reality effect care. 3.00 $43.86
+Student during. 6.00 $39.83
+
+SUB_TOTAL : 370.56 USD
+
+GST(7%) : 25.94
+
+TOTAL : 373.59 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 370.56  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 373.59 USD,Template2_Instance69.json
+"Buyer :Roger Rivera
+80426 Morgan Cliffs
+South Brenda, TX 07646 US
+Tel:+(411)672-0904
+Email:meganwiley@example.com
+Site:http://www.ellis-jackson.net/",Invoice Date: 16-Aug-1999,GST(7%) : 52.33,GSTIN: 33123456789102Z1,[],,INVOICE ID INV/84-38/976,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Roger Rivera
+
+80426 Morgan Cliffs
+
+South Brenda, TX 07646 US
+Tel:+(411)672-0904
+Email:meganwiley@example.com
+Site:http://www.ellis-jackson.net/
+
+INVOICE
+
+INVOICE ID INV/84-38/976
+Invoice Date: 16-Aug-1999
+
+Description QUANTITY PRICE
+Point old us. 5.00 $29.98
+Dream scientist. 6.00 $93.93
+Power audience. 6.00 $3.34
+
+Everything hour. 1.00 $14.09
+
+SUB_TOTAL : 747.61 USD
+
+GST(7%) : 52.33
+
+TOTAL : 761.92 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 747.61  USD,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 761.92 USD,Template2_Instance7.json
+"Bill to:Yesenia Brown
+18748 Doyle Glens
+Kimfurt, TN 90373 US
+Tel:+(569)316-9288
+Email:taramitchell@example.com
+Site:https://www.elliott-wilson.com/",Date: 18-May-2001,GST(7%) : 40.85,GSTIN: 33123456789102Z1,[],,INVOICE ID INV/44-29/041,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Yesenia Brown
+
+18748 Doyle Glens
+
+Kimfurt, TN 90373 US
+Tel:+(569)316-9288
+Email:taramitchell@example.com
+Site:https://www.elliott-wilson.com/
+
+TAX INVOICE
+
+INVOICE ID INV/44-29/041
+Date: 18-May-2001
+
+Description QUANTITY PRICE
+List up. 5.00 $88.21
+Necessary onto indeed. 6.00 $4.53
+
+Central. 2.00 $57.67
+
+SUB_TOTAL : 583.57 $
+
+GST(7%) : 40.85
+
+TOTAL : 591.52 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 583.57  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 591.52 $,Template2_Instance70.json
+"Bill to:Cynthia Wolfe
+6336 Stewart Fork
+New Steven, MD 70695 US
+Tel:+(963)275-5989
+Email:zwalton@example.net
+Site:https://taylor-johnson.biz/",Invoice Date: 30-Mar-2003,GST(7%) : 17.16,GSTIN: 33123456789102Z1,[],,INVOICE # INV94163723,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Cynthia Wolfe
+
+6336 Stewart Fork
+
+New Steven, MD 70695 US
+Tel:+(963)275-5989
+Email:zwalton@example.net
+Site:https://taylor-johnson.biz/
+
+TAX INVOICE
+
+INVOICE # INV94163723
+Invoice Date: 30-Mar-2003
+
+Description QUANTITY PRICE
+Southern ok full. 2.00 $67.23
+Game walk. 1.00 $39.53
+Sure stuff. 1.00 $38.40
+Think single hand. 1.00 $32.77
+
+SUB_TOTAL : 245.16 EUR
+
+GST(7%) : 17.16
+
+TOTAL : 244.71 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 245.16  EUR,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 244.71 EUR,Template2_Instance71.json
+"Bill to:Karen Thompson
+637 Chris Field
+Lucasview, PR 28623 US
+Tel:+(616)595-4800
+Email:chenerica@example.org
+Site:http://www.lamb-wallace.info/",Invoice Date: 13-Oct-2019,GST(7%) : 16.79,GSTIN: 33123456789102Z1,[],,INVOICE # INV37491974,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Karen Thompson
+
+637 Chris Field
+
+Lucasview, PR 28623 US
+Tel:+(616)595-4800
+Email:chenerica@example.org
+Site:http:/Awww.lamb-wallace.info/
+
+COMMERCIAL INVOICE
+
+INVOICE # INV37491974
+Invoice Date: 13-Oct-2019
+
+Description QUANTITY PRICE
+Difficult character since. 3.00 $74.10
+Animal sure stop. 1.00 $17.60
+
+SUB_TOTAL : 239.90 $
+
+GST(7%) : 16.79
+
+TOTAL : 244.25 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 239.90  $,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 244.25 $,Template2_Instance72.json
+"Buyer :John Johnson
+5218 Young Crest
+New Julia, UT 96100 US
+Tel:+(007)950-3721
+Email:kristen46@example.com
+Site:http://www.owens.com/",Date: 17-Sep-2006,GST(7%) : 39.27,GSTIN: 33123456789102Z1,[],,INVOICE # 5970-774,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :John Johnson
+
+5218 Young Crest
+
+New Julia, UT 96100 US
+Tel:+(007)950-3721
+Email:kristen46@example.com
+Site:http:/www.owens.com/
+
+COMMERCIAL INVOICE
+
+INVOICE # 5970-774
+Date: 17-Sep-2006
+
+Description QUANTITY PRICE
+So. 1.00 $10.14
+Air force. 3.00 $26.45
+Seem fire. 2.00 $60.12
+Nearly feel whom. 3.00 $70.81
+Huge record recognize. 2.00 $69.43
+
+SUB_TOTAL : 561.02 USD
+
+GST(7%) : 39.27
+
+TOTAL : 571.63 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 561.02  USD,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 571.63 USD,Template2_Instance73.json
+"Buyer :Karen Manning
+679 Brown Haven Suite 854
+Jacksonside, WI 62137 US
+Tel:+(544)736-3380
+Email:murraychelsea@example.net
+Site:http://www.williams.com/",Date: 17-Jun-2014,GST(7%) : 61.72,GSTIN: 33123456789102Z1,[],,INVOICE # 7Y9M4d-818,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Karen Manning
+
+679 Brown Haven Suite 854
+Jacksonside, WI 62137 US
+Tel:+(544)736-3380
+Email:murraychelsea@example.net
+Site:http://www.williams.com/
+
+TAX INVOICE
+
+INVOICE # 7Y9M4d-818
+Date: 17-Jun-2014
+
+Description QUANTITY PRICE
+Meeting place administration. 1.00 $3.88
+Sport inside open. 1.00 $18.14
+Provide. 6.00 $81.77
+Car concern administration. 4.00 $80.37
+Relationship hotel. 6.00 $7.94
+
+SUB_TOTAL : 881.76 USD
+
+GST(7%) : 61.72
+
+TOTAL : 931.61 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 881.76  USD,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 931.61 USD,Template2_Instance74.json
+"Bill to:Eric King
+163 Morgan Parks
+Barbaraview, NE 06686 US
+Tel:+(096)674-6493
+Email:hernandezjennifer@example.org
+Site:http://lynch.biz/",Date: 14-Feb-2005,GST(7%) : 23.99,GSTIN: 33123456789102Z1,[],,Invoice number INV/08-70/407,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Eric King
+
+163 Morgan Parks
+
+Barbaraview, NE 06686 US
+Tel:+(096)674-6493
+Email:hernandezjennifer@example.org
+Site:http://lynch.biz/
+
+COMMERCIAL INVOICE
+
+Invoice number INV/08-70/407
+Date: 14-Feb-2005
+
+Description QUANTITY PRICE
+Situation against. 1.00 $50.37
+Full day opportunity customer. 6.00 $48.72
+
+SUB_TOTAL : 342.69 USD
+
+GST(7%) : 23.99
+
+TOTAL : 344.97 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 342.69  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 344.97 USD,Template2_Instance75.json
+"Bill to:Devin Kennedy
+32471 Alvarez Knoll
+Williamfurt, NM 85433 US
+Tel:+(199)648-8473
+Email:nrose@example.org
+Site:http://hester.com/",Invoice Date: 11-Nov-2010,GST(7%) : 61.51,GSTIN: 33123456789102Z1,[],,INVOICE # 5Y6M3d-136,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Devin Kennedy
+32471 Alvarez Knoll
+Williamfurt, NM 85433 US
+Tel:+(199)648-8473
+Email:nrose@example.org
+Site:http://hester.com/
+
+COMMERCIAL INVOICE
+
+INVOICE # 5Y6M3d-136
+Invoice Date: 11-Nov-2010
+
+Description QUANTITY PRICE
+Share size. 4.00 $12.20
+Throw work. 2.00 $0.55
+
+Choose pretty sing. 5.00 $75.33
+Agree sense. 6.00 $75.36
+
+SUB_TOTAL : 878.71 EUR
+
+GST(7%) : 61.51
+
+TOTAL : 915.99 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 878.71  EUR,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 915.99 EUR,Template2_Instance76.json
+"Bill to:Dylan Skinner
+2534 Jacobs Mountains
+Lake Michael, DE 41383 US
+Tel:+(675)945-9628
+Email:yolandasteele@example.com
+Site:http://king.org/",Invoice Date: 26-Feb-2005,GST(7%) : 48.42,GSTIN: 33123456789102Z1,[],,INVOICE # INV/12-51/592,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Dylan Skinner
+
+2534 Jacobs Mountains
+
+Lake Michael, DE 41383 US
+Tel:+(675)945-9628
+Email:yolandasteele@example.com
+Site:http://king.org/
+
+INVOICE
+
+INVOICE # INV/12-51/592
+Invoice Date: 26-Feb-2005
+
+Description QUANTITY PRICE
+Military lay. 3.00 $66.25
+Serve him. 4.00 $84.81
+Join over. 2.00 $20.99
+Market and country. 5.00 $22.36
+
+SUB_TOTAL : 691.77 USD
+
+GST(7%) : 48.42
+
+TOTAL : 722.52 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 691.77  USD,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 722.52 USD,Template2_Instance77.json
+"Buyer :Jeffrey Jones
+206 Scott Wall Apt. 561
+Vincenttown, NC 09912 US
+Tel:+(098)363-5696
+Email:jeffreyflores@example.com
+Site:http://www.bruce.info/",Date: 17-Jul-1995,GST(7%) : 50.60,GSTIN: 33123456789102Z1,[],,INVOICE # INV/42-65/764,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Jeffrey Jones
+
+206 Scott Wall Apt. 561
+Vincenttown, NC 09912 US
+Tel:+(098)363-5696
+Email:jeffreyflores@example.com
+Site:http:/www.bruce.info/
+
+INVOICE
+
+INVOICE # INV/42-65/764
+Date: 17-Jul-1995
+
+Description QUANTITY PRICE
+Give low perform. 4.00 $52.57
+Always development. 3.00 $10.01
+Usually look serious. 6.00 $80.42
+
+SUB_TOTAL : 722.83 EUR
+
+GST(7%) : 50.60
+
+TOTAL : 740.08 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 722.83  EUR,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 740.08 EUR,Template2_Instance78.json
+"Bill to:Heidi Cain
+3846 Day Fall Apt. 038
+West Brittany, MT 32958 US
+Tel:+(847)516-3826
+Email:duartevictoria@example.com
+Site:https://www.nguyen-williamson.info/",Invoice Date: 03-Aug-2011,GST(7%) : 25.27,GSTIN: 33123456789102Z1,[],,INVOICE ID 7645-953,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Heidi Cain
+
+3846 Day Fall Apt. 038
+
+West Brittany, MT 32958 US
+Tel:+(847)516-3826
+Email:duartevictoria@example.com
+Site:https://www.nguyen-williamson.info/
+
+TAX INVOICE
+
+INVOICE ID 7645-953
+Invoice Date: 03-Aug-2011
+
+Description QUANTITY PRICE
+Every door prove and. 6.00 $28.46
+Kitchen street different. 4.00 $47.55
+
+SUB_TOTAL : 360.96 USD
+
+GST(7%) : 25.27
+
+TOTAL : 371.64 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 360.96  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 371.64 USD,Template2_Instance79.json
+"Bill to:James Mayer
+360 Jonathan Landing
+Jacquelineland, OH 72397 US
+Tel:+(871)203-1034
+Email:tammy75@example.org
+Site:https://www.williams.com/",Date: 26-Jul-2013,GST(7%) : 19.21,GSTIN: 33123456789102Z1,[],,Invoice number 6549-084,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: James Mayer
+
+360 Jonathan Landing
+Jacquelineland, OH 72397 US
+Tel:+(871)203-1034
+Email:tammy75@example.org
+Site:https://www.williams.com/
+
+COMMERCIAL INVOICE
+
+Invoice number 6549-084
+Date: 26-Jul-2013
+
+Description QUANTITY PRICE
+Reduce six. 1.00 $5.83
+
+Result thought. 1.00 $35.43
+Method trial policy. 5.00 $46.62
+
+SUB_TOTAL : 274.36 $
+
+GST(7%) : 19.21
+
+TOTAL : 276.09 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 274.36  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 276.09 $,Template2_Instance8.json
+"Bill to:Mark Ellis
+76819 Danny Mountain Suite 143
+Tuckerville, DC 24110 US
+Tel:+(758)683-1351
+Email:sramirez@example.com
+Site:http://todd.org/",Invoice Date: 13-Apr-2001,GST(7%) : 30.98,GSTIN: 33123456789102Z1,[],,Invoice number 6288-555,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Mark Ellis
+
+76819 Danny Mountain Suite 143
+Tuckerville, DC 24110 US
+Tel:+(758)683-1351
+Email:sramirez@example.com
+Site:http://todd.org/
+
+INVOICE
+
+Invoice number 6288-555
+Invoice Date: 13-Apr-2001
+
+Description QUANTITY PRICE
+National get bag. 4.00 $89.67
+Short. 1.00 $26.39
+Bank mother rather. 3.00 $19.16
+
+SUB_TOTAL : 442.55 EUR
+
+GST(7%) : 30.98
+
+TOTAL : 439.64 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 442.55  EUR,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 439.64 EUR,Template2_Instance80.json
+"Bill to:Brandon Hall
+8473 Baxter Crossroad Apt. 041
+West Christianstad, TN 33563 US
+Tel:+(571)285-2136
+Email:ehorton@example.com
+Site:https://stephens.com/",Date: 27-Nov-2006,GST(7%) : 8.46,GSTIN: 33123456789102Z1,[],,INVOICE # INV00045841,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Brandon Hall
+
+8473 Baxter Crossroad Apt. 041
+West Christianstad, TN 33563 US
+Tel:+(571)285-2136
+Email:ehorton@example.com
+Site:https://stephens.com/
+
+COMMERCIAL INVOICE
+
+INVOICE # INV00045841
+Date: 27-Nov-2006
+
+Description QUANTITY PRICE
+Show glass. 1.00 $52.48
+Establish quickly. 2.00 $32.62
+Structure later sense. 1.00 $3.10
+
+SUB_TOTAL : 120.82 USD
+
+GST(7%) : 8.46
+
+TOTAL : 126.15 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 120.82  USD,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 126.15 USD,Template2_Instance81.json
+"Bill to:Ashley Perez
+07530 Robles Garden
+Port Kimberlyland, AL 81463 US
+Tel:+(204)221-3354
+Email:kellirodriguez@example.net
+Site:http://clark-turner.com/",Date: 16-Sep-1995,GST(7%) : 49.91,GSTIN: 33123456789102Z1,[],,Invoice number INV/50-98/603,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Ashley Perez
+
+07530 Robles Garden
+
+Port Kimberlyland, AL 81463 US
+Tel:+(204)221-3354
+Email:kellirodriguez@example.net
+Site:http://clark-turner.com/
+
+TAX INVOICE
+
+Invoice number INV/50-98/603
+Date: 16-Sep-1995
+
+Description QUANTITY PRICE
+Trip mean pass. 6.00 $93.13
+Pressure feeling. 2.00 $56.52
+Baby doctor. 1.00 $41.11
+
+SUB_TOTAL : 712.93 $
+
+GST(7%) : 49.91
+
+TOTAL : 735.41 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 712.93  $,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 735.41 $,Template2_Instance82.json
+"Bill to:Cameron Johnson
+367 Theresa Harbors Apt. 363
+Jackchester, CO 95750 US
+Tel:+(661)222-7252
+Email:nicholasjohnson@example.com
+Site:http://young.net/",Invoice Date: 11-Jun-1998,GST(7%) : 25.74,GSTIN: 33123456789102Z1,[],,INVOICE # INV20912642,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Cameron Johnson
+
+367 Theresa Harbors Apt. 363
+Jackchester, CO 95750 US
+Tel:+(661)222-7252
+Email:nicholasjohnson@example.com
+Site:http://young.net/
+
+COMMERCIAL INVOICE
+
+INVOICE # INV20912642
+Invoice Date: 11-Jun-1998
+
+Description QUANTITY PRICE
+Party already effect. 3.00 $31.39
+Artist best. 3.00 $59.06
+Two value rise. 1.00 $96.41
+
+SUB_TOTAL : 367.76 EUR
+
+GST(7%) : 25.74
+
+TOTAL : 376.84 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 367.76  EUR,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 376.84 EUR,Template2_Instance83.json
+"Buyer :Jasmine Jefferson
+885 Klein Turnpike
+West Brandon, ME 20837 US
+Tel:+(483)356-8025
+Email:carrie22@example.com
+Site:http://drake.info/",Date: 21-Dec-2001,GST(7%) : 15.89,GSTIN: 33123456789102Z1,[],,Invoice number INV53814858,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Jasmine Jefferson
+885 Klein Turnpike
+
+West Brandon, ME 20837 US
+Tel:+(483)356-8025
+Email:carrie22@example.com
+Site:http://drake.info/
+
+TAX INVOICE
+
+Invoice number INV53814858
+Date: 21-Dec-2001
+
+Description QUANTITY PRICE
+Worker end. 1.00 $18.70
+Seat black commercial. 5.00 $31.56
+Difference detail organization. 1.00 $50.45
+
+SUB_TOTAL : 226.95 EUR
+
+GST(7%) : 15.89
+
+TOTAL : 230.53 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 226.95  EUR,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 230.53 EUR,Template2_Instance84.json
+"Buyer :Kristi Smith
+5698 Calderon Roads
+Emilychester, FM 51356 US
+Tel:+(389)585-8336
+Email:kimberly67@example.net
+Site:https://joseph-kemp.com/",Date: 25-Feb-2017,GST(7%) : 12.52,GSTIN: 33123456789102Z1,[],,INVOICE # 6Y1M2d-195,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Kristi Smith
+
+5698 Calderon Roads
+Emilychester, FM 51356 US
+Tel:+(389)585-8336
+Email:kimberly67@example.net
+Site:https://joseph-kemp.com/
+
+COMMERCIAL INVOICE
+
+INVOICE # 6Y1M2d-195
+Date: 25-Feb-2017
+
+Description QUANTITY PRICE
+Focus performance. 5.00 $5.95
+Nor well. 1.00 $1.30
+Return something he. 3.00 $1.80
+Break push. 1.00 $3.56
+Think authority. 3.00 $46.27
+
+SUB_TOTAL : 178.82 $
+
+GST(7%) : 12.52
+
+TOTAL : 183.14 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 178.82  $,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 183.14 $,Template2_Instance85.json
+"Buyer :Ashley Miller
+4946 Sandoval Stream Apt. 491
+New Melissa, NH 73393 US
+Tel:+(435)045-9747
+Email:heatherclark@example.org
+Site:https://mclaughlin.com/",Invoice Date: 29-Nov-2016,GST(7%) : 102.46,GSTIN: 33123456789102Z1,[],,INVOICE # INV90260278,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Ashley Miller
+
+4946 Sandoval Stream Apt. 491
+New Melissa, NH 73393 US
+Tel:+(435)045-9747
+Email:heatherclark@example.org
+Site:https://mclaughlin.com/
+
+TAX INVOICE
+
+INVOICE # INV90260278
+Invoice Date: 29-Nov-2016
+
+Description QUANTITY PRICE
+End artist. 3.00 $18.36
+Live purpose. 6.00 $93.18
+Approach performance. 5.00 $42.75
+Majority explain. 5.00 $71.24
+Person sit. 3.00 $93.22
+
+SUB_TOTAL : 1463.77 EUR
+
+GST(7%) : 102.46
+
+TOTAL : 1516.99 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1463.77  EUR,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 1516.99 EUR,Template2_Instance86.json
+"Bill to:Lisa Nelson
+17713 Jose Common Suite 677
+Brendaville, ID 67017 US
+Tel:+(173)523-1856
+Email:jasmineconner@example.com
+Site:https://martinez-rogers.com/",Date: 22-Mar-1994,GST(7%) : 16.72,GSTIN: 33123456789102Z1,[],,INVOICE # 8229-008,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Lisa Nelson
+
+17713 Jose Common Suite 677
+Brendaville, ID 67017 US
+Tel:+(173)523-1856
+Email:jasmineconner@example.com
+Site:https://martinez-rogers.com/
+
+TAX INVOICE
+
+INVOICE # 8229-008
+Date: 22-Mar-1994
+
+Description QUANTITY PRICE
+Heavy go body. 3.00 $8.87
+Friend Congress challenge. 4.00 $9.49
+Bill him claim. 1.00 $54.90
+Nature small approach. 4.00 $29.86
+
+SUB_TOTAL : 238.91 USD
+
+GST(7%) : 16.72
+
+TOTAL : 241.96 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 238.91  USD,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 241.96 USD,Template2_Instance87.json
+"Buyer :James Rodriguez
+0588 Robinson Parkways Apt. 091
+Herringhaven, IA 03895 US
+Tel:+(237)891-7158
+Email:joshua28@example.net
+Site:http://www.copeland-allen.com/",Date: 02-Mar-2004,GST(7%) : 61.35,GSTIN: 33123456789102Z1,[],,Invoice number 6Y6M5d-706,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :James Rodriguez
+
+0588 Robinson Parkways Apt. 091
+Herringhaven, IA 03895 US
+Tel:+(237)891-7158
+Email:joshua28@example.net
+Site:http://www.copeland-allen.com/
+
+INVOICE
+
+Invoice number 6Y6M5d-706
+Date: 02-Mar-2004
+
+Description QUANTITY PRICE
+Assume leader life. 1.00 $90.23
+Professional catch. 4.00 $46.91
+Crime everything. 3.00 $80.80
+Camera pick near station. 2.00 $38.51
+Affect during single. 6.00 $46.53
+
+SUB_TOTAL : 876.47 EUR
+
+GST(7%) : 61.35
+
+TOTAL : 918.72 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 876.47  EUR,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 918.72 EUR,Template2_Instance88.json
+"Buyer :Amanda Howard
+18498 Bell Key
+South Robin, TX 18172 US
+Tel:+(764)209-5990
+Email:housejeanne@example.org
+Site:https://keller.com/",Invoice Date: 17-May-1998,GST(7%) : 15.93,GSTIN: 33123456789102Z1,[],,INVOICE ID 7Y9M7d-698,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Amanda Howard
+
+18498 Bell Key
+
+South Robin, TX 18172 US
+Tel:+(764)209-5990
+Email:housejeanne@example.org
+Site:https://keller.com/
+
+COMMERCIAL INVOICE
+
+INVOICE ID 7Y9M7d-698
+Invoice Date: 17-May-1998
+
+Description QUANTITY PRICE
+Husband possible include. 6.00 $12.58
+Score brother. 2.00 $76.02
+
+SUB_TOTAL : 227.52 USD
+
+GST(7%) : 15.93
+
+TOTAL : 236.28 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 227.52  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 236.28 USD,Template2_Instance89.json
+"Bill to:William Hill
+18540 Aguilar Divide
+Dannyshire, FL 55150 US
+Tel:+(030)837-0761
+Email:teresawilson@example.net
+Site:https://booker.com/",Invoice Date: 11-Dec-2012,GST(7%) : 28.62,GSTIN: 33123456789102Z1,[],,INVOICE # INV/61-80/166,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:William Hill
+
+18540 Aguilar Divide
+
+Dannyshire, FL 55150 US
+Tel:+(030)837-0761
+Email:teresawilson@example.net
+Site:https://booker.com/
+
+INVOICE
+
+INVOICE # INV/61-80/166
+Invoice Date: 11-Dec-2012
+
+Description QUANTITY PRICE
+Democrat wall. 3.00 $5.31
+
+Assume artist. 4.00 $29.37
+Rich quite. 2.00 $25.29
+Hard financial. 4.00 $56.22
+
+SUB_TOTAL : 408.87 $
+
+GST(7%) : 28.62
+
+TOTAL : 412.74 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 408.87  $,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 412.74 $,Template2_Instance9.json
+"Buyer :Lynn Sullivan
+6287 Harrison Row Apt. 630
+Jenniferbury, DE 27131 US
+Tel:+(083)836-3092
+Email:baileykarl@example.net
+Site:http://simpson.org/",Invoice Date: 15-Oct-2013,GST(7%) : 10.86,GSTIN: 33123456789102Z1,[],,Invoice number INV99700514,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Lynn Sullivan
+
+6287 Harrison Row Apt. 630
+Jenniferbury, DE 27131 US
+Tel:+(083)836-3092
+Email:baileykarl@example.net
+Site:http://simpson.org/
+
+COMMERCIAL INVOICE
+
+Invoice number INV99700514
+Invoice Date: 15-Oct-2013
+
+Description QUANTITY PRICE
+Particular reach. 5.00 $21.24
+Let from. 3.00 $16.31
+
+SUB_TOTAL : 155.13 USD
+
+GST(7%) : 10.86
+
+TOTAL : 160.38 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 155.13  USD,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",COMMERCIAL INVOICE,TOTAL : 160.38 USD,Template2_Instance90.json
+"Buyer :Sarah Perry
+1044 West Crest
+Port William, AR 71849 US
+Tel:+(600)425-5420
+Email:robertshannon@example.org
+Site:http://www.boyer.com/",Date: 07-Jan-1998,GST(7%) : 55.99,GSTIN: 33123456789102Z1,[],,Invoice number 5Y5M8d-680,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Sarah Perry
+
+1044 West Crest
+
+Port William, AR 71849 US
+Tel:+(600)425-5420
+Email:robertshannon@example.org
+Site:http://www.boyer.com/
+
+TAX INVOICE
+
+Invoice number 5Y5M8d-680
+Date: 07-Jan-1998
+
+Description QUANTITY PRICE
+Road take matter friend. 4.00 $86.16
+Summer despite outside. 6.00 $75.88
+
+SUB_TOTAL : 799.92 $
+
+GST(7%) : 55.99
+
+TOTAL : 803.67 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 799.92  $,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 803.67 $,Template2_Instance91.json
+"Buyer :Tony Oconnor
+00397 Ali Locks Suite 773
+Ryanton, WI 17464 US
+Tel:+(067)763-5260
+Email:brenda15@example.com
+Site:http://www.adams.com/",Date: 21-Jan-2002,GST(7%) : 7.25,GSTIN: 33123456789102Z1,[],,Invoice number 1671-004,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Tony Oconnor
+
+00397 Ali Locks Suite 773
+Ryanton, WI 17464 US
+Tel:+(067)763-5260
+Email:brenda15@example.com
+Site:http://www.adams.com/
+
+INVOICE
+
+Invoice number 1671-004
+Date: 21-Jan-2002
+
+Description QUANTITY PRICE
+Compare other style beautiful. 2.00 $29.30
+Environment down. 2.00 $22.48
+
+SUB_TOTAL : 103.56 $
+
+GST(7%) : 7.25
+
+TOTAL : 103.89 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 103.56  $,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 103.89 $,Template2_Instance92.json
+"Buyer :Jennifer Barry
+7143 Finley Grove Apt. 849
+West Claire, MI 83096 US
+Tel:+(150)564-9215
+Email:paul22@example.net
+Site:https://hayes.com/",Date: 02-Jul-1998,GST(7%) : 95.50,GSTIN: 33123456789102Z1,[],,INVOICE ID INV/75-20/309,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Jennifer Barry
+
+7143 Finley Grove Apt. 849
+West Claire, MI 83096 US
+Tel:+(150)564-9215
+Email:paul22@example.net
+Site:https://hayes.com/
+
+TAX INVOICE
+
+INVOICE ID INV/75-20/309
+Date: 02-Jul-1998
+
+Description QUANTITY PRICE
+Live Mrs throughout. 4.00 $70.78
+Meet policy artist. 5.00 $12.58
+Direction writer theory. 4.00 $48.80
+Place prove break trouble. 5.00 $67.48
+Science seat way. 5.00 $97.14
+
+SUB_TOTAL : 1364.32 $
+
+GST(7%) : 95.50
+
+TOTAL : 1372.28 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1364.32  $,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 1372.28 $,Template2_Instance93.json
+"Bill to:Heather Reynolds
+28075 Faith Summit Suite 395
+Lake Natalie, NH 64691 US
+Tel:+(187)402-8024
+Email:pdunn@example.com
+Site:https://www.sutton-bauer.info/",Date: 28-Apr-1993,GST(7%) : 56.12,GSTIN: 33123456789102Z1,[],,INVOICE # 9284-650,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Heather Reynolds
+
+28075 Faith Summit Suite 395
+
+Lake Natalie, NH 64691 US
+Tel:+(187)402-8024
+Email:pdunn@example.com
+Site:https://www.sutton-bauer.info/
+
+INVOICE
+
+INVOICE # 9284-650
+Date: 28-Apr-1993
+
+Description QUANTITY PRICE
+Set whom college. 2.00 $35.97
+Leg entire race. 1.00 $23.11
+Seven subject. 2.00 $93.39
+Remember suddenly recently arrive. 1.00 $41.68
+Rule direction other. 6.00 $79.69
+
+SUB_TOTAL : 801.65 $
+
+GST(7%) : 56.12
+
+TOTAL : 827.45 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 801.65  $,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 827.45 $,Template2_Instance94.json
+"Bill to:Michael Davis
+911 Michael Island Suite 120
+East Barbara, OH 67845 US
+Tel:+(559)833-9619
+Email:lisabird@example.net
+Site:https://allen.info/",Date: 14-Jun-2012,GST(7%) : 19.38,GSTIN: 33123456789102Z1,[],,INVOICE # INV/08-44/462,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Michael Davis
+
+911 Michael Island Suite 120
+East Barbara, OH 67845 US
+Tel:+(559)833-9619
+Email:lisabird@example.net
+Site:https://allen.info/
+
+INVOICE
+
+INVOICE # INV/08-44/462
+Date: 14-Jun-2012
+
+Description QUANTITY PRICE
+Energy admit. 3.00 $45.04
+Show employee trial. 1.00 $66.75
+Wall black believe. 5.00 $14.99
+
+SUB_TOTAL : 276.82 USD
+
+GST(7%) : 19.38
+
+TOTAL : 285.98 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 276.82  USD,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 285.98 USD,Template2_Instance95.json
+"Bill to:Charles Howell
+8579 Powell Point Apt. 093
+Donaldsontown, CA 79139 US
+Tel:+(521)095-1532
+Email:casey90@example.net
+Site:https://www.hatfield.com/",Invoice Date: 28-Sep-1999,GST(7%) : 119.08,GSTIN: 33123456789102Z1,[],,INVOICE # 7242-672,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Charles Howell
+
+8579 Powell Point Apt. 093
+Donaldsontown, CA 79139 US
+Tel:+(521)095-1532
+Email:casey90@example.net
+Site:https://www.hatfield.com/
+
+INVOICE
+
+INVOICE # 7242-672
+Invoice Date: 28-Sep-1999
+
+Description QUANTITY PRICE
+Director culture particularly. 4.00 $95.43
+Argue child. 6.00 $83.32
+Million. 6.00 $76.55
+Particular authority. 4.00 $82.95
+Mention five guess. 1.00 $28.47
+
+SUB_TOTAL : 1701.21 EUR
+
+GST(7%) : 119.08
+
+TOTAL : 1732.31 EUR
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1701.21  EUR,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 1732.31 EUR,Template2_Instance96.json
+"Buyer :Erin Lewis
+4248 Brown Crest Suite 438
+West Duanechester, MA 84536 US
+Tel:+(774)806-0237
+Email:carolyngarcia@example.com
+Site:https://www.russell.com/",Invoice Date: 26-Aug-2010,GST(7%) : 7.23,GSTIN: 33123456789102Z1,[],,Invoice number INV/51-52/905,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Buyer :Erin Lewis
+
+4248 Brown Crest Suite 438
+
+West Duanechester, MA 84536 US
+Tel:+(774)806-0237
+Email:carolyngarcia@example.com
+Site:https://www.russell.com/
+
+INVOICE
+
+Invoice number INV/51-52/905
+Invoice Date: 26-Aug-2010
+
+Description QUANTITY PRICE
+Know. 2.00 $13.00
+Up move. 3.00 $25.74
+
+SUB_TOTAL : 103.22 $
+
+GST(7%) : 7.23
+
+TOTAL : 104.10 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 103.22  $,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 104.10 $,Template2_Instance97.json
+"Bill to:Jasmine Mann
+042 Cynthia Overpass
+North Thomas, WY 34473 US
+Tel:+(962)602-3561
+Email:jonesdaniel@example.com
+Site:http://floyd.net/",Invoice Date: 25-Dec-2005,GST(7%) : 36.83,GSTIN: 33123456789102Z1,[],,INVOICE ID 6Y1M5d-405,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to: Jasmine Mann
+
+042 Cynthia Overpass
+
+North Thomas, WY 34473 US
+Tel:+(962)602-3561
+Email:jonesdaniel@example.com
+Site:http://floyd.net/
+
+INVOICE
+
+INVOICE ID 6Y1M5d-405
+Invoice Date: 25-Dec-2005
+
+Description QUANTITY PRICE
+Place with. 2.00 $30.82
+Agreement interview. 3.00 $65.60
+Door machine reach. 2.00 $48.44
+Company something foot. 2.00 $39.30
+Worry over. 2.00 $46.12
+
+SUB_TOTAL : 526.16 USD
+
+GST(7%) : 36.83
+
+TOTAL : 546.93 USD
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 526.16  USD,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",INVOICE,TOTAL : 546.93 USD,Template2_Instance98.json
+"Bill to:Richard Garrett
+90029 Carol Trace
+South Jesse, MP 28288 US
+Tel:+(397)620-7698
+Email:erinlong@example.org
+Site:http://shaffer.biz/",Invoice Date: 26-Apr-2012,GST(7%) : 90.92,GSTIN: 33123456789102Z1,[],,Invoice number 1Y7M3d-276,"Chargebee
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 33123456789102Z1
+
+Bill to:Richard Garrett
+
+90029 Carol Trace
+
+South Jesse, MP 28288 US
+Tel:+(397)620-7698
+Email:erinlong@example.org
+Site:http://shaffer.biz/
+
+TAX INVOICE
+
+Invoice number 1Y7M3d-276
+Invoice Date: 26-Apr-2012
+
+Description QUANTITY PRICE
+Why dinner. 6.00 $92.26
+Dog development. 2.00 $28.22
+Hand do. 3.00 $79.51
+Poor. 3.00 $32.93
+Family against. 5.00 $70.32
+
+SUB_TOTAL : 1298.92 $
+
+GST(7%) : 90.92
+
+TOTAL : 1325.35 $
+
+","Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin",SUB_TOTAL : 1298.92  $,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",TAX INVOICE,TOTAL : 1325.35 $,Template2_Instance99.json
