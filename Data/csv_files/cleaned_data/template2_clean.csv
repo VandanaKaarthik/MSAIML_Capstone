@@ -1,0 +1,1401 @@
+BUYER,BUYER_addr_line1,BUYER_addr_line2,BUYER_city_state_postal_country,BUYER_email,BUYER_name,BUYER_raw,BUYER_site,BUYER_tel,CURRENCY,DATE,DATE_NORM,DISCOUNT_AMOUNT,GST(7%),GSTIN,INVOICE_INFO,NUMBER,SELLER_ADDRESS,SELLER_NAME,SELLER_addr_line1,SELLER_addr_line2,SELLER_city_state_postal_country,SELLER_email,SELLER_name,SELLER_raw,SELLER_site,SELLER_tel,SUB_TOTAL,SUB_TOTAL_AMOUNT,TABLE,TAX_AMOUNT,TITLE,TOTAL,TOTAL_AMOUNT,_source_file
+"Bill to:Suzanne Sandoval
+13868 Michael Wall
+North Cindytown, CT 45483 US
+Tel:+(836)744-4229
+Email:ljames@example.org
+Site:http://www.campbell-baker.com/",13868 Michael Wall,"North Cindytown, CT 45483 US",,ljames@example.org,Bill to:Suzanne Sandoval,"Bill to:Suzanne Sandoval | 13868 Michael Wall | North Cindytown, CT 45483 US | Tel:+(836)744-4229 | Email:ljames@example.org | Site:http://www.campbell-baker.com/",http://www.campbell-baker.com/,+(836)744-4229,USD,Invoice Date: 23-Feb-2014,2014-02-23,,GST(7%) : 45.21,GSTIN: 33123456789102Z1,[],INVOICE # INV17967327,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 645.92  $,645.92,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 653.95 $,653.95,Template2_Instance0.json
+"Buyer :Anthony Brown
+184 Christopher Ridge
+Mitchellchester, MN 32776 US
+Tel:+(298)995-0812
+Email:ericmontgomery@example.org
+Site:http://www.pierce.biz/",184 Christopher Ridge,"Mitchellchester, MN 32776 US",,ericmontgomery@example.org,Buyer :Anthony Brown,"Buyer :Anthony Brown | 184 Christopher Ridge | Mitchellchester, MN 32776 US | Tel:+(298)995-0812 | Email:ericmontgomery@example.org | Site:http://www.pierce.biz/",http://www.pierce.biz/,+(298)995-0812,USD,Date: 27-Mar-2008,2008-03-27,,GST(7%) : 51.08,GSTIN: 33123456789102Z1,[],Invoice number 2Y9M4d-800,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 729.65  USD,729.65,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 739.31 USD,739.31,Template2_Instance1.json
+"Buyer :Marvin Smith
+7611 Jesse Hollow Apt. 613
+Port Andrewside, OK 89679 US
+Tel:+(385)761-7629
+Email:lmorris@example.net
+Site:https://www.ramirez-cook.net/",7611 Jesse Hollow Apt. 613,"Port Andrewside, OK 89679 US",,lmorris@example.net,Buyer :Marvin Smith,"Buyer :Marvin Smith | 7611 Jesse Hollow Apt. 613 | Port Andrewside, OK 89679 US | Tel:+(385)761-7629 | Email:lmorris@example.net | Site:https://www.ramirez-cook.net/",https://www.ramirez-cook.net/,+(385)761-7629,USD,Invoice Date: 01-Apr-2021,2021-04-01,,GST(7%) : 75.55,GSTIN: 33123456789102Z1,[],INVOICE # 2533-604,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1079.27  $,9.27,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 1107.09 $,7.09,Template2_Instance10.json
+"Buyer :Katherine Mclaughlin
+66384 Lisa Hollow
+Port Rachelfort, GU 62290 US
+Tel:+(428)286-4205
+Email:xlucas@example.org
+Site:https://www.campos-wagner.com/",66384 Lisa Hollow,"Port Rachelfort, GU 62290 US",,xlucas@example.org,Buyer :Katherine Mclaughlin,"Buyer :Katherine Mclaughlin | 66384 Lisa Hollow | Port Rachelfort, GU 62290 US | Tel:+(428)286-4205 | Email:xlucas@example.org | Site:https://www.campos-wagner.com/",https://www.campos-wagner.com/,+(428)286-4205,USD,Date: 09-Dec-2013,2013-12-09,,GST(7%) : 24.57,GSTIN: 33123456789102Z1,[],INVOICE ID INV06961250,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 351.00  USD,351.0,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 357.40 USD,357.4,Template2_Instance100.json
+"Buyer :Tiffany Mendoza
+10965 Sullivan Summit
+Port Jeffrey, DC 98039 US
+Tel:+(205)168-6734
+Email:mcbridejasmine@example.org
+Site:https://lara.biz/",10965 Sullivan Summit,"Port Jeffrey, DC 98039 US",,mcbridejasmine@example.org,Buyer :Tiffany Mendoza,"Buyer :Tiffany Mendoza | 10965 Sullivan Summit | Port Jeffrey, DC 98039 US | Tel:+(205)168-6734 | Email:mcbridejasmine@example.org | Site:https://lara.biz/",https://lara.biz/,+(205)168-6734,EUR,Date: 10-Feb-1995,1995-02-10,,GST(7%) : 2.68,GSTIN: 33123456789102Z1,[],INVOICE # 5701-821,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 38.31  EUR,38.31,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 37.88 EUR,37.88,Template2_Instance101.json
+"Bill to:Maria Hoover
+8174 Knight Center Apt. 180
+Melanieborough, GA 30904 US
+Tel:+(532)450-3638
+Email:shannonparsons@example.org
+Site:http://www.day.com/",8174 Knight Center Apt. 180,"Melanieborough, GA 30904 US",,shannonparsons@example.org,Bill to:Maria Hoover,"Bill to:Maria Hoover | 8174 Knight Center Apt. 180 | Melanieborough, GA 30904 US | Tel:+(532)450-3638 | Email:shannonparsons@example.org | Site:http://www.day.com/",http://www.day.com/,+(532)450-3638,USD,Invoice Date: 07-Nov-2004,2004-11-07,,GST(7%) : 24.56,GSTIN: 33123456789102Z1,[],Invoice number 1Y8M4d-252,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 350.90  USD,350.9,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 353.11 USD,353.11,Template2_Instance102.json
+"Bill to:Michael Jones
+4504 Tina Cliffs Suite 034
+Kellyhaven, MI 80835 US
+Tel:+(772)987-7343
+Email:wadkins@example.com
+Site:https://www.garcia.net/",4504 Tina Cliffs Suite 034,"Kellyhaven, MI 80835 US",,wadkins@example.com,Bill to:Michael Jones,"Bill to:Michael Jones | 4504 Tina Cliffs Suite 034 | Kellyhaven, MI 80835 US | Tel:+(772)987-7343 | Email:wadkins@example.com | Site:https://www.garcia.net/",https://www.garcia.net/,+(772)987-7343,USD,Date: 13-May-1999,1999-05-13,,GST(7%) : 40.34,GSTIN: 33123456789102Z1,[],INVOICE # INV53756945,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 576.35  $,576.35,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 571.42 $,571.42,Template2_Instance103.json
+"Buyer :Emily Gordon
+582 Blake Meadow Apt. 421
+Donaldhaven, MH 13167 US
+Tel:+(701)792-5827
+Email:espinozajoseph@example.org
+Site:http://walker.com/",582 Blake Meadow Apt. 421,"Donaldhaven, MH 13167 US",,espinozajoseph@example.org,Buyer :Emily Gordon,"Buyer :Emily Gordon | 582 Blake Meadow Apt. 421 | Donaldhaven, MH 13167 US | Tel:+(701)792-5827 | Email:espinozajoseph@example.org | Site:http://walker.com/",http://walker.com/,+(701)792-5827,USD,Date: 18-Apr-1994,1994-04-18,,GST(7%) : 44.12,GSTIN: 33123456789102Z1,[],INVOICE ID 8309-658,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 630.27  $,630.27,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 641.62 $,641.62,Template2_Instance104.json
+"Buyer :Diana Frey
+819 Paul Prairie
+Jonesborough, MP 38972 US
+Tel:+(769)153-1879
+Email:brownmaria@example.org
+Site:http://parks.com/",819 Paul Prairie,"Jonesborough, MP 38972 US",,brownmaria@example.org,Buyer :Diana Frey,"Buyer :Diana Frey | 819 Paul Prairie | Jonesborough, MP 38972 US | Tel:+(769)153-1879 | Email:brownmaria@example.org | Site:http://parks.com/",http://parks.com/,+(769)153-1879,EUR,Date: 25-Jun-1995,1995-06-25,,GST(7%) : 109.27,GSTIN: 33123456789102Z1,[],Invoice number 7Y5M7d-024,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1560.93  EUR,0.93,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 1604.79 EUR,4.79,Template2_Instance105.json
+"Bill to:Amanda Gross
+6095 Mark Creek Apt. 795
+Laurabury, OH 76369 US
+Tel:+(299)889-7825
+Email:ortizphilip@example.com
+Site:https://bailey-mcintyre.com/",6095 Mark Creek Apt. 795,"Laurabury, OH 76369 US",,ortizphilip@example.com,Bill to:Amanda Gross,"Bill to:Amanda Gross | 6095 Mark Creek Apt. 795 | Laurabury, OH 76369 US | Tel:+(299)889-7825 | Email:ortizphilip@example.com | Site:https://bailey-mcintyre.com/",https://bailey-mcintyre.com/,+(299)889-7825,USD,Date: 11-Nov-2000,2000-11-11,,GST(7%) : 49.08,GSTIN: 33123456789102Z1,[],INVOICE # INV/91-46/641,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 701.14  USD,701.14,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 735.94 USD,735.94,Template2_Instance106.json
+"Bill to:Michael Wilkins
+64283 Chavez Circle
+West Laura, MS 20638 US
+Tel:+(626)466-0548
+Email:jill35@example.net
+Site:http://bishop.com/",64283 Chavez Circle,"West Laura, MS 20638 US",,jill35@example.net,Bill to:Michael Wilkins,"Bill to:Michael Wilkins | 64283 Chavez Circle | West Laura, MS 20638 US | Tel:+(626)466-0548 | Email:jill35@example.net | Site:http://bishop.com/",http://bishop.com/,+(626)466-0548,USD,Invoice Date: 18-Jan-2002,2002-01-18,,GST(7%) : 60.29,GSTIN: 33123456789102Z1,[],INVOICE # INV/83-58/218,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 861.29  USD,861.29,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 874.34 USD,874.34,Template2_Instance107.json
+"Buyer :Julia Delgado
+653 Miller Oval Apt. 148
+Wigginschester, MD 81962 US
+Tel:+(703)604-5400
+Email:vrodriguez@example.org
+Site:http://www.meyer-cunningham.com/",653 Miller Oval Apt. 148,"Wigginschester, MD 81962 US",,vrodriguez@example.org,Buyer :Julia Delgado,"Buyer :Julia Delgado | 653 Miller Oval Apt. 148 | Wigginschester, MD 81962 US | Tel:+(703)604-5400 | Email:vrodriguez@example.org | Site:http://www.meyer-cunningham.com/",http://www.meyer-cunningham.com/,+(703)604-5400,USD,Date: 17-Jun-2013,2013-06-17,,GST(7%) : 26.77,GSTIN: 33123456789102Z1,[],INVOICE ID INV89073127,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 382.50  USD,382.5,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 388.72 USD,388.72,Template2_Instance108.json
+"Buyer :Shaun Marshall
+835 Arthur Common Apt. 382
+New Sabrinafort, PA 82120 US
+Tel:+(197)671-9955
+Email:stonerichard@example.com
+Site:https://www.banks-velez.com/",835 Arthur Common Apt. 382,"New Sabrinafort, PA 82120 US",,stonerichard@example.com,Buyer :Shaun Marshall,"Buyer :Shaun Marshall | 835 Arthur Common Apt. 382 | New Sabrinafort, PA 82120 US | Tel:+(197)671-9955 | Email:stonerichard@example.com | Site:https://www.banks-velez.com/",https://www.banks-velez.com/,+(197)671-9955,USD,Date: 25-Dec-2018,2018-12-25,,GST(7%) : 81.38,GSTIN: 33123456789102Z1,[],Invoice number INV16849390,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1162.55  $,2.55,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 1204.13 $,4.13,Template2_Instance109.json
+"Buyer :April Sherman
+574 Michelle Haven
+Castillobury, MT 32771 US
+Tel:+(698)845-1268
+Email:gregoryhamilton@example.org
+Site:https://www.tucker.org/",574 Michelle Haven,"Castillobury, MT 32771 US",,gregoryhamilton@example.org,Buyer :April Sherman,"Buyer :April Sherman | 574 Michelle Haven | Castillobury, MT 32771 US | Tel:+(698)845-1268 | Email:gregoryhamilton@example.org | Site:https://www.tucker.org/",https://www.tucker.org/,+(698)845-1268,EUR,Invoice Date: 13-Nov-1999,1999-11-13,,GST(7%) : 23.84,GSTIN: 33123456789102Z1,[],Invoice number 6508-985,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 340.59  EUR,340.59,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 357.49 EUR,357.49,Template2_Instance11.json
+"Bill to:James Fernandez
+7382 Ferguson Plaza
+New Samantha, MN 36762 US
+Tel:+(316)470-7210
+Email:williamssean@example.com
+Site:https://www.turner.com/",7382 Ferguson Plaza,"New Samantha, MN 36762 US",,williamssean@example.com,Bill to:James Fernandez,"Bill to:James Fernandez | 7382 Ferguson Plaza | New Samantha, MN 36762 US | Tel:+(316)470-7210 | Email:williamssean@example.com | Site:https://www.turner.com/",https://www.turner.com/,+(316)470-7210,USD,Date: 15-Oct-1996,1996-10-15,,GST(7%) : 47.72,GSTIN: 33123456789102Z1,[],INVOICE ID INV/41-08/772,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 681.78  USD,681.78,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 702.66 USD,702.66,Template2_Instance110.json
+"Bill to:Kristin Warren
+21005 Cruz Stravenue Suite 158
+North Sandra, PA 49514 US
+Tel:+(517)411-9094
+Email:upatton@example.net
+Site:https://www.leon.com/",21005 Cruz Stravenue Suite 158,"North Sandra, PA 49514 US",,upatton@example.net,Bill to:Kristin Warren,"Bill to:Kristin Warren | 21005 Cruz Stravenue Suite 158 | North Sandra, PA 49514 US | Tel:+(517)411-9094 | Email:upatton@example.net | Site:https://www.leon.com/",https://www.leon.com/,+(517)411-9094,USD,Date: 02-Jul-2008,2008-07-02,,GST(7%) : 10.85,GSTIN: 33123456789102Z1,[],Invoice number 1073-132,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 155.00  $,155.0,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 160.46 $,160.46,Template2_Instance111.json
+"Bill to:Casey Price
+8828 Christian Vista
+Carolynchester, NH 46194 US
+Tel:+(577)243-4460
+Email:olivia74@example.org
+Site:http://www.ryan.com/",8828 Christian Vista,"Carolynchester, NH 46194 US",,olivia74@example.org,Bill to:Casey Price,"Bill to:Casey Price | 8828 Christian Vista | Carolynchester, NH 46194 US | Tel:+(577)243-4460 | Email:olivia74@example.org | Site:http://www.ryan.com/",http://www.ryan.com/,+(577)243-4460,EUR,Date: 09-Dec-2020,2020-12-09,,GST(7%) : 32.62,GSTIN: 33123456789102Z1,[],Invoice number 7Y8M6d-266,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 465.94  EUR,465.94,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 469.42 EUR,469.42,Template2_Instance112.json
+"Buyer :Scott Griffin
+87847 Ponce Street
+Port Andreafort, VT 19910 US
+Tel:+(079)419-2613
+Email:michaelbryant@example.com
+Site:https://www.wilson.com/",87847 Ponce Street,"Port Andreafort, VT 19910 US",,michaelbryant@example.com,Buyer :Scott Griffin,"Buyer :Scott Griffin | 87847 Ponce Street | Port Andreafort, VT 19910 US | Tel:+(079)419-2613 | Email:michaelbryant@example.com | Site:https://www.wilson.com/",https://www.wilson.com/,+(079)419-2613,EUR,Invoice Date: 25-Jul-2007,2007-07-25,,GST(7%) : 55.47,GSTIN: 33123456789102Z1,[],INVOICE ID 4Y2M5d-430,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 792.38  EUR,792.38,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 810.41 EUR,810.41,Template2_Instance113.json
+"Bill to:Megan Cardenas
+1609 Charles Glens Suite 029
+South Robert, IL 85116 US
+Tel:+(074)373-7411
+Email:fross@example.com
+Site:http://www.yates.net/",1609 Charles Glens Suite 029,"South Robert, IL 85116 US",,fross@example.com,Bill to:Megan Cardenas,"Bill to:Megan Cardenas | 1609 Charles Glens Suite 029 | South Robert, IL 85116 US | Tel:+(074)373-7411 | Email:fross@example.com | Site:http://www.yates.net/",http://www.yates.net/,+(074)373-7411,USD,Date: 02-Jun-1998,1998-06-02,,GST(7%) : 33.63,GSTIN: 33123456789102Z1,[],INVOICE # 1662-250,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 480.47  USD,480.47,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 502.79 USD,502.79,Template2_Instance114.json
+"Buyer :Marcus Taylor
+824 Miranda Run Suite 820
+Kimberlyshire, NV 33263 US
+Tel:+(137)464-9034
+Email:dwalker@example.com
+Site:https://www.martinez-rivera.com/",824 Miranda Run Suite 820,"Kimberlyshire, NV 33263 US",,dwalker@example.com,Buyer :Marcus Taylor,"Buyer :Marcus Taylor | 824 Miranda Run Suite 820 | Kimberlyshire, NV 33263 US | Tel:+(137)464-9034 | Email:dwalker@example.com | Site:https://www.martinez-rivera.com/",https://www.martinez-rivera.com/,+(137)464-9034,USD,Invoice Date: 29-Mar-2013,2013-03-29,,GST(7%) : 69.05,GSTIN: 33123456789102Z1,[],Invoice number 2241-894,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 986.40  $,986.4,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 1013.63 $,3.63,Template2_Instance115.json
+"Buyer :Emily White
+008 Hendricks Hills
+Port Patriciaton, WI 82172 US
+Tel:+(961)959-8860
+Email:rturner@example.com
+Site:http://hartman-mosley.com/",008 Hendricks Hills,"Port Patriciaton, WI 82172 US",,rturner@example.com,Buyer :Emily White,"Buyer :Emily White | 008 Hendricks Hills | Port Patriciaton, WI 82172 US | Tel:+(961)959-8860 | Email:rturner@example.com | Site:http://hartman-mosley.com/",http://hartman-mosley.com/,+(961)959-8860,EUR,Date: 14-May-2008,2008-05-14,,GST(7%) : 18.81,GSTIN: 33123456789102Z1,[],Invoice number INV/56-66/023,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 268.74  EUR,268.74,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 264.52 EUR,264.52,Template2_Instance116.json
+"Bill to:Brian Sullivan
+201 Luna Lodge
+Gailside, MP 26309 US
+Tel:+(579)583-0781
+Email:christianjordan@example.com
+Site:http://www.thompson.com/",201 Luna Lodge,"Gailside, MP 26309 US",,christianjordan@example.com,Bill to:Brian Sullivan,"Bill to:Brian Sullivan | 201 Luna Lodge | Gailside, MP 26309 US | Tel:+(579)583-0781 | Email:christianjordan@example.com | Site:http://www.thompson.com/",http://www.thompson.com/,+(579)583-0781,EUR,Invoice Date: 23-May-2012,2012-05-23,,GST(7%) : 63.76,GSTIN: 33123456789102Z1,[],INVOICE # 3406-660,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 910.79  EUR,910.79,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 921.29 EUR,921.29,Template2_Instance117.json
+"Buyer :Douglas Anderson
+7606 John Mills
+New Gregory, DE 60383 US
+Tel:+(640)284-4456
+Email:jonathanreyes@example.org
+Site:http://coleman.com/",7606 John Mills,"New Gregory, DE 60383 US",,jonathanreyes@example.org,Buyer :Douglas Anderson,"Buyer :Douglas Anderson | 7606 John Mills | New Gregory, DE 60383 US | Tel:+(640)284-4456 | Email:jonathanreyes@example.org | Site:http://coleman.com/",http://coleman.com/,+(640)284-4456,USD,Date: 26-Dec-2022,2022-12-26,,GST(7%) : 88.11,GSTIN: 33123456789102Z1,[],Invoice number INV/73-01/424,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1258.69  USD,8.69,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 1266.64 USD,6.64,Template2_Instance118.json
+"Buyer :Jason Young
+48012 Mcclure Union
+Andersonbury, HI 28562 US
+Tel:+(262)754-2951
+Email:vegatammy@example.org
+Site:https://small.com/",48012 Mcclure Union,"Andersonbury, HI 28562 US",,vegatammy@example.org,Buyer :Jason Young,"Buyer :Jason Young | 48012 Mcclure Union | Andersonbury, HI 28562 US | Tel:+(262)754-2951 | Email:vegatammy@example.org | Site:https://small.com/",https://small.com/,+(262)754-2951,EUR,Date: 25-Feb-1999,1999-02-25,,GST(7%) : 30.57,GSTIN: 33123456789102Z1,[],INVOICE ID INV77605907,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 436.68  EUR,436.68,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 452.55 EUR,452.55,Template2_Instance119.json
+"Buyer :Thomas Reese
+129 Armstrong Turnpike
+Jeanetteborough, GU 73437 US
+Tel:+(376)541-3808
+Email:fjones@example.org
+Site:https://www.mcdonald-wilson.com/",129 Armstrong Turnpike,"Jeanetteborough, GU 73437 US",,fjones@example.org,Buyer :Thomas Reese,"Buyer :Thomas Reese | 129 Armstrong Turnpike | Jeanetteborough, GU 73437 US | Tel:+(376)541-3808 | Email:fjones@example.org | Site:https://www.mcdonald-wilson.com/",https://www.mcdonald-wilson.com/,+(376)541-3808,USD,Date: 26-Aug-2004,2004-08-26,,GST(7%) : 19.73,GSTIN: 33123456789102Z1,[],INVOICE # INV77878385,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 281.82  USD,281.82,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 292.41 USD,292.41,Template2_Instance12.json
+"Buyer :Kelly Hendrix
+24926 Sandra Spur Apt. 883
+South Michael, ME 90172 US
+Tel:+(099)761-8294
+Email:joshua31@example.net
+Site:https://baker-richardson.com/",24926 Sandra Spur Apt. 883,"South Michael, ME 90172 US",,joshua31@example.net,Buyer :Kelly Hendrix,"Buyer :Kelly Hendrix | 24926 Sandra Spur Apt. 883 | South Michael, ME 90172 US | Tel:+(099)761-8294 | Email:joshua31@example.net | Site:https://baker-richardson.com/",https://baker-richardson.com/,+(099)761-8294,USD,Invoice Date: 21-Feb-2011,2011-02-21,,GST(7%) : 49.84,GSTIN: 33123456789102Z1,[],INVOICE ID INV75415141,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 711.98  USD,711.98,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 745.66 USD,745.66,Template2_Instance120.json
+"Buyer :Christine Shaw
+40368 Cory Brook Apt. 357
+Lake Julie, OK 33970 US
+Tel:+(064)389-3596
+Email:brittany56@example.net
+Site:https://www.wood-obrien.info/",40368 Cory Brook Apt. 357,"Lake Julie, OK 33970 US",,brittany56@example.net,Buyer :Christine Shaw,"Buyer :Christine Shaw | 40368 Cory Brook Apt. 357 | Lake Julie, OK 33970 US | Tel:+(064)389-3596 | Email:brittany56@example.net | Site:https://www.wood-obrien.info/",https://www.wood-obrien.info/,+(064)389-3596,EUR,Invoice Date: 21-May-1995,1995-05-21,,GST(7%) : 48.23,GSTIN: 33123456789102Z1,[],Invoice number 0887-909,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 689.03  EUR,689.03,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 713.69 EUR,713.69,Template2_Instance121.json
+"Buyer :Jason Brown
+160 Christine Plains
+South Pamela, WA 59544 US
+Tel:+(189)721-1007
+Email:jcopeland@example.com
+Site:https://fischer.com/",160 Christine Plains,"South Pamela, WA 59544 US",,jcopeland@example.com,Buyer :Jason Brown,"Buyer :Jason Brown | 160 Christine Plains | South Pamela, WA 59544 US | Tel:+(189)721-1007 | Email:jcopeland@example.com | Site:https://fischer.com/",https://fischer.com/,+(189)721-1007,EUR,Invoice Date: 25-Feb-2012,2012-02-25,,GST(7%) : 37.94,GSTIN: 33123456789102Z1,[],INVOICE ID 1038-269,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 542.04  EUR,542.04,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 548.50 EUR,548.5,Template2_Instance122.json
+"Bill to:William Wheeler
+09511 Justin View Apt. 797
+Leonardfort, CO 81659 US
+Tel:+(516)206-3796
+Email:ladkins@example.com
+Site:https://www.mueller.com/",09511 Justin View Apt. 797,"Leonardfort, CO 81659 US",,ladkins@example.com,Bill to:William Wheeler,"Bill to:William Wheeler | 09511 Justin View Apt. 797 | Leonardfort, CO 81659 US | Tel:+(516)206-3796 | Email:ladkins@example.com | Site:https://www.mueller.com/",https://www.mueller.com/,+(516)206-3796,USD,Invoice Date: 12-Dec-2018,2018-12-12,,GST(7%) : 34.54,GSTIN: 33123456789102Z1,[],Invoice number INV/65-59/648,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 493.46  $,493.46,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 509.13 $,509.13,Template2_Instance123.json
+"Bill to:Christopher Brown
+0463 Brooks Lights
+Jeremiahmouth, NY 27656 US
+Tel:+(674)136-9281
+Email:kenneth00@example.com
+Site:http://payne.com/",0463 Brooks Lights,"Jeremiahmouth, NY 27656 US",,kenneth00@example.com,Bill to:Christopher Brown,"Bill to:Christopher Brown | 0463 Brooks Lights | Jeremiahmouth, NY 27656 US | Tel:+(674)136-9281 | Email:kenneth00@example.com | Site:http://payne.com/",http://payne.com/,+(674)136-9281,USD,Invoice Date: 21-Nov-2004,2004-11-21,,GST(7%) : 28.39,GSTIN: 33123456789102Z1,[],Invoice number 7Y6M3d-364,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 405.54  $,405.54,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 419.17 $,419.17,Template2_Instance124.json
+"Buyer :Leslie Jensen
+2528 Samantha Route Suite 059
+Dunnmouth, RI 73823 US
+Tel:+(864)169-9840
+Email:marcusmills@example.com
+Site:https://horton.org/",2528 Samantha Route Suite 059,"Dunnmouth, RI 73823 US",,marcusmills@example.com,Buyer :Leslie Jensen,"Buyer :Leslie Jensen | 2528 Samantha Route Suite 059 | Dunnmouth, RI 73823 US | Tel:+(864)169-9840 | Email:marcusmills@example.com | Site:https://horton.org/",https://horton.org/,+(864)169-9840,USD,Invoice Date: 04-Oct-2010,2010-10-04,,GST(7%) : 24.82,GSTIN: 33123456789102Z1,[],Invoice number INV/67-53/547,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 354.62  $,354.62,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 362.01 $,362.01,Template2_Instance125.json
+"Buyer :Wayne Crawford
+278 Erika Roads
+South Diana, AL 07041 US
+Tel:+(917)281-6893
+Email:jeff30@example.net
+Site:https://ray.com/",278 Erika Roads,"South Diana, AL 07041 US",,jeff30@example.net,Buyer :Wayne Crawford,"Buyer :Wayne Crawford | 278 Erika Roads | South Diana, AL 07041 US | Tel:+(917)281-6893 | Email:jeff30@example.net | Site:https://ray.com/",https://ray.com/,+(917)281-6893,USD,Date: 22-Sep-2011,2011-09-22,,GST(7%) : 47.09,GSTIN: 33123456789102Z1,[],INVOICE ID INV/82-93/559,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 672.70  USD,672.7,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 689.27 USD,689.27,Template2_Instance126.json
+"Bill to:Julie Townsend
+5825 Brian Hill
+South Lisa, IN 55736 US
+Tel:+(180)483-5755
+Email:kingmichael@example.net
+Site:https://wyatt-conley.com/",5825 Brian Hill,"South Lisa, IN 55736 US",,kingmichael@example.net,Bill to:Julie Townsend,"Bill to:Julie Townsend | 5825 Brian Hill | South Lisa, IN 55736 US | Tel:+(180)483-5755 | Email:kingmichael@example.net | Site:https://wyatt-conley.com/",https://wyatt-conley.com/,+(180)483-5755,USD,Date: 16-Apr-2017,2017-04-16,,GST(7%) : 31.04,GSTIN: 33123456789102Z1,[],Invoice number INV67831993,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 443.46  USD,443.46,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 455.08 USD,455.08,Template2_Instance127.json
+"Bill to:Mason Pierce
+936 Lambert Lodge Suite 511
+Lawrencechester, MI 23501 US
+Tel:+(717)712-8340
+Email:amanda76@example.org
+Site:http://www.holland.biz/",936 Lambert Lodge Suite 511,"Lawrencechester, MI 23501 US",,amanda76@example.org,Bill to:Mason Pierce,"Bill to:Mason Pierce | 936 Lambert Lodge Suite 511 | Lawrencechester, MI 23501 US | Tel:+(717)712-8340 | Email:amanda76@example.org | Site:http://www.holland.biz/",http://www.holland.biz/,+(717)712-8340,EUR,Invoice Date: 30-Dec-2007,2007-12-30,,GST(7%) : 60.41,GSTIN: 33123456789102Z1,[],INVOICE # INV21638475,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 863.05  EUR,863.05,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 902.46 EUR,902.46,Template2_Instance128.json
+"Buyer :Amy Stewart
+7777 Dennis Union Apt. 782
+Lake Mollystad, WV 49826 US
+Tel:+(326)454-9759
+Email:awilson@example.com
+Site:https://flores.net/",7777 Dennis Union Apt. 782,"Lake Mollystad, WV 49826 US",,awilson@example.com,Buyer :Amy Stewart,"Buyer :Amy Stewart | 7777 Dennis Union Apt. 782 | Lake Mollystad, WV 49826 US | Tel:+(326)454-9759 | Email:awilson@example.com | Site:https://flores.net/",https://flores.net/,+(326)454-9759,USD,Date: 02-Apr-2020,2020-04-02,,GST(7%) : 74.82,GSTIN: 33123456789102Z1,[],INVOICE ID INV03461906,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1068.84  USD,8.84,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 1095.16 USD,5.16,Template2_Instance129.json
+"Buyer :Chad Bernard
+889 Jacqueline Wall
+Christopherstad, CO 22615 US
+Tel:+(572)667-9238
+Email:ericgonzalez@example.com
+Site:https://keller.org/",889 Jacqueline Wall,"Christopherstad, CO 22615 US",,ericgonzalez@example.com,Buyer :Chad Bernard,"Buyer :Chad Bernard | 889 Jacqueline Wall | Christopherstad, CO 22615 US | Tel:+(572)667-9238 | Email:ericgonzalez@example.com | Site:https://keller.org/",https://keller.org/,+(572)667-9238,USD,Invoice Date: 21-Sep-1996,1996-09-21,,GST(7%) : 75.45,GSTIN: 33123456789102Z1,[],INVOICE # INV/56-00/247,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1077.92  USD,7.92,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 1103.01 USD,3.01,Template2_Instance13.json
+"Buyer :Cynthia Maxwell MD
+372 Griffin Vista Apt. 924
+Port Robin, TX 93209 US
+Tel:+(552)514-0488
+Email:ryanwhitaker@example.com
+Site:https://www.singh.com/",372 Griffin Vista Apt. 924,"Port Robin, TX 93209 US",,ryanwhitaker@example.com,Buyer :Cynthia Maxwell MD,"Buyer :Cynthia Maxwell MD | 372 Griffin Vista Apt. 924 | Port Robin, TX 93209 US | Tel:+(552)514-0488 | Email:ryanwhitaker@example.com | Site:https://www.singh.com/",https://www.singh.com/,+(552)514-0488,USD,Date: 07-Mar-2002,2002-03-07,,GST(7%) : 23.70,GSTIN: 33123456789102Z1,[],INVOICE ID INV/60-54/000,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 338.51  $,338.51,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 342.65 $,342.65,Template2_Instance130.json
+"Buyer :Scott Edwards
+658 Reid Heights
+Rebeccaburgh, WA 29106 US
+Tel:+(635)089-0697
+Email:janet20@example.org
+Site:https://www.carney.com/",658 Reid Heights,"Rebeccaburgh, WA 29106 US",,janet20@example.org,Buyer :Scott Edwards,"Buyer :Scott Edwards | 658 Reid Heights | Rebeccaburgh, WA 29106 US | Tel:+(635)089-0697 | Email:janet20@example.org | Site:https://www.carney.com/",https://www.carney.com/,+(635)089-0697,USD,Date: 04-Apr-2017,2017-04-04,,GST(7%) : 70.96,GSTIN: 33123456789102Z1,[],Invoice number INV75482400,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1013.78  USD,3.78,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 1005.47 USD,5.47,Template2_Instance131.json
+"Bill to:Melinda Ayala
+362 Patricia Prairie
+East Daniel, NV 77126 US
+Tel:+(675)346-8607
+Email:grace30@example.com
+Site:http://turner-ward.com/",362 Patricia Prairie,"East Daniel, NV 77126 US",,grace30@example.com,Bill to:Melinda Ayala,"Bill to:Melinda Ayala | 362 Patricia Prairie | East Daniel, NV 77126 US | Tel:+(675)346-8607 | Email:grace30@example.com | Site:http://turner-ward.com/",http://turner-ward.com/,+(675)346-8607,EUR,Invoice Date: 29-Jun-2008,2008-06-29,,GST(7%) : 92.61,GSTIN: 33123456789102Z1,[],Invoice number INV/04-95/503,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1322.97  EUR,2.97,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 1383.11 EUR,3.11,Template2_Instance132.json
+"Bill to:Cameron Ward
+8524 Williams Parkways
+North Shellyside, WY 36538 US
+Tel:+(162)566-7661
+Email:stephaniehorton@example.org
+Site:http://cole.com/",8524 Williams Parkways,"North Shellyside, WY 36538 US",,stephaniehorton@example.org,Bill to:Cameron Ward,"Bill to:Cameron Ward | 8524 Williams Parkways | North Shellyside, WY 36538 US | Tel:+(162)566-7661 | Email:stephaniehorton@example.org | Site:http://cole.com/",http://cole.com/,+(162)566-7661,USD,Invoice Date: 13-Jan-2002,2002-01-13,,GST(7%) : 45.64,GSTIN: 33123456789102Z1,[],INVOICE # 3Y2M2d-834,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 651.95  USD,651.95,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 663.64 USD,663.64,Template2_Instance133.json
+"Buyer :Jeff Jones
+8065 Linda Roads Suite 747
+West Ryanview, AZ 32683 US
+Tel:+(008)405-6318
+Email:nfloyd@example.net
+Site:https://snyder.com/",8065 Linda Roads Suite 747,"West Ryanview, AZ 32683 US",,nfloyd@example.net,Buyer :Jeff Jones,"Buyer :Jeff Jones | 8065 Linda Roads Suite 747 | West Ryanview, AZ 32683 US | Tel:+(008)405-6318 | Email:nfloyd@example.net | Site:https://snyder.com/",https://snyder.com/,+(008)405-6318,USD,Invoice Date: 24-Jul-1997,1997-07-24,,GST(7%) : 51.29,GSTIN: 33123456789102Z1,[],Invoice number 3545-805,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 732.68  $,732.68,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 766.13 $,766.13,Template2_Instance134.json
+"Bill to:Gary Mcpherson
+75445 King Path
+Josephhaven, AL 20740 US
+Tel:+(486)873-2950
+Email:christopher70@example.net
+Site:http://nunez.com/",75445 King Path,"Josephhaven, AL 20740 US",,christopher70@example.net,Bill to:Gary Mcpherson,"Bill to:Gary Mcpherson | 75445 King Path | Josephhaven, AL 20740 US | Tel:+(486)873-2950 | Email:christopher70@example.net | Site:http://nunez.com/",http://nunez.com/,+(486)873-2950,USD,Date: 23-Dec-1994,1994-12-23,,GST(7%) : 41.07,GSTIN: 33123456789102Z1,[],INVOICE ID INV36113866,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 586.70  $,586.7,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 599.39 $,599.39,Template2_Instance135.json
+"Bill to:Samantha Taylor
+9399 Farrell Trail
+North Kaitlynburgh, MS 12571 US
+Tel:+(067)562-2494
+Email:garciarobin@example.org
+Site:https://jackson.com/",9399 Farrell Trail,"North Kaitlynburgh, MS 12571 US",,garciarobin@example.org,Bill to:Samantha Taylor,"Bill to:Samantha Taylor | 9399 Farrell Trail | North Kaitlynburgh, MS 12571 US | Tel:+(067)562-2494 | Email:garciarobin@example.org | Site:https://jackson.com/",https://jackson.com/,+(067)562-2494,EUR,Invoice Date: 01-Oct-2007,2007-10-01,,GST(7%) : 53.53,GSTIN: 33123456789102Z1,[],Invoice number INV/90-12/743,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 764.74  EUR,764.74,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 780.36 EUR,780.36,Template2_Instance136.json
+"Bill to:Aaron Robinson
+070 Cooper Throughway Apt. 723
+Codymouth, KY 60828 US
+Tel:+(807)967-3387
+Email:pmartin@example.com
+Site:http://hernandez.com/",070 Cooper Throughway Apt. 723,"Codymouth, KY 60828 US",,pmartin@example.com,Bill to:Aaron Robinson,"Bill to:Aaron Robinson | 070 Cooper Throughway Apt. 723 | Codymouth, KY 60828 US | Tel:+(807)967-3387 | Email:pmartin@example.com | Site:http://hernandez.com/",http://hernandez.com/,+(807)967-3387,USD,Invoice Date: 09-Dec-2006,2006-12-09,,GST(7%) : 31.40,GSTIN: 33123456789102Z1,[],Invoice number 9736-411,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 448.58  $,448.58,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 470.15 $,470.15,Template2_Instance137.json
+"Bill to:Michael Carroll
+80316 Rojas Island Apt. 883
+Millermouth, DC 25415 US
+Tel:+(734)039-9926
+Email:nmorris@example.org
+Site:https://www.campbell.info/",80316 Rojas Island Apt. 883,"Millermouth, DC 25415 US",,nmorris@example.org,Bill to:Michael Carroll,"Bill to:Michael Carroll | 80316 Rojas Island Apt. 883 | Millermouth, DC 25415 US | Tel:+(734)039-9926 | Email:nmorris@example.org | Site:https://www.campbell.info/",https://www.campbell.info/,+(734)039-9926,USD,Date: 01-May-1993,1993-05-01,,GST(7%) : 18.27,GSTIN: 33123456789102Z1,[],INVOICE # INV/70-63/831,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 260.94  $,260.94,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 266.96 $,266.96,Template2_Instance138.json
+"Buyer :Dr. Eileen Tucker
+78137 Cesar Path Apt. 989
+East Jenniferfurt, ID 74297 US
+Tel:+(749)442-8618
+Email:jacobprice@example.com
+Site:https://www.ramsey.com/",78137 Cesar Path Apt. 989,"East Jenniferfurt, ID 74297 US",,jacobprice@example.com,Buyer :Dr. Eileen Tucker,"Buyer :Dr. Eileen Tucker | 78137 Cesar Path Apt. 989 | East Jenniferfurt, ID 74297 US | Tel:+(749)442-8618 | Email:jacobprice@example.com | Site:https://www.ramsey.com/",https://www.ramsey.com/,+(749)442-8618,USD,Invoice Date: 05-Mar-2014,2014-03-05,,GST(7%) : 46.58,GSTIN: 33123456789102Z1,[],INVOICE ID 5723-375,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 665.49  USD,665.49,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 674.42 USD,674.42,Template2_Instance139.json
+"Bill to:John Miller
+601 Porter Corner
+Carolineton, PA 05568 US
+Tel:+(436)287-6679
+Email:anna25@example.org
+Site:https://www.bryant.com/",601 Porter Corner,"Carolineton, PA 05568 US",,anna25@example.org,Bill to:John Miller,"Bill to:John Miller | 601 Porter Corner | Carolineton, PA 05568 US | Tel:+(436)287-6679 | Email:anna25@example.org | Site:https://www.bryant.com/",https://www.bryant.com/,+(436)287-6679,USD,Date: 29-Jun-2008,2008-06-29,,GST(7%) : 19.40,GSTIN: 33123456789102Z1,[],Invoice number INV/50-12/402,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 277.20  $,277.2,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 282.68 $,282.68,Template2_Instance14.json
+"Bill to:Holly Miller
+577 Flores Wells
+West Robert, SC 54259 US
+Tel:+(951)173-2036
+Email:christopher09@example.com
+Site:https://www.simmons-lopez.info/",577 Flores Wells,"West Robert, SC 54259 US",,christopher09@example.com,Bill to:Holly Miller,"Bill to:Holly Miller | 577 Flores Wells | West Robert, SC 54259 US | Tel:+(951)173-2036 | Email:christopher09@example.com | Site:https://www.simmons-lopez.info/",https://www.simmons-lopez.info/,+(951)173-2036,USD,Invoice Date: 03-Jan-2021,2021-01-03,,GST(7%) : 59.34,GSTIN: 33123456789102Z1,[],Invoice number INV45397361,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 847.74  $,847.74,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 877.41 $,877.41,Template2_Instance140.json
+"Bill to:Philip Davis
+2797 Reese Walks
+South Ethan, DC 36865 US
+Tel:+(596)576-1434
+Email:milesivan@example.com
+Site:https://long-reese.com/",2797 Reese Walks,"South Ethan, DC 36865 US",,milesivan@example.com,Bill to:Philip Davis,"Bill to:Philip Davis | 2797 Reese Walks | South Ethan, DC 36865 US | Tel:+(596)576-1434 | Email:milesivan@example.com | Site:https://long-reese.com/",https://long-reese.com/,+(596)576-1434,EUR,Date: 10-Jul-2014,2014-07-10,,GST(7%) : 52.65,GSTIN: 33123456789102Z1,[],Invoice number 5Y2M2d-891,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 752.16  EUR,752.16,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 748.41 EUR,748.41,Template2_Instance141.json
+"Buyer :Tonya Moon
+81843 Shane Extension
+New Barbaraton, DC 71443 US
+Tel:+(237)452-9498
+Email:beltranbrian@example.org
+Site:https://www.wade.com/",81843 Shane Extension,"New Barbaraton, DC 71443 US",,beltranbrian@example.org,Buyer :Tonya Moon,"Buyer :Tonya Moon | 81843 Shane Extension | New Barbaraton, DC 71443 US | Tel:+(237)452-9498 | Email:beltranbrian@example.org | Site:https://www.wade.com/",https://www.wade.com/,+(237)452-9498,USD,Date: 28-Feb-2013,2013-02-28,,GST(7%) : 52.27,GSTIN: 33123456789102Z1,[],INVOICE ID INV85295641,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 746.73  $,746.73,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 753.69 $,753.69,Template2_Instance142.json
+"Buyer :Amanda Warner
+407 Michael Plaza
+Lisaborough, PR 65357 US
+Tel:+(309)505-6291
+Email:wardtammy@example.net
+Site:http://perry.com/",407 Michael Plaza,"Lisaborough, PR 65357 US",,wardtammy@example.net,Buyer :Amanda Warner,"Buyer :Amanda Warner | 407 Michael Plaza | Lisaborough, PR 65357 US | Tel:+(309)505-6291 | Email:wardtammy@example.net | Site:http://perry.com/",http://perry.com/,+(309)505-6291,EUR,Invoice Date: 20-Aug-2000,2000-08-20,,GST(7%) : 94.63,GSTIN: 33123456789102Z1,[],INVOICE ID 2Y9M1d-568,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1351.83  EUR,1.83,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 1355.78 EUR,5.78,Template2_Instance143.json
+"Bill to:Brian Joseph
+38776 Daniel Plaza
+Lake Justin, MD 90892 US
+Tel:+(586)571-8675
+Email:isaacrussell@example.com
+Site:https://www.roberts.org/",38776 Daniel Plaza,"Lake Justin, MD 90892 US",,isaacrussell@example.com,Bill to:Brian Joseph,"Bill to:Brian Joseph | 38776 Daniel Plaza | Lake Justin, MD 90892 US | Tel:+(586)571-8675 | Email:isaacrussell@example.com | Site:https://www.roberts.org/",https://www.roberts.org/,+(586)571-8675,USD,Date: 17-Feb-2017,2017-02-17,,GST(7%) : 31.10,GSTIN: 33123456789102Z1,[],INVOICE # 0853-418,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 444.34  USD,444.34,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 455.14 USD,455.14,Template2_Instance144.json
+"Buyer :Jennifer Hawkins
+0387 Matthew Neck Suite 477
+North Donald, SC 69484 US
+Tel:+(709)075-5401
+Email:gary83@example.com
+Site:https://www.berg.com/",0387 Matthew Neck Suite 477,"North Donald, SC 69484 US",,gary83@example.com,Buyer :Jennifer Hawkins,"Buyer :Jennifer Hawkins | 0387 Matthew Neck Suite 477 | North Donald, SC 69484 US | Tel:+(709)075-5401 | Email:gary83@example.com | Site:https://www.berg.com/",https://www.berg.com/,+(709)075-5401,EUR,Invoice Date: 18-Nov-1993,1993-11-18,,GST(7%) : 42.75,GSTIN: 33123456789102Z1,[],INVOICE ID 8Y8M6d-452,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 610.66  EUR,610.66,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 630.38 EUR,630.38,Template2_Instance145.json
+"Buyer :David Moore
+16184 Smith Isle
+Lake Angela, MT 89666 US
+Tel:+(384)450-2316
+Email:annettecampbell@example.net
+Site:https://www.johnson.biz/",16184 Smith Isle,"Lake Angela, MT 89666 US",,annettecampbell@example.net,Buyer :David Moore,"Buyer :David Moore | 16184 Smith Isle | Lake Angela, MT 89666 US | Tel:+(384)450-2316 | Email:annettecampbell@example.net | Site:https://www.johnson.biz/",https://www.johnson.biz/,+(384)450-2316,USD,Invoice Date: 25-Jun-1999,1999-06-25,,GST(7%) : 32.46,GSTIN: 33123456789102Z1,[],Invoice number INV/50-68/780,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 463.69  $,463.69,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 470.70 $,470.7,Template2_Instance146.json
+"Buyer :Lisa Taylor
+06356 Hart Valleys Suite 926
+Corteztown, TN 29754 US
+Tel:+(990)377-6252
+Email:simmonsmaria@example.com
+Site:http://clark.com/",06356 Hart Valleys Suite 926,"Corteztown, TN 29754 US",,simmonsmaria@example.com,Buyer :Lisa Taylor,"Buyer :Lisa Taylor | 06356 Hart Valleys Suite 926 | Corteztown, TN 29754 US | Tel:+(990)377-6252 | Email:simmonsmaria@example.com | Site:http://clark.com/",http://clark.com/,+(990)377-6252,USD,Invoice Date: 17-Apr-1995,1995-04-17,,GST(7%) : 17.48,GSTIN: 33123456789102Z1,[],INVOICE # 2Y2M4d-720,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 249.75  USD,249.75,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 251.14 USD,251.14,Template2_Instance147.json
+"Bill to:Janet Riley
+68768 Kristy Court Apt. 821
+Tarabury, TN 63998 US
+Tel:+(972)705-6820
+Email:nhester@example.net
+Site:http://wang-sanchez.com/",68768 Kristy Court Apt. 821,"Tarabury, TN 63998 US",,nhester@example.net,Bill to:Janet Riley,"Bill to:Janet Riley | 68768 Kristy Court Apt. 821 | Tarabury, TN 63998 US | Tel:+(972)705-6820 | Email:nhester@example.net | Site:http://wang-sanchez.com/",http://wang-sanchez.com/,+(972)705-6820,USD,Date: 30-Dec-1998,1998-12-30,,GST(7%) : 22.03,GSTIN: 33123456789102Z1,[],INVOICE # 1631-627,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 314.66  USD,314.66,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 318.93 USD,318.93,Template2_Instance148.json
+"Buyer :Arthur Cobb
+19279 Rose Estate
+Charleschester, WY 16456 US
+Tel:+(321)629-1618
+Email:lchristensen@example.net
+Site:http://patrick.info/",19279 Rose Estate,"Charleschester, WY 16456 US",,lchristensen@example.net,Buyer :Arthur Cobb,"Buyer :Arthur Cobb | 19279 Rose Estate | Charleschester, WY 16456 US | Tel:+(321)629-1618 | Email:lchristensen@example.net | Site:http://patrick.info/",http://patrick.info/,+(321)629-1618,USD,Date: 14-Mar-1993,1993-03-14,,GST(7%) : 60.83,GSTIN: 33123456789102Z1,[],INVOICE # 8511-462,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 868.99  USD,868.99,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 901.99 USD,901.99,Template2_Instance149.json
+"Bill to:Robert Wood
+8431 Huerta Loop Suite 914
+Fritzborough, WY 15156 US
+Tel:+(310)903-5304
+Email:taylordrake@example.org
+Site:https://berry.com/",8431 Huerta Loop Suite 914,"Fritzborough, WY 15156 US",,taylordrake@example.org,Bill to:Robert Wood,"Bill to:Robert Wood | 8431 Huerta Loop Suite 914 | Fritzborough, WY 15156 US | Tel:+(310)903-5304 | Email:taylordrake@example.org | Site:https://berry.com/",https://berry.com/,+(310)903-5304,USD,Invoice Date: 18-Nov-2008,2008-11-18,,GST(7%) : 34.98,GSTIN: 33123456789102Z1,[],INVOICE ID INV10894599,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 499.77  USD,499.77,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 510.58 USD,510.58,Template2_Instance15.json
+"Bill to:Christopher Tucker
+1584 Ashley Drive
+Mitchellbury, ND 30442 US
+Tel:+(055)801-2432
+Email:greg36@example.com
+Site:https://rogers.org/",1584 Ashley Drive,"Mitchellbury, ND 30442 US",,greg36@example.com,Bill to:Christopher Tucker,"Bill to:Christopher Tucker | 1584 Ashley Drive | Mitchellbury, ND 30442 US | Tel:+(055)801-2432 | Email:greg36@example.com | Site:https://rogers.org/",https://rogers.org/,+(055)801-2432,USD,Date: 14-Aug-2022,2022-08-14,,GST(7%) : 59.72,GSTIN: 33123456789102Z1,[],INVOICE ID 3Y7M8d-222,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 853.18  USD,853.18,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 863.56 USD,863.56,Template2_Instance150.json
+"Bill to:Terry Gonzales
+8664 Robert Harbors
+Lake Courtneyside, NV 35213 US
+Tel:+(109)974-6407
+Email:ysantana@example.com
+Site:https://www.peterson.net/",8664 Robert Harbors,"Lake Courtneyside, NV 35213 US",,ysantana@example.com,Bill to:Terry Gonzales,"Bill to:Terry Gonzales | 8664 Robert Harbors | Lake Courtneyside, NV 35213 US | Tel:+(109)974-6407 | Email:ysantana@example.com | Site:https://www.peterson.net/",https://www.peterson.net/,+(109)974-6407,USD,Invoice Date: 21-Aug-2015,2015-08-21,,GST(7%) : 51.35,GSTIN: 33123456789102Z1,[],INVOICE # 6Y2M9d-406,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 733.53  USD,733.53,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 731.66 USD,731.66,Template2_Instance151.json
+"Bill to:Hannah Ross
+4571 Christopher Curve
+North Danielleburgh, MS 69733 US
+Tel:+(919)089-3974
+Email:harveyalexandra@example.net
+Site:https://johnson.biz/",4571 Christopher Curve,"North Danielleburgh, MS 69733 US",,harveyalexandra@example.net,Bill to:Hannah Ross,"Bill to:Hannah Ross | 4571 Christopher Curve | North Danielleburgh, MS 69733 US | Tel:+(919)089-3974 | Email:harveyalexandra@example.net | Site:https://johnson.biz/",https://johnson.biz/,+(919)089-3974,EUR,Date: 14-Sep-1999,1999-09-14,,GST(7%) : 29.10,GSTIN: 33123456789102Z1,[],INVOICE ID INV/32-05/056,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 415.77  EUR,415.77,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 425.06 EUR,425.06,Template2_Instance152.json
+"Bill to:Kelly Greene
+4428 Oconnor Groves
+North Stephanie, AL 18762 US
+Tel:+(897)470-3439
+Email:dsmith@example.net
+Site:http://www.king.net/",4428 Oconnor Groves,"North Stephanie, AL 18762 US",,dsmith@example.net,Bill to:Kelly Greene,"Bill to:Kelly Greene | 4428 Oconnor Groves | North Stephanie, AL 18762 US | Tel:+(897)470-3439 | Email:dsmith@example.net | Site:http://www.king.net/",http://www.king.net/,+(897)470-3439,EUR,Date: 21-Apr-1999,1999-04-21,,GST(7%) : 30.36,GSTIN: 33123456789102Z1,[],INVOICE ID INV/83-27/935,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 433.67  EUR,433.67,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 446.89 EUR,446.89,Template2_Instance153.json
+"Buyer :Nicholas Cisneros
+46260 Mendez Loaf
+Cheyenneberg, TX 93596 US
+Tel:+(908)929-1069
+Email:ryandavies@example.com
+Site:https://hicks.biz/",46260 Mendez Loaf,"Cheyenneberg, TX 93596 US",,ryandavies@example.com,Buyer :Nicholas Cisneros,"Buyer :Nicholas Cisneros | 46260 Mendez Loaf | Cheyenneberg, TX 93596 US | Tel:+(908)929-1069 | Email:ryandavies@example.com | Site:https://hicks.biz/",https://hicks.biz/,+(908)929-1069,USD,Invoice Date: 24-Feb-2021,2021-02-24,,GST(7%) : 69.01,GSTIN: 33123456789102Z1,[],INVOICE ID 3596-042,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 985.80  USD,985.8,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 1009.21 USD,9.21,Template2_Instance154.json
+"Bill to:Mrs. Hannah Pugh
+92012 Jason Springs Apt. 284
+Samuelshire, GU 67388 US
+Tel:+(096)302-0826
+Email:xray@example.net
+Site:https://www.ellis-reese.biz/",92012 Jason Springs Apt. 284,"Samuelshire, GU 67388 US",,xray@example.net,Bill to:Mrs. Hannah Pugh,"Bill to:Mrs. Hannah Pugh | 92012 Jason Springs Apt. 284 | Samuelshire, GU 67388 US | Tel:+(096)302-0826 | Email:xray@example.net | Site:https://www.ellis-reese.biz/",https://www.ellis-reese.biz/,+(096)302-0826,USD,Date: 21-Mar-2000,2000-03-21,,GST(7%) : 56.99,GSTIN: 33123456789102Z1,[],INVOICE # 3561-069,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 814.08  USD,814.08,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 847.21 USD,847.21,Template2_Instance155.json
+"Bill to:Wendy Baker
+82826 Vanessa Drives
+Kathrynview, LA 22777 US
+Tel:+(489)198-3286
+Email:hendrixmichael@example.com
+Site:http://www.smith-mendoza.biz/",82826 Vanessa Drives,"Kathrynview, LA 22777 US",,hendrixmichael@example.com,Bill to:Wendy Baker,"Bill to:Wendy Baker | 82826 Vanessa Drives | Kathrynview, LA 22777 US | Tel:+(489)198-3286 | Email:hendrixmichael@example.com | Site:http://www.smith-mendoza.biz/",http://www.smith-mendoza.biz/,+(489)198-3286,USD,Invoice Date: 21-Jul-2018,2018-07-21,,GST(7%) : 12.02,GSTIN: 33123456789102Z1,[],INVOICE # INV33879872,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 171.78  $,171.78,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 176.74 $,176.74,Template2_Instance156.json
+"Buyer :Robert Fernandez
+4629 Bill Green
+Port Tracyville, PW 13757 US
+Tel:+(361)441-6192
+Email:melissamckay@example.com
+Site:http://williamson.com/",4629 Bill Green,"Port Tracyville, PW 13757 US",,melissamckay@example.com,Buyer :Robert Fernandez,"Buyer :Robert Fernandez | 4629 Bill Green | Port Tracyville, PW 13757 US | Tel:+(361)441-6192 | Email:melissamckay@example.com | Site:http://williamson.com/",http://williamson.com/,+(361)441-6192,EUR,Date: 29-Jul-1998,1998-07-29,,GST(7%) : 11.26,GSTIN: 33123456789102Z1,[],INVOICE # INV59516038,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 160.87  EUR,160.87,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 169.36 EUR,169.36,Template2_Instance157.json
+"Buyer :Diane Myers
+582 Christopher Mews
+Reyesfort, SD 35089 US
+Tel:+(780)914-0369
+Email:udavis@example.com
+Site:http://grant-barnes.com/",582 Christopher Mews,"Reyesfort, SD 35089 US",,udavis@example.com,Buyer :Diane Myers,"Buyer :Diane Myers | 582 Christopher Mews | Reyesfort, SD 35089 US | Tel:+(780)914-0369 | Email:udavis@example.com | Site:http://grant-barnes.com/",http://grant-barnes.com/,+(780)914-0369,USD,Date: 09-Feb-2015,2015-02-09,,GST(7%) : 41.68,GSTIN: 33123456789102Z1,[],INVOICE ID 3Y7M2d-885,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 595.40  $,595.4,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 603.95 $,603.95,Template2_Instance158.json
+"Buyer :Kristen Schwartz
+9489 Barrett Crossing
+Andreaside, WA 47201 US
+Tel:+(226)297-3365
+Email:adrianwilkinson@example.com
+Site:http://king.net/",9489 Barrett Crossing,"Andreaside, WA 47201 US",,adrianwilkinson@example.com,Buyer :Kristen Schwartz,"Buyer :Kristen Schwartz | 9489 Barrett Crossing | Andreaside, WA 47201 US | Tel:+(226)297-3365 | Email:adrianwilkinson@example.com | Site:http://king.net/",http://king.net/,+(226)297-3365,EUR,Invoice Date: 06-Oct-2018,2018-10-06,,GST(7%) : 90.24,GSTIN: 33123456789102Z1,[],INVOICE # INV73805022,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1289.19  EUR,9.19,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 1313.06 EUR,3.06,Template2_Instance159.json
+"Buyer :John Shannon
+0501 Jeremiah Estate Suite 838
+Mitchelltown, DE 11666 US
+Tel:+(944)925-1649
+Email:orrryan@example.com
+Site:https://kelley.com/",0501 Jeremiah Estate Suite 838,"Mitchelltown, DE 11666 US",,orrryan@example.com,Buyer :John Shannon,"Buyer :John Shannon | 0501 Jeremiah Estate Suite 838 | Mitchelltown, DE 11666 US | Tel:+(944)925-1649 | Email:orrryan@example.com | Site:https://kelley.com/",https://kelley.com/,+(944)925-1649,USD,Date: 15-Sep-2022,2022-09-15,,GST(7%) : 70.01,GSTIN: 33123456789102Z1,[],Invoice number 0308-387,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1000.13  USD,0.13,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 1018.83 USD,8.83,Template2_Instance16.json
+"Buyer :Amanda Stephens
+95661 Dennis Dam
+Smithshire, SC 38161 US
+Tel:+(376)165-6851
+Email:wsanders@example.org
+Site:http://hart-thomas.net/",95661 Dennis Dam,"Smithshire, SC 38161 US",,wsanders@example.org,Buyer :Amanda Stephens,"Buyer :Amanda Stephens | 95661 Dennis Dam | Smithshire, SC 38161 US | Tel:+(376)165-6851 | Email:wsanders@example.org | Site:http://hart-thomas.net/",http://hart-thomas.net/,+(376)165-6851,EUR,Invoice Date: 03-Jun-2011,2011-06-03,,GST(7%) : 49.23,GSTIN: 33123456789102Z1,[],INVOICE ID 2801-758,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 703.28  EUR,703.28,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 699.22 EUR,699.22,Template2_Instance160.json
+"Buyer :Dr. Charles Martin
+88649 Williams Wells Suite 160
+Chapmanfurt, OR 08912 US
+Tel:+(978)499-5509
+Email:clee@example.net
+Site:https://nelson.net/",88649 Williams Wells Suite 160,"Chapmanfurt, OR 08912 US",,clee@example.net,Buyer :Dr. Charles Martin,"Buyer :Dr. Charles Martin | 88649 Williams Wells Suite 160 | Chapmanfurt, OR 08912 US | Tel:+(978)499-5509 | Email:clee@example.net | Site:https://nelson.net/",https://nelson.net/,+(978)499-5509,EUR,Invoice Date: 28-Jan-2003,2003-01-28,,GST(7%) : 3.89,GSTIN: 33123456789102Z1,[],Invoice number INV/55-61/025,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 55.63  EUR,55.63,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 56.58 EUR,56.58,Template2_Instance161.json
+"Bill to:Eric Ochoa
+147 Morris Pass
+Josephberg, IA 33746 US
+Tel:+(470)190-9982
+Email:julie45@example.net
+Site:https://www.miller.com/",147 Morris Pass,"Josephberg, IA 33746 US",,julie45@example.net,Bill to:Eric Ochoa,"Bill to:Eric Ochoa | 147 Morris Pass | Josephberg, IA 33746 US | Tel:+(470)190-9982 | Email:julie45@example.net | Site:https://www.miller.com/",https://www.miller.com/,+(470)190-9982,USD,Invoice Date: 13-Mar-2008,2008-03-13,,GST(7%) : 73.33,GSTIN: 33123456789102Z1,[],Invoice number INV90014595,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1047.55  USD,7.55,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 1083.92 USD,3.92,Template2_Instance162.json
+"Bill to:Jennifer Thomas
+5305 Patterson Manor Apt. 495
+Matthewview, MS 48472 US
+Tel:+(248)950-0010
+Email:sweeneylinda@example.org
+Site:https://washington.com/",5305 Patterson Manor Apt. 495,"Matthewview, MS 48472 US",,sweeneylinda@example.org,Bill to:Jennifer Thomas,"Bill to:Jennifer Thomas | 5305 Patterson Manor Apt. 495 | Matthewview, MS 48472 US | Tel:+(248)950-0010 | Email:sweeneylinda@example.org | Site:https://washington.com/",https://washington.com/,+(248)950-0010,EUR,Invoice Date: 09-Dec-2022,2022-12-09,,GST(7%) : 7.02,GSTIN: 33123456789102Z1,[],Invoice number INV74981373,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 100.25  EUR,100.25,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 102.16 EUR,102.16,Template2_Instance163.json
+"Bill to:Mark Day
+6060 Juan Port
+Ashleyland, HI 34751 US
+Tel:+(312)546-3369
+Email:maxwelldavid@example.org
+Site:https://www.moore.net/",6060 Juan Port,"Ashleyland, HI 34751 US",,maxwelldavid@example.org,Bill to:Mark Day,"Bill to:Mark Day | 6060 Juan Port | Ashleyland, HI 34751 US | Tel:+(312)546-3369 | Email:maxwelldavid@example.org | Site:https://www.moore.net/",https://www.moore.net/,+(312)546-3369,EUR,Date: 05-Jan-2000,2000-01-05,,GST(7%) : 30.28,GSTIN: 33123456789102Z1,[],INVOICE ID INV79999859,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 432.52  EUR,432.52,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 442.15 EUR,442.15,Template2_Instance164.json
+"Bill to:Mrs. Catherine Cline
+7424 Hall Lane
+Megantown, HI 74016 US
+Tel:+(605)349-5266
+Email:jennifer19@example.com
+Site:https://www.brown.net/",7424 Hall Lane,"Megantown, HI 74016 US",,jennifer19@example.com,Bill to:Mrs. Catherine Cline,"Bill to:Mrs. Catherine Cline | 7424 Hall Lane | Megantown, HI 74016 US | Tel:+(605)349-5266 | Email:jennifer19@example.com | Site:https://www.brown.net/",https://www.brown.net/,+(605)349-5266,USD,Date: 01-Jul-2019,2019-07-01,,GST(7%) : 37.11,GSTIN: 33123456789102Z1,[],INVOICE # 9914-741,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 530.14  $,530.14,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 535.75 $,535.75,Template2_Instance165.json
+"Buyer :Rebecca Brewer
+04249 Rivers Village
+West Nathanburgh, GU 32813 US
+Tel:+(053)065-0479
+Email:greenluis@example.net
+Site:http://www.banks-dennis.org/",04249 Rivers Village,"West Nathanburgh, GU 32813 US",,greenluis@example.net,Buyer :Rebecca Brewer,"Buyer :Rebecca Brewer | 04249 Rivers Village | West Nathanburgh, GU 32813 US | Tel:+(053)065-0479 | Email:greenluis@example.net | Site:http://www.banks-dennis.org/",http://www.banks-dennis.org/,+(053)065-0479,EUR,Date: 20-Jun-2004,2004-06-20,,GST(7%) : 62.68,GSTIN: 33123456789102Z1,[],Invoice number 7240-678,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 895.43  EUR,895.43,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 924.79 EUR,924.79,Template2_Instance166.json
+"Buyer :Michael Gray
+25698 Jodi Pine Apt. 801
+Macdonaldmouth, ND 31697 US
+Tel:+(933)961-7952
+Email:anthonymyers@example.org
+Site:https://phillips-munoz.org/",25698 Jodi Pine Apt. 801,"Macdonaldmouth, ND 31697 US",,anthonymyers@example.org,Buyer :Michael Gray,"Buyer :Michael Gray | 25698 Jodi Pine Apt. 801 | Macdonaldmouth, ND 31697 US | Tel:+(933)961-7952 | Email:anthonymyers@example.org | Site:https://phillips-munoz.org/",https://phillips-munoz.org/,+(933)961-7952,USD,Invoice Date: 27-Oct-2016,2016-10-27,,GST(7%) : 55.54,GSTIN: 33123456789102Z1,[],INVOICE ID INV96172098,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 793.47  USD,793.47,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 814.49 USD,814.49,Template2_Instance167.json
+"Bill to:Melissa Arnold
+418 Victoria Lights Apt. 824
+East Markside, IN 98996 US
+Tel:+(499)913-6880
+Email:ktucker@example.org
+Site:http://gomez.info/",418 Victoria Lights Apt. 824,"East Markside, IN 98996 US",,ktucker@example.org,Bill to:Melissa Arnold,"Bill to:Melissa Arnold | 418 Victoria Lights Apt. 824 | East Markside, IN 98996 US | Tel:+(499)913-6880 | Email:ktucker@example.org | Site:http://gomez.info/",http://gomez.info/,+(499)913-6880,EUR,Date: 08-Apr-2011,2011-04-08,,GST(7%) : 36.50,GSTIN: 33123456789102Z1,[],Invoice number INV01479532,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 521.38  EUR,521.38,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 530.95 EUR,530.95,Template2_Instance168.json
+"Bill to:Christian Thomas
+0726 Kathryn Walks
+East Leslie, FM 19287 US
+Tel:+(730)489-6189
+Email:rwhite@example.org
+Site:http://www.brady.biz/",0726 Kathryn Walks,"East Leslie, FM 19287 US",,rwhite@example.org,Bill to:Christian Thomas,"Bill to:Christian Thomas | 0726 Kathryn Walks | East Leslie, FM 19287 US | Tel:+(730)489-6189 | Email:rwhite@example.org | Site:http://www.brady.biz/",http://www.brady.biz/,+(730)489-6189,EUR,Invoice Date: 28-Apr-2012,2012-04-28,,GST(7%) : 55.88,GSTIN: 33123456789102Z1,[],Invoice number 3Y3M7d-078,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 798.30  EUR,798.3,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 802.28 EUR,802.28,Template2_Instance169.json
+"Bill to:Elizabeth Carpenter
+23148 Bennett Summit Suite 017
+Lake Alexandriaview, PR 20967 US
+Tel:+(662)456-3445
+Email:emily43@example.org
+Site:https://www.houston.org/",23148 Bennett Summit Suite 017,"Lake Alexandriaview, PR 20967 US",,emily43@example.org,Bill to:Elizabeth Carpenter,"Bill to:Elizabeth Carpenter | 23148 Bennett Summit Suite 017 | Lake Alexandriaview, PR 20967 US | Tel:+(662)456-3445 | Email:emily43@example.org | Site:https://www.houston.org/",https://www.houston.org/,+(662)456-3445,USD,Invoice Date: 27-Nov-2009,2009-11-27,,GST(7%) : 47.01,GSTIN: 33123456789102Z1,[],INVOICE # 3363-759,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 671.63  $,671.63,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 699.24 $,699.24,Template2_Instance17.json
+"Bill to:Beth Collins
+35509 Walker Meadow Apt. 709
+West Wesley, MH 06375 US
+Tel:+(578)593-0035
+Email:alexharmon@example.org
+Site:https://www.larsen.com/",35509 Walker Meadow Apt. 709,"West Wesley, MH 06375 US",,alexharmon@example.org,Bill to:Beth Collins,"Bill to:Beth Collins | 35509 Walker Meadow Apt. 709 | West Wesley, MH 06375 US | Tel:+(578)593-0035 | Email:alexharmon@example.org | Site:https://www.larsen.com/",https://www.larsen.com/,+(578)593-0035,USD,Invoice Date: 12-Jun-2011,2011-06-12,,GST(7%) : 26.91,GSTIN: 33123456789102Z1,[],INVOICE # 5672-028,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 384.47  $,384.47,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 386.97 $,386.97,Template2_Instance170.json
+"Buyer :Jorge Brewer
+0094 Harris Ferry
+Tiffanychester, NH 53670 US
+Tel:+(372)147-5127
+Email:ryanronald@example.net
+Site:https://www.lawson-cole.org/",0094 Harris Ferry,"Tiffanychester, NH 53670 US",,ryanronald@example.net,Buyer :Jorge Brewer,"Buyer :Jorge Brewer | 0094 Harris Ferry | Tiffanychester, NH 53670 US | Tel:+(372)147-5127 | Email:ryanronald@example.net | Site:https://www.lawson-cole.org/",https://www.lawson-cole.org/,+(372)147-5127,USD,Date: 27-Feb-1996,1996-02-27,,GST(7%) : 70.76,GSTIN: 33123456789102Z1,[],INVOICE ID 2Y8M3d-915,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1010.87  $,0.87,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 1058.02 $,8.02,Template2_Instance171.json
+"Buyer :Brenda Campbell
+57705 Allen Expressway
+South Larryshire, ID 38630 US
+Tel:+(853)882-3906
+Email:sophia90@example.net
+Site:http://potter.net/",57705 Allen Expressway,"South Larryshire, ID 38630 US",,sophia90@example.net,Buyer :Brenda Campbell,"Buyer :Brenda Campbell | 57705 Allen Expressway | South Larryshire, ID 38630 US | Tel:+(853)882-3906 | Email:sophia90@example.net | Site:http://potter.net/",http://potter.net/,+(853)882-3906,USD,Invoice Date: 13-May-2004,2004-05-13,,GST(7%) : 84.29,GSTIN: 33123456789102Z1,[],INVOICE ID 6055-283,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1204.16  USD,4.16,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 1221.51 USD,1.51,Template2_Instance172.json
+"Bill to:Zachary Hale
+5863 John Lakes
+Kevinhaven, MI 68053 US
+Tel:+(360)823-9726
+Email:justinjames@example.com
+Site:http://munoz.org/",5863 John Lakes,"Kevinhaven, MI 68053 US",,justinjames@example.com,Bill to:Zachary Hale,"Bill to:Zachary Hale | 5863 John Lakes | Kevinhaven, MI 68053 US | Tel:+(360)823-9726 | Email:justinjames@example.com | Site:http://munoz.org/",http://munoz.org/,+(360)823-9726,USD,Date: 16-Aug-2002,2002-08-16,,GST(7%) : 10.15,GSTIN: 33123456789102Z1,[],INVOICE # INV/28-26/751,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 145.06  USD,145.06,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 149.52 USD,149.52,Template2_Instance173.json
+"Buyer :Jesse Mcclure
+89088 Payne Lodge Suite 322
+Ramirezfort, MO 97962 US
+Tel:+(118)697-6100
+Email:mario23@example.org
+Site:https://davis.biz/",89088 Payne Lodge Suite 322,"Ramirezfort, MO 97962 US",,mario23@example.org,Buyer :Jesse Mcclure,"Buyer :Jesse Mcclure | 89088 Payne Lodge Suite 322 | Ramirezfort, MO 97962 US | Tel:+(118)697-6100 | Email:mario23@example.org | Site:https://davis.biz/",https://davis.biz/,+(118)697-6100,USD,Invoice Date: 11-Aug-2019,2019-08-11,,GST(7%) : 40.49,GSTIN: 33123456789102Z1,[],Invoice number 9Y6M8d-777,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 578.38  USD,578.38,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 598.77 USD,598.77,Template2_Instance174.json
+"Buyer :Sheila Bell
+153 Tanya Rapid
+Pottsside, WI 70123 US
+Tel:+(072)749-3339
+Email:sharonbenitez@example.org
+Site:http://price-smith.info/",153 Tanya Rapid,"Pottsside, WI 70123 US",,sharonbenitez@example.org,Buyer :Sheila Bell,"Buyer :Sheila Bell | 153 Tanya Rapid | Pottsside, WI 70123 US | Tel:+(072)749-3339 | Email:sharonbenitez@example.org | Site:http://price-smith.info/",http://price-smith.info/,+(072)749-3339,USD,Date: 04-Jun-1996,1996-06-04,,GST(7%) : 60.49,GSTIN: 33123456789102Z1,[],Invoice number INV47355637,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 864.21  USD,864.21,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 861.43 USD,861.43,Template2_Instance175.json
+"Buyer :Tracy Shelton MD
+646 Roy Mills Apt. 897
+West Derrick, MP 09423 US
+Tel:+(216)006-5702
+Email:barronsonya@example.com
+Site:https://ray.com/",646 Roy Mills Apt. 897,"West Derrick, MP 09423 US",,barronsonya@example.com,Buyer :Tracy Shelton MD,"Buyer :Tracy Shelton MD | 646 Roy Mills Apt. 897 | West Derrick, MP 09423 US | Tel:+(216)006-5702 | Email:barronsonya@example.com | Site:https://ray.com/",https://ray.com/,+(216)006-5702,USD,Date: 13-Jul-2017,2017-07-13,,GST(7%) : 15.70,GSTIN: 33123456789102Z1,[],Invoice number INV/58-16/012,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 224.31  USD,224.31,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 230.15 USD,230.15,Template2_Instance176.json
+"Bill to:Tonya Ramirez
+7432 Miranda Vista Suite 395
+Lake Dawnchester, NV 35082 US
+Tel:+(355)528-0655
+Email:lisasanders@example.net
+Site:http://www.paul.com/",7432 Miranda Vista Suite 395,"Lake Dawnchester, NV 35082 US",,lisasanders@example.net,Bill to:Tonya Ramirez,"Bill to:Tonya Ramirez | 7432 Miranda Vista Suite 395 | Lake Dawnchester, NV 35082 US | Tel:+(355)528-0655 | Email:lisasanders@example.net | Site:http://www.paul.com/",http://www.paul.com/,+(355)528-0655,USD,Date: 25-May-2005,2005-05-25,,GST(7%) : 13.45,GSTIN: 33123456789102Z1,[],Invoice number INV/74-88/261,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 192.18  $,192.18,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 190.13 $,190.13,Template2_Instance177.json
+"Bill to:Jacob Lane
+470 Wilson Mission Apt. 969
+Lake Karen, OK 35996 US
+Tel:+(424)937-2689
+Email:espinozajesse@example.com
+Site:https://reyes.org/",470 Wilson Mission Apt. 969,"Lake Karen, OK 35996 US",,espinozajesse@example.com,Bill to:Jacob Lane,"Bill to:Jacob Lane | 470 Wilson Mission Apt. 969 | Lake Karen, OK 35996 US | Tel:+(424)937-2689 | Email:espinozajesse@example.com | Site:https://reyes.org/",https://reyes.org/,+(424)937-2689,EUR,Invoice Date: 26-Nov-2019,2019-11-26,,GST(7%) : 42.47,GSTIN: 33123456789102Z1,[],Invoice number INV26371128,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 606.71  EUR,606.71,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 615.09 EUR,615.09,Template2_Instance178.json
+"Buyer :Ashley Whitney
+93823 Margaret Cove Apt. 299
+North Emilymouth, AK 94822 US
+Tel:+(134)972-9541
+Email:vbaldwin@example.com
+Site:http://bennett.com/",93823 Margaret Cove Apt. 299,"North Emilymouth, AK 94822 US",,vbaldwin@example.com,Buyer :Ashley Whitney,"Buyer :Ashley Whitney | 93823 Margaret Cove Apt. 299 | North Emilymouth, AK 94822 US | Tel:+(134)972-9541 | Email:vbaldwin@example.com | Site:http://bennett.com/",http://bennett.com/,+(134)972-9541,USD,Date: 16-May-2005,2005-05-16,,GST(7%) : 46.90,GSTIN: 33123456789102Z1,[],INVOICE ID INV/24-30/608,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 669.96  USD,669.96,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 691.96 USD,691.96,Template2_Instance179.json
+"Bill to:John Castro
+5844 Williams Forest
+Wilsonstad, SC 11740 US
+Tel:+(828)777-7377
+Email:umorrison@example.com
+Site:https://watts-allen.org/",5844 Williams Forest,"Wilsonstad, SC 11740 US",,umorrison@example.com,Bill to:John Castro,"Bill to:John Castro | 5844 Williams Forest | Wilsonstad, SC 11740 US | Tel:+(828)777-7377 | Email:umorrison@example.com | Site:https://watts-allen.org/",https://watts-allen.org/,+(828)777-7377,USD,Date: 30-Sep-2021,2021-09-30,,GST(7%) : 45.83,GSTIN: 33123456789102Z1,[],Invoice number INV/23-45/398,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 654.78  $,654.78,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 690.83 $,690.83,Template2_Instance18.json
+"Bill to:Anna Moss
+884 Davis Forks
+Smithfort, AS 96962 US
+Tel:+(130)587-7745
+Email:uherrera@example.net
+Site:http://moore.info/",884 Davis Forks,"Smithfort, AS 96962 US",,uherrera@example.net,Bill to:Anna Moss,"Bill to:Anna Moss | 884 Davis Forks | Smithfort, AS 96962 US | Tel:+(130)587-7745 | Email:uherrera@example.net | Site:http://moore.info/",http://moore.info/,+(130)587-7745,USD,Invoice Date: 02-May-2018,2018-05-02,,GST(7%) : 17.46,GSTIN: 33123456789102Z1,[],INVOICE ID 1Y4M6d-465,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 249.50  $,249.5,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 250.19 $,250.19,Template2_Instance180.json
+"Bill to:Stefanie Davenport
+74123 Candace Trace Suite 151
+Crawfordstad, CO 99652 US
+Tel:+(358)975-9785
+Email:amandagarcia@example.org
+Site:http://www.fletcher.net/",74123 Candace Trace Suite 151,"Crawfordstad, CO 99652 US",,amandagarcia@example.org,Bill to:Stefanie Davenport,"Bill to:Stefanie Davenport | 74123 Candace Trace Suite 151 | Crawfordstad, CO 99652 US | Tel:+(358)975-9785 | Email:amandagarcia@example.org | Site:http://www.fletcher.net/",http://www.fletcher.net/,+(358)975-9785,USD,Date: 20-Jan-2010,2010-01-20,,GST(7%) : 7.44,GSTIN: 33123456789102Z1,[],INVOICE # INV/40-00/274,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 106.24  $,106.24,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 109.32 $,109.32,Template2_Instance181.json
+"Bill to:Kendra Cox
+94635 Chad Forest
+Nguyenton, NV 12970 US
+Tel:+(610)160-9951
+Email:robert11@example.com
+Site:https://jones.net/",94635 Chad Forest,"Nguyenton, NV 12970 US",,robert11@example.com,Bill to:Kendra Cox,"Bill to:Kendra Cox | 94635 Chad Forest | Nguyenton, NV 12970 US | Tel:+(610)160-9951 | Email:robert11@example.com | Site:https://jones.net/",https://jones.net/,+(610)160-9951,USD,Date: 27-Nov-2018,2018-11-27,,GST(7%) : 22.34,GSTIN: 33123456789102Z1,[],INVOICE ID INV42077154,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 319.10  $,319.1,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 323.82 $,323.82,Template2_Instance182.json
+"Bill to:Melissa Cook
+46324 Perez Burg Suite 560
+Tiffanybury, PA 57491 US
+Tel:+(738)952-3658
+Email:cody45@example.org
+Site:http://frazier.org/",46324 Perez Burg Suite 560,"Tiffanybury, PA 57491 US",,cody45@example.org,Bill to:Melissa Cook,"Bill to:Melissa Cook | 46324 Perez Burg Suite 560 | Tiffanybury, PA 57491 US | Tel:+(738)952-3658 | Email:cody45@example.org | Site:http://frazier.org/",http://frazier.org/,+(738)952-3658,USD,Date: 02-Feb-2016,2016-02-02,,GST(7%) : 77.58,GSTIN: 33123456789102Z1,[],Invoice number INV01163765,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1108.34  USD,8.34,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 1132.46 USD,2.46,Template2_Instance183.json
+"Bill to:Kevin Roberts
+030 Danielle Run Suite 539
+Robinsonstad, FM 15379 US
+Tel:+(424)253-1050
+Email:sandracollins@example.net
+Site:http://www.stevenson-kennedy.net/",030 Danielle Run Suite 539,"Robinsonstad, FM 15379 US",,sandracollins@example.net,Bill to:Kevin Roberts,"Bill to:Kevin Roberts | 030 Danielle Run Suite 539 | Robinsonstad, FM 15379 US | Tel:+(424)253-1050 | Email:sandracollins@example.net | Site:http://www.stevenson-kennedy.net/",http://www.stevenson-kennedy.net/,+(424)253-1050,USD,Invoice Date: 03-Mar-2014,2014-03-03,,GST(7%) : 26.98,GSTIN: 33123456789102Z1,[],INVOICE # 7374-816,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 385.49  $,385.49,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 396.07 $,396.07,Template2_Instance184.json
+"Buyer :Dr. Mary Kane
+105 Sanders Land
+South Megan, IN 76818 US
+Tel:+(093)487-2566
+Email:jessicamora@example.com
+Site:http://www.rivers-jennings.biz/",105 Sanders Land,"South Megan, IN 76818 US",,jessicamora@example.com,Buyer :Dr. Mary Kane,"Buyer :Dr. Mary Kane | 105 Sanders Land | South Megan, IN 76818 US | Tel:+(093)487-2566 | Email:jessicamora@example.com | Site:http://www.rivers-jennings.biz/",http://www.rivers-jennings.biz/,+(093)487-2566,USD,Date: 20-Dec-2022,2022-12-20,,GST(7%) : 41.97,GSTIN: 33123456789102Z1,[],INVOICE ID INV64628703,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 599.54  $,599.54,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 619.62 $,619.62,Template2_Instance185.json
+"Bill to:Michael Flores
+78730 Bobby Valley Suite 602
+North Adam, GA 70089 US
+Tel:+(427)618-0053
+Email:amichael@example.org
+Site:http://www.porter.com/",78730 Bobby Valley Suite 602,"North Adam, GA 70089 US",,amichael@example.org,Bill to:Michael Flores,"Bill to:Michael Flores | 78730 Bobby Valley Suite 602 | North Adam, GA 70089 US | Tel:+(427)618-0053 | Email:amichael@example.org | Site:http://www.porter.com/",http://www.porter.com/,+(427)618-0053,EUR,Date: 26-Sep-2002,2002-09-26,,GST(7%) : 54.25,GSTIN: 33123456789102Z1,[],INVOICE ID 5609-215,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 775.02  EUR,775.02,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 805.97 EUR,805.97,Template2_Instance186.json
+"Buyer :Danielle Carson
+1037 Robin Underpass
+East Cheryl, NH 94074 US
+Tel:+(839)193-8018
+Email:rodney88@example.org
+Site:https://www.schultz-frye.com/",1037 Robin Underpass,"East Cheryl, NH 94074 US",,rodney88@example.org,Buyer :Danielle Carson,"Buyer :Danielle Carson | 1037 Robin Underpass | East Cheryl, NH 94074 US | Tel:+(839)193-8018 | Email:rodney88@example.org | Site:https://www.schultz-frye.com/",https://www.schultz-frye.com/,+(839)193-8018,USD,Date: 09-Sep-2010,2010-09-09,,GST(7%) : 27.17,GSTIN: 33123456789102Z1,[],INVOICE # INV07888228,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 388.20  USD,388.2,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 395.84 USD,395.84,Template2_Instance187.json
+"Bill to:Meredith Robertson
+97689 Colin Shoal Apt. 471
+West Kayla, VI 51831 US
+Tel:+(026)656-8543
+Email:cowanalexander@example.net
+Site:http://www.adams.com/",97689 Colin Shoal Apt. 471,"West Kayla, VI 51831 US",,cowanalexander@example.net,Bill to:Meredith Robertson,"Bill to:Meredith Robertson | 97689 Colin Shoal Apt. 471 | West Kayla, VI 51831 US | Tel:+(026)656-8543 | Email:cowanalexander@example.net | Site:http://www.adams.com/",http://www.adams.com/,+(026)656-8543,EUR,Date: 23-Aug-2004,2004-08-23,,GST(7%) : 86.47,GSTIN: 33123456789102Z1,[],INVOICE # INV/82-18/196,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1235.27  EUR,5.27,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 1303.57 EUR,3.57,Template2_Instance188.json
+"Buyer :Sonia Johnson
+298 Alexandra Stream
+South Jill, KY 14890 US
+Tel:+(341)683-9098
+Email:zcarpenter@example.org
+Site:https://www.parker-nguyen.com/",298 Alexandra Stream,"South Jill, KY 14890 US",,zcarpenter@example.org,Buyer :Sonia Johnson,"Buyer :Sonia Johnson | 298 Alexandra Stream | South Jill, KY 14890 US | Tel:+(341)683-9098 | Email:zcarpenter@example.org | Site:https://www.parker-nguyen.com/",https://www.parker-nguyen.com/,+(341)683-9098,USD,Date: 10-May-2014,2014-05-10,,GST(7%) : 12.10,GSTIN: 33123456789102Z1,[],Invoice number INV/93-02/145,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 172.91  USD,172.91,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 175.96 USD,175.96,Template2_Instance189.json
+"Bill to:Jose Lucero
+2672 Vasquez Island Apt. 429
+South Katrinachester, AL 34140 US
+Tel:+(813)800-1115
+Email:khenderson@example.com
+Site:http://www.guerrero-hampton.com/",2672 Vasquez Island Apt. 429,"South Katrinachester, AL 34140 US",,khenderson@example.com,Bill to:Jose Lucero,"Bill to:Jose Lucero | 2672 Vasquez Island Apt. 429 | South Katrinachester, AL 34140 US | Tel:+(813)800-1115 | Email:khenderson@example.com | Site:http://www.guerrero-hampton.com/",http://www.guerrero-hampton.com/,+(813)800-1115,USD,Invoice Date: 22-Aug-1999,1999-08-22,,GST(7%) : 93.15,GSTIN: 33123456789102Z1,[],INVOICE # INV/58-33/914,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1330.68  $,0.68,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 1338.68 $,8.68,Template2_Instance19.json
+"Bill to:Julie Stephens
+0069 Walker Street Apt. 283
+Williamsshire, TN 95987 US
+Tel:+(760)166-2880
+Email:gouldjasmine@example.org
+Site:http://www.edwards.com/",0069 Walker Street Apt. 283,"Williamsshire, TN 95987 US",,gouldjasmine@example.org,Bill to:Julie Stephens,"Bill to:Julie Stephens | 0069 Walker Street Apt. 283 | Williamsshire, TN 95987 US | Tel:+(760)166-2880 | Email:gouldjasmine@example.org | Site:http://www.edwards.com/",http://www.edwards.com/,+(760)166-2880,USD,Date: 05-Aug-2012,2012-08-05,,GST(7%) : 66.58,GSTIN: 33123456789102Z1,[],Invoice number 5260-721,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 951.19  $,951.19,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 958.74 $,958.74,Template2_Instance190.json
+"Buyer :Nicole Maddox
+456 Steven Villages
+Lopezmouth, IL 73432 US
+Tel:+(911)619-4257
+Email:gregorykatrina@example.net
+Site:http://reyes.com/",456 Steven Villages,"Lopezmouth, IL 73432 US",,gregorykatrina@example.net,Buyer :Nicole Maddox,"Buyer :Nicole Maddox | 456 Steven Villages | Lopezmouth, IL 73432 US | Tel:+(911)619-4257 | Email:gregorykatrina@example.net | Site:http://reyes.com/",http://reyes.com/,+(911)619-4257,USD,Invoice Date: 30-Oct-2022,2022-10-30,,GST(7%) : 10.35,GSTIN: 33123456789102Z1,[],INVOICE ID 4852-212,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 147.91  USD,147.91,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 150.04 USD,150.04,Template2_Instance191.json
+"Bill to:Mr. Mario Shannon
+52392 David Gardens Apt. 448
+New Barbarastad, GA 20912 US
+Tel:+(372)504-6072
+Email:srasmussen@example.com
+Site:https://www.oneill.com/",52392 David Gardens Apt. 448,"New Barbarastad, GA 20912 US",,srasmussen@example.com,Bill to:Mr. Mario Shannon,"Bill to:Mr. Mario Shannon | 52392 David Gardens Apt. 448 | New Barbarastad, GA 20912 US | Tel:+(372)504-6072 | Email:srasmussen@example.com | Site:https://www.oneill.com/",https://www.oneill.com/,+(372)504-6072,USD,Invoice Date: 07-Mar-2002,2002-03-07,,GST(7%) : 84.63,GSTIN: 33123456789102Z1,[],Invoice number INV/32-28/575,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1208.98  USD,8.98,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 1203.35 USD,3.35,Template2_Instance192.json
+"Bill to:Laura Pham
+507 Chandler Ports Apt. 006
+Port Terri, WA 20486 US
+Tel:+(947)492-3005
+Email:charris@example.com
+Site:http://www.james.com/",507 Chandler Ports Apt. 006,"Port Terri, WA 20486 US",,charris@example.com,Bill to:Laura Pham,"Bill to:Laura Pham | 507 Chandler Ports Apt. 006 | Port Terri, WA 20486 US | Tel:+(947)492-3005 | Email:charris@example.com | Site:http://www.james.com/",http://www.james.com/,+(947)492-3005,USD,Invoice Date: 01-Dec-2007,2007-12-01,,GST(7%) : 95.33,GSTIN: 33123456789102Z1,[],INVOICE ID 4253-390,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1361.86  USD,1.86,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 1375.16 USD,5.16,Template2_Instance193.json
+"Buyer :William Forbes
+79965 Michael Prairie
+Lake Brian, ID 98490 US
+Tel:+(985)217-2161
+Email:abigailreyes@example.com
+Site:http://reilly.com/",79965 Michael Prairie,"Lake Brian, ID 98490 US",,abigailreyes@example.com,Buyer :William Forbes,"Buyer :William Forbes | 79965 Michael Prairie | Lake Brian, ID 98490 US | Tel:+(985)217-2161 | Email:abigailreyes@example.com | Site:http://reilly.com/",http://reilly.com/,+(985)217-2161,EUR,Invoice Date: 09-Apr-2012,2012-04-09,,GST(7%) : 34.28,GSTIN: 33123456789102Z1,[],INVOICE # INV/42-99/779,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 489.68  EUR,489.68,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 505.00 EUR,505.0,Template2_Instance194.json
+"Buyer :Barry Miller
+62914 Toni Estates
+East Briannaport, WV 67203 US
+Tel:+(260)359-9912
+Email:pwalker@example.com
+Site:http://www.welch.com/",62914 Toni Estates,"East Briannaport, WV 67203 US",,pwalker@example.com,Buyer :Barry Miller,"Buyer :Barry Miller | 62914 Toni Estates | East Briannaport, WV 67203 US | Tel:+(260)359-9912 | Email:pwalker@example.com | Site:http://www.welch.com/",http://www.welch.com/,+(260)359-9912,USD,Invoice Date: 03-Sep-2011,2011-09-03,,GST(7%) : 51.20,GSTIN: 33123456789102Z1,[],INVOICE ID INV/28-74/417,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 731.44  $,731.44,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 732.39 $,732.39,Template2_Instance195.json
+"Buyer :Jeffrey Edwards
+33863 Boone Ports
+Port Robert, NH 72222 US
+Tel:+(547)265-2238
+Email:tami48@example.net
+Site:http://www.acosta.com/",33863 Boone Ports,"Port Robert, NH 72222 US",,tami48@example.net,Buyer :Jeffrey Edwards,"Buyer :Jeffrey Edwards | 33863 Boone Ports | Port Robert, NH 72222 US | Tel:+(547)265-2238 | Email:tami48@example.net | Site:http://www.acosta.com/",http://www.acosta.com/,+(547)265-2238,USD,Invoice Date: 30-Nov-2016,2016-11-30,,GST(7%) : 48.53,GSTIN: 33123456789102Z1,[],INVOICE ID 4Y4M8d-785,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 693.22  $,693.22,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 719.07 $,719.07,Template2_Instance196.json
+"Buyer :Sandra Rios
+71907 Thompson Spurs Apt. 682
+Ellenmouth, VT 96283 US
+Tel:+(318)632-6532
+Email:davidgarcia@example.net
+Site:http://love-martinez.com/",71907 Thompson Spurs Apt. 682,"Ellenmouth, VT 96283 US",,davidgarcia@example.net,Buyer :Sandra Rios,"Buyer :Sandra Rios | 71907 Thompson Spurs Apt. 682 | Ellenmouth, VT 96283 US | Tel:+(318)632-6532 | Email:davidgarcia@example.net | Site:http://love-martinez.com/",http://love-martinez.com/,+(318)632-6532,USD,Invoice Date: 13-Feb-2016,2016-02-13,,GST(7%) : 59.47,GSTIN: 33123456789102Z1,[],INVOICE # INV/18-06/005,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 849.54  $,849.54,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 899.48 $,899.48,Template2_Instance197.json
+"Buyer :Marie Heath
+95044 Cruz Viaduct
+Morgantown, FL 25136 US
+Tel:+(173)745-3153
+Email:angela60@example.org
+Site:https://www.schmidt-gill.com/",95044 Cruz Viaduct,"Morgantown, FL 25136 US",,angela60@example.org,Buyer :Marie Heath,"Buyer :Marie Heath | 95044 Cruz Viaduct | Morgantown, FL 25136 US | Tel:+(173)745-3153 | Email:angela60@example.org | Site:https://www.schmidt-gill.com/",https://www.schmidt-gill.com/,+(173)745-3153,EUR,Invoice Date: 27-Nov-2004,2004-11-27,,GST(7%) : 27.62,GSTIN: 33123456789102Z1,[],Invoice number INV67447284,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 394.51  EUR,394.51,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 405.95 EUR,405.95,Template2_Instance198.json
+"Buyer :David Smith
+816 James Flat
+Bennettmouth, MT 81804 US
+Tel:+(759)741-2696
+Email:zachary11@example.org
+Site:http://www.payne.org/",816 James Flat,"Bennettmouth, MT 81804 US",,zachary11@example.org,Buyer :David Smith,"Buyer :David Smith | 816 James Flat | Bennettmouth, MT 81804 US | Tel:+(759)741-2696 | Email:zachary11@example.org | Site:http://www.payne.org/",http://www.payne.org/,+(759)741-2696,USD,Invoice Date: 12-Jan-2016,2016-01-12,,GST(7%) : 47.65,GSTIN: 33123456789102Z1,[],INVOICE ID 7525-057,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 680.72  $,680.72,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 695.92 $,695.92,Template2_Instance199.json
+"Bill to:Catherine Williams
+53798 Johnson Forest Suite 241
+East William, UT 23216 US
+Tel:+(696)328-9653
+Email:lindawoodward@example.org
+Site:https://young-solis.info/",53798 Johnson Forest Suite 241,"East William, UT 23216 US",,lindawoodward@example.org,Bill to:Catherine Williams,"Bill to:Catherine Williams | 53798 Johnson Forest Suite 241 | East William, UT 23216 US | Tel:+(696)328-9653 | Email:lindawoodward@example.org | Site:https://young-solis.info/",https://young-solis.info/,+(696)328-9653,USD,Date: 01-May-1993,1993-05-01,,GST(7%) : 106.63,GSTIN: 33123456789102Z1,[],INVOICE # INV/10-47/300,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1523.30  USD,3.3,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 1500.59 USD,0.59,Template2_Instance2.json
+"Buyer :Hannah Horn
+8820 Odom Course Suite 604
+Justinhaven, CA 10797 US
+Tel:+(838)127-0972
+Email:jessica01@example.com
+Site:http://taylor.com/",8820 Odom Course Suite 604,"Justinhaven, CA 10797 US",,jessica01@example.com,Buyer :Hannah Horn,"Buyer :Hannah Horn | 8820 Odom Course Suite 604 | Justinhaven, CA 10797 US | Tel:+(838)127-0972 | Email:jessica01@example.com | Site:http://taylor.com/",http://taylor.com/,+(838)127-0972,USD,Date: 30-Dec-1999,1999-12-30,,GST(7%) : 46.11,GSTIN: 33123456789102Z1,[],INVOICE ID INV/20-11/338,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 658.75  $,658.75,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 666.12 $,666.12,Template2_Instance20.json
+"Bill to:Alexander Chavez
+66061 Willie Corner Apt. 771
+Elizabethland, MO 22156 US
+Tel:+(530)232-7935
+Email:mdavis@example.net
+Site:http://www.rodriguez.com/",66061 Willie Corner Apt. 771,"Elizabethland, MO 22156 US",,mdavis@example.net,Bill to:Alexander Chavez,"Bill to:Alexander Chavez | 66061 Willie Corner Apt. 771 | Elizabethland, MO 22156 US | Tel:+(530)232-7935 | Email:mdavis@example.net | Site:http://www.rodriguez.com/",http://www.rodriguez.com/,+(530)232-7935,USD,Invoice Date: 01-May-2002,2002-05-01,,GST(7%) : 5.93,GSTIN: 33123456789102Z1,[],INVOICE ID INV41883780,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 84.72  $,84.72,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 83.61 $,83.61,Template2_Instance21.json
+"Bill to:Ryan Williams
+7546 Eugene Cliff Suite 821
+Port Alfred, WI 17186 US
+Tel:+(504)678-4970
+Email:seanmiller@example.net
+Site:https://www.smith.com/",7546 Eugene Cliff Suite 821,"Port Alfred, WI 17186 US",,seanmiller@example.net,Bill to:Ryan Williams,"Bill to:Ryan Williams | 7546 Eugene Cliff Suite 821 | Port Alfred, WI 17186 US | Tel:+(504)678-4970 | Email:seanmiller@example.net | Site:https://www.smith.com/",https://www.smith.com/,+(504)678-4970,USD,Date: 06-Nov-2011,2011-11-06,,GST(7%) : 43.71,GSTIN: 33123456789102Z1,[],INVOICE # 3Y1M7d-944,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 624.45  USD,624.45,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 638.03 USD,638.03,Template2_Instance22.json
+"Buyer :Diana Martin
+59369 Eric Bypass Suite 222
+Matthewhaven, CA 85699 US
+Tel:+(260)004-5136
+Email:katherinebrown@example.com
+Site:https://www.harrison.com/",59369 Eric Bypass Suite 222,"Matthewhaven, CA 85699 US",,katherinebrown@example.com,Buyer :Diana Martin,"Buyer :Diana Martin | 59369 Eric Bypass Suite 222 | Matthewhaven, CA 85699 US | Tel:+(260)004-5136 | Email:katherinebrown@example.com | Site:https://www.harrison.com/",https://www.harrison.com/,+(260)004-5136,USD,Date: 22-Oct-2004,2004-10-22,,GST(7%) : 19.15,GSTIN: 33123456789102Z1,[],INVOICE ID 7511-488,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 273.51  $,273.51,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 271.94 $,271.94,Template2_Instance23.json
+"Buyer :John Mathis
+93715 Petersen Circles Suite 974
+Perezbury, HI 23730 US
+Tel:+(927)432-1172
+Email:pottsnancy@example.org
+Site:https://espinoza.com/",93715 Petersen Circles Suite 974,"Perezbury, HI 23730 US",,pottsnancy@example.org,Buyer :John Mathis,"Buyer :John Mathis | 93715 Petersen Circles Suite 974 | Perezbury, HI 23730 US | Tel:+(927)432-1172 | Email:pottsnancy@example.org | Site:https://espinoza.com/",https://espinoza.com/,+(927)432-1172,EUR,Date: 28-Jun-2009,2009-06-28,,GST(7%) : 9.87,GSTIN: 33123456789102Z1,[],Invoice number 7Y9M1d-354,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 140.96  EUR,140.96,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 140.61 EUR,140.61,Template2_Instance24.json
+"Bill to:Jennifer Hart
+348 Chapman Knolls
+Samanthahaven, IA 50221 US
+Tel:+(298)908-8792
+Email:znguyen@example.org
+Site:https://www.lee.com/",348 Chapman Knolls,"Samanthahaven, IA 50221 US",,znguyen@example.org,Bill to:Jennifer Hart,"Bill to:Jennifer Hart | 348 Chapman Knolls | Samanthahaven, IA 50221 US | Tel:+(298)908-8792 | Email:znguyen@example.org | Site:https://www.lee.com/",https://www.lee.com/,+(298)908-8792,USD,Date: 17-Feb-2010,2010-02-17,,GST(7%) : 14.99,GSTIN: 33123456789102Z1,[],INVOICE # 6292-098,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 214.18  USD,214.18,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 216.88 USD,216.88,Template2_Instance25.json
+"Bill to:Diane Moore
+455 Laurie Gateway
+Lindaland, WY 12232 US
+Tel:+(477)378-4395
+Email:sruiz@example.com
+Site:https://dawson.net/",455 Laurie Gateway,"Lindaland, WY 12232 US",,sruiz@example.com,Bill to:Diane Moore,"Bill to:Diane Moore | 455 Laurie Gateway | Lindaland, WY 12232 US | Tel:+(477)378-4395 | Email:sruiz@example.com | Site:https://dawson.net/",https://dawson.net/,+(477)378-4395,USD,Date: 17-Aug-1994,1994-08-17,,GST(7%) : 63.95,GSTIN: 33123456789102Z1,[],Invoice number 3806-529,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 913.60  USD,913.6,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 929.50 USD,929.5,Template2_Instance26.json
+"Bill to:Lance Chan
+0104 Robinson Stravenue Suite 128
+Markland, MO 61838 US
+Tel:+(099)579-2894
+Email:abriggs@example.org
+Site:http://www.morgan.com/",0104 Robinson Stravenue Suite 128,"Markland, MO 61838 US",,abriggs@example.org,Bill to:Lance Chan,"Bill to:Lance Chan | 0104 Robinson Stravenue Suite 128 | Markland, MO 61838 US | Tel:+(099)579-2894 | Email:abriggs@example.org | Site:http://www.morgan.com/",http://www.morgan.com/,+(099)579-2894,USD,Date: 07-Nov-1997,1997-11-07,,GST(7%) : 68.72,GSTIN: 33123456789102Z1,[],INVOICE ID 7230-349,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 981.75  USD,981.75,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 1008.53 USD,8.53,Template2_Instance27.json
+"Bill to:Jennifer Morris
+542 Morgan Center Apt. 996
+Willischester, ID 83187 US
+Tel:+(645)666-6737
+Email:sherri36@example.org
+Site:https://silva.com/",542 Morgan Center Apt. 996,"Willischester, ID 83187 US",,sherri36@example.org,Bill to:Jennifer Morris,"Bill to:Jennifer Morris | 542 Morgan Center Apt. 996 | Willischester, ID 83187 US | Tel:+(645)666-6737 | Email:sherri36@example.org | Site:https://silva.com/",https://silva.com/,+(645)666-6737,EUR,Invoice Date: 26-Mar-2007,2007-03-26,,GST(7%) : 19.81,GSTIN: 33123456789102Z1,[],INVOICE # 1042-381,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 283.04  EUR,283.04,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 291.92 EUR,291.92,Template2_Instance28.json
+"Buyer :Alejandro Arroyo
+63639 Andrea Ferry
+Raymondmouth, FM 92379 US
+Tel:+(732)584-8888
+Email:jonathanlong@example.com
+Site:http://hughes.com/",63639 Andrea Ferry,"Raymondmouth, FM 92379 US",,jonathanlong@example.com,Buyer :Alejandro Arroyo,"Buyer :Alejandro Arroyo | 63639 Andrea Ferry | Raymondmouth, FM 92379 US | Tel:+(732)584-8888 | Email:jonathanlong@example.com | Site:http://hughes.com/",http://hughes.com/,+(732)584-8888,USD,Date: 29-Aug-2008,2008-08-29,,GST(7%) : 15.79,GSTIN: 33123456789102Z1,[],INVOICE ID INV38331302,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 225.55  USD,225.55,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 237.40 USD,237.4,Template2_Instance29.json
+"Buyer :Tracy Drake
+0864 Michelle Haven Suite 174
+Lake Kimberly, WV 26542 US
+Tel:+(770)167-9226
+Email:bobby54@example.org
+Site:http://www.mcfarland-graham.com/",0864 Michelle Haven Suite 174,"Lake Kimberly, WV 26542 US",,bobby54@example.org,Buyer :Tracy Drake,"Buyer :Tracy Drake | 0864 Michelle Haven Suite 174 | Lake Kimberly, WV 26542 US | Tel:+(770)167-9226 | Email:bobby54@example.org | Site:http://www.mcfarland-graham.com/",http://www.mcfarland-graham.com/,+(770)167-9226,USD,Invoice Date: 11-May-2007,2007-05-11,,GST(7%) : 11.32,GSTIN: 33123456789102Z1,[],Invoice number 7Y5M6d-853,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 161.72  USD,161.72,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 165.45 USD,165.45,Template2_Instance3.json
+"Bill to:Olivia Odom
+4656 Brown Point Apt. 181
+Kington, PR 82003 US
+Tel:+(626)513-8785
+Email:rossaustin@example.org
+Site:https://patterson-poole.com/",4656 Brown Point Apt. 181,"Kington, PR 82003 US",,rossaustin@example.org,Bill to:Olivia Odom,"Bill to:Olivia Odom | 4656 Brown Point Apt. 181 | Kington, PR 82003 US | Tel:+(626)513-8785 | Email:rossaustin@example.org | Site:https://patterson-poole.com/",https://patterson-poole.com/,+(626)513-8785,USD,Date: 14-Aug-1996,1996-08-14,,GST(7%) : 26.00,GSTIN: 33123456789102Z1,[],Invoice number 5Y2M7d-616,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 371.36  USD,371.36,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 379.16 USD,379.16,Template2_Instance30.json
+"Bill to:Jessica Barnes
+6899 Sue Shoals Apt. 466
+Reyesmouth, WA 35804 US
+Tel:+(908)480-8604
+Email:johnsontracy@example.net
+Site:http://www.webb.com/",6899 Sue Shoals Apt. 466,"Reyesmouth, WA 35804 US",,johnsontracy@example.net,Bill to:Jessica Barnes,"Bill to:Jessica Barnes | 6899 Sue Shoals Apt. 466 | Reyesmouth, WA 35804 US | Tel:+(908)480-8604 | Email:johnsontracy@example.net | Site:http://www.webb.com/",http://www.webb.com/,+(908)480-8604,EUR,Date: 14-May-2022,2022-05-14,,GST(7%) : 29.64,GSTIN: 33123456789102Z1,[],Invoice number INV25554164,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 423.45  EUR,423.45,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 426.56 EUR,426.56,Template2_Instance31.json
+"Bill to:Dana Steele
+26176 Cook Viaduct
+Greerland, NJ 23231 US
+Tel:+(583)411-6633
+Email:frostsarah@example.net
+Site:https://www.wallace.biz/",26176 Cook Viaduct,"Greerland, NJ 23231 US",,frostsarah@example.net,Bill to:Dana Steele,"Bill to:Dana Steele | 26176 Cook Viaduct | Greerland, NJ 23231 US | Tel:+(583)411-6633 | Email:frostsarah@example.net | Site:https://www.wallace.biz/",https://www.wallace.biz/,+(583)411-6633,USD,Date: 28-Sep-2008,2008-09-28,,GST(7%) : 23.47,GSTIN: 33123456789102Z1,[],INVOICE ID 6Y9M8d-748,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 335.23  $,335.23,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 344.54 $,344.54,Template2_Instance32.json
+"Buyer :Laurie Perez
+569 Sharon Walks
+East Michaelstad, PA 08743 US
+Tel:+(670)859-6334
+Email:tgalvan@example.org
+Site:http://www.golden-hicks.com/",569 Sharon Walks,"East Michaelstad, PA 08743 US",,tgalvan@example.org,Buyer :Laurie Perez,"Buyer :Laurie Perez | 569 Sharon Walks | East Michaelstad, PA 08743 US | Tel:+(670)859-6334 | Email:tgalvan@example.org | Site:http://www.golden-hicks.com/",http://www.golden-hicks.com/,+(670)859-6334,USD,Date: 19-Oct-1994,1994-10-19,,GST(7%) : 27.22,GSTIN: 33123456789102Z1,[],Invoice number 4Y6M7d-223,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 388.83  USD,388.83,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 398.50 USD,398.5,Template2_Instance33.json
+"Bill to:Timothy Moyer
+628 Brandy Bypass
+East Georgeshire, SC 17615 US
+Tel:+(767)636-2605
+Email:kevin52@example.net
+Site:http://brown.com/",628 Brandy Bypass,"East Georgeshire, SC 17615 US",,kevin52@example.net,Bill to:Timothy Moyer,"Bill to:Timothy Moyer | 628 Brandy Bypass | East Georgeshire, SC 17615 US | Tel:+(767)636-2605 | Email:kevin52@example.net | Site:http://brown.com/",http://brown.com/,+(767)636-2605,USD,Date: 30-Jul-1994,1994-07-30,,GST(7%) : 43.69,GSTIN: 33123456789102Z1,[],INVOICE # INV/92-08/174,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 624.20  $,624.2,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 648.55 $,648.55,Template2_Instance34.json
+"Bill to:Daniel Johnston
+740 Cynthia Plains
+Port Robert, MD 42465 US
+Tel:+(397)246-3899
+Email:edward53@example.org
+Site:https://www.hunter.com/",740 Cynthia Plains,"Port Robert, MD 42465 US",,edward53@example.org,Bill to:Daniel Johnston,"Bill to:Daniel Johnston | 740 Cynthia Plains | Port Robert, MD 42465 US | Tel:+(397)246-3899 | Email:edward53@example.org | Site:https://www.hunter.com/",https://www.hunter.com/,+(397)246-3899,USD,Date: 31-Aug-1993,1993-08-31,,GST(7%) : 67.77,GSTIN: 33123456789102Z1,[],INVOICE ID INV27765231,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 968.12  USD,968.12,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 1022.24 USD,2.24,Template2_Instance35.json
+"Buyer :Patrick Caldwell
+115 Avila Rest Suite 032
+East Lisa, MO 33786 US
+Tel:+(160)190-0109
+Email:griffinjames@example.org
+Site:http://www.terrell-baker.com/",115 Avila Rest Suite 032,"East Lisa, MO 33786 US",,griffinjames@example.org,Buyer :Patrick Caldwell,"Buyer :Patrick Caldwell | 115 Avila Rest Suite 032 | East Lisa, MO 33786 US | Tel:+(160)190-0109 | Email:griffinjames@example.org | Site:http://www.terrell-baker.com/",http://www.terrell-baker.com/,+(160)190-0109,EUR,Invoice Date: 13-Mar-1993,1993-03-13,,GST(7%) : 60.73,GSTIN: 33123456789102Z1,[],Invoice number 8Y5M8d-205,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 867.58  EUR,867.58,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 867.48 EUR,867.48,Template2_Instance36.json
+"Buyer :Paula Rogers
+088 Vazquez Fort Apt. 714
+Ryanmouth, WY 98802 US
+Tel:+(130)530-3013
+Email:ryan05@example.com
+Site:https://www.thomas.org/",088 Vazquez Fort Apt. 714,"Ryanmouth, WY 98802 US",,ryan05@example.com,Buyer :Paula Rogers,"Buyer :Paula Rogers | 088 Vazquez Fort Apt. 714 | Ryanmouth, WY 98802 US | Tel:+(130)530-3013 | Email:ryan05@example.com | Site:https://www.thomas.org/",https://www.thomas.org/,+(130)530-3013,USD,Date: 07-May-2004,2004-05-07,,GST(7%) : 77.46,GSTIN: 33123456789102Z1,[],INVOICE # 1050-658,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1106.61  USD,6.61,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 1094.41 USD,4.41,Template2_Instance37.json
+"Bill to:Alyssa Gonzalez
+0252 Martinez Route
+Arellanotown, CT 85250 US
+Tel:+(166)572-3811
+Email:qshelton@example.com
+Site:https://www.bauer.com/",0252 Martinez Route,"Arellanotown, CT 85250 US",,qshelton@example.com,Bill to:Alyssa Gonzalez,"Bill to:Alyssa Gonzalez | 0252 Martinez Route | Arellanotown, CT 85250 US | Tel:+(166)572-3811 | Email:qshelton@example.com | Site:https://www.bauer.com/",https://www.bauer.com/,+(166)572-3811,USD,Invoice Date: 14-May-2009,2009-05-14,,GST(7%) : 88.34,GSTIN: 33123456789102Z1,[],Invoice number INV83384384,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1261.98  USD,1.98,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 1323.80 USD,3.8,Template2_Instance38.json
+"Buyer :Joseph Nelson
+8016 Chung Corner
+Rowlandmouth, MT 40103 US
+Tel:+(201)680-5955
+Email:roberto70@example.com
+Site:https://www.hamilton.info/",8016 Chung Corner,"Rowlandmouth, MT 40103 US",,roberto70@example.com,Buyer :Joseph Nelson,"Buyer :Joseph Nelson | 8016 Chung Corner | Rowlandmouth, MT 40103 US | Tel:+(201)680-5955 | Email:roberto70@example.com | Site:https://www.hamilton.info/",https://www.hamilton.info/,+(201)680-5955,USD,Invoice Date: 13-May-2007,2007-05-13,,GST(7%) : 57.42,GSTIN: 33123456789102Z1,[],Invoice number INV/21-84/928,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 820.28  USD,820.28,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 822.61 USD,822.61,Template2_Instance39.json
+"Bill to:Joanne Martin DDS
+1432 Davis Orchard Apt. 198
+Lake Sherriborough, WA 80890 US
+Tel:+(008)148-6608
+Email:bradleymelendez@example.com
+Site:https://wyatt-bell.biz/",1432 Davis Orchard Apt. 198,"Lake Sherriborough, WA 80890 US",,bradleymelendez@example.com,Bill to:Joanne Martin DDS,"Bill to:Joanne Martin DDS | 1432 Davis Orchard Apt. 198 | Lake Sherriborough, WA 80890 US | Tel:+(008)148-6608 | Email:bradleymelendez@example.com | Site:https://wyatt-bell.biz/",https://wyatt-bell.biz/,+(008)148-6608,USD,Invoice Date: 17-Dec-2004,2004-12-17,,GST(7%) : 28.13,GSTIN: 33123456789102Z1,[],INVOICE # 6Y5M1d-598,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 401.84  $,401.84,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 402.77 $,402.77,Template2_Instance4.json
+"Buyer :Marilyn Taylor
+5973 Matthew Row Apt. 878
+South Shirley, HI 32491 US
+Tel:+(923)143-1561
+Email:jeff01@example.net
+Site:https://www.hill.com/",5973 Matthew Row Apt. 878,"South Shirley, HI 32491 US",,jeff01@example.net,Buyer :Marilyn Taylor,"Buyer :Marilyn Taylor | 5973 Matthew Row Apt. 878 | South Shirley, HI 32491 US | Tel:+(923)143-1561 | Email:jeff01@example.net | Site:https://www.hill.com/",https://www.hill.com/,+(923)143-1561,EUR,Invoice Date: 01-Apr-2003,2003-04-01,,GST(7%) : 10.86,GSTIN: 33123456789102Z1,[],INVOICE ID 1145-448,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 155.18  EUR,155.18,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 160.00 EUR,160.0,Template2_Instance40.json
+"Buyer :Trevor James
+75796 Laura Stream Suite 686
+North Erikamouth, DC 56258 US
+Tel:+(843)444-5201
+Email:goodwinjacob@example.org
+Site:http://www.cunningham-rogers.com/",75796 Laura Stream Suite 686,"North Erikamouth, DC 56258 US",,goodwinjacob@example.org,Buyer :Trevor James,"Buyer :Trevor James | 75796 Laura Stream Suite 686 | North Erikamouth, DC 56258 US | Tel:+(843)444-5201 | Email:goodwinjacob@example.org | Site:http://www.cunningham-rogers.com/",http://www.cunningham-rogers.com/,+(843)444-5201,EUR,Date: 09-Mar-2013,2013-03-09,,GST(7%) : 38.60,GSTIN: 33123456789102Z1,[],Invoice number INV87400358,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 551.49  EUR,551.49,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 565.03 EUR,565.03,Template2_Instance41.json
+"Buyer :Crystal Fuller
+6778 Lisa Pines Apt. 856
+Geraldborough, MD 55260 US
+Tel:+(082)509-7024
+Email:gomezjudy@example.net
+Site:http://www.knox.com/",6778 Lisa Pines Apt. 856,"Geraldborough, MD 55260 US",,gomezjudy@example.net,Buyer :Crystal Fuller,"Buyer :Crystal Fuller | 6778 Lisa Pines Apt. 856 | Geraldborough, MD 55260 US | Tel:+(082)509-7024 | Email:gomezjudy@example.net | Site:http://www.knox.com/",http://www.knox.com/,+(082)509-7024,EUR,Invoice Date: 25-Nov-2001,2001-11-25,,GST(7%) : 61.32,GSTIN: 33123456789102Z1,[],Invoice number 3Y8M6d-595,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 876.03  EUR,876.03,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 886.37 EUR,886.37,Template2_Instance42.json
+"Bill to:James Powell
+623 Mcmillan Motorway
+South Michellebury, VI 44175 US
+Tel:+(100)310-7820
+Email:kjarvis@example.org
+Site:http://www.hooper.info/",623 Mcmillan Motorway,"South Michellebury, VI 44175 US",,kjarvis@example.org,Bill to:James Powell,"Bill to:James Powell | 623 Mcmillan Motorway | South Michellebury, VI 44175 US | Tel:+(100)310-7820 | Email:kjarvis@example.org | Site:http://www.hooper.info/",http://www.hooper.info/,+(100)310-7820,USD,Invoice Date: 25-Feb-2002,2002-02-25,,GST(7%) : 37.97,GSTIN: 33123456789102Z1,[],Invoice number INV/37-97/592,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 542.38  $,542.38,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 550.20 $,550.2,Template2_Instance43.json
+"Bill to:Mark Mendoza
+47992 Elizabeth Streets
+Carterberg, NV 46509 US
+Tel:+(599)112-7524
+Email:dbender@example.net
+Site:http://www.murray.com/",47992 Elizabeth Streets,"Carterberg, NV 46509 US",,dbender@example.net,Bill to:Mark Mendoza,"Bill to:Mark Mendoza | 47992 Elizabeth Streets | Carterberg, NV 46509 US | Tel:+(599)112-7524 | Email:dbender@example.net | Site:http://www.murray.com/",http://www.murray.com/,+(599)112-7524,EUR,Date: 26-Jan-2010,2010-01-26,,GST(7%) : 22.26,GSTIN: 33123456789102Z1,[],INVOICE # INV21871761,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 318.04  EUR,318.04,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 316.32 EUR,316.32,Template2_Instance44.json
+"Buyer :Patrick Jones
+5283 Lynn Path Suite 361
+Hermanview, OK 29450 US
+Tel:+(675)447-8992
+Email:marysalinas@example.org
+Site:https://carr-johnson.com/",5283 Lynn Path Suite 361,"Hermanview, OK 29450 US",,marysalinas@example.org,Buyer :Patrick Jones,"Buyer :Patrick Jones | 5283 Lynn Path Suite 361 | Hermanview, OK 29450 US | Tel:+(675)447-8992 | Email:marysalinas@example.org | Site:https://carr-johnson.com/",https://carr-johnson.com/,+(675)447-8992,EUR,Invoice Date: 31-May-2008,2008-05-31,,GST(7%) : 105.23,GSTIN: 33123456789102Z1,[],Invoice number 9757-470,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1503.28  EUR,3.28,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 1513.53 EUR,3.53,Template2_Instance45.json
+"Buyer :Connie Perry
+99221 Reese Squares
+New Nataliefurt, MS 31450 US
+Tel:+(264)820-1287
+Email:gsmith@example.net
+Site:https://www.strong.com/",99221 Reese Squares,"New Nataliefurt, MS 31450 US",,gsmith@example.net,Buyer :Connie Perry,"Buyer :Connie Perry | 99221 Reese Squares | New Nataliefurt, MS 31450 US | Tel:+(264)820-1287 | Email:gsmith@example.net | Site:https://www.strong.com/",https://www.strong.com/,+(264)820-1287,EUR,Invoice Date: 28-Dec-1993,1993-12-28,,GST(7%) : 54.60,GSTIN: 33123456789102Z1,[],Invoice number INV20880040,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 780.03  EUR,780.03,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 792.98 EUR,792.98,Template2_Instance46.json
+"Bill to:Jeanne Cruz
+10044 Patrick Overpass
+Evanshaven, MO 05840 US
+Tel:+(594)487-9019
+Email:wscott@example.com
+Site:http://hunter-powell.com/",10044 Patrick Overpass,"Evanshaven, MO 05840 US",,wscott@example.com,Bill to:Jeanne Cruz,"Bill to:Jeanne Cruz | 10044 Patrick Overpass | Evanshaven, MO 05840 US | Tel:+(594)487-9019 | Email:wscott@example.com | Site:http://hunter-powell.com/",http://hunter-powell.com/,+(594)487-9019,EUR,Invoice Date: 02-Jul-2022,2022-07-02,,GST(7%) : 15.94,GSTIN: 33123456789102Z1,[],INVOICE ID 7Y1M7d-309,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 227.68  EUR,227.68,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 238.45 EUR,238.45,Template2_Instance47.json
+"Bill to:Maria Carter
+831 William River
+Caseyport, MA 19056 US
+Tel:+(031)173-8119
+Email:crose@example.org
+Site:https://www.wilcox.org/",831 William River,"Caseyport, MA 19056 US",,crose@example.org,Bill to:Maria Carter,"Bill to:Maria Carter | 831 William River | Caseyport, MA 19056 US | Tel:+(031)173-8119 | Email:crose@example.org | Site:https://www.wilcox.org/",https://www.wilcox.org/,+(031)173-8119,USD,Invoice Date: 06-Feb-2004,2004-02-06,,GST(7%) : 68.53,GSTIN: 33123456789102Z1,[],INVOICE # 7Y7M8d-058,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 978.99  $,978.99,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 1001.16 $,1.16,Template2_Instance48.json
+"Buyer :Tiffany Bowen
+68480 Charles Ports
+New Jessica, MI 35729 US
+Tel:+(109)101-4556
+Email:jocelyn85@example.net
+Site:http://porter.com/",68480 Charles Ports,"New Jessica, MI 35729 US",,jocelyn85@example.net,Buyer :Tiffany Bowen,"Buyer :Tiffany Bowen | 68480 Charles Ports | New Jessica, MI 35729 US | Tel:+(109)101-4556 | Email:jocelyn85@example.net | Site:http://porter.com/",http://porter.com/,+(109)101-4556,USD,Invoice Date: 14-Jan-2012,2012-01-14,,GST(7%) : 52.49,GSTIN: 33123456789102Z1,[],Invoice number 1Y3M1d-837,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 749.86  USD,749.86,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 770.39 USD,770.39,Template2_Instance49.json
+"Bill to:Douglas Martinez
+9533 Smith Landing
+East Amber, NE 14003 US
+Tel:+(605)614-0945
+Email:william54@example.org
+Site:http://tyler.com/",9533 Smith Landing,"East Amber, NE 14003 US",,william54@example.org,Bill to:Douglas Martinez,"Bill to:Douglas Martinez | 9533 Smith Landing | East Amber, NE 14003 US | Tel:+(605)614-0945 | Email:william54@example.org | Site:http://tyler.com/",http://tyler.com/,+(605)614-0945,USD,Date: 28-Jul-2020,2020-07-28,,GST(7%) : 31.66,GSTIN: 33123456789102Z1,[],INVOICE # INV/15-97/004,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 452.28  USD,452.28,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 461.05 USD,461.05,Template2_Instance5.json
+"Buyer :Brandon Patel
+4363 Brittany Mountain
+Meyerstad, ND 09431 US
+Tel:+(352)853-0708
+Email:melissa55@example.net
+Site:http://www.simmons-mcmahon.biz/",4363 Brittany Mountain,"Meyerstad, ND 09431 US",,melissa55@example.net,Buyer :Brandon Patel,"Buyer :Brandon Patel | 4363 Brittany Mountain | Meyerstad, ND 09431 US | Tel:+(352)853-0708 | Email:melissa55@example.net | Site:http://www.simmons-mcmahon.biz/",http://www.simmons-mcmahon.biz/,+(352)853-0708,USD,Date: 07-Aug-1997,1997-08-07,,GST(7%) : 29.71,GSTIN: 33123456789102Z1,[],INVOICE # INV/84-63/587,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 424.38  $,424.38,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 430.37 $,430.37,Template2_Instance50.json
+"Bill to:Vincent Martin
+889 Ramirez Motorway Suite 471
+Whiteview, HI 48913 US
+Tel:+(323)172-6245
+Email:ubrennan@example.net
+Site:https://lutz.info/",889 Ramirez Motorway Suite 471,"Whiteview, HI 48913 US",,ubrennan@example.net,Bill to:Vincent Martin,"Bill to:Vincent Martin | 889 Ramirez Motorway Suite 471 | Whiteview, HI 48913 US | Tel:+(323)172-6245 | Email:ubrennan@example.net | Site:https://lutz.info/",https://lutz.info/,+(323)172-6245,EUR,Date: 08-Feb-1993,1993-02-08,,GST(7%) : 25.86,GSTIN: 33123456789102Z1,[],INVOICE # 5Y1M6d-791,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 369.48  EUR,369.48,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 378.01 EUR,378.01,Template2_Instance51.json
+"Bill to:Tyler Palmer
+397 Wolfe Meadow Apt. 464
+Smithville, SC 90910 US
+Tel:+(625)486-4965
+Email:hobrien@example.com
+Site:http://www.hernandez.com/",397 Wolfe Meadow Apt. 464,"Smithville, SC 90910 US",,hobrien@example.com,Bill to:Tyler Palmer,"Bill to:Tyler Palmer | 397 Wolfe Meadow Apt. 464 | Smithville, SC 90910 US | Tel:+(625)486-4965 | Email:hobrien@example.com | Site:http://www.hernandez.com/",http://www.hernandez.com/,+(625)486-4965,EUR,Date: 02-May-2018,2018-05-02,,GST(7%) : 35.24,GSTIN: 33123456789102Z1,[],INVOICE ID 8868-605,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 503.38  EUR,503.38,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 521.54 EUR,521.54,Template2_Instance52.json
+"Bill to:Shannon Kramer
+11663 Benjamin Crossing Apt. 027
+Jaredton, TN 79563 US
+Tel:+(751)493-5975
+Email:dlopez@example.org
+Site:http://jacobs.com/",11663 Benjamin Crossing Apt. 027,"Jaredton, TN 79563 US",,dlopez@example.org,Bill to:Shannon Kramer,"Bill to:Shannon Kramer | 11663 Benjamin Crossing Apt. 027 | Jaredton, TN 79563 US | Tel:+(751)493-5975 | Email:dlopez@example.org | Site:http://jacobs.com/",http://jacobs.com/,+(751)493-5975,EUR,Date: 21-Apr-2005,2005-04-21,,GST(7%) : 29.95,GSTIN: 33123456789102Z1,[],Invoice number INV/05-48/642,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 427.84  EUR,427.84,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 423.08 EUR,423.08,Template2_Instance53.json
+"Buyer :Christina Chase
+75972 Knox Plain Suite 190
+Wilsonmouth, OR 14116 US
+Tel:+(777)473-8038
+Email:sarah61@example.com
+Site:http://ball.com/",75972 Knox Plain Suite 190,"Wilsonmouth, OR 14116 US",,sarah61@example.com,Buyer :Christina Chase,"Buyer :Christina Chase | 75972 Knox Plain Suite 190 | Wilsonmouth, OR 14116 US | Tel:+(777)473-8038 | Email:sarah61@example.com | Site:http://ball.com/",http://ball.com/,+(777)473-8038,USD,Invoice Date: 13-Jul-2000,2000-07-13,,GST(7%) : 18.01,GSTIN: 33123456789102Z1,[],INVOICE ID INV22605545,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 257.35  $,257.35,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 262.80 $,262.8,Template2_Instance54.json
+"Bill to:Eric Allen
+810 Thomas Harbors
+Brittanybury, KY 26862 US
+Tel:+(571)545-3172
+Email:leejeremy@example.net
+Site:http://www.harper.biz/",810 Thomas Harbors,"Brittanybury, KY 26862 US",,leejeremy@example.net,Bill to:Eric Allen,"Bill to:Eric Allen | 810 Thomas Harbors | Brittanybury, KY 26862 US | Tel:+(571)545-3172 | Email:leejeremy@example.net | Site:http://www.harper.biz/",http://www.harper.biz/,+(571)545-3172,USD,Date: 15-Aug-2016,2016-08-15,,GST(7%) : 59.42,GSTIN: 33123456789102Z1,[],Invoice number 3Y3M2d-186,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 848.90  $,848.9,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 857.01 $,857.01,Template2_Instance55.json
+"Buyer :Ashley Hodges
+7345 Matthew Rapid
+Vasquezview, SD 71479 US
+Tel:+(551)386-9365
+Email:jessicahaney@example.org
+Site:http://www.gonzalez.org/",7345 Matthew Rapid,"Vasquezview, SD 71479 US",,jessicahaney@example.org,Buyer :Ashley Hodges,"Buyer :Ashley Hodges | 7345 Matthew Rapid | Vasquezview, SD 71479 US | Tel:+(551)386-9365 | Email:jessicahaney@example.org | Site:http://www.gonzalez.org/",http://www.gonzalez.org/,+(551)386-9365,USD,Invoice Date: 31-Mar-2003,2003-03-31,,GST(7%) : 17.77,GSTIN: 33123456789102Z1,[],Invoice number INV/67-37/714,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 253.88  USD,253.88,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 259.57 USD,259.57,Template2_Instance56.json
+"Bill to:Misty Rogers
+31260 Martinez Drives Suite 644
+Port Timothyton, WY 96691 US
+Tel:+(154)301-3959
+Email:richardsjeffrey@example.org
+Site:http://hill-daugherty.info/",31260 Martinez Drives Suite 644,"Port Timothyton, WY 96691 US",,richardsjeffrey@example.org,Bill to:Misty Rogers,"Bill to:Misty Rogers | 31260 Martinez Drives Suite 644 | Port Timothyton, WY 96691 US | Tel:+(154)301-3959 | Email:richardsjeffrey@example.org | Site:http://hill-daugherty.info/",http://hill-daugherty.info/,+(154)301-3959,USD,Invoice Date: 11-Apr-2015,2015-04-11,,GST(7%) : 22.17,GSTIN: 33123456789102Z1,[],INVOICE # 0869-542,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 316.78  USD,316.78,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 330.45 USD,330.45,Template2_Instance57.json
+"Buyer :Becky Martin
+501 Rios Track Suite 121
+Pattyton, NE 80919 US
+Tel:+(040)646-8434
+Email:mgreen@example.net
+Site:https://www.thomas.com/",501 Rios Track Suite 121,"Pattyton, NE 80919 US",,mgreen@example.net,Buyer :Becky Martin,"Buyer :Becky Martin | 501 Rios Track Suite 121 | Pattyton, NE 80919 US | Tel:+(040)646-8434 | Email:mgreen@example.net | Site:https://www.thomas.com/",https://www.thomas.com/,+(040)646-8434,USD,Date: 25-Jul-2021,2021-07-25,,GST(7%) : 20.96,GSTIN: 33123456789102Z1,[],Invoice number 5Y9M1d-806,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 299.41  USD,299.41,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 308.90 USD,308.9,Template2_Instance58.json
+"Bill to:Dennis Lamb
+79039 Ward Light
+West Christopherview, AL 92716 US
+Tel:+(263)311-7591
+Email:youngdorothy@example.net
+Site:https://ruiz.net/",79039 Ward Light,"West Christopherview, AL 92716 US",,youngdorothy@example.net,Bill to:Dennis Lamb,"Bill to:Dennis Lamb | 79039 Ward Light | West Christopherview, AL 92716 US | Tel:+(263)311-7591 | Email:youngdorothy@example.net | Site:https://ruiz.net/",https://ruiz.net/,+(263)311-7591,EUR,Date: 18-May-2003,2003-05-18,,GST(7%) : 23.70,GSTIN: 33123456789102Z1,[],Invoice number INV/37-45/068,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 338.57  EUR,338.57,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 339.30 EUR,339.3,Template2_Instance59.json
+"Buyer :Terri Henderson
+80544 Bradley Meadows Apt. 976
+Hammondchester, ID 52172 US
+Tel:+(679)504-4434
+Email:calvin46@example.com
+Site:http://black-dean.biz/",80544 Bradley Meadows Apt. 976,"Hammondchester, ID 52172 US",,calvin46@example.com,Buyer :Terri Henderson,"Buyer :Terri Henderson | 80544 Bradley Meadows Apt. 976 | Hammondchester, ID 52172 US | Tel:+(679)504-4434 | Email:calvin46@example.com | Site:http://black-dean.biz/",http://black-dean.biz/,+(679)504-4434,USD,Invoice Date: 08-Jul-1999,1999-07-08,,GST(7%) : 103.28,GSTIN: 33123456789102Z1,[],INVOICE # INV92485199,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1475.37  USD,5.37,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 1502.92 USD,2.92,Template2_Instance6.json
+"Buyer :Richard Conley
+49669 Peterson Shoal Apt. 776
+West Charlesside, OR 32801 US
+Tel:+(823)120-1800
+Email:christinapotter@example.org
+Site:https://miller.com/",49669 Peterson Shoal Apt. 776,"West Charlesside, OR 32801 US",,christinapotter@example.org,Buyer :Richard Conley,"Buyer :Richard Conley | 49669 Peterson Shoal Apt. 776 | West Charlesside, OR 32801 US | Tel:+(823)120-1800 | Email:christinapotter@example.org | Site:https://miller.com/",https://miller.com/,+(823)120-1800,EUR,Invoice Date: 06-Sep-2017,2017-09-06,,GST(7%) : 43.19,GSTIN: 33123456789102Z1,[],INVOICE ID INV31643120,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 616.94  EUR,616.94,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 644.61 EUR,644.61,Template2_Instance60.json
+"Buyer :Mary Mitchell
+23760 Craig Island Suite 974
+North Johnnystad, GU 48395 US
+Tel:+(444)187-2467
+Email:angelarodriguez@example.net
+Site:http://www.burns.biz/",23760 Craig Island Suite 974,"North Johnnystad, GU 48395 US",,angelarodriguez@example.net,Buyer :Mary Mitchell,"Buyer :Mary Mitchell | 23760 Craig Island Suite 974 | North Johnnystad, GU 48395 US | Tel:+(444)187-2467 | Email:angelarodriguez@example.net | Site:http://www.burns.biz/",http://www.burns.biz/,+(444)187-2467,USD,Invoice Date: 14-Apr-2021,2021-04-14,,GST(7%) : 91.25,GSTIN: 33123456789102Z1,[],INVOICE # 2564-849,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1303.52  USD,3.52,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 1377.03 USD,7.03,Template2_Instance61.json
+"Bill to:Lori Weaver
+7398 Edwards Well
+Greenland, NM 47699 US
+Tel:+(339)936-0252
+Email:perezerin@example.org
+Site:https://alvarado.net/",7398 Edwards Well,"Greenland, NM 47699 US",,perezerin@example.org,Bill to:Lori Weaver,"Bill to:Lori Weaver | 7398 Edwards Well | Greenland, NM 47699 US | Tel:+(339)936-0252 | Email:perezerin@example.org | Site:https://alvarado.net/",https://alvarado.net/,+(339)936-0252,USD,Date: 17-Jul-1999,1999-07-17,,GST(7%) : 16.75,GSTIN: 33123456789102Z1,[],INVOICE # INV/47-50/936,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 239.34  USD,239.34,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 244.49 USD,244.49,Template2_Instance62.json
+"Buyer :Jessica Brown
+4404 Matthew Terrace Suite 352
+Carrilloshire, IN 53133 US
+Tel:+(391)470-5220
+Email:bradfordgina@example.org
+Site:http://www.delgado.com/",4404 Matthew Terrace Suite 352,"Carrilloshire, IN 53133 US",,bradfordgina@example.org,Buyer :Jessica Brown,"Buyer :Jessica Brown | 4404 Matthew Terrace Suite 352 | Carrilloshire, IN 53133 US | Tel:+(391)470-5220 | Email:bradfordgina@example.org | Site:http://www.delgado.com/",http://www.delgado.com/,+(391)470-5220,USD,Date: 31-Jan-2015,2015-01-31,,GST(7%) : 61.72,GSTIN: 33123456789102Z1,[],INVOICE # 2655-318,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 881.74  USD,881.74,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 906.07 USD,906.07,Template2_Instance63.json
+"Bill to:Dr. James Walter MD
+911 Castillo Route Suite 916
+Joshuaport, AL 07481 US
+Tel:+(110)543-3457
+Email:golson@example.org
+Site:http://chapman.com/",911 Castillo Route Suite 916,"Joshuaport, AL 07481 US",,golson@example.org,Bill to:Dr. James Walter MD,"Bill to:Dr. James Walter MD | 911 Castillo Route Suite 916 | Joshuaport, AL 07481 US | Tel:+(110)543-3457 | Email:golson@example.org | Site:http://chapman.com/",http://chapman.com/,+(110)543-3457,USD,Invoice Date: 24-Jul-2010,2010-07-24,,GST(7%) : 36.44,GSTIN: 33123456789102Z1,[],Invoice number INV80590621,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 520.61  $,520.61,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 538.70 $,538.7,Template2_Instance64.json
+"Buyer :Shannon Murray
+640 Rachel Drives Apt. 540
+Grossville, SD 85843 US
+Tel:+(107)022-1710
+Email:francismunoz@example.org
+Site:http://www.lynch.com/",640 Rachel Drives Apt. 540,"Grossville, SD 85843 US",,francismunoz@example.org,Buyer :Shannon Murray,"Buyer :Shannon Murray | 640 Rachel Drives Apt. 540 | Grossville, SD 85843 US | Tel:+(107)022-1710 | Email:francismunoz@example.org | Site:http://www.lynch.com/",http://www.lynch.com/,+(107)022-1710,USD,Date: 18-Sep-2002,2002-09-18,,GST(7%) : 81.40,GSTIN: 33123456789102Z1,[],INVOICE ID 3Y6M3d-415,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1162.92  $,2.92,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 1160.13 $,0.13,Template2_Instance65.json
+"Bill to:Nathaniel Brown
+9604 Moore Wells Suite 292
+New Jesseport, MD 04973 US
+Tel:+(393)038-0701
+Email:karenrusso@example.com
+Site:https://www.johnson.biz/",9604 Moore Wells Suite 292,"New Jesseport, MD 04973 US",,karenrusso@example.com,Bill to:Nathaniel Brown,"Bill to:Nathaniel Brown | 9604 Moore Wells Suite 292 | New Jesseport, MD 04973 US | Tel:+(393)038-0701 | Email:karenrusso@example.com | Site:https://www.johnson.biz/",https://www.johnson.biz/,+(393)038-0701,EUR,Invoice Date: 03-Jun-2000,2000-06-03,,GST(7%) : 29.14,GSTIN: 33123456789102Z1,[],INVOICE # INV51564723,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 416.26  EUR,416.26,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 415.41 EUR,415.41,Template2_Instance66.json
+"Bill to:Chad Stephenson
+66749 Cantu Camp
+Lake Allenmouth, AL 80140 US
+Tel:+(391)959-7367
+Email:mvazquez@example.org
+Site:http://www.shea.org/",66749 Cantu Camp,"Lake Allenmouth, AL 80140 US",,mvazquez@example.org,Bill to:Chad Stephenson,"Bill to:Chad Stephenson | 66749 Cantu Camp | Lake Allenmouth, AL 80140 US | Tel:+(391)959-7367 | Email:mvazquez@example.org | Site:http://www.shea.org/",http://www.shea.org/,+(391)959-7367,EUR,Invoice Date: 06-Oct-2010,2010-10-06,,GST(7%) : 43.17,GSTIN: 33123456789102Z1,[],INVOICE ID INV27259051,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 616.71  EUR,616.71,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 640.13 EUR,640.13,Template2_Instance67.json
+"Bill to:Joseph Kelly
+432 Johnson Grove
+Masonbury, MS 10869 US
+Tel:+(469)580-6111
+Email:nicholas37@example.com
+Site:http://www.howell.net/",432 Johnson Grove,"Masonbury, MS 10869 US",,nicholas37@example.com,Bill to:Joseph Kelly,"Bill to:Joseph Kelly | 432 Johnson Grove | Masonbury, MS 10869 US | Tel:+(469)580-6111 | Email:nicholas37@example.com | Site:http://www.howell.net/",http://www.howell.net/,+(469)580-6111,USD,Invoice Date: 19-Sep-2021,2021-09-19,,GST(7%) : 72.46,GSTIN: 33123456789102Z1,[],INVOICE ID 5Y2M9d-549,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1035.12  $,5.12,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 1077.65 $,7.65,Template2_Instance68.json
+"Bill to:Emily Johnson
+8486 Mercer Neck
+Martinhaven, TN 42560 US
+Tel:+(188)985-9868
+Email:jennifer97@example.com
+Site:https://ballard.com/",8486 Mercer Neck,"Martinhaven, TN 42560 US",,jennifer97@example.com,Bill to:Emily Johnson,"Bill to:Emily Johnson | 8486 Mercer Neck | Martinhaven, TN 42560 US | Tel:+(188)985-9868 | Email:jennifer97@example.com | Site:https://ballard.com/",https://ballard.com/,+(188)985-9868,USD,Invoice Date: 07-May-1993,1993-05-07,,GST(7%) : 25.94,GSTIN: 33123456789102Z1,[],INVOICE ID INV07032376,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 370.56  USD,370.56,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 373.59 USD,373.59,Template2_Instance69.json
+"Buyer :Roger Rivera
+80426 Morgan Cliffs
+South Brenda, TX 07646 US
+Tel:+(411)672-0904
+Email:meganwiley@example.com
+Site:http://www.ellis-jackson.net/",80426 Morgan Cliffs,"South Brenda, TX 07646 US",,meganwiley@example.com,Buyer :Roger Rivera,"Buyer :Roger Rivera | 80426 Morgan Cliffs | South Brenda, TX 07646 US | Tel:+(411)672-0904 | Email:meganwiley@example.com | Site:http://www.ellis-jackson.net/",http://www.ellis-jackson.net/,+(411)672-0904,USD,Invoice Date: 16-Aug-1999,1999-08-16,,GST(7%) : 52.33,GSTIN: 33123456789102Z1,[],INVOICE ID INV/84-38/976,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 747.61  USD,747.61,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 761.92 USD,761.92,Template2_Instance7.json
+"Bill to:Yesenia Brown
+18748 Doyle Glens
+Kimfurt, TN 90373 US
+Tel:+(569)316-9288
+Email:taramitchell@example.com
+Site:https://www.elliott-wilson.com/",18748 Doyle Glens,"Kimfurt, TN 90373 US",,taramitchell@example.com,Bill to:Yesenia Brown,"Bill to:Yesenia Brown | 18748 Doyle Glens | Kimfurt, TN 90373 US | Tel:+(569)316-9288 | Email:taramitchell@example.com | Site:https://www.elliott-wilson.com/",https://www.elliott-wilson.com/,+(569)316-9288,USD,Date: 18-May-2001,2001-05-18,,GST(7%) : 40.85,GSTIN: 33123456789102Z1,[],INVOICE ID INV/44-29/041,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 583.57  $,583.57,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 591.52 $,591.52,Template2_Instance70.json
+"Bill to:Cynthia Wolfe
+6336 Stewart Fork
+New Steven, MD 70695 US
+Tel:+(963)275-5989
+Email:zwalton@example.net
+Site:https://taylor-johnson.biz/",6336 Stewart Fork,"New Steven, MD 70695 US",,zwalton@example.net,Bill to:Cynthia Wolfe,"Bill to:Cynthia Wolfe | 6336 Stewart Fork | New Steven, MD 70695 US | Tel:+(963)275-5989 | Email:zwalton@example.net | Site:https://taylor-johnson.biz/",https://taylor-johnson.biz/,+(963)275-5989,EUR,Invoice Date: 30-Mar-2003,2003-03-30,,GST(7%) : 17.16,GSTIN: 33123456789102Z1,[],INVOICE # INV94163723,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 245.16  EUR,245.16,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 244.71 EUR,244.71,Template2_Instance71.json
+"Bill to:Karen Thompson
+637 Chris Field
+Lucasview, PR 28623 US
+Tel:+(616)595-4800
+Email:chenerica@example.org
+Site:http://www.lamb-wallace.info/",637 Chris Field,"Lucasview, PR 28623 US",,chenerica@example.org,Bill to:Karen Thompson,"Bill to:Karen Thompson | 637 Chris Field | Lucasview, PR 28623 US | Tel:+(616)595-4800 | Email:chenerica@example.org | Site:http://www.lamb-wallace.info/",http://www.lamb-wallace.info/,+(616)595-4800,USD,Invoice Date: 13-Oct-2019,2019-10-13,,GST(7%) : 16.79,GSTIN: 33123456789102Z1,[],INVOICE # INV37491974,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 239.90  $,239.9,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 244.25 $,244.25,Template2_Instance72.json
+"Buyer :John Johnson
+5218 Young Crest
+New Julia, UT 96100 US
+Tel:+(007)950-3721
+Email:kristen46@example.com
+Site:http://www.owens.com/",5218 Young Crest,"New Julia, UT 96100 US",,kristen46@example.com,Buyer :John Johnson,"Buyer :John Johnson | 5218 Young Crest | New Julia, UT 96100 US | Tel:+(007)950-3721 | Email:kristen46@example.com | Site:http://www.owens.com/",http://www.owens.com/,+(007)950-3721,USD,Date: 17-Sep-2006,2006-09-17,,GST(7%) : 39.27,GSTIN: 33123456789102Z1,[],INVOICE # 5970-774,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 561.02  USD,561.02,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 571.63 USD,571.63,Template2_Instance73.json
+"Buyer :Karen Manning
+679 Brown Haven Suite 854
+Jacksonside, WI 62137 US
+Tel:+(544)736-3380
+Email:murraychelsea@example.net
+Site:http://www.williams.com/",679 Brown Haven Suite 854,"Jacksonside, WI 62137 US",,murraychelsea@example.net,Buyer :Karen Manning,"Buyer :Karen Manning | 679 Brown Haven Suite 854 | Jacksonside, WI 62137 US | Tel:+(544)736-3380 | Email:murraychelsea@example.net | Site:http://www.williams.com/",http://www.williams.com/,+(544)736-3380,USD,Date: 17-Jun-2014,2014-06-17,,GST(7%) : 61.72,GSTIN: 33123456789102Z1,[],INVOICE # 7Y9M4d-818,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 881.76  USD,881.76,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 931.61 USD,931.61,Template2_Instance74.json
+"Bill to:Eric King
+163 Morgan Parks
+Barbaraview, NE 06686 US
+Tel:+(096)674-6493
+Email:hernandezjennifer@example.org
+Site:http://lynch.biz/",163 Morgan Parks,"Barbaraview, NE 06686 US",,hernandezjennifer@example.org,Bill to:Eric King,"Bill to:Eric King | 163 Morgan Parks | Barbaraview, NE 06686 US | Tel:+(096)674-6493 | Email:hernandezjennifer@example.org | Site:http://lynch.biz/",http://lynch.biz/,+(096)674-6493,USD,Date: 14-Feb-2005,2005-02-14,,GST(7%) : 23.99,GSTIN: 33123456789102Z1,[],Invoice number INV/08-70/407,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 342.69  USD,342.69,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 344.97 USD,344.97,Template2_Instance75.json
+"Bill to:Devin Kennedy
+32471 Alvarez Knoll
+Williamfurt, NM 85433 US
+Tel:+(199)648-8473
+Email:nrose@example.org
+Site:http://hester.com/",32471 Alvarez Knoll,"Williamfurt, NM 85433 US",,nrose@example.org,Bill to:Devin Kennedy,"Bill to:Devin Kennedy | 32471 Alvarez Knoll | Williamfurt, NM 85433 US | Tel:+(199)648-8473 | Email:nrose@example.org | Site:http://hester.com/",http://hester.com/,+(199)648-8473,EUR,Invoice Date: 11-Nov-2010,2010-11-11,,GST(7%) : 61.51,GSTIN: 33123456789102Z1,[],INVOICE # 5Y6M3d-136,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 878.71  EUR,878.71,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 915.99 EUR,915.99,Template2_Instance76.json
+"Bill to:Dylan Skinner
+2534 Jacobs Mountains
+Lake Michael, DE 41383 US
+Tel:+(675)945-9628
+Email:yolandasteele@example.com
+Site:http://king.org/",2534 Jacobs Mountains,"Lake Michael, DE 41383 US",,yolandasteele@example.com,Bill to:Dylan Skinner,"Bill to:Dylan Skinner | 2534 Jacobs Mountains | Lake Michael, DE 41383 US | Tel:+(675)945-9628 | Email:yolandasteele@example.com | Site:http://king.org/",http://king.org/,+(675)945-9628,USD,Invoice Date: 26-Feb-2005,2005-02-26,,GST(7%) : 48.42,GSTIN: 33123456789102Z1,[],INVOICE # INV/12-51/592,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 691.77  USD,691.77,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 722.52 USD,722.52,Template2_Instance77.json
+"Buyer :Jeffrey Jones
+206 Scott Wall Apt. 561
+Vincenttown, NC 09912 US
+Tel:+(098)363-5696
+Email:jeffreyflores@example.com
+Site:http://www.bruce.info/",206 Scott Wall Apt. 561,"Vincenttown, NC 09912 US",,jeffreyflores@example.com,Buyer :Jeffrey Jones,"Buyer :Jeffrey Jones | 206 Scott Wall Apt. 561 | Vincenttown, NC 09912 US | Tel:+(098)363-5696 | Email:jeffreyflores@example.com | Site:http://www.bruce.info/",http://www.bruce.info/,+(098)363-5696,EUR,Date: 17-Jul-1995,1995-07-17,,GST(7%) : 50.60,GSTIN: 33123456789102Z1,[],INVOICE # INV/42-65/764,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 722.83  EUR,722.83,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 740.08 EUR,740.08,Template2_Instance78.json
+"Bill to:Heidi Cain
+3846 Day Fall Apt. 038
+West Brittany, MT 32958 US
+Tel:+(847)516-3826
+Email:duartevictoria@example.com
+Site:https://www.nguyen-williamson.info/",3846 Day Fall Apt. 038,"West Brittany, MT 32958 US",,duartevictoria@example.com,Bill to:Heidi Cain,"Bill to:Heidi Cain | 3846 Day Fall Apt. 038 | West Brittany, MT 32958 US | Tel:+(847)516-3826 | Email:duartevictoria@example.com | Site:https://www.nguyen-williamson.info/",https://www.nguyen-williamson.info/,+(847)516-3826,USD,Invoice Date: 03-Aug-2011,2011-08-03,,GST(7%) : 25.27,GSTIN: 33123456789102Z1,[],INVOICE ID 7645-953,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 360.96  USD,360.96,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 371.64 USD,371.64,Template2_Instance79.json
+"Bill to:James Mayer
+360 Jonathan Landing
+Jacquelineland, OH 72397 US
+Tel:+(871)203-1034
+Email:tammy75@example.org
+Site:https://www.williams.com/",360 Jonathan Landing,"Jacquelineland, OH 72397 US",,tammy75@example.org,Bill to:James Mayer,"Bill to:James Mayer | 360 Jonathan Landing | Jacquelineland, OH 72397 US | Tel:+(871)203-1034 | Email:tammy75@example.org | Site:https://www.williams.com/",https://www.williams.com/,+(871)203-1034,USD,Date: 26-Jul-2013,2013-07-26,,GST(7%) : 19.21,GSTIN: 33123456789102Z1,[],Invoice number 6549-084,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 274.36  $,274.36,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 276.09 $,276.09,Template2_Instance8.json
+"Bill to:Mark Ellis
+76819 Danny Mountain Suite 143
+Tuckerville, DC 24110 US
+Tel:+(758)683-1351
+Email:sramirez@example.com
+Site:http://todd.org/",76819 Danny Mountain Suite 143,"Tuckerville, DC 24110 US",,sramirez@example.com,Bill to:Mark Ellis,"Bill to:Mark Ellis | 76819 Danny Mountain Suite 143 | Tuckerville, DC 24110 US | Tel:+(758)683-1351 | Email:sramirez@example.com | Site:http://todd.org/",http://todd.org/,+(758)683-1351,EUR,Invoice Date: 13-Apr-2001,2001-04-13,,GST(7%) : 30.98,GSTIN: 33123456789102Z1,[],Invoice number 6288-555,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 442.55  EUR,442.55,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 439.64 EUR,439.64,Template2_Instance80.json
+"Bill to:Brandon Hall
+8473 Baxter Crossroad Apt. 041
+West Christianstad, TN 33563 US
+Tel:+(571)285-2136
+Email:ehorton@example.com
+Site:https://stephens.com/",8473 Baxter Crossroad Apt. 041,"West Christianstad, TN 33563 US",,ehorton@example.com,Bill to:Brandon Hall,"Bill to:Brandon Hall | 8473 Baxter Crossroad Apt. 041 | West Christianstad, TN 33563 US | Tel:+(571)285-2136 | Email:ehorton@example.com | Site:https://stephens.com/",https://stephens.com/,+(571)285-2136,USD,Date: 27-Nov-2006,2006-11-27,,GST(7%) : 8.46,GSTIN: 33123456789102Z1,[],INVOICE # INV00045841,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 120.82  USD,120.82,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 126.15 USD,126.15,Template2_Instance81.json
+"Bill to:Ashley Perez
+07530 Robles Garden
+Port Kimberlyland, AL 81463 US
+Tel:+(204)221-3354
+Email:kellirodriguez@example.net
+Site:http://clark-turner.com/",07530 Robles Garden,"Port Kimberlyland, AL 81463 US",,kellirodriguez@example.net,Bill to:Ashley Perez,"Bill to:Ashley Perez | 07530 Robles Garden | Port Kimberlyland, AL 81463 US | Tel:+(204)221-3354 | Email:kellirodriguez@example.net | Site:http://clark-turner.com/",http://clark-turner.com/,+(204)221-3354,USD,Date: 16-Sep-1995,1995-09-16,,GST(7%) : 49.91,GSTIN: 33123456789102Z1,[],Invoice number INV/50-98/603,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 712.93  $,712.93,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 735.41 $,735.41,Template2_Instance82.json
+"Bill to:Cameron Johnson
+367 Theresa Harbors Apt. 363
+Jackchester, CO 95750 US
+Tel:+(661)222-7252
+Email:nicholasjohnson@example.com
+Site:http://young.net/",367 Theresa Harbors Apt. 363,"Jackchester, CO 95750 US",,nicholasjohnson@example.com,Bill to:Cameron Johnson,"Bill to:Cameron Johnson | 367 Theresa Harbors Apt. 363 | Jackchester, CO 95750 US | Tel:+(661)222-7252 | Email:nicholasjohnson@example.com | Site:http://young.net/",http://young.net/,+(661)222-7252,EUR,Invoice Date: 11-Jun-1998,1998-06-11,,GST(7%) : 25.74,GSTIN: 33123456789102Z1,[],INVOICE # INV20912642,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 367.76  EUR,367.76,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 376.84 EUR,376.84,Template2_Instance83.json
+"Buyer :Jasmine Jefferson
+885 Klein Turnpike
+West Brandon, ME 20837 US
+Tel:+(483)356-8025
+Email:carrie22@example.com
+Site:http://drake.info/",885 Klein Turnpike,"West Brandon, ME 20837 US",,carrie22@example.com,Buyer :Jasmine Jefferson,"Buyer :Jasmine Jefferson | 885 Klein Turnpike | West Brandon, ME 20837 US | Tel:+(483)356-8025 | Email:carrie22@example.com | Site:http://drake.info/",http://drake.info/,+(483)356-8025,EUR,Date: 21-Dec-2001,2001-12-21,,GST(7%) : 15.89,GSTIN: 33123456789102Z1,[],Invoice number INV53814858,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 226.95  EUR,226.95,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 230.53 EUR,230.53,Template2_Instance84.json
+"Buyer :Kristi Smith
+5698 Calderon Roads
+Emilychester, FM 51356 US
+Tel:+(389)585-8336
+Email:kimberly67@example.net
+Site:https://joseph-kemp.com/",5698 Calderon Roads,"Emilychester, FM 51356 US",,kimberly67@example.net,Buyer :Kristi Smith,"Buyer :Kristi Smith | 5698 Calderon Roads | Emilychester, FM 51356 US | Tel:+(389)585-8336 | Email:kimberly67@example.net | Site:https://joseph-kemp.com/",https://joseph-kemp.com/,+(389)585-8336,USD,Date: 25-Feb-2017,2017-02-25,,GST(7%) : 12.52,GSTIN: 33123456789102Z1,[],INVOICE # 6Y1M2d-195,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 178.82  $,178.82,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 183.14 $,183.14,Template2_Instance85.json
+"Buyer :Ashley Miller
+4946 Sandoval Stream Apt. 491
+New Melissa, NH 73393 US
+Tel:+(435)045-9747
+Email:heatherclark@example.org
+Site:https://mclaughlin.com/",4946 Sandoval Stream Apt. 491,"New Melissa, NH 73393 US",,heatherclark@example.org,Buyer :Ashley Miller,"Buyer :Ashley Miller | 4946 Sandoval Stream Apt. 491 | New Melissa, NH 73393 US | Tel:+(435)045-9747 | Email:heatherclark@example.org | Site:https://mclaughlin.com/",https://mclaughlin.com/,+(435)045-9747,EUR,Invoice Date: 29-Nov-2016,2016-11-29,,GST(7%) : 102.46,GSTIN: 33123456789102Z1,[],INVOICE # INV90260278,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1463.77  EUR,3.77,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 1516.99 EUR,6.99,Template2_Instance86.json
+"Bill to:Lisa Nelson
+17713 Jose Common Suite 677
+Brendaville, ID 67017 US
+Tel:+(173)523-1856
+Email:jasmineconner@example.com
+Site:https://martinez-rogers.com/",17713 Jose Common Suite 677,"Brendaville, ID 67017 US",,jasmineconner@example.com,Bill to:Lisa Nelson,"Bill to:Lisa Nelson | 17713 Jose Common Suite 677 | Brendaville, ID 67017 US | Tel:+(173)523-1856 | Email:jasmineconner@example.com | Site:https://martinez-rogers.com/",https://martinez-rogers.com/,+(173)523-1856,USD,Date: 22-Mar-1994,1994-03-22,,GST(7%) : 16.72,GSTIN: 33123456789102Z1,[],INVOICE # 8229-008,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 238.91  USD,238.91,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 241.96 USD,241.96,Template2_Instance87.json
+"Buyer :James Rodriguez
+0588 Robinson Parkways Apt. 091
+Herringhaven, IA 03895 US
+Tel:+(237)891-7158
+Email:joshua28@example.net
+Site:http://www.copeland-allen.com/",0588 Robinson Parkways Apt. 091,"Herringhaven, IA 03895 US",,joshua28@example.net,Buyer :James Rodriguez,"Buyer :James Rodriguez | 0588 Robinson Parkways Apt. 091 | Herringhaven, IA 03895 US | Tel:+(237)891-7158 | Email:joshua28@example.net | Site:http://www.copeland-allen.com/",http://www.copeland-allen.com/,+(237)891-7158,EUR,Date: 02-Mar-2004,2004-03-02,,GST(7%) : 61.35,GSTIN: 33123456789102Z1,[],Invoice number 6Y6M5d-706,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 876.47  EUR,876.47,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 918.72 EUR,918.72,Template2_Instance88.json
+"Buyer :Amanda Howard
+18498 Bell Key
+South Robin, TX 18172 US
+Tel:+(764)209-5990
+Email:housejeanne@example.org
+Site:https://keller.com/",18498 Bell Key,"South Robin, TX 18172 US",,housejeanne@example.org,Buyer :Amanda Howard,"Buyer :Amanda Howard | 18498 Bell Key | South Robin, TX 18172 US | Tel:+(764)209-5990 | Email:housejeanne@example.org | Site:https://keller.com/",https://keller.com/,+(764)209-5990,USD,Invoice Date: 17-May-1998,1998-05-17,,GST(7%) : 15.93,GSTIN: 33123456789102Z1,[],INVOICE ID 7Y9M7d-698,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 227.52  USD,227.52,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 236.28 USD,236.28,Template2_Instance89.json
+"Bill to:William Hill
+18540 Aguilar Divide
+Dannyshire, FL 55150 US
+Tel:+(030)837-0761
+Email:teresawilson@example.net
+Site:https://booker.com/",18540 Aguilar Divide,"Dannyshire, FL 55150 US",,teresawilson@example.net,Bill to:William Hill,"Bill to:William Hill | 18540 Aguilar Divide | Dannyshire, FL 55150 US | Tel:+(030)837-0761 | Email:teresawilson@example.net | Site:https://booker.com/",https://booker.com/,+(030)837-0761,USD,Invoice Date: 11-Dec-2012,2012-12-11,,GST(7%) : 28.62,GSTIN: 33123456789102Z1,[],INVOICE # INV/61-80/166,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 408.87  $,408.87,"[[{'bbox': [[20.0, 372.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 412.74 $,412.74,Template2_Instance9.json
+"Buyer :Lynn Sullivan
+6287 Harrison Row Apt. 630
+Jenniferbury, DE 27131 US
+Tel:+(083)836-3092
+Email:baileykarl@example.net
+Site:http://simpson.org/",6287 Harrison Row Apt. 630,"Jenniferbury, DE 27131 US",,baileykarl@example.net,Buyer :Lynn Sullivan,"Buyer :Lynn Sullivan | 6287 Harrison Row Apt. 630 | Jenniferbury, DE 27131 US | Tel:+(083)836-3092 | Email:baileykarl@example.net | Site:http://simpson.org/",http://simpson.org/,+(083)836-3092,USD,Invoice Date: 15-Oct-2013,2013-10-15,,GST(7%) : 10.86,GSTIN: 33123456789102Z1,[],Invoice number INV99700514,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 155.13  USD,155.13,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 160.38 USD,160.38,Template2_Instance90.json
+"Buyer :Sarah Perry
+1044 West Crest
+Port William, AR 71849 US
+Tel:+(600)425-5420
+Email:robertshannon@example.org
+Site:http://www.boyer.com/",1044 West Crest,"Port William, AR 71849 US",,robertshannon@example.org,Buyer :Sarah Perry,"Buyer :Sarah Perry | 1044 West Crest | Port William, AR 71849 US | Tel:+(600)425-5420 | Email:robertshannon@example.org | Site:http://www.boyer.com/",http://www.boyer.com/,+(600)425-5420,USD,Date: 07-Jan-1998,1998-01-07,,GST(7%) : 55.99,GSTIN: 33123456789102Z1,[],Invoice number 5Y5M8d-680,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 799.92  $,799.92,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 803.67 $,803.67,Template2_Instance91.json
+"Buyer :Tony Oconnor
+00397 Ali Locks Suite 773
+Ryanton, WI 17464 US
+Tel:+(067)763-5260
+Email:brenda15@example.com
+Site:http://www.adams.com/",00397 Ali Locks Suite 773,"Ryanton, WI 17464 US",,brenda15@example.com,Buyer :Tony Oconnor,"Buyer :Tony Oconnor | 00397 Ali Locks Suite 773 | Ryanton, WI 17464 US | Tel:+(067)763-5260 | Email:brenda15@example.com | Site:http://www.adams.com/",http://www.adams.com/,+(067)763-5260,USD,Date: 21-Jan-2002,2002-01-21,,GST(7%) : 7.25,GSTIN: 33123456789102Z1,[],Invoice number 1671-004,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 103.56  $,103.56,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 103.89 $,103.89,Template2_Instance92.json
+"Buyer :Jennifer Barry
+7143 Finley Grove Apt. 849
+West Claire, MI 83096 US
+Tel:+(150)564-9215
+Email:paul22@example.net
+Site:https://hayes.com/",7143 Finley Grove Apt. 849,"West Claire, MI 83096 US",,paul22@example.net,Buyer :Jennifer Barry,"Buyer :Jennifer Barry | 7143 Finley Grove Apt. 849 | West Claire, MI 83096 US | Tel:+(150)564-9215 | Email:paul22@example.net | Site:https://hayes.com/",https://hayes.com/,+(150)564-9215,USD,Date: 02-Jul-1998,1998-07-02,,GST(7%) : 95.50,GSTIN: 33123456789102Z1,[],INVOICE ID INV/75-20/309,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1364.32  $,4.32,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 1372.28 $,2.28,Template2_Instance93.json
+"Bill to:Heather Reynolds
+28075 Faith Summit Suite 395
+Lake Natalie, NH 64691 US
+Tel:+(187)402-8024
+Email:pdunn@example.com
+Site:https://www.sutton-bauer.info/",28075 Faith Summit Suite 395,"Lake Natalie, NH 64691 US",,pdunn@example.com,Bill to:Heather Reynolds,"Bill to:Heather Reynolds | 28075 Faith Summit Suite 395 | Lake Natalie, NH 64691 US | Tel:+(187)402-8024 | Email:pdunn@example.com | Site:https://www.sutton-bauer.info/",https://www.sutton-bauer.info/,+(187)402-8024,USD,Date: 28-Apr-1993,1993-04-28,,GST(7%) : 56.12,GSTIN: 33123456789102Z1,[],INVOICE # 9284-650,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 801.65  $,801.65,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 827.45 $,827.45,Template2_Instance94.json
+"Bill to:Michael Davis
+911 Michael Island Suite 120
+East Barbara, OH 67845 US
+Tel:+(559)833-9619
+Email:lisabird@example.net
+Site:https://allen.info/",911 Michael Island Suite 120,"East Barbara, OH 67845 US",,lisabird@example.net,Bill to:Michael Davis,"Bill to:Michael Davis | 911 Michael Island Suite 120 | East Barbara, OH 67845 US | Tel:+(559)833-9619 | Email:lisabird@example.net | Site:https://allen.info/",https://allen.info/,+(559)833-9619,USD,Date: 14-Jun-2012,2012-06-14,,GST(7%) : 19.38,GSTIN: 33123456789102Z1,[],INVOICE # INV/08-44/462,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 276.82  USD,276.82,"[[{'bbox': [[20.0, 354.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 285.98 USD,285.98,Template2_Instance95.json
+"Bill to:Charles Howell
+8579 Powell Point Apt. 093
+Donaldsontown, CA 79139 US
+Tel:+(521)095-1532
+Email:casey90@example.net
+Site:https://www.hatfield.com/",8579 Powell Point Apt. 093,"Donaldsontown, CA 79139 US",,casey90@example.net,Bill to:Charles Howell,"Bill to:Charles Howell | 8579 Powell Point Apt. 093 | Donaldsontown, CA 79139 US | Tel:+(521)095-1532 | Email:casey90@example.net | Site:https://www.hatfield.com/",https://www.hatfield.com/,+(521)095-1532,EUR,Invoice Date: 28-Sep-1999,1999-09-28,,GST(7%) : 119.08,GSTIN: 33123456789102Z1,[],INVOICE # 7242-672,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1701.21  EUR,1.21,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 1732.31 EUR,2.31,Template2_Instance96.json
+"Buyer :Erin Lewis
+4248 Brown Crest Suite 438
+West Duanechester, MA 84536 US
+Tel:+(774)806-0237
+Email:carolyngarcia@example.com
+Site:https://www.russell.com/",4248 Brown Crest Suite 438,"West Duanechester, MA 84536 US",,carolyngarcia@example.com,Buyer :Erin Lewis,"Buyer :Erin Lewis | 4248 Brown Crest Suite 438 | West Duanechester, MA 84536 US | Tel:+(774)806-0237 | Email:carolyngarcia@example.com | Site:https://www.russell.com/",https://www.russell.com/,+(774)806-0237,USD,Invoice Date: 26-Aug-2010,2010-08-26,,GST(7%) : 7.23,GSTIN: 33123456789102Z1,[],Invoice number INV/51-52/905,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 103.22  $,103.22,"[[{'bbox': [[20.0, 336.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 104.10 $,104.1,Template2_Instance97.json
+"Bill to:Jasmine Mann
+042 Cynthia Overpass
+North Thomas, WY 34473 US
+Tel:+(962)602-3561
+Email:jonesdaniel@example.com
+Site:http://floyd.net/",042 Cynthia Overpass,"North Thomas, WY 34473 US",,jonesdaniel@example.com,Bill to:Jasmine Mann,"Bill to:Jasmine Mann | 042 Cynthia Overpass | North Thomas, WY 34473 US | Tel:+(962)602-3561 | Email:jonesdaniel@example.com | Site:http://floyd.net/",http://floyd.net/,+(962)602-3561,USD,Invoice Date: 25-Dec-2005,2005-12-25,,GST(7%) : 36.83,GSTIN: 33123456789102Z1,[],INVOICE ID 6Y1M5d-405,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 526.16  USD,526.16,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,INVOICE,TOTAL : 546.93 USD,546.93,Template2_Instance98.json
+"Bill to:Richard Garrett
+90029 Carol Trace
+South Jesse, MP 28288 US
+Tel:+(397)620-7698
+Email:erinlong@example.org
+Site:http://shaffer.biz/",90029 Carol Trace,"South Jesse, MP 28288 US",,erinlong@example.org,Bill to:Richard Garrett,"Bill to:Richard Garrett | 90029 Carol Trace | South Jesse, MP 28288 US | Tel:+(397)620-7698 | Email:erinlong@example.org | Site:http://shaffer.biz/",http://shaffer.biz/,+(397)620-7698,USD,Invoice Date: 26-Apr-2012,2012-04-26,,GST(7%) : 90.92,GSTIN: 33123456789102Z1,[],Invoice number 1Y7M3d-276,"Address:13868 Michael Wall
+North Cindytown, CT 45483 US","Barnes, Garcia and Martin","North Cindytown, CT 45483 US",,,,Address:13868 Michael Wall,"Address:13868 Michael Wall | North Cindytown, CT 45483 US",,,SUB_TOTAL : 1298.92  $,8.92,"[[{'bbox': [[20.0, 390.8898], [570.0, 282.8898]]}]]",,TAX INVOICE,TOTAL : 1325.35 $,5.35,Template2_Instance99.json

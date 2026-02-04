@@ -1,0 +1,1685 @@
+BILL_TO,CURRENCY,DATE,DATE_NORM,DISCOUNT,DISCOUNT_AMOUNT,DUE_DATE,DUE_DATE_NORM,INVOICE_INFO,NOTE,SELLER_ADDRESS,SELLER_NAME,SELLER_addr_line1,SELLER_addr_line2,SELLER_city_state_postal_country,SELLER_email,SELLER_name,SELLER_raw,SELLER_site,SELLER_tel,SUB_TOTAL,SUB_TOTAL_AMOUNT,TABLE,TAX_AMOUNT,TITLE,TOTAL,TOTAL_AMOUNT,_source_file
+"BILL_TO:
+Colleen Ellis
+37379 Harris Spurs Suite 707
+West Erika, OH 34948 US
+Tel:+(739)651-6233
+Email:amanda56@example.org
+Site:https://conrad-smith.com/",USD,Invoice Date: 12-Oct-1994,1994-10-12,DISCOUNT(2.39%): (-)  23.71,-23.71,Due Date : 31-May-2022,2022-05-31,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 992.04  USD,992.04,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 995.15 USD,995.15,Template4_Instance0.json
+"BILL_TO:
+Vicki Brennan
+163 Richard Station
+Travischester, ND 67073 US
+Tel:+(668)889-2175
+Email:zturner@example.net
+Site:https://www.rose-harris.biz/",EUR,Date: 20-Jan-2004,2004-01-20,DISCOUNT(4.3%): (-)  34.07,-34.07,Due Date : 26-Apr-2016,2016-04-26,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 792.31  EUR,792.31,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 806.53 EUR,806.53,Template4_Instance1.json
+"BILL_TO:
+Misty Smith
+08158 Michael Track Apt. 253
+Royfurt, NC 07390 US
+Tel:+(943)172-9606
+Email:hsalas@example.net
+Site:http://www.martinez.com/",USD,Invoice Date: 21-Apr-2011,2011-04-21,DISCOUNT(4.95%): (-)  23.34,-23.34,Due Date : 19-Oct-1997,1997-10-19,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 471.57  $,471.57,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 487.65 $,487.65,Template4_Instance10.json
+"BILL_TO:
+Shannon Knight
+187 Brittany Branch
+Andrewhaven, PW 20357 US
+Tel:+(505)360-9082
+Email:pauldixon@example.org
+Site:http://flores.net/",USD,Date: 30-Oct-1994,1994-10-30,DISCOUNT(3.95%): (-)  11.14,-11.14,Due Date : 14-Nov-2005,2005-11-14,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 282.04  USD,282.04,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 285.06 USD,285.06,Template4_Instance100.json
+"BILL_TO:
+Gary Miller
+359 Emily Lock
+Allisonmouth, CO 62577 US
+Tel:+(688)305-9332
+Email:patrickriley@example.org
+Site:http://www.lawrence-perkins.com/",USD,Date: 29-Oct-2019,2019-10-29,DISCOUNT(4.97%): (-)  55.77,-55.77,Due Date : 25-Nov-2009,2009-11-25,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 1122.23  $,2.23,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 1124.73 $,4.73,Template4_Instance101.json
+"BILL_TO:
+Shane Cabrera
+22488 Flowers Spring
+Davidshire, WY 94037 US
+Tel:+(763)102-5132
+Email:codygalvan@example.net
+Site:https://montgomery-olson.biz/",EUR,Invoice Date: 06-Dec-2015,2015-12-06,DISCOUNT(1.86%): (-)  14.51,-14.51,Due Date : 28-Feb-2003,2003-02-28,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 780.35  EUR,780.35,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 789.09 EUR,789.09,Template4_Instance102.json
+"BILL_TO:
+Debbie Donaldson
+1008 Anderson Stravenue Suite 973
+Mossfurt, PA 93919 US
+Tel:+(748)298-6060
+Email:eric59@example.org
+Site:https://roberts.com/",USD,Invoice Date: 08-Jan-2014,2014-01-08,DISCOUNT(3.33%): (-)  7.07,-7.07,Due Date : 25-Nov-2004,2004-11-25,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 212.44  $,212.44,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 208.93 $,208.93,Template4_Instance103.json
+"BILL_TO:
+Beth Valencia
+74534 Edwards Springs Suite 286
+Port Sharon, WI 62260 US
+Tel:+(442)912-4741
+Email:bensontyler@example.com
+Site:https://www.sandoval.com/",USD,Date: 21-Mar-2005,2005-03-21,DISCOUNT(3.43%): (-)  22.85,-22.85,Due Date : 30-Aug-2010,2010-08-30,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 666.08  $,666.08,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 676.38 $,676.38,Template4_Instance104.json
+"BILL_TO:
+Lee Wilkinson
+3689 Derrick Camp Suite 543
+Smithshire, AR 59059 US
+Tel:+(612)275-2222
+Email:patricia73@example.net
+Site:http://smith-walker.com/",EUR,Invoice Date: 02-Nov-2012,2012-11-02,DISCOUNT(1.56%): (-)  16.33,-16.33,Due Date : 03-Jul-2015,2015-07-03,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 1047.09  EUR,7.09,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 1049.43 EUR,9.43,Template4_Instance105.json
+"BILL_TO:
+Meagan Holmes
+62496 Lori Skyway
+Lake Felicia, MD 34738 US
+Tel:+(578)176-7005
+Email:zwall@example.net
+Site:http://wallace.com/",USD,Invoice Date: 20-Nov-2015,2015-11-20,DISCOUNT(4.1%): (-)  25.98,-25.98,Due Date : 18-Apr-2011,2011-04-18,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 633.74  $,633.74,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 649.73 $,649.73,Template4_Instance106.json
+"BILL_TO:
+Seth Gardner
+23694 Brady Plaza
+Bestfort, WI 94277 US
+Tel:+(263)884-5212
+Email:matthewdaniel@example.com
+Site:https://murphy.org/",EUR,Invoice Date: 14-Oct-2012,2012-10-14,DISCOUNT(1.04%): (-)  11.49,-11.49,Due Date : 19-Jan-2009,2009-01-19,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 1104.43  EUR,4.43,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 1114.00 EUR,4.0,Template4_Instance107.json
+"BILL_TO:
+David Ballard
+1084 Meyer Mountains Apt. 323
+Hernandezchester, WV 87540 US
+Tel:+(442)633-6015
+Email:lvance@example.com
+Site:https://sanchez.net/",USD,Date: 10-Oct-2010,2010-10-10,DISCOUNT(3.4%): (-)  15.7,-15.7,Due Date : 28-Sep-2014,2014-09-28,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 461.65  $,461.65,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 461.82 $,461.82,Template4_Instance108.json
+"BILL_TO:
+Zachary Peterson
+1850 Harris Plaza Suite 682
+Heatherhaven, MO 47949 US
+Tel:+(819)393-4839
+Email:jennifercoleman@example.org
+Site:http://www.evans.info/",USD,Date: 15-Dec-2007,2007-12-15,DISCOUNT(1.84%): (-)  24.02,-24.02,Due Date : 14-Mar-1996,1996-03-14,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 1305.61  USD,5.61,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 1313.86 USD,3.86,Template4_Instance109.json
+"BILL_TO:
+Kayla Garcia
+923 Robert Mills Apt. 331
+East Michael, IN 82416 US
+Tel:+(160)896-2992
+Email:angelamccall@example.net
+Site:https://www.jacobs-young.com/",EUR,Date: 08-Aug-2009,2009-08-08,DISCOUNT(3.2%): (-)  19.82,-19.82,Due Date : 11-Mar-1997,1997-03-11,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 619.38  EUR,619.38,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 629.08 EUR,629.08,Template4_Instance11.json
+"BILL_TO:
+Stacey Reed
+184 Stacey Overpass Apt. 091
+North Kristen, AS 50936 US
+Tel:+(628)642-6177
+Email:gwendolyn74@example.com
+Site:http://fisher.biz/",USD,Date: 29-May-1993,1993-05-29,DISCOUNT(1.8%): (-)  13.56,-13.56,Due Date : 31-Jan-2002,2002-01-31,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 753.40  USD,753.4,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 773.38 USD,773.38,Template4_Instance110.json
+"BILL_TO:
+Patricia Craig
+13003 Russell Trail
+Escobarfort, GA 08317 US
+Tel:+(719)039-3467
+Email:pruittedward@example.net
+Site:http://www.mccoy.com/",EUR,Invoice Date: 08-Apr-1999,1999-04-08,DISCOUNT(2.68%): (-)  11.57,-11.57,Due Date : 21-Apr-2002,2002-04-21,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 431.85  EUR,431.85,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 441.91 EUR,441.91,Template4_Instance111.json
+"BILL_TO:
+Benjamin Buck
+338 Fox Drives Suite 944
+Amandafort, PR 67900 US
+Tel:+(990)293-1993
+Email:kblack@example.com
+Site:http://contreras-singleton.org/",USD,Date: 08-Jun-1998,1998-06-08,DISCOUNT(1.14%): (-)  6.05,-6.05,Due Date : 29-Jul-2020,2020-07-29,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 530.80  USD,530.8,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 538.26 USD,538.26,Template4_Instance112.json
+"BILL_TO:
+Ryan Cox
+201 Emma Estate Apt. 223
+Margaretport, NE 76716 US
+Tel:+(550)351-0846
+Email:stephanie30@example.com
+Site:http://tyler.com/",USD,Date: 18-May-2006,2006-05-18,DISCOUNT(2.21%): (-)  5.91,-5.91,Due Date : 15-Nov-2007,2007-11-15,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 267.20  USD,267.2,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 272.61 USD,272.61,Template4_Instance113.json
+"BILL_TO:
+Julian Reyes
+888 Jesse Courts
+Martinport, NH 02484 US
+Tel:+(583)859-1968
+Email:sanchezjason@example.com
+Site:http://ford.com/",EUR,Invoice Date: 20-Jan-1995,1995-01-20,DISCOUNT(2.04%): (-)  3.96,-3.96,Due Date : 06-Nov-2002,2002-11-06,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 194.34  EUR,194.34,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 198.32 EUR,198.32,Template4_Instance114.json
+"BILL_TO:
+Priscilla Wheeler
+15056 Samantha Lodge Suite 603
+Lake Douglasland, LA 52646 US
+Tel:+(874)260-0148
+Email:dwells@example.net
+Site:https://www.hooper.info/",EUR,Date: 26-Sep-2013,2013-09-26,DISCOUNT(2.96%): (-)  15.81,-15.81,Due Date : 01-Oct-1995,1995-10-01,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 534.04  EUR,534.04,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 552.32 EUR,552.32,Template4_Instance115.json
+"BILL_TO:
+James Valdez
+910 Nguyen Bypass Suite 459
+New Victoriaborough, RI 11312 US
+Tel:+(937)468-4220
+Email:gcortez@example.net
+Site:https://www.harris.org/",EUR,Invoice Date: 29-Dec-2011,2011-12-29,DISCOUNT(3.82%): (-)  24.24,-24.24,Due Date : 28-Aug-2018,2018-08-28,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 634.68  EUR,634.68,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 656.30 EUR,656.3,Template4_Instance116.json
+"BILL_TO:
+Kim Moore
+18765 Taylor Land
+New Jessica, AL 94892 US
+Tel:+(565)294-4448
+Email:uhernandez@example.org
+Site:http://www.love.com/",USD,Date: 02-Feb-2005,2005-02-02,DISCOUNT(2.34%): (-)  2.2,-2.2,Due Date : 22-Jan-2020,2020-01-22,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 94.01  $,94.01,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 95.48 $,95.48,Template4_Instance117.json
+"BILL_TO:
+Raymond Estrada
+98461 Hill Plains Suite 260
+Loveville, NE 96163 US
+Tel:+(347)786-9635
+Email:mary81@example.net
+Site:http://knight.com/",EUR,Date: 24-Nov-2010,2010-11-24,DISCOUNT(2.65%): (-)  17.2,-17.2,Due Date : 26-Jun-2006,2006-06-26,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 648.87  EUR,648.87,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 645.90 EUR,645.9,Template4_Instance118.json
+"BILL_TO:
+Michelle Anderson
+683 Jennifer Pike Suite 130
+North Aaronmouth, NC 31265 US
+Tel:+(511)699-3180
+Email:cynthia27@example.net
+Site:http://www.hurley-nichols.com/",EUR,Invoice Date: 25-Sep-2018,2018-09-25,DISCOUNT(4.17%): (-)  20.3,-20.3,Due Date : 15-Dec-2016,2016-12-15,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 486.87  EUR,486.87,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 489.57 EUR,489.57,Template4_Instance119.json
+"BILL_TO:
+Emily Weber
+120 Riddle Crescent
+Patriciashire, KY 03362 US
+Tel:+(808)384-7392
+Email:josephholmes@example.org
+Site:https://www.casey.com/",EUR,Date: 27-Aug-1999,1999-08-27,DISCOUNT(1.6%): (-)  3.9,-3.9,Due Date : 24-Dec-1999,1999-12-24,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 243.66  EUR,243.66,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 252.14 EUR,252.14,Template4_Instance12.json
+"BILL_TO:
+Angela Johnston
+24134 Adam Isle Apt. 123
+Lake Janetchester, ND 24696 US
+Tel:+(795)818-1446
+Email:fbennett@example.com
+Site:https://www.wagner-gonzalez.com/",USD,Invoice Date: 12-Mar-1998,1998-03-12,DISCOUNT(4.8%): (-)  7.77,-7.77,Due Date : 12-Nov-2009,2009-11-12,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 161.88  $,161.88,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 162.69 $,162.69,Template4_Instance120.json
+"BILL_TO:
+Cheryl Nash
+42995 Kelsey Hollow Apt. 317
+New Shawnbury, MH 56418 US
+Tel:+(271)473-0437
+Email:woodshawn@example.com
+Site:https://ellison.info/",EUR,Invoice Date: 03-Jul-1994,1994-07-03,DISCOUNT(1.62%): (-)  6.1,-6.1,Due Date : 21-Nov-2003,2003-11-21,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 376.70  EUR,376.7,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 379.38 EUR,379.38,Template4_Instance121.json
+"BILL_TO:
+Natasha Espinoza
+126 Pamela Terrace
+East Lindaport, TN 52393 US
+Tel:+(255)147-9789
+Email:mwillis@example.org
+Site:https://www.martinez.com/",USD,Invoice Date: 21-Sep-2014,2014-09-21,DISCOUNT(1.62%): (-)  4.37,-4.37,Due Date : 03-May-2021,2021-05-03,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 269.59  USD,269.59,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 270.57 USD,270.57,Template4_Instance122.json
+"BILL_TO:
+Lisa Hayes
+91104 Ramos Parkways Apt. 296
+North Andrea, NY 45253 US
+Tel:+(480)032-5037
+Email:william32@example.com
+Site:http://www.hubbard.com/",EUR,Date: 17-Nov-2017,2017-11-17,DISCOUNT(3.48%): (-)  10.72,-10.72,Due Date : 04-Apr-2000,2000-04-04,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 308.18  EUR,308.18,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 313.55 EUR,313.55,Template4_Instance123.json
+"BILL_TO:
+Jessica Weeks
+9857 Oscar Mews Apt. 179
+Jeffreyside, MO 81244 US
+Tel:+(902)721-9792
+Email:johnsonann@example.org
+Site:https://www.davis.net/",EUR,Invoice Date: 28-Jul-2001,2001-07-28,DISCOUNT(4.3%): (-)  5.88,-5.88,Due Date : 08-Oct-2008,2008-10-08,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 136.78  EUR,136.78,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 142.72 EUR,142.72,Template4_Instance124.json
+"BILL_TO:
+Michelle Garcia
+58288 Orr Drive
+Lake Karenland, TX 57345 US
+Tel:+(302)838-9481
+Email:wfry@example.net
+Site:http://floyd.com/",USD,Date: 15-Nov-2008,2008-11-15,DISCOUNT(2.63%): (-)  7.67,-7.67,Due Date : 29-Jul-2008,2008-07-29,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 291.71  $,291.71,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 300.78 $,300.78,Template4_Instance125.json
+"BILL_TO:
+Richard Rice
+95267 Palmer Prairie Apt. 736
+New Marcia, NE 45024 US
+Tel:+(443)131-0717
+Email:carlsoncynthia@example.org
+Site:https://trevino.net/",USD,Invoice Date: 12-Aug-2010,2010-08-12,DISCOUNT(1.97%): (-)  13.23,-13.23,Due Date : 09-Mar-2006,2006-03-09,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 671.44  USD,671.44,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 676.15 USD,676.15,Template4_Instance126.json
+"BILL_TO:
+Brittany Jones
+968 Christian Cape
+West Lawrenceton, SD 72613 US
+Tel:+(112)081-4615
+Email:tkane@example.org
+Site:https://www.smith.net/",USD,Date: 11-Sep-2005,2005-09-11,DISCOUNT(4.84%): (-)  27.82,-27.82,Due Date : 21-Dec-2001,2001-12-21,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 574.88  $,574.88,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 595.55 $,595.55,Template4_Instance127.json
+"BILL_TO:
+Catherine Diaz
+62815 Rebecca Road Apt. 247
+Port Steven, DE 63355 US
+Tel:+(814)735-8082
+Email:evansrick@example.com
+Site:https://green.net/",EUR,Invoice Date: 04-Dec-2011,2011-12-04,DISCOUNT(1.49%): (-)  4.57,-4.57,Due Date : 20-Nov-1996,1996-11-20,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 306.76  EUR,306.76,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 318.18 EUR,318.18,Template4_Instance128.json
+"BILL_TO:
+Arthur Smith
+43838 Singleton Islands
+Mitchellborough, MN 46270 US
+Tel:+(646)867-9553
+Email:michaelstrickland@example.com
+Site:https://www.harrison-shepherd.com/",USD,Date: 23-Nov-1999,1999-11-23,DISCOUNT(1.41%): (-)  7.18,-7.18,Due Date : 05-Jan-1998,1998-01-05,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 509.36  $,509.36,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 528.74 $,528.74,Template4_Instance129.json
+"BILL_TO:
+William Lopez
+497 Dudley Flats Apt. 907
+Fernandezhaven, PR 67327 US
+Tel:+(184)931-2384
+Email:vburch@example.net
+Site:http://jimenez.com/",USD,Invoice Date: 11-Dec-2020,2020-12-11,DISCOUNT(1.02%): (-)  4.84,-4.84,Due Date : 25-Jul-2003,2003-07-25,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 474.67  USD,474.67,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 481.11 USD,481.11,Template4_Instance13.json
+"BILL_TO:
+Carolyn Hampton
+28471 Jason Square
+Jenniferton, ID 60199 US
+Tel:+(104)512-4281
+Email:mwong@example.com
+Site:http://miller-taylor.com/",USD,Date: 18-Aug-2007,2007-08-18,DISCOUNT(1.65%): (-)  12.15,-12.15,Due Date : 08-Oct-2003,2003-10-08,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 736.18  $,736.18,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 761.20 $,761.2,Template4_Instance130.json
+"BILL_TO:
+Grace Williams
+72660 Robinson Harbor Apt. 705
+Jeffreymouth, TX 99730 US
+Tel:+(989)986-7286
+Email:englishtodd@example.org
+Site:https://www.edwards-munoz.info/",USD,Invoice Date: 12-Dec-2019,2019-12-12,DISCOUNT(1.89%): (-)  3.18,-3.18,Due Date : 04-Nov-2007,2007-11-04,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 168.45  USD,168.45,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 173.08 USD,173.08,Template4_Instance131.json
+"BILL_TO:
+Virginia Sherman
+2531 Haley Loaf Suite 733
+Dennisberg, CA 65342 US
+Tel:+(185)956-9016
+Email:tamaraharris@example.com
+Site:http://www.dominguez-walker.biz/",EUR,Date: 02-Jul-2019,2019-07-02,DISCOUNT(1.63%): (-)  7.0,-7.0,Due Date : 28-Aug-1994,1994-08-28,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 429.60  EUR,429.6,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 435.97 EUR,435.97,Template4_Instance132.json
+"BILL_TO:
+Thomas Torres
+6354 Yang Hills
+Piercetown, CT 01091 US
+Tel:+(485)870-8621
+Email:andrea11@example.com
+Site:http://www.robinson.com/",USD,Date: 27-Aug-2005,2005-08-27,DISCOUNT(1.89%): (-)  12.15,-12.15,Due Date : 12-Feb-2022,2022-02-12,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 642.94  USD,642.94,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 638.10 USD,638.1,Template4_Instance133.json
+"BILL_TO:
+Jamie Rodriguez
+7297 Bauer Isle
+Amandaland, IL 95467 US
+Tel:+(629)389-0416
+Email:parkjoshua@example.net
+Site:https://sanders.com/",USD,Date: 09-Sep-1994,1994-09-09,DISCOUNT(2.91%): (-)  24.29,-24.29,Due Date : 12-May-2010,2010-05-12,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 834.60  $,834.6,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 841.87 $,841.87,Template4_Instance134.json
+"BILL_TO:
+Michele Smith
+353 Gomez Glens
+East Stacyborough, GU 61247 US
+Tel:+(310)461-4661
+Email:dhenderson@example.net
+Site:http://www.clayton-robertson.com/",EUR,Invoice Date: 16-Dec-2000,2000-12-16,DISCOUNT(1.02%): (-)  3.22,-3.22,Due Date : 22-Feb-2002,2002-02-22,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 315.23  EUR,315.23,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 323.93 EUR,323.93,Template4_Instance135.json
+"BILL_TO:
+Tina Wilkerson
+374 Caleb Rest Suite 333
+Shannontown, GU 82515 US
+Tel:+(053)279-2812
+Email:anna61@example.org
+Site:http://davis.com/",USD,Invoice Date: 05-Aug-1996,1996-08-05,DISCOUNT(2.62%): (-)  28.93,-28.93,Due Date : 04-Mar-1995,1995-03-04,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 1104.01  USD,4.01,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 1146.91 USD,6.91,Template4_Instance136.json
+"BILL_TO:
+Andrew Taylor
+80419 William Unions Apt. 101
+Ginatown, MH 95292 US
+Tel:+(241)205-2175
+Email:soliskathryn@example.com
+Site:http://henderson.net/",USD,Date: 23-Jan-2003,2003-01-23,DISCOUNT(4.3%): (-)  33.9,-33.9,Due Date : 24-Nov-2011,2011-11-24,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 788.48  USD,788.48,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 797.41 USD,797.41,Template4_Instance137.json
+"BILL_TO:
+Angela Martinez
+142 Jackson Valley Suite 632
+Hinesville, PW 51637 US
+Tel:+(578)965-7231
+Email:david39@example.org
+Site:http://lopez.com/",USD,Date: 29-Oct-1994,1994-10-29,DISCOUNT(4.13%): (-)  9.05,-9.05,Due Date : 29-Dec-2010,2010-12-29,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 219.02  $,219.02,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 224.64 $,224.64,Template4_Instance138.json
+"BILL_TO:
+Joseph Norris
+934 Harold Club
+Mendozaville, SD 99162 US
+Tel:+(787)376-5062
+Email:helenwilliams@example.org
+Site:http://johnson.info/",USD,Date: 15-Jan-1997,1997-01-15,DISCOUNT(4.5%): (-)  35.7,-35.7,Due Date : 22-Dec-2011,2011-12-22,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 793.37  USD,793.37,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 807.94 USD,807.94,Template4_Instance139.json
+"BILL_TO:
+Stephen Henderson
+098 Jennifer Springs
+East Shannon, FM 07706 US
+Tel:+(281)373-5176
+Email:meyertanya@example.net
+Site:http://www.rodriguez-kidd.net/",USD,Date: 26-Apr-2012,2012-04-26,DISCOUNT(4.87%): (-)  32.16,-32.16,Due Date : 10-May-2002,2002-05-10,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 660.33  USD,660.33,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 677.72 USD,677.72,Template4_Instance14.json
+"BILL_TO:
+Lori Koch
+05207 Victor Tunnel Suite 824
+Floydmouth, TN 32620 US
+Tel:+(313)110-8673
+Email:mccullougherin@example.com
+Site:http://lynch.com/",USD,Invoice Date: 27-Mar-2003,2003-03-27,DISCOUNT(3.59%): (-)  15.43,-15.43,Due Date : 07-Nov-2021,2021-11-07,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 429.82  USD,429.82,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 436.77 USD,436.77,Template4_Instance140.json
+"BILL_TO:
+Amanda Ross
+8697 Moore Port Suite 127
+South Eric, NJ 69706 US
+Tel:+(499)468-0508
+Email:brucecharles@example.net
+Site:https://www.haynes.com/",USD,Invoice Date: 29-Nov-2016,2016-11-29,DISCOUNT(3.04%): (-)  14.24,-14.24,Due Date : 29-Mar-2008,2008-03-29,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 468.49  USD,468.49,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 483.37 USD,483.37,Template4_Instance141.json
+"BILL_TO:
+Caroline Pena
+80461 Anderson Cliffs Apt. 586
+Valeriechester, OH 38801 US
+Tel:+(484)756-6310
+Email:kristenhutchinson@example.org
+Site:http://huber.info/",USD,Invoice Date: 11-Aug-2008,2008-08-11,DISCOUNT(3.15%): (-)  13.78,-13.78,Due Date : 06-Nov-2010,2010-11-06,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 437.50  $,437.5,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 448.51 $,448.51,Template4_Instance142.json
+"BILL_TO:
+David Lee
+73793 Shaun Gateway Apt. 562
+Amandaton, MO 83956 US
+Tel:+(691)211-0424
+Email:brooksmichael@example.net
+Site:https://www.watkins-brown.org/",USD,Date: 10-May-2021,2021-05-10,DISCOUNT(4.65%): (-)  44.4,-44.4,Due Date : 27-Apr-2003,2003-04-27,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 954.76  USD,954.76,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 977.02 USD,977.02,Template4_Instance143.json
+"BILL_TO:
+James Hays
+25794 Jennifer Islands Suite 890
+North Jacob, DC 79393 US
+Tel:+(416)136-1686
+Email:melissaherrera@example.org
+Site:https://ball.com/",USD,Date: 08-Oct-1993,1993-10-08,DISCOUNT(3.32%): (-)  21.19,-21.19,Due Date : 28-Mar-1998,1998-03-28,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 638.17  USD,638.17,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 657.57 USD,657.57,Template4_Instance144.json
+"BILL_TO:
+Diane Dominguez
+58530 Tyler Cape
+Mcdowellside, NE 22530 US
+Tel:+(296)794-1735
+Email:qgreen@example.net
+Site:http://www.roberts-hunter.com/",EUR,Invoice Date: 19-Dec-2007,2007-12-19,DISCOUNT(1.6%): (-)  8.41,-8.41,Due Date : 04-Mar-2004,2004-03-04,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 525.33  EUR,525.33,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 523.35 EUR,523.35,Template4_Instance145.json
+"BILL_TO:
+Marcus Roth
+5410 Terry Junction
+North Michelle, ID 44014 US
+Tel:+(107)195-8455
+Email:virginia60@example.net
+Site:http://www.harris-hobbs.biz/",USD,Invoice Date: 12-Aug-2021,2021-08-12,DISCOUNT(1.36%): (-)  6.35,-6.35,Due Date : 21-Jul-2004,2004-07-21,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 467.24  $,467.24,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 481.63 $,481.63,Template4_Instance146.json
+"BILL_TO:
+Andrew Hernandez
+5370 Carl Ferry
+South Davidland, AS 87427 US
+Tel:+(525)096-6721
+Email:chavezcarlos@example.com
+Site:http://walker.com/",USD,Invoice Date: 06-Jun-2021,2021-06-06,DISCOUNT(3.02%): (-)  7.41,-7.41,Due Date : 07-Sep-2016,2016-09-07,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 245.26  USD,245.26,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 246.01 USD,246.01,Template4_Instance147.json
+"BILL_TO:
+Katie Brown
+4130 Gonzales Forest Suite 489
+South Joseph, OH 06567 US
+Tel:+(232)970-9963
+Email:torresthomas@example.net
+Site:http://peterson.com/",EUR,Date: 24-Apr-2004,2004-04-24,DISCOUNT(2.82%): (-)  32.64,-32.64,Due Date : 23-Mar-2018,2018-03-23,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 1157.45  EUR,7.45,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 1168.66 EUR,8.66,Template4_Instance148.json
+"BILL_TO:
+Andrew Graham
+18553 John Row
+Sabrinashire, IA 81952 US
+Tel:+(268)034-3540
+Email:josephramirez@example.com
+Site:http://hall.com/",USD,Date: 21-Nov-2020,2020-11-21,DISCOUNT(4.0%): (-)  22.73,-22.73,Due Date : 20-Aug-1998,1998-08-20,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 568.33  USD,568.33,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 579.94 USD,579.94,Template4_Instance149.json
+"BILL_TO:
+Kelly Watson
+14498 Clements Skyway
+South Ronaldbury, DC 39764 US
+Tel:+(173)956-4295
+Email:andreacross@example.net
+Site:https://www.craig.info/",USD,Date: 21-Jul-1995,1995-07-21,DISCOUNT(2.19%): (-)  9.48,-9.48,Due Date : 06-Mar-2012,2012-03-06,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 432.99  $,432.99,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 435.46 $,435.46,Template4_Instance15.json
+"BILL_TO:
+James Casey
+5512 Claire Radial Apt. 709
+West Kevin, MH 50213 US
+Tel:+(394)932-0032
+Email:shannonmcdaniel@example.net
+Site:https://www.le.com/",USD,Date: 28-Jun-2012,2012-06-28,DISCOUNT(1.92%): (-)  2.92,-2.92,Due Date : 10-Sep-2000,2000-09-10,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 152.20  $,152.2,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 155.92 $,155.92,Template4_Instance150.json
+"BILL_TO:
+Julian Ewing
+311 Yu Terrace
+Port Alyssa, MT 40598 US
+Tel:+(166)549-7986
+Email:jessicajackson@example.com
+Site:http://www.alvarez.com/",USD,Invoice Date: 21-Aug-2022,2022-08-21,DISCOUNT(1.78%): (-)  2.21,-2.21,Due Date : 29-Apr-2005,2005-04-29,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 124.03  $,124.03,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 125.32 $,125.32,Template4_Instance151.json
+"BILL_TO:
+Seth Richardson
+842 Vasquez Flats Suite 136
+New Karen, CO 68818 US
+Tel:+(393)379-8723
+Email:bergsophia@example.net
+Site:http://greene-williams.net/",USD,Invoice Date: 05-Aug-2021,2021-08-05,DISCOUNT(4.71%): (-)  64.27,-64.27,Due Date : 02-Nov-2003,2003-11-02,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 1364.55  $,4.55,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 1379.19 $,9.19,Template4_Instance152.json
+"BILL_TO:
+Joseph Reed
+760 Keith Lodge Apt. 249
+Port Anthonybury, WY 56714 US
+Tel:+(894)383-7170
+Email:veronicawood@example.net
+Site:https://www.wilson-dawson.com/",USD,Invoice Date: 11-Jun-2009,2009-06-11,DISCOUNT(3.34%): (-)  15.05,-15.05,Due Date : 14-Jan-2005,2005-01-14,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 450.57  $,450.57,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 457.44 $,457.44,Template4_Instance153.json
+"BILL_TO:
+Margaret Watson
+3516 Singh Extension
+Port Danielmouth, HI 88112 US
+Tel:+(696)755-1023
+Email:rachel68@example.net
+Site:https://www.dixon-serrano.com/",EUR,Invoice Date: 19-May-2000,2000-05-19,DISCOUNT(2.13%): (-)  6.4,-6.4,Due Date : 30-Sep-1998,1998-09-30,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 300.62  EUR,300.62,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 314.43 EUR,314.43,Template4_Instance154.json
+"BILL_TO:
+Mark Cook
+3118 Elizabeth Flat Suite 356
+Heatherside, NJ 61519 US
+Tel:+(171)767-0447
+Email:hbaker@example.net
+Site:http://massey.com/",EUR,Date: 28-Dec-2000,2000-12-28,DISCOUNT(1.32%): (-)  8.73,-8.73,Due Date : 04-Feb-2012,2012-02-04,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 661.50  EUR,661.5,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 695.47 EUR,695.47,Template4_Instance155.json
+"BILL_TO:
+Dean Williams
+143 Pacheco Throughway
+Bethland, WY 54388 US
+Tel:+(765)663-3872
+Email:sophiablack@example.com
+Site:http://www.mullen.com/",USD,Invoice Date: 27-Apr-2005,2005-04-27,DISCOUNT(2.0%): (-)  26.93,-26.93,Due Date : 15-Jan-2016,2016-01-15,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 1346.46  $,6.46,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 1385.78 $,5.78,Template4_Instance156.json
+"BILL_TO:
+Katelyn Morales
+374 Brett Grove
+East Sandraborough, NV 59034 US
+Tel:+(823)841-4303
+Email:zoeavila@example.net
+Site:http://www.green-perez.com/",USD,Date: 31-Oct-2002,2002-10-31,DISCOUNT(4.49%): (-)  30.48,-30.48,Due Date : 08-Oct-1997,1997-10-08,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 678.80  $,678.8,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 713.78 $,713.78,Template4_Instance157.json
+"BILL_TO:
+Tyrone Smith
+154 Olivia Drive
+Port Kirsten, HI 08216 US
+Tel:+(787)946-7597
+Email:sarahnelson@example.com
+Site:https://cole.com/",USD,Date: 29-Jan-2018,2018-01-29,DISCOUNT(1.34%): (-)  13.03,-13.03,Due Date : 05-Aug-1993,1993-08-05,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 972.50  $,972.5,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 1029.07 $,9.07,Template4_Instance158.json
+"BILL_TO:
+Kathleen Lewis
+8068 Bradley Turnpike
+South Anthony, NV 27505 US
+Tel:+(139)261-0911
+Email:jonathansilva@example.com
+Site:http://park.com/",USD,Date: 21-Oct-2021,2021-10-21,DISCOUNT(2.79%): (-)  23.68,-23.68,Due Date : 21-Nov-2001,2001-11-21,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 848.70  $,848.7,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 866.38 $,866.38,Template4_Instance159.json
+"BILL_TO:
+Matthew Villarreal
+7023 Atkinson Loaf
+Breannaport, NE 58058 US
+Tel:+(668)105-0510
+Email:rachel93@example.net
+Site:http://stout.biz/",USD,Invoice Date: 27-May-2005,2005-05-27,DISCOUNT(1.75%): (-)  10.13,-10.13,Due Date : 15-Apr-2002,2002-04-15,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 579.10  $,579.1,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 591.60 $,591.6,Template4_Instance16.json
+"BILL_TO:
+Elizabeth Butler
+155 Gray Well Apt. 276
+East Joefort, FL 21286 US
+Tel:+(277)978-3998
+Email:xrose@example.org
+Site:http://wu.net/",USD,Invoice Date: 01-Dec-1994,1994-12-01,DISCOUNT(4.07%): (-)  66.99,-66.99,Due Date : 09-Apr-1993,1993-04-09,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 1645.90  $,5.9,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 1669.41 $,9.41,Template4_Instance160.json
+"BILL_TO:
+Carlos Peterson
+7200 Adrian Divide
+North Robert, WY 25186 US
+Tel:+(850)395-0653
+Email:amy16@example.org
+Site:https://www.rojas.com/",EUR,Date: 21-Feb-1996,1996-02-21,DISCOUNT(3.02%): (-)  18.17,-18.17,Due Date : 10-Mar-2018,2018-03-10,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 601.78  EUR,601.78,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 634.57 EUR,634.57,Template4_Instance161.json
+"BILL_TO:
+Jill Bullock
+465 John Forges
+Derekburgh, GU 27173 US
+Tel:+(213)493-6995
+Email:lbailey@example.net
+Site:https://www.maxwell-lambert.info/",USD,Invoice Date: 26-Nov-1998,1998-11-26,DISCOUNT(2.48%): (-)  8.69,-8.69,Due Date : 17-Nov-2014,2014-11-17,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 350.33  USD,350.33,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 363.69 USD,363.69,Template4_Instance162.json
+"BILL_TO:
+Holly Choi
+3484 Brown Parkway
+East Jerryside, AZ 34739 US
+Tel:+(053)523-3450
+Email:njoyce@example.net
+Site:https://www.lee.info/",USD,Invoice Date: 16-Jan-2018,2018-01-16,DISCOUNT(1.97%): (-)  13.55,-13.55,Due Date : 17-Jul-1997,1997-07-17,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 687.92  USD,687.92,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 703.98 USD,703.98,Template4_Instance163.json
+"BILL_TO:
+Joshua Morris
+49437 Tricia Views Suite 085
+Jayfurt, AZ 64355 US
+Tel:+(027)558-9748
+Email:dominique95@example.org
+Site:https://www.roberts-acosta.net/",USD,Invoice Date: 22-Mar-1993,1993-03-22,DISCOUNT(3.58%): (-)  15.09,-15.09,Due Date : 27-Jul-2001,2001-07-27,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 421.58  $,421.58,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 438.47 $,438.47,Template4_Instance164.json
+"BILL_TO:
+Kyle Smith
+56808 Gina Trafficway
+East Anitaside, AK 82502 US
+Tel:+(184)851-1480
+Email:ufrench@example.net
+Site:https://www.chang.net/",EUR,Invoice Date: 14-Jun-1997,1997-06-14,DISCOUNT(2.63%): (-)  14.57,-14.57,Due Date : 07-Jun-2004,2004-06-07,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 553.85  EUR,553.85,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 569.77 EUR,569.77,Template4_Instance165.json
+"BILL_TO:
+Becky Garcia
+443 Melissa Pass
+Burtonton, MD 73613 US
+Tel:+(307)117-7589
+Email:rodneywright@example.com
+Site:http://www.ortiz-huffman.com/",USD,Date: 07-May-1998,1998-05-07,DISCOUNT(2.03%): (-)  4.92,-4.92,Due Date : 24-Mar-2019,2019-03-24,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 242.53  $,242.53,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 247.63 $,247.63,Template4_Instance166.json
+"BILL_TO:
+Michael Fisher
+941 Hale Stravenue Apt. 588
+Lanefort, LA 88605 US
+Tel:+(516)956-7703
+Email:ortizjohn@example.com
+Site:http://duncan-macias.net/",EUR,Invoice Date: 22-Sep-2004,2004-09-22,DISCOUNT(1.47%): (-)  3.16,-3.16,Due Date : 05-Sep-2021,2021-09-05,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 214.90  EUR,214.9,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 220.16 EUR,220.16,Template4_Instance167.json
+"BILL_TO:
+Carlos Sanchez
+293 Rosales Harbors
+New Erin, AZ 54868 US
+Tel:+(529)571-3210
+Email:becky35@example.net
+Site:https://www.bates-bailey.info/",EUR,Date: 08-Oct-2018,2018-10-08,DISCOUNT(3.01%): (-)  15.0,-15.0,Due Date : 09-Jun-2014,2014-06-09,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 498.25  EUR,498.25,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 512.08 EUR,512.08,Template4_Instance168.json
+"BILL_TO:
+Chad Lopez
+31878 Jennifer Fields Suite 090
+Christopherborough, ME 40160 US
+Tel:+(418)431-6790
+Email:martha17@example.com
+Site:http://www.alexander-castro.biz/",USD,Date: 23-Jul-2022,2022-07-23,DISCOUNT(1.11%): (-)  7.98,-7.98,Due Date : 22-Mar-2007,2007-03-22,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 719.08  USD,719.08,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 720.84 USD,720.84,Template4_Instance169.json
+"BILL_TO:
+Cody Rodriguez
+27318 Gregory Stream
+New Phillip, IA 73842 US
+Tel:+(331)669-9405
+Email:joanna40@example.org
+Site:https://www.mclean.biz/",USD,Invoice Date: 07-Aug-2013,2013-08-07,DISCOUNT(3.22%): (-)  3.84,-3.84,Due Date : 15-Jan-2012,2012-01-15,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 119.14  $,119.14,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 122.70 $,122.7,Template4_Instance17.json
+"BILL_TO:
+Brian Henderson
+527 John Island
+Larryfurt, CA 88846 US
+Tel:+(304)496-7876
+Email:xnelson@example.net
+Site:http://ochoa-montgomery.info/",USD,Date: 27-Jul-2009,2009-07-27,DISCOUNT(3.55%): (-)  31.91,-31.91,Due Date : 08-Nov-2017,2017-11-08,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 898.84  $,898.84,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 915.94 $,915.94,Template4_Instance170.json
+"BILL_TO:
+Patricia Jacobs DDS
+87065 Bass Divide Suite 021
+Port Joseph, NC 95342 US
+Tel:+(030)152-1814
+Email:emassey@example.com
+Site:http://www.brown-forbes.biz/",USD,Date: 17-Jun-2019,2019-06-17,DISCOUNT(2.06%): (-)  21.94,-21.94,Due Date : 05-Sep-2014,2014-09-05,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 1065.18  USD,5.18,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 1095.52 USD,5.52,Template4_Instance171.json
+"BILL_TO:
+Zachary Oneal
+754 Mcdowell Path
+New Gabrielchester, NY 26427 US
+Tel:+(157)668-0122
+Email:ibenton@example.net
+Site:http://www.walters.com/",EUR,Date: 10-May-2021,2021-05-10,DISCOUNT(2.92%): (-)  12.69,-12.69,Due Date : 05-Jul-1994,1994-07-05,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 434.49  EUR,434.49,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 446.31 EUR,446.31,Template4_Instance172.json
+"BILL_TO:
+Joy Doyle
+9458 Candace Lights Apt. 640
+Jacquelinechester, DC 08788 US
+Tel:+(765)273-4040
+Email:cbarrett@example.net
+Site:https://www.jackson.org/",EUR,Invoice Date: 05-Oct-1999,1999-10-05,DISCOUNT(4.28%): (-)  5.75,-5.75,Due Date : 16-Nov-2018,2018-11-16,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 134.44  EUR,134.44,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 136.05 EUR,136.05,Template4_Instance173.json
+"BILL_TO:
+Jeffrey Williams
+5430 Rice Forges
+West David, WV 03058 US
+Tel:+(012)730-5612
+Email:dennisfoley@example.com
+Site:https://brooks-kim.net/",USD,Invoice Date: 04-Oct-2007,2007-10-04,DISCOUNT(1.87%): (-)  29.9,-29.9,Due Date : 25-Mar-2020,2020-03-25,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 1598.75  $,8.75,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 1598.79 $,8.79,Template4_Instance174.json
+"BILL_TO:
+Heather Hudson
+669 Rodriguez Vista
+Susanside, MD 23494 US
+Tel:+(684)723-7863
+Email:ethanduran@example.com
+Site:http://www.terrell.com/",USD,Invoice Date: 10-Apr-2008,2008-04-10,DISCOUNT(1.17%): (-)  2.69,-2.69,Due Date : 25-Mar-1998,1998-03-25,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 229.72  USD,229.72,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 234.87 USD,234.87,Template4_Instance175.json
+"BILL_TO:
+Laurie Lopez
+245 Reynolds Lights
+West Kyle, WI 60349 US
+Tel:+(813)957-3697
+Email:haleytimothy@example.net
+Site:https://www.howard-mack.net/",EUR,Date: 06-Apr-2000,2000-04-06,DISCOUNT(3.23%): (-)  29.56,-29.56,Due Date : 03-Jul-2013,2013-07-03,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 915.22  EUR,915.22,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 955.61 EUR,955.61,Template4_Instance176.json
+"BILL_TO:
+Sabrina Vargas
+466 White Ports Apt. 548
+Priceville, ID 77944 US
+Tel:+(019)029-6471
+Email:epatterson@example.org
+Site:http://www.anderson-garner.com/",USD,Date: 19-Feb-2015,2015-02-19,DISCOUNT(1.35%): (-)  11.38,-11.38,Due Date : 30-Oct-1995,1995-10-30,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 842.94  USD,842.94,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 850.68 USD,850.68,Template4_Instance177.json
+"BILL_TO:
+Renee Vaughn MD
+5010 Andrew Glens
+Lake Jessicafurt, VA 28166 US
+Tel:+(029)073-3176
+Email:andersonapril@example.com
+Site:http://johnson.com/",USD,Date: 02-Sep-2014,2014-09-02,DISCOUNT(4.98%): (-)  23.32,-23.32,Due Date : 15-May-2022,2022-05-15,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 468.22  $,468.22,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 470.80 $,470.8,Template4_Instance178.json
+"BILL_TO:
+William Rivas
+8876 Tracy Freeway
+East Danielview, FM 72927 US
+Tel:+(609)543-3274
+Email:lgibson@example.com
+Site:http://davis-peterson.net/",EUR,Invoice Date: 02-Nov-2012,2012-11-02,DISCOUNT(3.83%): (-)  34.08,-34.08,Due Date : 24-Nov-1995,1995-11-24,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 889.82  EUR,889.82,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 940.30 EUR,940.3,Template4_Instance179.json
+"BILL_TO:
+Nathan Oneal
+561 Lori Cliffs Suite 364
+Mariostad, IA 41938 US
+Tel:+(300)149-2586
+Email:hthomas@example.org
+Site:https://www.chavez-wallace.com/",USD,Invoice Date: 12-Dec-2009,2009-12-12,DISCOUNT(4.55%): (-)  26.04,-26.04,Due Date : 17-Sep-2002,2002-09-17,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 572.34  USD,572.34,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 566.66 USD,566.66,Template4_Instance18.json
+"BILL_TO:
+Andrew Hawkins
+92336 Kerry Haven
+Lake Nathan, TX 03829 US
+Tel:+(060)425-7817
+Email:bradleyhernandez@example.com
+Site:https://www.rowe.com/",USD,Date: 16-Jun-1996,1996-06-16,DISCOUNT(3.11%): (-)  18.86,-18.86,Due Date : 30-Nov-2002,2002-11-30,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 606.54  $,606.54,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 623.68 $,623.68,Template4_Instance180.json
+"BILL_TO:
+Abigail Dunn
+6879 Bowman Hill Suite 530
+Port Rhonda, HI 76905 US
+Tel:+(204)774-0540
+Email:tinabooth@example.net
+Site:https://brown.info/",EUR,Invoice Date: 05-Apr-2022,2022-04-05,DISCOUNT(4.96%): (-)  17.85,-17.85,Due Date : 23-Jun-2009,2009-06-23,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 359.95  EUR,359.95,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 367.91 EUR,367.91,Template4_Instance181.json
+"BILL_TO:
+Brittany Foster
+230 Susan Spring
+Leonardside, IN 92018 US
+Tel:+(885)188-8419
+Email:uking@example.net
+Site:https://strickland.com/",USD,Date: 11-Aug-2002,2002-08-11,DISCOUNT(4.14%): (-)  40.57,-40.57,Due Date : 04-Feb-1996,1996-02-04,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 979.93  USD,979.93,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 984.75 USD,984.75,Template4_Instance182.json
+"BILL_TO:
+Shelby Walker
+05162 Gomez Islands Apt. 571
+West Richardstad, SD 51026 US
+Tel:+(880)293-6918
+Email:william04@example.net
+Site:https://weiss-morris.biz/",EUR,Invoice Date: 31-Jan-1995,1995-01-31,DISCOUNT(3.66%): (-)  3.34,-3.34,Due Date : 10-Jun-2012,2012-06-10,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 91.25  EUR,91.25,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 93.65 EUR,93.65,Template4_Instance183.json
+"BILL_TO:
+Alyssa Anderson
+18573 Taylor Ramp
+East William, GU 22512 US
+Tel:+(568)334-3541
+Email:opierce@example.org
+Site:https://www.rasmussen-williams.com/",USD,Date: 10-Aug-1998,1998-08-10,DISCOUNT(1.93%): (-)  7.65,-7.65,Due Date : 02-Nov-2005,2005-11-02,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 396.60  USD,396.6,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 411.83 USD,411.83,Template4_Instance184.json
+"BILL_TO:
+Kenneth Lozano
+72353 Jonathan Crossroad
+East Kathleen, MD 55555 US
+Tel:+(608)498-3046
+Email:uanderson@example.com
+Site:http://young.com/",EUR,Date: 27-Dec-2008,2008-12-27,DISCOUNT(1.73%): (-)  10.1,-10.1,Due Date : 11-Dec-1997,1997-12-11,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 583.62  EUR,583.62,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 578.06 EUR,578.06,Template4_Instance185.json
+"BILL_TO:
+Darlene Fry
+3816 Shawn Summit Apt. 721
+West Scott, MP 19973 US
+Tel:+(059)867-3023
+Email:paularasmussen@example.com
+Site:http://www.dixon.com/",USD,Date: 22-Jun-2007,2007-06-22,DISCOUNT(4.35%): (-)  1.9,-1.9,Due Date : 18-Dec-1998,1998-12-18,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 43.78  $,43.78,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 44.31 $,44.31,Template4_Instance186.json
+"BILL_TO:
+Katie Robinson
+461 Tran Points Apt. 646
+Port Davidmouth, UT 21352 US
+Tel:+(784)413-3297
+Email:qperez@example.net
+Site:http://becker.biz/",USD,Date: 13-Nov-2000,2000-11-13,DISCOUNT(2.26%): (-)  9.18,-9.18,Due Date : 12-Oct-2003,2003-10-12,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 406.31  USD,406.31,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 412.87 USD,412.87,Template4_Instance187.json
+"BILL_TO:
+Michael Davis
+634 Reed Wall Apt. 267
+Jeffreyside, NY 52743 US
+Tel:+(717)455-3111
+Email:beth23@example.org
+Site:http://www.pierce-arias.com/",EUR,Invoice Date: 16-Dec-2018,2018-12-16,DISCOUNT(1.91%): (-)  10.71,-10.71,Due Date : 23-Oct-2022,2022-10-23,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 560.65  EUR,560.65,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 571.78 EUR,571.78,Template4_Instance188.json
+"BILL_TO:
+Renee Becker
+186 Jamie Courts
+North Teresa, OH 39048 US
+Tel:+(889)325-1956
+Email:twolfe@example.org
+Site:http://www.kaufman.com/",USD,Date: 08-Oct-2011,2011-10-08,DISCOUNT(3.74%): (-)  24.8,-24.8,Due Date : 16-Dec-1994,1994-12-16,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 663.14  $,663.14,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 663.40 $,663.4,Template4_Instance189.json
+"BILL_TO:
+Nicole Buck
+1866 Brown Corners
+Paulbury, CO 35910 US
+Tel:+(466)607-8699
+Email:joshuaallen@example.net
+Site:https://www.gonzalez.com/",EUR,Invoice Date: 11-Jun-2020,2020-06-11,DISCOUNT(4.32%): (-)  21.09,-21.09,Due Date : 14-Jun-2004,2004-06-14,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 488.28  EUR,488.28,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 500.87 EUR,500.87,Template4_Instance19.json
+"BILL_TO:
+Karen Figueroa
+530 Moore Crossroad Apt. 271
+West Richard, VT 78730 US
+Tel:+(699)127-1320
+Email:vincentbell@example.org
+Site:https://lawrence-vincent.com/",USD,Invoice Date: 04-Mar-2022,2022-03-04,DISCOUNT(2.77%): (-)  17.48,-17.48,Due Date : 23-Apr-2008,2008-04-23,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 631.05  $,631.05,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 652.11 $,652.11,Template4_Instance190.json
+"BILL_TO:
+Melissa Davis
+5063 Tammy Crossing Suite 717
+Harperton, GA 59694 US
+Tel:+(838)651-7010
+Email:nicolehawkins@example.net
+Site:http://garcia.com/",EUR,Invoice Date: 25-Feb-2012,2012-02-25,DISCOUNT(3.16%): (-)  19.0,-19.0,Due Date : 13-Sep-1995,1995-09-13,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 601.34  EUR,601.34,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 598.45 EUR,598.45,Template4_Instance191.json
+"BILL_TO:
+Blake Thomas
+02686 Corey Knoll Suite 768
+South Marybury, IN 85108 US
+Tel:+(221)661-0732
+Email:pharris@example.com
+Site:https://www.johnson.org/",USD,Date: 05-Apr-2010,2010-04-05,DISCOUNT(2.15%): (-)  3.94,-3.94,Due Date : 27-May-1999,1999-05-27,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 183.10  USD,183.1,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 187.68 USD,187.68,Template4_Instance192.json
+"BILL_TO:
+Dawn Lynch
+143 Harris Corners Suite 491
+Port Heather, NY 26093 US
+Tel:+(563)113-8216
+Email:jane50@example.net
+Site:https://ayala.com/",USD,Date: 09-Mar-2019,2019-03-09,DISCOUNT(4.43%): (-)  5.31,-5.31,Due Date : 10-Jan-2015,2015-01-10,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 119.96  $,119.96,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 121.78 $,121.78,Template4_Instance193.json
+"BILL_TO:
+Dakota Mcdonald
+30736 Smith Point Suite 606
+New Jonathanborough, OR 24765 US
+Tel:+(807)310-6678
+Email:samantha53@example.com
+Site:https://www.torres.com/",USD,Date: 20-Jun-2018,2018-06-20,DISCOUNT(3.44%): (-)  15.57,-15.57,Due Date : 04-Jun-2011,2011-06-04,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 452.49  $,452.49,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 451.30 $,451.3,Template4_Instance194.json
+"BILL_TO:
+Patrick Wallace
+5103 Ayala Estates
+Cunninghamburgh, PW 99028 US
+Tel:+(384)347-0947
+Email:martinezdebra@example.com
+Site:https://acevedo.biz/",USD,Invoice Date: 28-Nov-2013,2013-11-28,DISCOUNT(3.66%): (-)  20.24,-20.24,Due Date : 21-Mar-2014,2014-03-21,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 552.94  $,552.94,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 572.52 $,572.52,Template4_Instance195.json
+"BILL_TO:
+Emily Wolf
+325 Rodriguez Common Suite 073
+Foxberg, OK 29281 US
+Tel:+(667)963-5163
+Email:lutzjames@example.com
+Site:https://www.washington-martin.com/",EUR,Date: 03-Jan-1994,1994-01-03,DISCOUNT(2.11%): (-)  9.59,-9.59,Due Date : 27-Jun-2008,2008-06-27,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 454.48  EUR,454.48,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 466.79 EUR,466.79,Template4_Instance196.json
+"BILL_TO:
+Raymond Mosley
+499 Smith Shoal Suite 012
+Patelmouth, LA 69802 US
+Tel:+(365)853-0234
+Email:amanda40@example.net
+Site:https://norman.biz/",USD,Invoice Date: 27-Jun-2013,2013-06-27,DISCOUNT(2.67%): (-)  5.71,-5.71,Due Date : 12-Jul-2020,2020-07-12,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 214.04  $,214.04,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 220.80 $,220.8,Template4_Instance197.json
+"BILL_TO:
+Jeffrey Miller
+28590 Nicholas Throughway Suite 101
+Christopherstad, GA 07049 US
+Tel:+(341)528-3448
+Email:ygonzales@example.org
+Site:http://www.bean.net/",EUR,Invoice Date: 21-Dec-2018,2018-12-21,DISCOUNT(3.94%): (-)  22.63,-22.63,Due Date : 17-Apr-1998,1998-04-17,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 574.45  EUR,574.45,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 596.24 EUR,596.24,Template4_Instance198.json
+"BILL_TO:
+Shawn Yang
+9483 Nancy Passage Suite 435
+Smithborough, VA 92198 US
+Tel:+(693)072-9425
+Email:jameswalters@example.com
+Site:http://gibson-horn.com/",EUR,Date: 02-Feb-2022,2022-02-02,DISCOUNT(3.03%): (-)  9.89,-9.89,Due Date : 18-Apr-2016,2016-04-18,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 326.40  EUR,326.4,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 328.57 EUR,328.57,Template4_Instance199.json
+"BILL_TO:
+Tiffany Cox
+7008 Evans Plaza Apt. 176
+South Timothyshire, NM 96811 US
+Tel:+(101)862-6821
+Email:allenbrian@example.net
+Site:https://www.house-pena.com/",USD,Invoice Date: 03-Mar-2015,2015-03-03,DISCOUNT(4.27%): (-)  7.06,-7.06,Due Date : 26-Dec-2002,2002-12-26,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 165.38  $,165.38,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 165.52 $,165.52,Template4_Instance2.json
+"BILL_TO:
+Wayne Montgomery
+6518 Taylor Causeway
+New Melissatown, WI 43230 US
+Tel:+(922)296-6782
+Email:pamelamartinez@example.org
+Site:http://jones.biz/",EUR,Invoice Date: 28-Feb-1997,1997-02-28,DISCOUNT(2.24%): (-)  23.96,-23.96,Due Date : 08-Apr-2004,2004-04-08,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 1069.55  EUR,9.55,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 1117.48 EUR,7.48,Template4_Instance20.json
+"BILL_TO:
+Nicholas Williams
+8666 Bill Lakes
+West Shane, UT 04313 US
+Tel:+(395)752-6528
+Email:barnesnicholas@example.com
+Site:https://www.pierce.biz/",EUR,Date: 13-Jul-2014,2014-07-13,DISCOUNT(3.71%): (-)  20.37,-20.37,Due Date : 09-Nov-1999,1999-11-09,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 549.06  EUR,549.06,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 563.11 EUR,563.11,Template4_Instance21.json
+"BILL_TO:
+Amanda Jones
+987 Henry Corner Apt. 134
+Bookermouth, AK 73533 US
+Tel:+(279)967-9912
+Email:jessicadixon@example.com
+Site:http://www.riley.com/",USD,Invoice Date: 27-Dec-2022,2022-12-27,DISCOUNT(3.96%): (-)  30.31,-30.31,Due Date : 28-Aug-2006,2006-08-28,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 765.33  $,765.33,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 804.34 $,804.34,Template4_Instance22.json
+"BILL_TO:
+Cynthia Stokes
+42889 Jill Shoals
+Ramosside, MA 05411 US
+Tel:+(345)077-8706
+Email:coffeydana@example.net
+Site:http://www.moore-schneider.com/",USD,Date: 19-Aug-2009,2009-08-19,DISCOUNT(3.05%): (-)  42.34,-42.34,Due Date : 24-Sep-2002,2002-09-24,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 1388.27  USD,8.27,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 1460.30 USD,0.3,Template4_Instance23.json
+"BILL_TO:
+Elizabeth Perkins
+9278 Stein Unions
+Port Robin, GU 09420 US
+Tel:+(957)296-6441
+Email:mooredaniel@example.org
+Site:http://wallace.biz/",USD,Invoice Date: 04-Feb-2021,2021-02-04,DISCOUNT(4.97%): (-)  54.36,-54.36,Due Date : 11-Apr-1995,1995-04-11,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 1093.86  $,3.86,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 1106.80 $,6.8,Template4_Instance24.json
+"BILL_TO:
+Robert Sweeney
+54065 April Street
+North Ronnieberg, IA 23402 US
+Tel:+(966)996-4331
+Email:david17@example.com
+Site:http://www.beck-west.com/",USD,Invoice Date: 02-Sep-1995,1995-09-02,DISCOUNT(2.94%): (-)  26.79,-26.79,Due Date : 29-Aug-2003,2003-08-29,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 911.32  USD,911.32,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 907.87 USD,907.87,Template4_Instance25.json
+"BILL_TO:
+Jared Fields
+46797 Stewart Heights
+New Joshua, AS 82765 US
+Tel:+(253)571-2074
+Email:kimberlygood@example.net
+Site:https://www.woodard-stanley.com/",USD,Date: 22-Apr-2011,2011-04-22,DISCOUNT(1.06%): (-)  1.51,-1.51,Due Date : 04-Jun-2015,2015-06-04,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 142.59  $,142.59,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 141.91 $,141.91,Template4_Instance26.json
+"BILL_TO:
+David Robinson
+018 Ford Canyon
+Englishport, MP 74964 US
+Tel:+(579)771-5806
+Email:douglas96@example.net
+Site:https://tate.com/",EUR,Invoice Date: 27-Jan-1997,1997-01-27,DISCOUNT(3.54%): (-)  14.78,-14.78,Due Date : 21-Feb-2007,2007-02-21,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 417.58  EUR,417.58,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 434.28 EUR,434.28,Template4_Instance27.json
+"BILL_TO:
+Carol Hester
+21130 Ali Inlet
+Laraburgh, MA 25073 US
+Tel:+(286)917-7472
+Email:lisa49@example.org
+Site:https://www.hanson-santana.com/",EUR,Invoice Date: 10-Apr-2022,2022-04-10,DISCOUNT(1.86%): (-)  7.89,-7.89,Due Date : 19-Aug-2018,2018-08-19,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 424.37  EUR,424.37,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 445.23 EUR,445.23,Template4_Instance28.json
+"BILL_TO:
+Tracy Smith
+69573 Mitchell Orchard Suite 518
+Janefurt, VA 54893 US
+Tel:+(012)284-9794
+Email:sharpjulie@example.net
+Site:https://johnson.com/",USD,Date: 15-Mar-2007,2007-03-15,DISCOUNT(2.93%): (-)  1.06,-1.06,Due Date : 17-Jan-2022,2022-01-17,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 36.13  $,36.13,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 36.65 $,36.65,Template4_Instance29.json
+"BILL_TO:
+Joshua Holt
+456 Rebecca Ville Suite 970
+North Joshua, PA 70961 US
+Tel:+(684)588-5419
+Email:christopherflores@example.net
+Site:http://allen.org/",USD,Invoice Date: 26-Nov-2005,2005-11-26,DISCOUNT(4.52%): (-)  42.89,-42.89,Due Date : 15-Sep-2008,2008-09-15,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 948.88  USD,948.88,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 995.53 USD,995.53,Template4_Instance3.json
+"BILL_TO:
+Amanda Wilcox
+691 Turner Fords Suite 297
+North Destinytown, LA 44273 US
+Tel:+(277)639-1200
+Email:claudiabolton@example.net
+Site:http://griffin.com/",EUR,Date: 21-Sep-2000,2000-09-21,DISCOUNT(1.93%): (-)  9.73,-9.73,Due Date : 11-Dec-1995,1995-12-11,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 503.90  EUR,503.9,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 519.85 EUR,519.85,Template4_Instance30.json
+"BILL_TO:
+Cheryl Smith
+277 Moore Summit Suite 936
+Lake Pamelabury, AS 27412 US
+Tel:+(700)251-5306
+Email:williamshort@example.org
+Site:http://bridges.com/",USD,Invoice Date: 30-Jun-2021,2021-06-30,DISCOUNT(2.28%): (-)  23.94,-23.94,Due Date : 10-Nov-2010,2010-11-10,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 1050.21  $,0.21,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 1078.73 $,8.73,Template4_Instance31.json
+"BILL_TO:
+Stephen Zimmerman
+609 Brooke Port
+West Aaron, IL 56860 US
+Tel:+(483)292-5153
+Email:harrishector@example.com
+Site:http://www.johnson-ramirez.org/",EUR,Date: 14-Oct-2001,2001-10-14,DISCOUNT(3.57%): (-)  22.85,-22.85,Due Date : 02-Feb-2014,2014-02-02,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 640.16  EUR,640.16,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 640.48 EUR,640.48,Template4_Instance32.json
+"BILL_TO:
+Amy Keller
+7970 Garza Orchard Suite 470
+Harrisonfurt, NC 27185 US
+Tel:+(789)553-0506
+Email:haileydominguez@example.org
+Site:http://rose.com/",EUR,Date: 13-Aug-2018,2018-08-13,DISCOUNT(1.24%): (-)  3.46,-3.46,Due Date : 29-Jun-2021,2021-06-29,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 278.93  EUR,278.93,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 289.20 EUR,289.2,Template4_Instance33.json
+"BILL_TO:
+William Kemp
+023 Mann Hills
+Port Alexandriafort, NV 10933 US
+Tel:+(788)739-4955
+Email:meredithklein@example.net
+Site:https://moore.biz/",USD,Date: 08-Jan-2000,2000-01-08,DISCOUNT(1.37%): (-)  10.75,-10.75,Due Date : 10-Apr-2000,2000-04-10,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 784.65  $,784.65,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 775.22 $,775.22,Template4_Instance34.json
+"BILL_TO:
+Krystal Cole
+53061 Murphy Lock
+Patrickstad, AK 28840 US
+Tel:+(057)996-6304
+Email:antoniohenderson@example.net
+Site:http://www.johnson-briggs.com/",USD,Date: 04-Aug-2012,2012-08-04,DISCOUNT(2.17%): (-)  4.11,-4.11,Due Date : 26-Oct-2012,2012-10-26,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 189.21  USD,189.21,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 196.09 USD,196.09,Template4_Instance35.json
+"BILL_TO:
+Margaret Clark
+395 Thomas Views
+North Jeff, OR 55332 US
+Tel:+(290)714-3925
+Email:patrick23@example.org
+Site:https://buchanan.com/",USD,Date: 07-Sep-2001,2001-09-07,DISCOUNT(1.5%): (-)  6.51,-6.51,Due Date : 03-May-2008,2008-05-03,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 433.98  $,433.98,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 447.67 $,447.67,Template4_Instance36.json
+"BILL_TO:
+Brandon Smith
+3705 Murray Inlet Suite 433
+East Ryanland, AR 14956 US
+Tel:+(478)611-1268
+Email:daniel81@example.net
+Site:https://www.duran-martin.com/",USD,Invoice Date: 29-Jul-2001,2001-07-29,DISCOUNT(1.83%): (-)  8.55,-8.55,Due Date : 15-Mar-1999,1999-03-15,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 467.42  $,467.42,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 476.18 $,476.18,Template4_Instance37.json
+"BILL_TO:
+Abigail Harper
+141 Stephanie Fall
+Lake James, GA 08591 US
+Tel:+(495)222-1897
+Email:reginaldcooley@example.org
+Site:https://www.jones.info/",USD,Invoice Date: 25-Dec-2006,2006-12-25,DISCOUNT(4.76%): (-)  37.51,-37.51,Due Date : 06-Jul-2021,2021-07-06,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 787.94  USD,787.94,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 823.88 USD,823.88,Template4_Instance38.json
+"BILL_TO:
+Jeffrey Key
+623 Smith View Suite 923
+Williamsstad, MA 96086 US
+Tel:+(610)813-8347
+Email:mendezjoseph@example.net
+Site:http://www.flores-brown.com/",USD,Date: 06-Jan-2017,2017-01-06,DISCOUNT(1.95%): (-)  10.73,-10.73,Due Date : 14-Aug-2015,2015-08-14,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 550.16  USD,550.16,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 572.14 USD,572.14,Template4_Instance39.json
+"BILL_TO:
+Amanda Turner
+27865 Macias Cape Suite 902
+Alexanderstad, MD 96980 US
+Tel:+(925)061-9142
+Email:hwagner@example.com
+Site:http://garner-wilson.com/",USD,Date: 08-Apr-2004,2004-04-08,DISCOUNT(4.97%): (-)  52.93,-52.93,Due Date : 11-May-2018,2018-05-11,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 1064.96  $,4.96,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 1099.38 $,9.38,Template4_Instance4.json
+"BILL_TO:
+Cody Murray
+3428 Justin Overpass Apt. 953
+West Erikashire, AS 62853 US
+Tel:+(975)943-3959
+Email:iashley@example.com
+Site:http://www.williams-armstrong.net/",EUR,Invoice Date: 05-Nov-1995,1995-11-05,DISCOUNT(2.0%): (-)  11.63,-11.63,Due Date : 21-Jul-1998,1998-07-21,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 581.40  EUR,581.4,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 592.27 EUR,592.27,Template4_Instance40.json
+"BILL_TO:
+Francisco Walker
+5192 Sue Overpass
+Shanehaven, WV 84914 US
+Tel:+(221)053-8402
+Email:onewman@example.com
+Site:https://waters-berry.com/",USD,Date: 24-Oct-2007,2007-10-24,DISCOUNT(2.35%): (-)  18.83,-18.83,Due Date : 05-Mar-2014,2014-03-05,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 801.39  $,801.39,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 797.90 $,797.9,Template4_Instance41.json
+"BILL_TO:
+Patrick Christensen
+099 Sharp Islands Suite 790
+Aliciamouth, AS 75022 US
+Tel:+(274)971-3694
+Email:kimberly60@example.net
+Site:http://www.rice.com/",USD,Invoice Date: 30-Jan-2016,2016-01-30,DISCOUNT(4.75%): (-)  33.05,-33.05,Due Date : 25-Dec-2010,2010-12-25,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 695.80  USD,695.8,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 700.11 USD,700.11,Template4_Instance42.json
+"BILL_TO:
+Joshua Patterson
+430 Cisneros Fords
+Stevensonchester, VI 47000 US
+Tel:+(708)101-7485
+Email:justingray@example.net
+Site:https://stephens.com/",USD,Invoice Date: 02-Jun-1996,1996-06-02,DISCOUNT(4.55%): (-)  42.58,-42.58,Due Date : 03-Nov-2000,2000-11-03,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 935.84  USD,935.84,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 967.55 USD,967.55,Template4_Instance43.json
+"BILL_TO:
+Susan Lopez
+480 Frederick Mill Suite 920
+Fordland, FL 04649 US
+Tel:+(346)137-0545
+Email:hilljason@example.com
+Site:http://www.meyers.com/",USD,Date: 26-Jul-2009,2009-07-26,DISCOUNT(3.92%): (-)  11.16,-11.16,Due Date : 26-May-2017,2017-05-26,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 284.63  USD,284.63,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 293.10 USD,293.1,Template4_Instance44.json
+"BILL_TO:
+Denise Campbell
+18807 Arthur Dale
+Hughesberg, NM 70055 US
+Tel:+(979)808-9432
+Email:brianna26@example.com
+Site:https://www.wiggins-zimmerman.com/",EUR,Date: 22-Sep-2001,2001-09-22,DISCOUNT(1.99%): (-)  12.69,-12.69,Due Date : 03-Jul-2006,2006-07-03,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 637.90  EUR,637.9,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 650.39 EUR,650.39,Template4_Instance45.json
+"BILL_TO:
+Elizabeth Richardson
+915 Moore Inlet Suite 168
+North Steven, MO 76985 US
+Tel:+(910)047-5813
+Email:jeffrey99@example.net
+Site:http://www.bowers.com/",EUR,Date: 24-Nov-2010,2010-11-24,DISCOUNT(4.9%): (-)  32.08,-32.08,Due Date : 05-Sep-2020,2020-09-05,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 654.77  EUR,654.77,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 650.52 EUR,650.52,Template4_Instance46.json
+"BILL_TO:
+Wesley Delgado
+6985 Stark Trace Apt. 839
+Grayhaven, WI 91618 US
+Tel:+(100)714-2600
+Email:richardjoseph@example.org
+Site:http://boyd.com/",EUR,Date: 27-Jul-2008,2008-07-27,DISCOUNT(1.3%): (-)  10.19,-10.19,Due Date : 20-Jun-2015,2015-06-20,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 783.97  EUR,783.97,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 797.27 EUR,797.27,Template4_Instance47.json
+"BILL_TO:
+Caitlyn Griffin
+5832 Benjamin Knoll Apt. 224
+Sullivanport, CO 79224 US
+Tel:+(069)765-9450
+Email:patrickescobar@example.com
+Site:https://edwards-burke.net/",EUR,Invoice Date: 03-Dec-2011,2011-12-03,DISCOUNT(3.63%): (-)  28.3,-28.3,Due Date : 08-Mar-2001,2001-03-08,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 779.67  EUR,779.67,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 812.70 EUR,812.7,Template4_Instance48.json
+"BILL_TO:
+Veronica Murray
+8870 Janet Ports
+Riveraton, SC 72834 US
+Tel:+(069)186-6672
+Email:margaret25@example.com
+Site:https://marshall.net/",USD,Invoice Date: 21-Oct-2018,2018-10-21,DISCOUNT(1.61%): (-)  7.42,-7.42,Due Date : 23-Nov-1993,1993-11-23,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 461.01  USD,461.01,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 473.90 USD,473.9,Template4_Instance49.json
+"BILL_TO:
+Lindsey Bryant
+33794 Sarah Meadows Suite 723
+Port Kristinview, WY 06197 US
+Tel:+(088)559-8667
+Email:masontimothy@example.com
+Site:http://shaw.org/",EUR,Date: 14-Feb-2017,2017-02-14,DISCOUNT(2.11%): (-)  14.09,-14.09,Due Date : 19-Jan-2001,2001-01-19,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 667.99  EUR,667.99,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 678.04 EUR,678.04,Template4_Instance5.json
+"BILL_TO:
+Shawna Potts
+5509 Betty Place Apt. 314
+Hillmouth, UT 62348 US
+Tel:+(838)880-8405
+Email:lcole@example.net
+Site:https://moreno-macdonald.com/",USD,Date: 26-Jun-2016,2016-06-26,DISCOUNT(2.44%): (-)  4.12,-4.12,Due Date : 26-Mar-2014,2014-03-26,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 168.66  $,168.66,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 170.08 $,170.08,Template4_Instance50.json
+"BILL_TO:
+Melissa Nguyen
+6047 Danny Mountains
+Port Elizabethside, NE 29309 US
+Tel:+(499)318-9849
+Email:washingtontammy@example.org
+Site:https://montoya-ortiz.com/",EUR,Invoice Date: 10-Jun-2017,2017-06-10,DISCOUNT(3.4%): (-)  16.48,-16.48,Due Date : 16-Feb-2006,2006-02-16,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 484.66  EUR,484.66,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 489.64 EUR,489.64,Template4_Instance51.json
+"BILL_TO:
+Jessica Gross MD
+78812 Black Track
+Cynthiaside, OH 31913 US
+Tel:+(332)055-8818
+Email:stanleysteven@example.net
+Site:https://www.parker-fletcher.biz/",USD,Date: 27-Aug-1993,1993-08-27,DISCOUNT(1.38%): (-)  9.47,-9.47,Due Date : 12-Dec-2003,2003-12-12,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 685.94  USD,685.94,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 695.04 USD,695.04,Template4_Instance52.json
+"BILL_TO:
+Christina Ramirez
+9314 James Estates
+Lake John, SC 48324 US
+Tel:+(093)251-6149
+Email:mallory40@example.net
+Site:https://www.kim.biz/",USD,Invoice Date: 21-Jun-1995,1995-06-21,DISCOUNT(1.7%): (-)  7.52,-7.52,Due Date : 05-Jun-2017,2017-06-05,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 442.52  USD,442.52,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 452.00 USD,452.0,Template4_Instance53.json
+"BILL_TO:
+Cynthia Sandoval
+7216 Melissa Isle
+South Emily, MN 51139 US
+Tel:+(871)039-6443
+Email:luiscarroll@example.com
+Site:https://abbott.com/",EUR,Invoice Date: 04-Oct-2020,2020-10-04,DISCOUNT(4.57%): (-)  50.14,-50.14,Due Date : 01-Aug-2001,2001-08-01,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 1097.22  EUR,7.22,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 1115.59 EUR,5.59,Template4_Instance54.json
+"BILL_TO:
+Elizabeth Williams
+7782 Hensley Vista
+Moonport, TN 04650 US
+Tel:+(430)753-6883
+Email:kim78@example.org
+Site:https://baldwin.info/",USD,Date: 26-Nov-1993,1993-11-26,DISCOUNT(1.53%): (-)  9.92,-9.92,Due Date : 09-Oct-2000,2000-10-09,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 648.12  $,648.12,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 664.76 $,664.76,Template4_Instance55.json
+"BILL_TO:
+Victoria Wilson
+7181 Kendra Meadow Suite 155
+Nathanielmouth, KY 95128 US
+Tel:+(128)465-8664
+Email:robertjones@example.net
+Site:https://www.sandoval.net/",USD,Invoice Date: 09-Sep-2018,2018-09-09,DISCOUNT(3.81%): (-)  26.9,-26.9,Due Date : 08-Nov-1997,1997-11-08,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 706.14  USD,706.14,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 719.08 USD,719.08,Template4_Instance56.json
+"BILL_TO:
+Alyssa Garza
+2695 Rebecca Mission
+Melaniefort, ME 02514 US
+Tel:+(319)888-7462
+Email:lindseykelsey@example.net
+Site:https://www.smith.biz/",USD,Invoice Date: 27-Dec-2010,2010-12-27,DISCOUNT(1.74%): (-)  14.85,-14.85,Due Date : 22-Mar-1994,1994-03-22,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 853.22  $,853.22,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 884.57 $,884.57,Template4_Instance57.json
+"BILL_TO:
+April Carter
+88339 Michael Mews Suite 824
+Lake Melissa, GU 43549 US
+Tel:+(038)023-9318
+Email:roger90@example.org
+Site:http://www.barnes.com/",USD,Invoice Date: 10-Nov-1996,1996-11-10,DISCOUNT(3.88%): (-)  23.73,-23.73,Due Date : 07-Oct-2013,2013-10-07,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 611.54  $,611.54,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 610.44 $,610.44,Template4_Instance58.json
+"BILL_TO:
+Zachary Randolph
+2978 King Trafficway
+Warrenview, AL 62921 US
+Tel:+(700)310-7626
+Email:melissa78@example.com
+Site:https://www.villa-compton.info/",EUR,Invoice Date: 27-Sep-2002,2002-09-27,DISCOUNT(2.92%): (-)  6.47,-6.47,Due Date : 05-Apr-1993,1993-04-05,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 221.70  EUR,221.7,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 229.33 EUR,229.33,Template4_Instance59.json
+"BILL_TO:
+Patrick Ashley
+02713 Jeanette Shores Apt. 716
+East Phillipville, MH 43662 US
+Tel:+(550)247-8760
+Email:romankevin@example.net
+Site:http://li-garcia.org/",USD,Date: 09-Apr-2000,2000-04-09,DISCOUNT(3.69%): (-)  10.33,-10.33,Due Date : 01-Apr-2014,2014-04-01,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 279.94  USD,279.94,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 285.24 USD,285.24,Template4_Instance6.json
+"BILL_TO:
+Adam Francis
+6241 Robinson Crest Suite 440
+Traceyside, TX 58936 US
+Tel:+(542)790-5798
+Email:marklopez@example.org
+Site:https://www.cooper-durham.biz/",USD,Invoice Date: 02-Mar-2021,2021-03-02,DISCOUNT(3.73%): (-)  56.01,-56.01,Due Date : 03-Aug-2004,2004-08-03,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 1501.72  $,1.72,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 1551.58 $,1.58,Template4_Instance60.json
+"BILL_TO:
+Wendy Blair
+427 Harrington Trail Apt. 225
+Fordborough, IN 09344 US
+Tel:+(645)729-7749
+Email:donnaevans@example.net
+Site:https://phillips.com/",EUR,Date: 09-Apr-2000,2000-04-09,DISCOUNT(2.19%): (-)  2.92,-2.92,Due Date : 26-May-1998,1998-05-26,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 133.47  EUR,133.47,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 137.55 EUR,137.55,Template4_Instance61.json
+"BILL_TO:
+Kellie Wyatt
+812 Erin Forges Suite 272
+West Ronaldchester, VT 03597 US
+Tel:+(341)206-9221
+Email:vwest@example.com
+Site:http://www.gray.net/",USD,Invoice Date: 24-May-1997,1997-05-24,DISCOUNT(4.89%): (-)  43.85,-43.85,Due Date : 18-Jun-1993,1993-06-18,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 896.69  $,896.69,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 913.03 $,913.03,Template4_Instance62.json
+"BILL_TO:
+Dawn Willis
+341 Michael Land Suite 794
+North Cynthia, WY 31657 US
+Tel:+(105)341-0834
+Email:aliciajacobs@example.net
+Site:https://bruce.com/",EUR,Date: 15-Mar-2002,2002-03-15,DISCOUNT(3.2%): (-)  12.44,-12.44,Due Date : 08-Oct-1999,1999-10-08,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 388.60  EUR,388.6,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 397.49 EUR,397.49,Template4_Instance63.json
+"BILL_TO:
+Sarah Martinez
+8134 Ortega Dale Suite 429
+Waynehaven, ID 85160 US
+Tel:+(116)776-9889
+Email:carlgomez@example.org
+Site:https://williams.org/",USD,Date: 22-Nov-2011,2011-11-22,DISCOUNT(1.43%): (-)  0.9,-0.9,Due Date : 27-Jul-1993,1993-07-27,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 63.16  $,63.16,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 65.83 $,65.83,Template4_Instance64.json
+"BILL_TO:
+Mary Berry
+4091 Sharon Canyon Apt. 659
+North Rebecca, FL 80308 US
+Tel:+(048)199-7399
+Email:ashley91@example.com
+Site:http://www.reynolds.com/",USD,Invoice Date: 21-Nov-1997,1997-11-21,DISCOUNT(3.29%): (-)  11.91,-11.91,Due Date : 30-Aug-1998,1998-08-30,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 361.96  $,361.96,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 359.98 $,359.98,Template4_Instance65.json
+"BILL_TO:
+Robert Johnson
+4657 Hannah Point
+Adambury, OH 49208 US
+Tel:+(769)750-7298
+Email:fergusonjennifer@example.net
+Site:http://www.griffin-shields.net/",USD,Date: 25-Feb-1993,1993-02-25,DISCOUNT(2.51%): (-)  10.61,-10.61,Due Date : 06-Dec-2009,2009-12-06,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 422.89  USD,422.89,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 431.22 USD,431.22,Template4_Instance66.json
+"BILL_TO:
+Kayla Hubbard
+609 Patricia Ridges Suite 280
+New Rhonda, FL 10903 US
+Tel:+(519)245-0804
+Email:dakota18@example.org
+Site:http://www.mendoza.com/",USD,Date: 26-Aug-1997,1997-08-26,DISCOUNT(2.16%): (-)  12.05,-12.05,Due Date : 05-Mar-1995,1995-03-05,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 557.98  $,557.98,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 553.17 $,553.17,Template4_Instance67.json
+"BILL_TO:
+Tyler Bray
+39343 Karen Motorway Apt. 393
+Whiteport, UT 20418 US
+Tel:+(709)472-0741
+Email:christopher26@example.net
+Site:https://www.myers.com/",USD,Invoice Date: 17-Nov-1995,1995-11-17,DISCOUNT(1.18%): (-)  3.38,-3.38,Due Date : 27-Aug-2001,2001-08-27,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 286.61  $,286.61,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 294.82 $,294.82,Template4_Instance68.json
+"BILL_TO:
+Claire Edwards
+8356 Heather Roads
+Virginiashire, SC 74935 US
+Tel:+(571)885-6083
+Email:millersteven@example.org
+Site:http://www.wallace.com/",EUR,Invoice Date: 19-Jul-1995,1995-07-19,DISCOUNT(1.78%): (-)  13.58,-13.58,Due Date : 27-May-2022,2022-05-27,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 763.01  EUR,763.01,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 781.68 EUR,781.68,Template4_Instance69.json
+"BILL_TO:
+Jordan Anderson
+58715 Jerome Rue
+West Timothyview, PR 34069 US
+Tel:+(188)414-5503
+Email:smithjennifer@example.com
+Site:http://www.ramirez.com/",EUR,Date: 30-Mar-2007,2007-03-30,DISCOUNT(2.04%): (-)  10.78,-10.78,Due Date : 08-Jul-2002,2002-07-08,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 528.55  EUR,528.55,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 539.73 EUR,539.73,Template4_Instance7.json
+"BILL_TO:
+Mark Rhodes
+0849 Justin Mountains
+Jenniferborough, SD 78425 US
+Tel:+(105)369-8136
+Email:qhunter@example.org
+Site:https://www.taylor-mcconnell.net/",USD,Date: 31-Mar-1996,1996-03-31,DISCOUNT(3.36%): (-)  21.15,-21.15,Due Date : 29-Nov-2014,2014-11-29,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 629.52  USD,629.52,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 638.50 USD,638.5,Template4_Instance70.json
+"BILL_TO:
+Jodi West
+992 Jason Lane
+Merrittview, VI 52673 US
+Tel:+(577)135-5321
+Email:casejeffrey@example.net
+Site:http://www.serrano.info/",USD,Invoice Date: 30-Mar-2015,2015-03-30,DISCOUNT(1.59%): (-)  18.1,-18.1,Due Date : 21-Mar-2006,2006-03-21,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 1138.37  $,8.37,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 1142.49 $,2.49,Template4_Instance71.json
+"BILL_TO:
+Nicole Holmes
+36651 Atkins Way Suite 652
+Harrisbury, SD 50616 US
+Tel:+(828)357-6246
+Email:lijames@example.com
+Site:http://stewart-thomas.com/",USD,Invoice Date: 25-Jul-2001,2001-07-25,DISCOUNT(4.48%): (-)  42.03,-42.03,Due Date : 17-Oct-1999,1999-10-17,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 938.12  $,938.12,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 971.87 $,971.87,Template4_Instance72.json
+"BILL_TO:
+David Dillon
+3325 Francisco Stream Apt. 241
+Janiceton, PR 42907 US
+Tel:+(304)250-7280
+Email:gary93@example.net
+Site:http://www.williams-sandoval.net/",USD,Invoice Date: 18-Jun-2021,2021-06-18,DISCOUNT(1.38%): (-)  5.12,-5.12,Due Date : 19-Sep-2018,2018-09-19,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 370.77  USD,370.77,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 383.23 USD,383.23,Template4_Instance73.json
+"BILL_TO:
+Amy Little
+730 Wheeler Hill Apt. 767
+South Martinfurt, HI 91213 US
+Tel:+(758)188-6376
+Email:lisa42@example.net
+Site:https://leon.biz/",USD,Invoice Date: 27-Dec-2020,2020-12-27,DISCOUNT(4.07%): (-)  25.43,-25.43,Due Date : 25-Nov-2006,2006-11-25,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 624.86  $,624.86,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 640.23 $,640.23,Template4_Instance74.json
+"BILL_TO:
+Tricia Boyd
+82020 Rebecca Islands
+South Clintonburgh, AL 87786 US
+Tel:+(048)511-7091
+Email:cindy47@example.com
+Site:http://rodriguez.com/",USD,Invoice Date: 14-Jul-2002,2002-07-14,DISCOUNT(1.22%): (-)  6.22,-6.22,Due Date : 04-Jan-2010,2010-01-04,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 510.08  $,510.08,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 532.10 $,532.1,Template4_Instance75.json
+"BILL_TO:
+Steven Cardenas
+4403 Connor Glens
+Port Travis, AL 76215 US
+Tel:+(711)301-6873
+Email:blairrobert@example.com
+Site:http://guerra.com/",USD,Invoice Date: 06-Aug-2007,2007-08-06,DISCOUNT(3.52%): (-)  16.65,-16.65,Due Date : 08-Oct-2016,2016-10-08,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 473.15  $,473.15,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 485.20 $,485.2,Template4_Instance76.json
+"BILL_TO:
+Andrea Randall
+333 Sarah Skyway Apt. 060
+Gordonhaven, MD 45806 US
+Tel:+(722)988-0104
+Email:danielsanchez@example.net
+Site:https://www.brown.com/",USD,Date: 29-Mar-2015,2015-03-29,DISCOUNT(4.46%): (-)  21.21,-21.21,Due Date : 16-Aug-2016,2016-08-16,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 475.65  $,475.65,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 496.64 $,496.64,Template4_Instance77.json
+"BILL_TO:
+Andrea Rich
+36141 Harris Loop
+New Christopher, AS 43036 US
+Tel:+(492)659-0346
+Email:jenniferwhite@example.com
+Site:https://www.walker.biz/",EUR,Date: 27-Nov-1997,1997-11-27,DISCOUNT(2.94%): (-)  16.11,-16.11,Due Date : 10-Apr-2016,2016-04-10,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 548.01  EUR,548.01,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 542.77 EUR,542.77,Template4_Instance78.json
+"BILL_TO:
+Heather Welch
+6256 Michelle Lakes Suite 493
+North Russell, NC 72484 US
+Tel:+(323)647-1663
+Email:angelaflores@example.net
+Site:https://www.reyes.org/",USD,Date: 11-Jul-2021,2021-07-11,DISCOUNT(4.31%): (-)  23.61,-23.61,Due Date : 07-Mar-2022,2022-03-07,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 547.70  USD,547.7,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 551.35 USD,551.35,Template4_Instance79.json
+"BILL_TO:
+Kelly Smith
+925 Jessica Ridge Apt. 636
+Walkertown, CO 01879 US
+Tel:+(439)264-6965
+Email:ywest@example.com
+Site:https://www.vincent.info/",USD,Date: 18-Mar-2021,2021-03-18,DISCOUNT(2.04%): (-)  6.47,-6.47,Due Date : 28-Feb-2001,2001-02-28,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 317.34  USD,317.34,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 329.00 USD,329.0,Template4_Instance8.json
+"BILL_TO:
+Shaun Flores
+314 Angela Pass Suite 817
+Lake Molly, TN 31309 US
+Tel:+(245)081-1010
+Email:amber52@example.org
+Site:https://green.net/",EUR,Invoice Date: 18-Feb-2000,2000-02-18,DISCOUNT(2.74%): (-)  17.66,-17.66,Due Date : 19-Sep-1997,1997-09-19,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 644.67  EUR,644.67,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 657.93 EUR,657.93,Template4_Instance80.json
+"BILL_TO:
+Jason Andersen
+3252 Richard Forges Suite 061
+Millerborough, DE 34135 US
+Tel:+(824)592-9478
+Email:pblack@example.net
+Site:https://www.small.com/",USD,Invoice Date: 26-Oct-2000,2000-10-26,DISCOUNT(1.67%): (-)  10.01,-10.01,Due Date : 20-Aug-2022,2022-08-20,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 599.36  $,599.36,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 590.62 $,590.62,Template4_Instance81.json
+"BILL_TO:
+Michael Duran
+72998 Lisa Path Apt. 121
+East Ericborough, FM 06937 US
+Tel:+(662)051-1331
+Email:jacobsdennis@example.net
+Site:https://www.pacheco.com/",EUR,Invoice Date: 08-Sep-2022,2022-09-08,DISCOUNT(1.73%): (-)  13.82,-13.82,Due Date : 13-Sep-1996,1996-09-13,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 798.98  EUR,798.98,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 827.24 EUR,827.24,Template4_Instance82.json
+"BILL_TO:
+Patrick Gallagher
+15632 Allen Greens Apt. 820
+Daniellefurt, DC 83894 US
+Tel:+(193)989-1102
+Email:wburke@example.org
+Site:http://park-green.com/",USD,Date: 27-Apr-2022,2022-04-27,DISCOUNT(3.33%): (-)  31.15,-31.15,Due Date : 06-Aug-1998,1998-08-06,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 935.31  $,935.31,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 928.64 $,928.64,Template4_Instance83.json
+"BILL_TO:
+Austin Clark
+16273 Jessica Parks Apt. 946
+Lindafort, AK 23066 US
+Tel:+(458)788-8356
+Email:jamestanya@example.org
+Site:http://www.green.biz/",USD,Invoice Date: 04-Jan-1997,1997-01-04,DISCOUNT(1.28%): (-)  12.63,-12.63,Due Date : 28-Feb-2020,2020-02-28,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 987.02  $,987.02,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 1018.68 $,8.68,Template4_Instance84.json
+"BILL_TO:
+Julie Wheeler
+76348 Wells Skyway Apt. 345
+Saundersland, MH 16265 US
+Tel:+(222)627-7768
+Email:wilkersonrichard@example.org
+Site:http://www.cunningham.com/",EUR,Invoice Date: 11-Oct-2012,2012-10-11,DISCOUNT(2.85%): (-)  3.99,-3.99,Due Date : 01-Apr-1993,1993-04-01,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 140.09  EUR,140.09,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 141.21 EUR,141.21,Template4_Instance85.json
+"BILL_TO:
+Paul Jones
+619 Jimmy Springs Apt. 765
+Joneschester, IN 82940 US
+Tel:+(701)934-1841
+Email:david43@example.net
+Site:http://www.montoya.com/",USD,Invoice Date: 25-Dec-2001,2001-12-25,DISCOUNT(4.94%): (-)  2.41,-2.41,Due Date : 30-Sep-2011,2011-09-30,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 48.72  $,48.72,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 51.15 $,51.15,Template4_Instance86.json
+"BILL_TO:
+Joseph Turner
+267 Micheal Island Apt. 380
+Griffinbury, CO 44568 US
+Tel:+(806)099-5875
+Email:pelliott@example.org
+Site:http://www.brown.info/",EUR,Date: 05-Oct-2013,2013-10-05,DISCOUNT(1.33%): (-)  1.66,-1.66,Due Date : 06-Aug-2015,2015-08-06,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 124.92  EUR,124.92,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 128.43 EUR,128.43,Template4_Instance87.json
+"BILL_TO:
+David Perry
+25840 Bradley Trace
+Romeromouth, FL 94789 US
+Tel:+(688)292-0537
+Email:laura37@example.org
+Site:https://shaw.com/",USD,Date: 20-Mar-2017,2017-03-20,DISCOUNT(2.05%): (-)  16.98,-16.98,Due Date : 29-Jul-2017,2017-07-29,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 828.19  USD,828.19,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 853.73 USD,853.73,Template4_Instance88.json
+"BILL_TO:
+Meghan Williams
+31605 Nicholas Garden Suite 740
+West Todd, FL 27177 US
+Tel:+(389)837-9516
+Email:lauren62@example.com
+Site:http://www.ross.com/",USD,Invoice Date: 10-May-2021,2021-05-10,DISCOUNT(2.53%): (-)  27.39,-27.39,Due Date : 24-Jan-2022,2022-01-24,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 1082.79  USD,2.79,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 1114.72 USD,4.72,Template4_Instance89.json
+"BILL_TO:
+David Atkinson
+23687 Jones Summit Suite 681
+Port Wesley, MS 33413 US
+Tel:+(118)675-9313
+Email:schultzstephen@example.com
+Site:https://ruiz-mckenzie.org/",USD,Date: 22-Nov-2019,2019-11-22,DISCOUNT(4.7%): (-)  23.53,-23.53,Due Date : 13-May-2010,2010-05-13,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 500.63  $,500.63,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 512.81 $,512.81,Template4_Instance9.json
+"BILL_TO:
+Timothy Hansen
+011 Foley Lodge
+South Peggyberg, LA 05493 US
+Tel:+(927)500-9492
+Email:gonzalesjasmine@example.org
+Site:https://www.cook-cochran.com/",USD,Date: 06-Nov-2012,2012-11-06,DISCOUNT(4.35%): (-)  41.67,-41.67,Due Date : 04-Mar-2005,2005-03-04,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 957.95  $,957.95,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 989.59 $,989.59,Template4_Instance90.json
+"BILL_TO:
+Kimberly Dyer
+63495 Cochran Landing
+Isaacport, FL 52068 US
+Tel:+(344)603-3246
+Email:karina70@example.com
+Site:http://gutierrez.com/",USD,Date: 30-Dec-2016,2016-12-30,DISCOUNT(3.3%): (-)  14.82,-14.82,Due Date : 20-May-2021,2021-05-20,[],Note:Total payment due in 14 days.,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 449.06  USD,449.06,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 451.99 USD,451.99,Template4_Instance91.json
+"BILL_TO:
+Natalie Holmes
+08840 Hays Harbors Apt. 062
+East Luis, NY 87968 US
+Tel:+(248)603-2059
+Email:hendersonnicole@example.net
+Site:https://guzman-contreras.org/",USD,Invoice Date: 01-Jan-2019,2019-01-01,DISCOUNT(2.4%): (-)  11.41,-11.41,Due Date : 18-Apr-2017,2017-04-18,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 475.50  $,475.5,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 488.63 $,488.63,Template4_Instance92.json
+"BILL_TO:
+Troy Rhodes
+3467 Sandra Gardens Suite 826
+North Kristenton, NH 98563 US
+Tel:+(439)519-7519
+Email:ireilly@example.com
+Site:http://www.roberts.com/",EUR,Invoice Date: 03-Sep-1998,1998-09-03,DISCOUNT(4.6%): (-)  23.32,-23.32,Due Date : 02-Dec-1999,1999-12-02,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 506.91  EUR,506.91,"[[{'bbox': [[31.0, 479.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 534.69 EUR,534.69,Template4_Instance93.json
+"BILL_TO:
+Eric Wyatt
+10333 Tracy Estate
+Wallaceborough, DE 24437 US
+Tel:+(222)770-0050
+Email:rbrown@example.com
+Site:https://www.moore-lawson.com/",EUR,Invoice Date: 03-Dec-2021,2021-12-03,DISCOUNT(1.38%): (-)  12.47,-12.47,Due Date : 15-Apr-2012,2012-04-15,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 903.90  EUR,903.9,"[[{'bbox': [[31.0, 497.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 921.50 EUR,921.5,Template4_Instance94.json
+"BILL_TO:
+Amber Tucker
+4431 Samantha Flat
+North Zacharyfort, SD 75038 US
+Tel:+(457)666-3536
+Email:irodriguez@example.com
+Site:https://perez-hughes.info/",USD,Date: 23-Dec-2007,2007-12-23,DISCOUNT(2.1%): (-)  6.16,-6.16,Due Date : 18-Dec-1996,1996-12-18,[],Thank you for choosing us!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 293.36  $,293.36,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,COMMERCIAL INVOICE,TOTAL : 309.09 $,309.09,Template4_Instance95.json
+"BILL_TO:
+Lauren Hall
+3690 Patricia Knolls
+Makaylamouth, ID 19351 US
+Tel:+(227)008-9380
+Email:davidsimmons@example.com
+Site:https://www.fowler.com/",EUR,Invoice Date: 06-Jul-1997,1997-07-06,DISCOUNT(2.81%): (-)  15.39,-15.39,Due Date : 31-Dec-1998,1998-12-31,[],"Note:
+This order is shipped through blue dart courier","Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 547.54  EUR,547.54,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,INVOICE,TOTAL : 537.88 EUR,537.88,Template4_Instance96.json
+"BILL_TO:
+Rebecca Long
+08670 Patrick Views Suite 645
+Annamouth, HI 02481 US
+Tel:+(136)607-7516
+Email:tylerchristensen@example.com
+Site:http://murphy.com/",USD,Invoice Date: 01-Feb-2022,2022-02-01,DISCOUNT(2.62%): (-)  12.09,-12.09,Due Date : 31-Oct-2005,2005-10-31,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 461.27  $,461.27,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 455.59 $,455.59,Template4_Instance97.json
+"BILL_TO:
+Anne Howard
+695 Williams Crossing
+Baldwinchester, ND 47607 US
+Tel:+(800)477-6598
+Email:dortega@example.com
+Site:http://pena.org/",USD,Invoice Date: 01-Sep-2006,2006-09-01,DISCOUNT(2.15%): (-)  5.55,-5.55,Due Date : 12-Sep-2021,2021-09-12,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 258.12  USD,258.12,"[[{'bbox': [[31.0, 443.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 263.20 USD,263.2,Template4_Instance98.json
+"BILL_TO:
+Eugene Williams
+133 Young Via Suite 031
+Petersonchester, PR 18558 US
+Tel:+(572)654-9528
+Email:thomasnicholas@example.net
+Site:http://krueger.com/",USD,Invoice Date: 01-Sep-2006,2006-09-01,DISCOUNT(2.12%): (-)  15.72,-15.72,Due Date : 25-Dec-2012,2012-12-25,[],Thank you for your business!,"Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US",Huff-Bryan,"Port Lindsey, MP 98258 US",,,,Address:2180 Michael Ridges Apt. 385,"Address:2180 Michael Ridges Apt. 385 | Port Lindsey, MP 98258 US",,,SUB_TOTAL : 741.52  $,741.52,"[[{'bbox': [[31.0, 461.8898], [581.0, 389.8898]]}]]",,TAX INVOICE,TOTAL : 755.72 $,755.72,Template4_Instance99.json

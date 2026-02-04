@@ -1,0 +1,1680 @@
+BILL_TO,CURRENCY,DATE,DATE_NORM,DISCOUNT_AMOUNT,DUE_DATE,DUE_DATE_NORM,INVOICE_INFO,NOTE,NUMBER,PO_NUMBER,SELLER_NAME,SUB_TOTAL_AMOUNT,TABLE,TAX,TAX_AMOUNT,TITLE,TOTAL,TOTAL_AMOUNT,TOTAL_WORDS,_source_file
+"BILL_TO:
+Sarah Ross
+073 Ayers Street Apt. 371
+Lake James, MO 83191 US
+Tel:+(546)285-1820
+Email:matthew89@example.net
+Site:http://anderson.com/",USD,Date: 03-Mar-2002,2002-03-03,,Due Date : 20-Aug-2007,2007-08-20,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE ID INV16291505,PO Number :82,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.46%):  86.23 $,86.23,INVOICE,TOTAL : 1377.77 $,7.77,"Total in words:  one thousand, three hundred and-
+seventy-seven point seven seven",Template3_Instance0.json
+"BILL_TO:
+Jennifer Leblanc
+938 Gonzalez Courts Apt. 670
+Kelliville, MH 96325 US
+Tel:+(535)274-2993
+Email:pauljimenez@example.com
+Site:http://www.thomas-harris.info/",USD,Invoice Date: 06-Aug-2017,2017-08-06,,Due Date : 17-Sep-2021,2021-09-17,[],Thank you for choosing us!,INVOICE # 1Y7M4d-846,PO Number :16,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.43%):  18.60 USD,18.6,COMMERCIAL INVOICE,TOTAL : 350.43 USD,350.43,"Total in words:  three hundred and fi-
+fty point four three",Template3_Instance1.json
+"BILL_TO:
+Mr. John Gray
+013 Hayes Route Apt. 589
+Susanland, AR 17782 US
+Tel:+(151)966-0393
+Email:alexandersheila@example.org
+Site:http://www.lee-thompson.com/",EUR,Invoice Date: 25-Nov-2014,2014-11-25,,Due Date : 10-Jan-2013,2013-01-10,[],Note:Total payment due in 14 days.,Invoice number 5Y4M5d-345,PO Number :06,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.16%):  7.60 EUR,7.6,COMMERCIAL INVOICE,TOTAL : 126.98 EUR,126.98,"Total in words:  one hundred and twent-
+y-six point nine eight",Template3_Instance10.json
+"BILL_TO:
+Rachel Garza
+41913 Paul Drives
+Port Jonathanmouth, WV 07494 US
+Tel:+(640)086-2296
+Email:aaron98@example.com
+Site:https://smith.net/",USD,Date: 17-Jun-2009,2009-06-17,,Due Date : 19-Feb-1998,1998-02-19,[],"Note:
+This order is shipped through blue dart courier",INVOICE # INV/70-41/903,PO Number :44,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.22%):  11.99 USD,11.99,TAX INVOICE,TOTAL : 196.23 USD,196.23,"Total in words:  one hundred and ninet-
+y-six point two three",Template3_Instance100.json
+"BILL_TO:
+Kelly Snyder
+81132 Parsons Lodge
+Jamesfurt, MA 36804 US
+Tel:+(671)430-2079
+Email:jessicaboyer@example.net
+Site:http://lewis.info/",USD,Invoice Date: 10-Aug-1999,1999-08-10,,Due Date : 15-May-2006,2006-05-15,[],Note:Total payment due in 14 days.,INVOICE ID INV79204732,PO Number :08,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.85%):  77.71 $,77.71,COMMERCIAL INVOICE,TOTAL : 1155.97 $,5.97,"Total in words:  one thousand, one hundred an-
+d fifty-five point nine seven",Template3_Instance101.json
+"BILL_TO:
+Richard Fields
+53129 Kimberly Place Suite 394
+Gomezton, MN 21479 US
+Tel:+(849)775-7497
+Email:wadebenjamin@example.org
+Site:http://ross.com/",USD,Invoice Date: 03-Jun-2012,2012-06-03,,Due Date : 24-Dec-1995,1995-12-24,[],"Note:
+This order is shipped through blue dart courier",Invoice number 1099-670,PO Number :35,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.75%):  65.81 $,65.81,INVOICE,TOTAL : 1006.96 $,6.96,"Total in words:  one thousand and -
+six point nine six",Template3_Instance102.json
+"BILL_TO:
+Debbie Ramirez
+81810 Miller Key Apt. 462
+Kimberlyport, MP 99762 US
+Tel:+(759)455-2161
+Email:robertvaughn@example.com
+Site:https://brown-miller.com/",USD,Invoice Date: 03-Jan-2016,2016-01-03,,Due Date : 14-Mar-2005,2005-03-14,[],Thank you for choosing us!,INVOICE ID 7Y1M5d-285,PO Number :63,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.85%):  30.28 USD,30.28,INVOICE,TOTAL : 527.93 USD,527.93,"Total in words:  five hundred and twenty-
+-seven point nine three",Template3_Instance103.json
+"BILL_TO:
+Jonathon Robinson
+8371 Eric Turnpike
+Fosterton, FM 96947 US
+Tel:+(167)450-3820
+Email:williamsolivia@example.org
+Site:https://chapman.org/",EUR,Date: 18-May-2002,2002-05-18,,Due Date : 07-Feb-1998,1998-02-07,[],"Note:
+This order is shipped through blue dart courier",INVOICE ID 5Y1M7d-763,PO Number :61,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.92%):  37.77 EUR,37.77,INVOICE,TOTAL : 965.35 EUR,965.35,"Total in words:  nine hundred and sixty-
+-five point three five",Template3_Instance104.json
+"BILL_TO:
+Kristen Suarez
+985 May Rapids
+Solisfort, IA 68833 US
+Tel:+(033)133-6640
+Email:kellywilliam@example.org
+Site:https://cross-hicks.com/",USD,Date: 21-Mar-1995,1995-03-21,,Due Date : 05-May-2018,2018-05-05,[],Note:Total payment due in 14 days.,INVOICE ID 1Y3M8d-692,PO Number :28,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.39%):  31.13 USD,31.13,TAX INVOICE,TOTAL : 704.62 USD,704.62,"Total in words:  seven hundred and -
+four point six two",Template3_Instance105.json
+"BILL_TO:
+Elizabeth Horton MD
+216 Lee Locks Apt. 726
+North Wendy, VI 87852 US
+Tel:+(531)188-1874
+Email:john99@example.net
+Site:https://www.mccullough.net/",EUR,Invoice Date: 02-Aug-1996,1996-08-02,,Due Date : 20-Dec-1996,1996-12-20,[],Note:Total payment due in 14 days.,INVOICE # INV/82-56/794,PO Number :59,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.73%):  37.12 EUR,37.12,TAX INVOICE,TOTAL : 653.15 EUR,653.15,"Total in words:  six hundred and fifty-
+-three point one five",Template3_Instance106.json
+"BILL_TO:
+Tony Summers
+50202 Reyes Stream
+Taylorberg, AR 94800 US
+Tel:+(784)144-6472
+Email:connerchristopher@example.com
+Site:https://martinez-schaefer.info/",USD,Date: 07-Aug-1998,1998-08-07,,Due Date : 06-Apr-2015,2015-04-06,[],"Note:
+This order is shipped through blue dart courier",INVOICE # 8979-021,PO Number :89,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.21%):  41.34 USD,41.34,COMMERCIAL INVOICE,TOTAL : 682.56 USD,682.56,"Total in words:  six hundred and eigh-
+ty-two point five six",Template3_Instance107.json
+"BILL_TO:
+Albert Anderson
+8691 Whitney Rapids
+South Melindaside, ME 88779 US
+Tel:+(527)619-5909
+Email:kaitlynmcclain@example.net
+Site:https://www.robinson.biz/",USD,Invoice Date: 10-Apr-2001,2001-04-10,,Due Date : 27-Sep-1997,1997-09-27,[],Thank you for your business!,INVOICE # INV23831640,PO Number :66,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (7.00%):  49.56 $,49.56,COMMERCIAL INVOICE,TOTAL : 734.07 $,734.07,"Total in words:  seven hundred and thirt-
+y-four point zero seven",Template3_Instance108.json
+"BILL_TO:
+William Yoder
+7467 Jeanne Lodge
+New Carl, NH 52963 US
+Tel:+(017)746-0195
+Email:eserrano@example.org
+Site:https://martin-moore.com/",USD,Invoice Date: 20-Mar-2022,2022-03-20,,Due Date : 05-Dec-2000,2000-12-05,[],Thank you for your business!,INVOICE ID INV10376325,PO Number :71,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.84%):  50.88 USD,50.88,COMMERCIAL INVOICE,TOTAL : 782.76 USD,782.76,"Total in words:  seven hundred and eigh-
+ty-two point seven six",Template3_Instance109.json
+"BILL_TO:
+Sean Gomez
+1690 Jerry Green
+East Andreaside, IL 32993 US
+Tel:+(892)882-6723
+Email:katelyn62@example.net
+Site:https://wiggins-davis.com/",USD,Invoice Date: 08-Mar-2016,2016-03-08,,Due Date : 13-Jul-2022,2022-07-13,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE # 3Y8M6d-749,PO Number :39,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.07%):  24.44 USD,24.44,TAX INVOICE,TOTAL : 485.61 USD,485.61,"Total in words:  four hundred and eigh-
+ty-five point six one",Template3_Instance11.json
+"BILL_TO:
+Peter Lewis
+940 Leslie Tunnel
+Moralesmouth, CT 55149 US
+Tel:+(442)371-6829
+Email:shannoncollins@example.org
+Site:http://www.moore.com/",USD,Invoice Date: 07-Jul-2010,2010-07-07,,Due Date : 27-Sep-2016,2016-09-27,[],Thank you for your business!,Invoice number 5Y3M2d-246,PO Number :46,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.25%):  17.13 USD,17.13,TAX INVOICE,TOTAL : 277.64 USD,277.64,"Total in words:  two hundred and sevent-
+y-seven point six four",Template3_Instance110.json
+"BILL_TO:
+Emily Gardner
+2062 Jessica Parkways
+Lake Sarahchester, NY 50910 US
+Tel:+(951)524-2251
+Email:alejandra20@example.net
+Site:https://www.miller-acosta.com/",EUR,Invoice Date: 16-Sep-2008,2008-09-16,,Due Date : 15-May-2021,2021-05-15,[],Note:Total payment due in 14 days.,INVOICE ID INV20778807,PO Number :55,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.18%):  1.38 EUR,1.38,INVOICE,TOTAL : 33.58 EUR,33.58,"Total in words:  thirty-three p-
+oint five eight",Template3_Instance111.json
+"BILL_TO:
+Nichole Gill
+442 Poole Spring
+North Matthew, WI 58300 US
+Tel:+(926)248-9410
+Email:browncesar@example.com
+Site:http://www.james.com/",EUR,Date: 24-Aug-1998,1998-08-24,,Due Date : 30-Oct-2013,2013-10-30,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE # 2243-832,PO Number :61,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.96%):  17.17 EUR,17.17,INVOICE,TOTAL : 348.35 EUR,348.35,"Total in words:  three hundred and forty-
+-eight point three five",Template3_Instance112.json
+"BILL_TO:
+George Campbell
+033 Kelly Shoal Suite 318
+Port Ericfort, ND 45923 US
+Tel:+(813)032-3888
+Email:masonmiller@example.net
+Site:https://www.brown-smith.com/",USD,Date: 29-Jan-2019,2019-01-29,,Due Date : 09-Jun-2022,2022-06-09,[],Thank you for your business!,INVOICE # INV09933140,PO Number :26,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.28%):  14.71 $,14.71,TAX INVOICE,TOTAL : 280.45 $,280.45,"Total in words:  two hundred and eig-
+hty point four five",Template3_Instance113.json
+"BILL_TO:
+Christopher White
+537 Anna Stream Apt. 280
+West Debrastad, PR 28649 US
+Tel:+(913)647-2666
+Email:bakerlaura@example.net
+Site:https://www.cunningham.biz/",USD,Date: 13-Jul-2001,2001-07-13,,Due Date : 08-Sep-2020,2020-09-08,[],"Note:
+This order is shipped through blue dart courier",Invoice number INV/38-74/455,PO Number :03,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.79%):  55.45 USD,55.45,TAX INVOICE,TOTAL : 1179.52 USD,9.52,"Total in words:  one thousand, one hundred an-
+d seventy-nine point five two",Template3_Instance114.json
+"BILL_TO:
+Ryan Zimmerman
+4410 Jesus Stream
+Mitchellview, NH 43863 US
+Tel:+(803)187-8891
+Email:gavin62@example.net
+Site:https://www.berry.com/",EUR,Date: 24-Aug-2022,2022-08-24,,Due Date : 02-Apr-2007,2007-04-02,[],Note:Total payment due in 14 days.,INVOICE # INV/93-02/347,PO Number :90,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.98%):  33.88 EUR,33.88,TAX INVOICE,TOTAL : 574.99 EUR,574.99,"Total in words:  five hundred and seven-
+ty-four point nine nine",Template3_Instance115.json
+"BILL_TO:
+Katherine Gordon
+12799 Lopez Burgs Apt. 449
+Yuside, SD 35233 US
+Tel:+(008)734-6511
+Email:trevor54@example.org
+Site:http://le-lara.com/",EUR,Invoice Date: 24-Jun-2004,2004-06-24,,Due Date : 09-Jan-2023,2023-01-09,[],Thank you for your business!,INVOICE ID INV/19-44/244,PO Number :69,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.84%):  22.01 EUR,22.01,COMMERCIAL INVOICE,TOTAL : 569.61 EUR,569.61,"Total in words:  five hundred and six-
+ty-nine point six one",Template3_Instance116.json
+"BILL_TO:
+Adam Howard
+2940 Catherine Wall Suite 872
+East Aaronland, IN 99636 US
+Tel:+(251)417-4186
+Email:kristieluna@example.net
+Site:https://www.hendrix.com/",EUR,Invoice Date: 22-Sep-2018,2018-09-22,,Due Date : 17-Feb-2014,2014-02-17,[],"Note:
+This order is shipped through blue dart courier",Invoice number 2Y6M9d-658,PO Number :87,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.39%):  44.59 EUR,44.59,INVOICE,TOTAL : 1030.13 EUR,0.13,"Total in words:  one thousand and th-
+irty point one three",Template3_Instance117.json
+"BILL_TO:
+Daniel Lee
+3782 Lisa Plaza Apt. 990
+Lake Albert, OR 52264 US
+Tel:+(481)476-7775
+Email:muellerjacob@example.org
+Site:http://meza.com/",EUR,Invoice Date: 20-Jun-2021,2021-06-20,,Due Date : 11-Feb-2000,2000-02-11,[],"Note:
+This order is shipped through blue dart courier",INVOICE ID 6Y7M8d-027,PO Number :63,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.89%):  65.35 EUR,65.35,INVOICE,TOTAL : 973.25 EUR,973.25,"Total in words:  nine hundred and seven-
+ty-three point two five",Template3_Instance118.json
+"BILL_TO:
+Brad Humphrey
+12754 Emily Path
+Port Catherine, LA 72378 US
+Tel:+(638)814-7554
+Email:crystal35@example.net
+Site:https://green.info/",USD,Date: 08-Jul-2009,2009-07-08,,Due Date : 11-May-2009,2009-05-11,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE # INV/27-01/542,PO Number :24,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.52%):  63.83 $,63.83,TAX INVOICE,TOTAL : 1176.05 $,6.05,"Total in words:  one thousand, one hundred an-
+d seventy-six point zero five",Template3_Instance119.json
+"BILL_TO:
+Joseph Kennedy
+69526 Annette Tunnel
+New Jennifer, CA 04412 US
+Tel:+(362)490-9411
+Email:ynicholson@example.com
+Site:https://murray.net/",USD,Invoice Date: 20-Apr-2007,2007-04-20,,Due Date : 14-Jun-2011,2011-06-14,[],Note:Total payment due in 14 days.,INVOICE ID 7620-634,PO Number :14,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.97%):  23.69 $,23.69,TAX INVOICE,TOTAL : 489.97 $,489.97,"Total in words:  four hundred and eight-
+y-nine point nine seven",Template3_Instance12.json
+"BILL_TO:
+Darrell Burgess
+380 Anderson Rapid
+West Catherinestad, MT 27841 US
+Tel:+(258)623-2165
+Email:gracegilbert@example.net
+Site:http://www.johnson-fitzpatrick.biz/",USD,Date: 08-Aug-1996,1996-08-08,,Due Date : 30-Sep-2021,2021-09-30,[],Thank you for choosing us!,Invoice number 6Y8M4d-583,PO Number :21,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.25%):  5.88 $,5.88,COMMERCIAL INVOICE,TOTAL : 179.40 $,179.4,"Total in words:  one hundred and sev-
+enty-nine point four",Template3_Instance120.json
+"BILL_TO:
+Tara Barnes
+3732 Wright Ports
+Ashleyport, VT 08388 US
+Tel:+(936)717-9785
+Email:joshua03@example.com
+Site:https://hodges.com/",USD,Invoice Date: 01-Jun-2012,2012-06-01,,Due Date : 22-Mar-1998,1998-03-22,[],Thank you for your business!,INVOICE ID 2Y8M8d-056,PO Number :70,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.51%):  56.14 USD,56.14,INVOICE,TOTAL : 902.62 USD,902.62,"Total in words:  nine hundred and -
+two point six two",Template3_Instance121.json
+"BILL_TO:
+Dana Mills
+27019 Kelley Fields
+Mitchellview, DE 11665 US
+Tel:+(249)823-9384
+Email:rwilson@example.org
+Site:http://www.fox.com/",EUR,Invoice Date: 20-Aug-2009,2009-08-20,,Due Date : 29-Sep-1996,1996-09-29,[],Thank you for your business!,INVOICE # 5643-524,PO Number :14,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.92%):  40.94 EUR,40.94,COMMERCIAL INVOICE,TOTAL : 623.65 EUR,623.65,"Total in words:  six hundred and twent-
+y-three point six five",Template3_Instance122.json
+"BILL_TO:
+Patricia Henderson
+520 Vega Court
+Bullockstad, MA 53695 US
+Tel:+(485)861-2180
+Email:amandawu@example.com
+Site:https://www.martinez.net/",EUR,Date: 10-Jul-2020,2020-07-10,,Due Date : 13-Jan-2006,2006-01-13,[],Thank you for your business!,Invoice number INV/92-98/269,PO Number :80,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.83%):  27.52 EUR,27.52,COMMERCIAL INVOICE,TOTAL : 724.47 EUR,724.47,"Total in words:  seven hundred and twent-
+y-four point four seven",Template3_Instance123.json
+"BILL_TO:
+Christina Russell
+5127 Erickson Extensions
+Transide, MD 93840 US
+Tel:+(225)279-7953
+Email:walkersarah@example.com
+Site:http://www.johnson-strickland.com/",EUR,Invoice Date: 30-Nov-2005,2005-11-30,,Due Date : 12-Feb-2019,2019-02-12,[],Thank you for your business!,INVOICE # INV/79-28/285,PO Number :17,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.90%):  9.18 EUR,9.18,INVOICE,TOTAL : 194.19 EUR,194.19,"Total in words:  one hundred and ninet-
+y-four point one nine",Template3_Instance124.json
+"BILL_TO:
+David Jones
+758 Richard Dale
+Richardsonfort, VA 44477 US
+Tel:+(242)471-6780
+Email:fmahoney@example.org
+Site:https://smith.org/",USD,Invoice Date: 31-Aug-2018,2018-08-31,,Due Date : 22-May-2019,2019-05-22,[],Thank you for your business!,INVOICE ID 6Y4M4d-976,PO Number :52,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.24%):  9.43 USD,9.43,TAX INVOICE,TOTAL : 187.31 USD,187.31,"Total in words:  one hundred and eighty-
+-seven point three one",Template3_Instance125.json
+"BILL_TO:
+Thomas Hansen
+6255 James Pine Suite 381
+Kathleenchester, TX 47619 US
+Tel:+(165)119-8506
+Email:robert13@example.com
+Site:http://brown-carlson.com/",USD,Invoice Date: 06-Sep-2022,2022-09-06,,Due Date : 02-Aug-2010,2010-08-02,[],"Note:
+This order is shipped through blue dart courier",INVOICE ID INV/82-77/650,PO Number :02,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.66%):  84.47 $,84.47,TAX INVOICE,TOTAL : 1307.70 $,7.7,"Total in words:  one thousand, three hund-
+red and seven point seven",Template3_Instance126.json
+"BILL_TO:
+Elizabeth Krueger DDS
+85782 Kelly Tunnel Apt. 432
+East James, MD 83156 US
+Tel:+(689)129-1566
+Email:mccalldavid@example.org
+Site:http://www.lindsey.com/",USD,Date: 14-Sep-2005,2005-09-14,,Due Date : 22-Apr-2021,2021-04-22,[],Thank you for choosing us!,INVOICE # 7Y6M5d-415,PO Number :81,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.00%):  3.27 USD,3.27,INVOICE,TOTAL : 67.39 USD,67.39,"Total in words:  sixty-seven po-
+int three nine",Template3_Instance127.json
+"BILL_TO:
+Brandon Vaughn
+623 Russell Mission Suite 255
+South Erneststad, OR 13527 US
+Tel:+(696)758-4267
+Email:rossbonnie@example.com
+Site:https://payne.biz/",EUR,Date: 10-Jan-2008,2008-01-10,,Due Date : 25-Nov-2007,2007-11-25,[],Note:Total payment due in 14 days.,INVOICE # INV/99-67/303,PO Number :13,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.74%):  25.93 EUR,25.93,INVOICE,TOTAL : 553.45 EUR,553.45,"Total in words:  five hundred and fifty-
+-three point four five",Template3_Instance128.json
+"BILL_TO:
+Michael Best MD
+60779 Moon Lights
+Ryantown, GU 03439 US
+Tel:+(898)304-2520
+Email:lsmith@example.com
+Site:https://www.jones.com/",USD,Date: 06-Nov-2000,2000-11-06,,Due Date : 18-Mar-1994,1994-03-18,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE ID INV/89-25/792,PO Number :61,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.91%):  52.33 USD,52.33,TAX INVOICE,TOTAL : 798.89 USD,798.89,"Total in words:  seven hundred and ninet-
+y-eight point eight nine",Template3_Instance129.json
+"BILL_TO:
+Dominique Williams DDS
+264 Susan Hills Apt. 493
+Lisaland, NM 59280 US
+Tel:+(337)952-4338
+Email:rkline@example.com
+Site:http://smith.com/",USD,Date: 24-Feb-2008,2008-02-24,,Due Date : 18-Jul-2010,2010-07-18,[],Note:Total payment due in 14 days.,Invoice number 7Y5M6d-340,PO Number :67,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.43%):  24.15 $,24.15,INVOICE,TOTAL : 702.98 $,702.98,"Total in words:  seven hundred and t-
+wo point nine eight",Template3_Instance13.json
+"BILL_TO:
+Samantha Cole
+56405 Joshua Garden Apt. 147
+South Michelleburgh, VT 31405 US
+Tel:+(191)960-6051
+Email:danielspamela@example.org
+Site:http://www.ashley-castro.info/",USD,Invoice Date: 23-Jul-2021,2021-07-23,,Due Date : 13-Oct-2007,2007-10-13,[],Thank you for your business!,INVOICE ID 5157-660,PO Number :50,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.11%):  40.54 $,40.54,COMMERCIAL INVOICE,TOTAL : 681.34 $,681.34,"Total in words:  six hundred and eight-
+y-one point three four",Template3_Instance130.json
+"BILL_TO:
+Gary Dixon
+3864 Jordan Mission Suite 164
+Kennethport, ND 97057 US
+Tel:+(752)940-0858
+Email:ichavez@example.org
+Site:https://www.calderon.com/",USD,Invoice Date: 04-Sep-2006,2006-09-04,,Due Date : 21-Mar-2001,2001-03-21,[],Thank you for choosing us!,INVOICE ID INV/11-57/843,PO Number :20,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.19%):  42.02 USD,42.02,TAX INVOICE,TOTAL : 834.98 USD,834.98,"Total in words:  eight hundred and thirt-
+y-four point nine eight",Template3_Instance131.json
+"BILL_TO:
+Steven Wise
+77455 Davidson Station
+Hooverview, ID 11393 US
+Tel:+(727)921-8640
+Email:kcross@example.net
+Site:https://nelson-gonzalez.org/",EUR,Date: 06-Jul-1998,1998-07-06,,Due Date : 25-Aug-2000,2000-08-25,[],Thank you for your business!,INVOICE # 8Y6M2d-347,PO Number :31,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.58%):  15.16 EUR,15.16,COMMERCIAL INVOICE,TOTAL : 280.61 EUR,280.61,"Total in words:  two hundred and ei-
+ghty point six one",Template3_Instance132.json
+"BILL_TO:
+Courtney Davis
+126 Baker Causeway
+Stevenborough, FL 64812 US
+Tel:+(078)697-4032
+Email:tammy90@example.net
+Site:http://www.bush.biz/",USD,Date: 14-Oct-2008,2008-10-14,,Due Date : 25-Mar-2022,2022-03-25,[],Thank you for your business!,INVOICE ID INV29176771,PO Number :24,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.79%):  12.56 $,12.56,COMMERCIAL INVOICE,TOTAL : 270.88 $,270.88,"Total in words:  two hundred and seve-
+nty point eight eight",Template3_Instance133.json
+"BILL_TO:
+Terri Jones
+34369 Erica Inlet Suite 187
+Cartermouth, SD 03138 US
+Tel:+(087)143-6116
+Email:preston05@example.com
+Site:https://williams.com/",EUR,Date: 19-Jun-2005,2005-06-19,,Due Date : 07-Mar-2013,2013-03-07,[],"Note:
+This order is shipped through blue dart courier",INVOICE # 1322-411,PO Number :35,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.72%):  24.86 EUR,24.86,INVOICE,TOTAL : 383.23 EUR,383.23,"Total in words:  three hundred and eight-
+y-three point two three",Template3_Instance134.json
+"BILL_TO:
+Jacob Miller
+98956 Bell Route
+South Kathleen, ID 03831 US
+Tel:+(231)419-7246
+Email:dawnpaul@example.org
+Site:http://www.wang.com/",USD,Invoice Date: 17-Dec-2001,2001-12-17,,Due Date : 20-Jul-2021,2021-07-20,[],Thank you for choosing us!,INVOICE ID 5536-962,PO Number :52,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.59%):  48.20 USD,48.2,TAX INVOICE,TOTAL : 1085.05 USD,5.05,"Total in words:  one thousand and eight-
+y-five point zero five",Template3_Instance135.json
+"BILL_TO:
+Joseph Gibbs
+669 Murillo Roads
+Lake Lori, MH 30338 US
+Tel:+(281)728-7817
+Email:smithamy@example.com
+Site:http://holmes.net/",USD,Invoice Date: 25-May-2000,2000-05-25,,Due Date : 07-Jan-2006,2006-01-07,[],Note:Total payment due in 14 days.,Invoice number 0545-920,PO Number :42,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.29%):  56.69 USD,56.69,TAX INVOICE,TOTAL : 914.71 USD,914.71,"Total in words:  nine hundred and fou-
+rteen point seven one",Template3_Instance136.json
+"BILL_TO:
+Mary Winters
+903 Jose Court Suite 741
+Thompsontown, AR 55049 US
+Tel:+(876)299-2636
+Email:sherri77@example.com
+Site:http://burke.biz/",USD,Date: 02-Aug-2000,2000-08-02,,Due Date : 05-Sep-2015,2015-09-05,[],"Note:
+This order is shipped through blue dart courier",INVOICE # INV/18-85/250,PO Number :31,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.63%):  40.37 USD,40.37,INVOICE,TOTAL : 624.04 USD,624.04,"Total in words:  six hundred and twent-
+y-four point zero four",Template3_Instance137.json
+"BILL_TO:
+Amanda Ross
+2432 Conley Mountains Apt. 464
+Brianchester, CT 09821 US
+Tel:+(074)168-0199
+Email:raymondphillips@example.org
+Site:https://davidson.com/",EUR,Invoice Date: 17-Oct-1997,1997-10-17,,Due Date : 11-Jan-2006,2006-01-11,[],"Note:
+This order is shipped through blue dart courier",INVOICE ID 9Y7M4d-272,PO Number :99,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.58%):  23.72 EUR,23.72,TAX INVOICE,TOTAL : 668.43 EUR,668.43,"Total in words:  six hundred and sixty--
+eight point four three",Template3_Instance138.json
+"BILL_TO:
+Scott Byrd
+5422 Melanie Springs Suite 507
+Perezton, VT 33998 US
+Tel:+(488)012-5489
+Email:natalie35@example.com
+Site:https://www.preston-brown.info/",EUR,Invoice Date: 31-Jan-2019,2019-01-31,,Due Date : 29-Nov-2005,2005-11-29,[],Note:Total payment due in 14 days.,INVOICE ID INV62482331,PO Number :95,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.74%):  77.15 EUR,77.15,COMMERCIAL INVOICE,TOTAL : 1369.47 EUR,9.47,"Total in words:  one thousand, three hundred a-
+nd sixty-nine point four seven",Template3_Instance139.json
+"BILL_TO:
+Laura Mendez
+13996 Leslie Rapids Apt. 053
+North Amy, NJ 11749 US
+Tel:+(998)182-5768
+Email:codycampbell@example.com
+Site:https://wade.org/",USD,Date: 20-May-2001,2001-05-20,,Due Date : 30-Oct-1999,1999-10-30,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE # INV/23-91/204,PO Number :98,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.73%):  17.43 USD,17.43,COMMERCIAL INVOICE,TOTAL : 265.39 USD,265.39,"Total in words:  two hundred and sixty-
+-five point three nine",Template3_Instance14.json
+"BILL_TO:
+Jeffrey Bailey
+1520 Grant Inlet
+Danielletown, RI 98370 US
+Tel:+(251)540-5369
+Email:mariacrane@example.com
+Site:https://www.lane.net/",USD,Date: 24-Dec-2004,2004-12-24,,Due Date : 20-Jan-1994,1994-01-20,[],Thank you for your business!,Invoice number 9901-505,PO Number :89,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.75%):  37.17 $,37.17,COMMERCIAL INVOICE,TOTAL : 579.55 $,579.55,"Total in words:  five hundred and seven-
+ty-nine point five five",Template3_Instance140.json
+"BILL_TO:
+Debbie Lee
+1259 Brandi Groves Suite 797
+North Kellyport, FM 55129 US
+Tel:+(401)659-3453
+Email:patrick29@example.net
+Site:http://cole.net/",EUR,Invoice Date: 23-Jul-2007,2007-07-23,,Due Date : 17-Feb-2005,2005-02-17,[],"Note:
+This order is shipped through blue dart courier",INVOICE # 0275-933,PO Number :42,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.02%):  12.73 EUR,12.73,COMMERCIAL INVOICE,TOTAL : 428.20 EUR,428.2,"Total in words:  four hundred and tw-
+enty-eight point two",Template3_Instance141.json
+"BILL_TO:
+Matthew Lyons
+5176 Richard Corner
+Holtbury, MD 64880 US
+Tel:+(759)372-5079
+Email:umiller@example.net
+Site:https://www.anderson.com/",USD,Date: 10-Oct-2013,2013-10-10,,Due Date : 18-Mar-2003,2003-03-18,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE # 6835-194,PO Number :64,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.10%):  8.03 USD,8.03,TAX INVOICE,TOTAL : 255.17 USD,255.17,"Total in words:  two hundred and fifty-
+-five point one seven",Template3_Instance142.json
+"BILL_TO:
+Joanne Fletcher
+45319 Brent Knoll Apt. 178
+Jacksonville, FM 30089 US
+Tel:+(312)318-3848
+Email:landrycarlos@example.org
+Site:https://joyce.com/",USD,Date: 12-Sep-2017,2017-09-12,,Due Date : 21-Jun-1997,1997-06-21,[],Thank you for choosing us!,Invoice number 9Y4M7d-302,PO Number :51,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.89%):  22.76 USD,22.76,COMMERCIAL INVOICE,TOTAL : 593.10 USD,593.1,"Total in words:  five hundred and ni-
+nety-three point one",Template3_Instance143.json
+"BILL_TO:
+Susan Thomas
+42141 Jordan Springs
+Rachelstad, PA 21768 US
+Tel:+(232)371-6283
+Email:hannah65@example.com
+Site:https://patterson-smith.com/",EUR,Invoice Date: 26-May-2001,2001-05-26,,Due Date : 05-Jul-2021,2021-07-05,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE # 7Y1M7d-813,PO Number :18,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.37%):  14.03 EUR,14.03,TAX INVOICE,TOTAL : 329.61 EUR,329.61,"Total in words:  three hundred and twe-
+nty-nine point six one",Template3_Instance144.json
+"BILL_TO:
+John Mays
+4039 Charles Bypass Suite 936
+South Jesse, NH 91279 US
+Tel:+(964)424-1395
+Email:campbellkristin@example.org
+Site:http://bradley.com/",USD,Invoice Date: 17-May-2016,2016-05-17,,Due Date : 24-Jan-2002,2002-01-24,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE # 5Y5M3d-947,PO Number :97,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.85%):  78.57 USD,78.57,TAX INVOICE,TOTAL : 1200.33 USD,0.33,"Total in words:  one thousand, two hun-
+dred point three three",Template3_Instance145.json
+"BILL_TO:
+Sara Chandler
+3238 Banks Stravenue Suite 183
+East Catherine, NE 17999 US
+Tel:+(790)089-5378
+Email:alexanderjohn@example.org
+Site:https://davis.com/",USD,Date: 25-Dec-2000,2000-12-25,,Due Date : 21-Jan-2004,2004-01-21,[],Note:Total payment due in 14 days.,Invoice number INV25680421,PO Number :71,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.00%):  58.61 $,58.61,COMMERCIAL INVOICE,TOTAL : 1003.00 $,3.0,"Total in words:  one thousan-
+d and three",Template3_Instance146.json
+"BILL_TO:
+James Gibson
+86859 Jones Rue
+Elijahmouth, OR 26291 US
+Tel:+(938)915-3063
+Email:mwaters@example.org
+Site:http://www.carr-warren.com/",USD,Date: 07-Oct-2021,2021-10-07,,Due Date : 17-Aug-2022,2022-08-17,[],Thank you for choosing us!,INVOICE # 6Y7M1d-126,PO Number :94,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.15%):  24.76 $,24.76,COMMERCIAL INVOICE,TOTAL : 609.46 $,609.46,"Total in words:  six hundred and n-
+ine point four six",Template3_Instance147.json
+"BILL_TO:
+Victoria Cooper
+78463 Jessica Via Suite 533
+Edwardfort, PR 21787 US
+Tel:+(611)708-8318
+Email:alvarezgina@example.org
+Site:http://www.butler-tyler.com/",USD,Date: 24-Jan-1995,1995-01-24,,Due Date : 31-Mar-2002,2002-03-31,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE # 2Y7M9d-521,PO Number :02,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.88%):  37.76 USD,37.76,INVOICE,TOTAL : 774.42 USD,774.42,"Total in words:  seven hundred and seve-
+nty-four point four two",Template3_Instance148.json
+"BILL_TO:
+Amanda Snow
+870 Charles Mount
+Lake Annebury, KY 77091 US
+Tel:+(816)522-4532
+Email:david99@example.net
+Site:https://garcia.com/",USD,Date: 01-Sep-2018,2018-09-01,,Due Date : 31-Jan-2022,2022-01-31,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE ID INV/27-74/488,PO Number :47,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.85%):  31.98 $,31.98,COMMERCIAL INVOICE,TOTAL : 478.74 $,478.74,"Total in words:  four hundred and sevent-
+y-eight point seven four",Template3_Instance149.json
+"BILL_TO:
+Ryan Gates
+566 Reginald Inlet Suite 746
+Lake Michael, WY 95694 US
+Tel:+(686)107-8962
+Email:marc66@example.net
+Site:https://cooper-cooper.com/",USD,Date: 16-Feb-2009,2009-02-16,,Due Date : 30-Oct-2009,2009-10-30,[],Thank you for your business!,INVOICE ID INV60345116,PO Number :60,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.93%):  32.74 USD,32.74,TAX INVOICE,TOTAL : 675.56 USD,675.56,"Total in words:  six hundred and seven-
+ty-five point five six",Template3_Instance15.json
+"BILL_TO:
+Margaret Christian
+919 Jeffrey Burgs Suite 568
+East Thomashaven, MT 51917 US
+Tel:+(148)326-0726
+Email:olittle@example.net
+Site:https://rice.com/",USD,Invoice Date: 17-Aug-1999,1999-08-17,,Due Date : 16-Jan-2017,2017-01-16,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",Invoice number 2Y5M4d-448,PO Number :02,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.21%):  19.95 USD,19.95,INVOICE,TOTAL : 385.98 USD,385.98,"Total in words:  three hundred and eight-
+y-five point nine eight",Template3_Instance150.json
+"BILL_TO:
+Lance Anderson
+462 Jacob Dale Apt. 622
+North Susanton, WV 82021 US
+Tel:+(202)700-7015
+Email:valenzuelanicholas@example.com
+Site:https://www.miranda.com/",USD,Date: 05-Apr-2004,2004-04-05,,Due Date : 23-Jan-1996,1996-01-23,[],Note:Total payment due in 14 days.,INVOICE # INV61998659,PO Number :99,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.51%):  27.78 USD,27.78,COMMERCIAL INVOICE,TOTAL : 799.93 USD,799.93,"Total in words:  seven hundred and ninet-
+y-nine point nine three",Template3_Instance151.json
+"BILL_TO:
+Victor Nguyen
+86614 Martin Road
+Judyview, CA 67741 US
+Tel:+(362)582-3775
+Email:lanelarry@example.com
+Site:https://wright.com/",USD,Date: 31-Oct-2002,2002-10-31,,Due Date : 18-Nov-2010,2010-11-18,[],Note:Total payment due in 14 days.,Invoice number 5Y1M9d-474,PO Number :76,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.83%):  17.14 $,17.14,COMMERCIAL INVOICE,TOTAL : 357.41 $,357.41,"Total in words:  three hundred and fift-
+y-seven point four one",Template3_Instance152.json
+"BILL_TO:
+Allison Marsh
+505 Meagan Shore Apt. 622
+Ronaldshire, MH 79677 US
+Tel:+(179)978-9335
+Email:susanduncan@example.net
+Site:https://www.miller-collins.biz/",USD,Date: 01-Oct-2015,2015-10-01,,Due Date : 30-Jun-1998,1998-06-30,[],Thank you for your business!,INVOICE ID INV86937928,PO Number :19,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.29%):  64.48 $,64.48,COMMERCIAL INVOICE,TOTAL : 1059.89 $,9.89,"Total in words:  one thousand and fifty-
+-nine point eight nine",Template3_Instance153.json
+"BILL_TO:
+Marc Williams
+80471 Smith Radial Apt. 953
+Dominguezhaven, MH 10433 US
+Tel:+(994)823-0790
+Email:mia72@example.org
+Site:https://lee-cooper.biz/",USD,Invoice Date: 23-Jan-2013,2013-01-23,,Due Date : 16-Nov-2006,2006-11-16,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE # 4778-038,PO Number :50,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.73%):  32.31 USD,32.31,INVOICE,TOTAL : 576.02 USD,576.02,"Total in words:  five hundred and seve-
+nty-six point zero two",Template3_Instance154.json
+"BILL_TO:
+John Castro
+98713 Frank Passage Suite 384
+Mariahville, KY 29665 US
+Tel:+(794)302-4595
+Email:delgadoamy@example.com
+Site:https://lindsey-moore.com/",EUR,Invoice Date: 03-May-1995,1995-05-03,,Due Date : 11-Oct-2014,2014-10-11,[],Note:Total payment due in 14 days.,INVOICE ID 4152-939,PO Number :41,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.16%):  37.20 EUR,37.2,INVOICE,TOTAL : 620.10 EUR,620.1,"Total in words:  six hundred and -
+twenty point one",Template3_Instance155.json
+"BILL_TO:
+Gary Cross
+5528 Vickie Fords
+South Heatherside, NH 42370 US
+Tel:+(461)645-3690
+Email:nancy42@example.com
+Site:https://lutz-payne.biz/",EUR,Date: 26-Feb-2003,2003-02-26,,Due Date : 10-Feb-2005,2005-02-10,[],"Note:
+This order is shipped through blue dart courier",INVOICE ID INV58139260,PO Number :42,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.84%):  37.06 EUR,37.06,COMMERCIAL INVOICE,TOTAL : 656.69 EUR,656.69,"Total in words:  six hundred and fift-
+y-six point six nine",Template3_Instance156.json
+"BILL_TO:
+Tammy Porter MD
+8573 Christian Fords Suite 844
+Whitebury, IL 60768 US
+Tel:+(142)238-4026
+Email:amandajohnson@example.net
+Site:https://www.campos.com/",USD,Date: 29-Jan-2017,2017-01-29,,Due Date : 24-Mar-2004,2004-03-24,[],Note:Total payment due in 14 days.,Invoice number 1972-854,PO Number :68,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.30%):  17.89 $,17.89,COMMERCIAL INVOICE,TOTAL : 553.89 $,553.89,"Total in words:  five hundred and fifty-
+-three point eight nine",Template3_Instance157.json
+"BILL_TO:
+Joshua Taylor
+410 Michael Hill Suite 691
+Bergerbury, SC 13688 US
+Tel:+(334)189-8310
+Email:hmiller@example.net
+Site:https://www.bridges.com/",EUR,Invoice Date: 28-Jul-2016,2016-07-28,,Due Date : 30-May-2007,2007-05-30,[],Thank you for your business!,INVOICE # 1870-782,PO Number :14,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.52%):  17.79 EUR,17.79,INVOICE,TOTAL : 335.02 EUR,335.02,"Total in words:  three hundred and thir-
+ty-five point zero two",Template3_Instance158.json
+"BILL_TO:
+Michael May
+29266 Sherry Row
+Amandaport, TN 31298 US
+Tel:+(838)341-8566
+Email:eproctor@example.net
+Site:https://rodriguez-carson.org/",EUR,Date: 12-Jan-2002,2002-01-12,,Due Date : 01-Jun-1999,1999-06-01,[],Thank you for your business!,INVOICE ID INV/86-32/847,PO Number :97,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.74%):  26.93 EUR,26.93,TAX INVOICE,TOTAL : 712.93 EUR,712.93,"Total in words:  seven hundred and tw-
+elve point nine three",Template3_Instance159.json
+"BILL_TO:
+Drew Lewis
+68896 Baker Fords Suite 385
+South Arthur, FM 00701 US
+Tel:+(767)306-1540
+Email:pfields@example.net
+Site:http://smith.org/",EUR,Invoice Date: 11-May-2022,2022-05-11,,Due Date : 14-Jun-2009,2009-06-14,[],Note:Total payment due in 14 days.,Invoice number INV/29-51/327,PO Number :06,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.49%):  21.16 EUR,21.16,TAX INVOICE,TOTAL : 331.70 EUR,331.7,"Total in words:  three hundred and th-
+irty-one point seven",Template3_Instance16.json
+"BILL_TO:
+Shannon Lamb
+39215 Rachel Ranch Apt. 305
+Robertstad, NJ 75737 US
+Tel:+(007)449-6323
+Email:manuelpierce@example.org
+Site:http://moreno.com/",USD,Date: 18-Jan-2020,2020-01-18,,Due Date : 07-Jan-2013,2013-01-07,[],Note:Total payment due in 14 days.,Invoice number INV/77-77/399,PO Number :37,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.76%):  26.29 $,26.29,TAX INVOICE,TOTAL : 709.51 $,709.51,"Total in words:  seven hundred and -
+nine point five one",Template3_Instance160.json
+"BILL_TO:
+Carla Rodriguez
+36569 Rosario Crest Suite 071
+South Michael, MS 91048 US
+Tel:+(174)497-1772
+Email:shannon81@example.net
+Site:http://porter-marshall.com/",EUR,Invoice Date: 10-Jan-2002,2002-01-10,,Due Date : 22-Nov-1993,1993-11-22,[],Note:Total payment due in 14 days.,Invoice number INV78326551,PO Number :80,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.66%):  20.03 EUR,20.03,TAX INVOICE,TOTAL : 361.26 EUR,361.26,"Total in words:  three hundred and si-
+xty-one point two six",Template3_Instance161.json
+"BILL_TO:
+Todd Guzman DDS
+5245 Jennifer Point Suite 224
+West Barbaratown, IL 33434 US
+Tel:+(137)492-0604
+Email:rachellong@example.org
+Site:https://proctor-bell.info/",USD,Date: 03-Sep-2004,2004-09-03,,Due Date : 17-Sep-2021,2021-09-17,[],"Note:
+This order is shipped through blue dart courier",INVOICE ID 2Y9M9d-708,PO Number :56,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.67%):  37.72 $,37.72,TAX INVOICE,TOTAL : 589.62 $,589.62,"Total in words:  five hundred and eigh-
+ty-nine point six two",Template3_Instance162.json
+"BILL_TO:
+Matthew Cooper
+097 Rivera Port Suite 314
+Port Lisaland, MI 05698 US
+Tel:+(750)131-9761
+Email:ryan13@example.net
+Site:https://keith.com/",USD,Invoice Date: 08-Jan-2021,2021-01-08,,Due Date : 04-Sep-1998,1998-09-04,[],Thank you for choosing us!,Invoice number 9139-904,PO Number :55,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.06%):  42.16 $,42.16,COMMERCIAL INVOICE,TOTAL : 712.61 $,712.61,"Total in words:  seven hundred and t-
+welve point six one",Template3_Instance163.json
+"BILL_TO:
+Christopher Pena
+56095 Shannon Stream
+Gregoryfort, IN 27120 US
+Tel:+(500)814-0349
+Email:jasoncox@example.com
+Site:https://www.johnson-ryan.com/",USD,Invoice Date: 12-Feb-1996,1996-02-12,,Due Date : 12-Oct-2018,2018-10-12,[],"Note:
+This order is shipped through blue dart courier",INVOICE # 2Y1M8d-133,PO Number :60,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.38%):  16.54 $,16.54,TAX INVOICE,TOTAL : 377.91 $,377.91,"Total in words:  three hundred and seven-
+ty-seven point nine one",Template3_Instance164.json
+"BILL_TO:
+Jimmy Schmidt
+76448 Ray Turnpike
+North Sarahland, ME 84071 US
+Tel:+(480)506-9308
+Email:alvaradokim@example.net
+Site:https://vargas.com/",USD,Invoice Date: 10-Mar-2021,2021-03-10,,Due Date : 05-Aug-2004,2004-08-05,[],Thank you for choosing us!,INVOICE ID 7144-902,PO Number :76,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.43%):  12.75 USD,12.75,INVOICE,TOTAL : 204.78 USD,204.78,"Total in words:  two hundred and fou-
+r point seven eight",Template3_Instance165.json
+"BILL_TO:
+Laurie Sanchez
+25521 Jennifer Skyway Apt. 655
+Daniellemouth, WY 90737 US
+Tel:+(571)286-1445
+Email:shawn21@example.com
+Site:http://middleton.com/",USD,Date: 26-Apr-2008,2008-04-26,,Due Date : 23-Feb-2019,2019-02-23,[],Note:Total payment due in 14 days.,INVOICE # 2162-018,PO Number :99,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.20%):  9.77 USD,9.77,INVOICE,TOTAL : 190.36 USD,190.36,"Total in words:  one hundred and nin-
+ety point three six",Template3_Instance166.json
+"BILL_TO:
+Deborah Wyatt
+391 Phillips Turnpike
+South Danny, AL 83500 US
+Tel:+(928)451-1141
+Email:ajenkins@example.org
+Site:http://diaz-johnson.com/",EUR,Date: 03-Mar-1996,1996-03-03,,Due Date : 07-Mar-2014,2014-03-07,[],Thank you for choosing us!,INVOICE ID 6Y9M8d-936,PO Number :00,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.95%):  70.06 EUR,70.06,TAX INVOICE,TOTAL : 1055.25 EUR,5.25,"Total in words:  one thousand and fift-
+y-five point two five",Template3_Instance167.json
+"BILL_TO:
+Christopher Perez
+782 Kim Burgs Suite 940
+Josephton, PR 41166 US
+Tel:+(601)467-2052
+Email:allenmarilyn@example.com
+Site:https://www.barrett.com/",USD,Date: 30-Jan-1996,1996-01-30,,Due Date : 02-Jan-1999,1999-01-02,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE # INV41898186,PO Number :35,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.42%):  14.44 USD,14.44,INVOICE,TOTAL : 275.59 USD,275.59,"Total in words:  two hundred and sevent-
+y-five point five nine",Template3_Instance168.json
+"BILL_TO:
+Nathaniel York
+4832 Sarah Dale Apt. 094
+Carrollmouth, NV 23157 US
+Tel:+(507)968-4071
+Email:matthewhorton@example.org
+Site:https://fowler.com/",USD,Invoice Date: 19-Aug-2011,2011-08-19,,Due Date : 07-Mar-2003,2003-03-07,[],Thank you for choosing us!,INVOICE ID 9804-083,PO Number :92,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.44%):  15.52 $,15.52,TAX INVOICE,TOTAL : 457.52 $,457.52,"Total in words:  four hundred and fift-
+y-seven point five two",Template3_Instance169.json
+"BILL_TO:
+Thomas Powers
+3230 Eric Pike Suite 226
+North Elizabeth, FL 66387 US
+Tel:+(073)109-2858
+Email:smithpeter@example.net
+Site:http://lewis-evans.com/",USD,Invoice Date: 01-Jan-2013,2013-01-01,,Due Date : 24-Feb-2022,2022-02-24,[],Thank you for your business!,Invoice number 6Y2M2d-380,PO Number :38,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.28%):  7.98 USD,7.98,COMMERCIAL INVOICE,TOTAL : 129.38 USD,129.38,"Total in words:  one hundred and twenty-
+-nine point three eight",Template3_Instance17.json
+"BILL_TO:
+Jennifer Erickson
+01257 Timothy Trail Apt. 918
+Andrewsfort, CO 10104 US
+Tel:+(933)618-7105
+Email:chrishernandez@example.org
+Site:https://jackson.info/",EUR,Date: 04-Nov-2006,2006-11-04,,Due Date : 20-Dec-2004,2004-12-20,[],Thank you for your business!,INVOICE # 8Y7M1d-707,PO Number :07,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.26%):  40.12 EUR,40.12,COMMERCIAL INVOICE,TOTAL : 945.21 EUR,945.21,"Total in words:  nine hundred and for-
+ty-five point two one",Template3_Instance170.json
+"BILL_TO:
+Steven Phillips
+24469 Tanya Bypass Apt. 182
+Nicholasshire, CO 75361 US
+Tel:+(391)618-6604
+Email:joegaines@example.net
+Site:http://www.davidson.com/",USD,Invoice Date: 23-Jul-2007,2007-07-23,,Due Date : 13-Jun-2022,2022-06-13,[],Thank you for choosing us!,Invoice number 4Y1M6d-954,PO Number :59,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.98%):  29.39 USD,29.39,TAX INVOICE,TOTAL : 611.62 USD,611.62,"Total in words:  six hundred and el-
+even point six two",Template3_Instance171.json
+"BILL_TO:
+Dennis Estrada
+6820 Griffith Oval
+Port Loretta, NY 28420 US
+Tel:+(427)139-7680
+Email:dgarner@example.org
+Site:https://harris-bauer.org/",USD,Date: 02-Nov-2021,2021-11-02,,Due Date : 12-Feb-1996,1996-02-12,[],Thank you for choosing us!,Invoice number INV/59-18/514,PO Number :73,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.47%):  15.39 $,15.39,COMMERCIAL INVOICE,TOTAL : 440.93 $,440.93,"Total in words:  four hundred and fo-
+rty point nine three",Template3_Instance172.json
+"BILL_TO:
+Danielle Doyle
+2511 Strong Parkway
+New Wesleyfurt, ID 80709 US
+Tel:+(295)162-2746
+Email:calhounnathan@example.org
+Site:https://www.farley.biz/",USD,Invoice Date: 28-Mar-1993,1993-03-28,,Due Date : 26-Jun-2011,2011-06-26,[],"Note:
+This order is shipped through blue dart courier",INVOICE # INV/64-28/189,PO Number :43,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.74%):  30.40 USD,30.4,TAX INVOICE,TOTAL : 661.00 USD,661.0,"Total in words:  six hundred -
+and sixty-one",Template3_Instance173.json
+"BILL_TO:
+George Sanchez
+456 Nichols Locks Suite 716
+Justinberg, CO 08664 US
+Tel:+(326)876-9919
+Email:amata@example.com
+Site:http://www.nicholson.biz/",EUR,Invoice Date: 17-May-2009,2009-05-17,,Due Date : 13-Jan-2003,2003-01-13,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE # 7Y9M6d-090,PO Number :38,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.05%):  41.13 EUR,41.13,TAX INVOICE,TOTAL : 1040.22 EUR,0.22,"Total in words:  one thousand and f-
+orty point two two",Template3_Instance174.json
+"BILL_TO:
+John Gray
+22755 Johnson Knolls
+New Christinaport, WY 12500 US
+Tel:+(711)280-5515
+Email:imiller@example.org
+Site:https://chase.net/",USD,Invoice Date: 06-Jun-2013,2013-06-06,,Due Date : 04-Oct-2008,2008-10-04,[],"Note:
+This order is shipped through blue dart courier",INVOICE ID INV/80-94/770,PO Number :72,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.00%):  24.20 $,24.2,COMMERCIAL INVOICE,TOTAL : 602.70 $,602.7,"Total in words:  six hundred and-
+two point seven",Template3_Instance175.json
+"BILL_TO:
+Michelle Stewart
+9172 Jennifer Freeway
+West Dustinton, CO 17929 US
+Tel:+(100)507-8359
+Email:granteric@example.com
+Site:https://www.williamson.info/",USD,Date: 12-Jul-1999,1999-07-12,,Due Date : 25-Oct-2022,2022-10-25,[],Note:Total payment due in 14 days.,Invoice number 5398-828,PO Number :35,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.74%):  47.12 $,47.12,COMMERCIAL INVOICE,TOTAL : 832.93 $,832.93,"Total in words:  eight hundred and thir-
+ty-two point nine three",Template3_Instance176.json
+"BILL_TO:
+Margaret Rodriguez
+81936 Watson Falls Apt. 111
+Brandonmouth, OR 50890 US
+Tel:+(603)358-9121
+Email:bgarrison@example.com
+Site:https://www.walker-harris.info/",EUR,Invoice Date: 09-Feb-2006,2006-02-09,,Due Date : 18-Aug-2012,2012-08-18,[],Thank you for choosing us!,Invoice number INV23148731,PO Number :66,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.82%):  37.37 EUR,37.37,COMMERCIAL INVOICE,TOTAL : 990.89 EUR,990.89,"Total in words:  nine hundred and nin-
+ety point eight nine",Template3_Instance177.json
+"BILL_TO:
+Shannon Buck
+2954 Brown Lights
+Hollandbury, ME 42543 US
+Tel:+(184)618-2025
+Email:zpadilla@example.org
+Site:http://ruiz-patrick.net/",USD,Invoice Date: 12-May-1999,1999-05-12,,Due Date : 19-Sep-2022,2022-09-19,[],Note:Total payment due in 14 days.,Invoice number 6Y5M9d-941,PO Number :09,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.15%):  19.09 USD,19.09,INVOICE,TOTAL : 608.85 USD,608.85,"Total in words:  six hundred and eig-
+ht point eight five",Template3_Instance178.json
+"BILL_TO:
+Steven Smith
+0817 Salas Neck Suite 308
+South Rebeccahaven, VT 46351 US
+Tel:+(516)626-8971
+Email:pruittmadison@example.org
+Site:https://www.walton-graham.info/",USD,Invoice Date: 05-Dec-2021,2021-12-05,,Due Date : 20-May-1995,1995-05-20,[],Thank you for choosing us!,INVOICE # 4596-347,PO Number :79,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.92%):  28.76 $,28.76,INVOICE,TOTAL : 440.23 $,440.23,"Total in words:  four hundred and fo-
+rty point two three",Template3_Instance179.json
+"BILL_TO:
+Thomas Duke
+17576 Timothy Islands
+Johnstad, MN 71551 US
+Tel:+(994)766-6028
+Email:rbrock@example.org
+Site:http://www.lewis-velasquez.org/",USD,Invoice Date: 03-Nov-2021,2021-11-03,,Due Date : 26-Jan-1994,1994-01-26,[],"Note:
+This order is shipped through blue dart courier",Invoice number 9381-379,PO Number :20,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.90%):  45.89 $,45.89,INVOICE,TOTAL : 787.77 $,787.77,"Total in words:  seven hundred and eighty-
+-seven point seven seven",Template3_Instance18.json
+"BILL_TO:
+Margaret Holmes
+58284 Emily Avenue Apt. 945
+Brownview, RI 54350 US
+Tel:+(118)730-3679
+Email:hsmith@example.org
+Site:https://king.com/",USD,Date: 18-Jun-2016,2016-06-18,,Due Date : 07-Feb-2016,2016-02-07,[],"Note:
+This order is shipped through blue dart courier",INVOICE ID INV27623504,PO Number :54,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.97%):  11.17 USD,11.17,INVOICE,TOTAL : 230.09 USD,230.09,"Total in words:  two hundred and thi-
+rty point zero nine",Template3_Instance180.json
+"BILL_TO:
+Jeffrey Elliott
+87074 Leslie Mission Suite 695
+Chasehaven, RI 32588 US
+Tel:+(068)426-2584
+Email:rbailey@example.org
+Site:http://howard-warner.net/",EUR,Date: 07-Aug-2008,2008-08-07,,Due Date : 02-Mar-2017,2017-03-02,[],Thank you for your business!,INVOICE ID INV/56-34/625,PO Number :17,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.50%):  32.93 EUR,32.93,TAX INVOICE,TOTAL : 519.61 EUR,519.61,"Total in words:  five hundred and ni-
+neteen point six one",Template3_Instance181.json
+"BILL_TO:
+John Anderson
+39939 Santos Manors
+Moranland, WA 83743 US
+Tel:+(240)184-6276
+Email:summerskara@example.net
+Site:http://holt.com/",EUR,Invoice Date: 10-Feb-2008,2008-02-10,,Due Date : 07-Jan-2010,2010-01-07,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE ID INV44663226,PO Number :98,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.74%):  4.66 EUR,4.66,TAX INVOICE,TOTAL : 99.12 EUR,99.12,"Total in words:  ninety-nine -
+point one two",Template3_Instance182.json
+"BILL_TO:
+Connor Griffin
+29616 Jillian Common
+Elizabethland, GA 10406 US
+Tel:+(081)071-9149
+Email:david68@example.com
+Site:http://olsen.com/",USD,Invoice Date: 09-May-2012,2012-05-09,,Due Date : 13-Jun-2022,2022-06-13,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE ID 4898-304,PO Number :06,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.40%):  30.31 $,30.31,TAX INVOICE,TOTAL : 905.50 $,905.5,"Total in words:  nine hundred and-
+five point five",Template3_Instance183.json
+"BILL_TO:
+Nicole Barnett
+14425 Potts Falls
+Adammouth, CA 20926 US
+Tel:+(750)626-7426
+Email:andrew08@example.net
+Site:http://www.carter.com/",EUR,Invoice Date: 30-Aug-2015,2015-08-30,,Due Date : 19-Jan-2007,2007-01-19,[],Thank you for your business!,Invoice number INV/03-53/309,PO Number :02,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.53%):  34.32 EUR,34.32,COMMERCIAL INVOICE,TOTAL : 548.64 EUR,548.64,"Total in words:  five hundred and fort-
+y-eight point six four",Template3_Instance184.json
+"BILL_TO:
+Cheryl Morgan
+1769 Mason Crossing
+Lindsayfort, AL 35116 US
+Tel:+(632)759-0518
+Email:orios@example.net
+Site:http://www.anthony-campbell.com/",EUR,Date: 14-Dec-2008,2008-12-14,,Due Date : 17-Apr-1995,1995-04-17,[],"Note:
+This order is shipped through blue dart courier",Invoice number 2237-584,PO Number :47,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.58%):  27.55 EUR,27.55,INVOICE,TOTAL : 426.54 EUR,426.54,"Total in words:  four hundred and twen-
+ty-six point five four",Template3_Instance185.json
+"BILL_TO:
+Lisa Wallace
+993 Angela Trafficway Apt. 742
+Garrettbury, WV 01563 US
+Tel:+(494)038-8710
+Email:roberthuffman@example.com
+Site:http://davis-noble.com/",EUR,Date: 11-Jan-2002,2002-01-11,,Due Date : 19-Aug-1994,1994-08-19,[],Thank you for your business!,INVOICE ID INV/52-01/600,PO Number :67,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.04%):  32.48 EUR,32.48,TAX INVOICE,TOTAL : 544.89 EUR,544.89,"Total in words:  five hundred and forty-
+-four point eight nine",Template3_Instance186.json
+"BILL_TO:
+Karen Norris
+91542 Yates Views
+West Traci, CA 01484 US
+Tel:+(718)336-7724
+Email:andrea08@example.net
+Site:https://smith-cooper.com/",USD,Invoice Date: 07-Jul-1994,1994-07-07,,Due Date : 19-Jan-2015,2015-01-19,[],Thank you for your business!,Invoice number 0818-335,PO Number :48,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.81%):  63.86 USD,63.86,COMMERCIAL INVOICE,TOTAL : 1146.14 USD,6.14,"Total in words:  one thousand, one hundred a-
+nd forty-six point one four",Template3_Instance187.json
+"BILL_TO:
+Lisa Brewer
+46720 Ayers Rest
+Smithview, IN 78151 US
+Tel:+(198)340-6708
+Email:vsmith@example.com
+Site:https://becker.com/",USD,Date: 23-Dec-2013,2013-12-23,,Due Date : 21-Apr-2015,2015-04-21,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE # 3933-098,PO Number :18,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.09%):  37.88 $,37.88,TAX INVOICE,TOTAL : 766.06 $,766.06,"Total in words:  seven hundred and six-
+ty-six point zero six",Template3_Instance188.json
+"BILL_TO:
+Michele Fuentes
+326 Herrera Via
+Batesmouth, MA 15059 US
+Tel:+(742)022-0940
+Email:seanford@example.org
+Site:https://www.page.net/",USD,Date: 27-Dec-2011,2011-12-27,,Due Date : 26-Jun-2007,2007-06-26,[],Note:Total payment due in 14 days.,INVOICE ID INV30727902,PO Number :33,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.41%):  13.89 $,13.89,TAX INVOICE,TOTAL : 262.22 $,262.22,"Total in words:  two hundred and six-
+ty-two point two two",Template3_Instance189.json
+"BILL_TO:
+Jeffrey Cunningham III
+850 Amanda Heights Suite 381
+Lake Jeffrey, NE 33840 US
+Tel:+(875)969-3760
+Email:raymond98@example.org
+Site:http://blackwell-patton.com/",EUR,Invoice Date: 26-Feb-2020,2020-02-26,,Due Date : 04-Jun-2001,2001-06-04,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",Invoice number INV/71-21/131,PO Number :64,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.55%):  36.44 EUR,36.44,TAX INVOICE,TOTAL : 1046.42 EUR,6.42,"Total in words:  one thousand and for-
+ty-six point four two",Template3_Instance19.json
+"BILL_TO:
+Alex Moore
+393 Ronald Drive
+West Nicholas, NE 48368 US
+Tel:+(663)135-5894
+Email:wileyshannon@example.org
+Site:http://ballard.org/",EUR,Invoice Date: 30-Jan-2005,2005-01-30,,Due Date : 22-Jan-2016,2016-01-22,[],"Note:
+This order is shipped through blue dart courier",INVOICE # 4Y6M7d-977,PO Number :61,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.63%):  39.61 EUR,39.61,TAX INVOICE,TOTAL : 609.11 EUR,609.11,"Total in words:  six hundred and n-
+ine point one one",Template3_Instance190.json
+"BILL_TO:
+Michael Cantu
+4720 Barry Way
+Rossstad, MP 47430 US
+Tel:+(841)090-6987
+Email:shannonball@example.org
+Site:http://bowen-lewis.com/",USD,Date: 12-Nov-2008,2008-11-12,,Due Date : 20-May-2021,2021-05-20,[],Note:Total payment due in 14 days.,INVOICE # 0785-585,PO Number :27,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.10%):  16.75 $,16.75,TAX INVOICE,TOTAL : 531.77 $,531.77,"Total in words:  five hundred and thirt-
+y-one point seven seven",Template3_Instance191.json
+"BILL_TO:
+James Haynes
+45187 Amber Station
+New Andrea, NV 52879 US
+Tel:+(628)488-8210
+Email:grosslisa@example.net
+Site:http://www.rivera.com/",USD,Date: 26-Jun-1996,1996-06-26,,Due Date : 22-Jan-2002,2002-01-22,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",Invoice number 4634-954,PO Number :57,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.66%):  23.35 USD,23.35,COMMERCIAL INVOICE,TOTAL : 505.84 USD,505.84,"Total in words:  five hundred and fi-
+ve point eight four",Template3_Instance192.json
+"BILL_TO:
+Tyler Lawson
+90822 Robert Land
+Lake Elizabethburgh, IA 12828 US
+Tel:+(509)393-7678
+Email:heather56@example.com
+Site:http://www.baker-thomas.com/",EUR,Invoice Date: 21-Oct-2008,2008-10-21,,Due Date : 02-Aug-2022,2022-08-02,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE # INV/57-04/399,PO Number :93,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.11%):  21.55 EUR,21.55,COMMERCIAL INVOICE,TOTAL : 520.43 EUR,520.43,"Total in words:  five hundred and twe-
+nty point four three",Template3_Instance193.json
+"BILL_TO:
+Debra Potter
+696 James Villages Apt. 693
+Alexanderhaven, NC 17685 US
+Tel:+(621)030-8214
+Email:johnmueller@example.com
+Site:https://www.martinez.net/",EUR,Invoice Date: 23-Apr-2012,2012-04-23,,Due Date : 20-Dec-2017,2017-12-20,[],"Note:
+This order is shipped through blue dart courier",INVOICE ID INV61642849,PO Number :30,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.57%):  42.23 EUR,42.23,INVOICE,TOTAL : 791.02 EUR,791.02,"Total in words:  seven hundred and nin-
+ety-one point zero two",Template3_Instance194.json
+"BILL_TO:
+Mark Jackson
+29322 Austin Meadow
+Rachelview, IL 66606 US
+Tel:+(906)042-6237
+Email:rangelmaria@example.org
+Site:https://www.joseph.com/",USD,Invoice Date: 05-Sep-2012,2012-09-05,,Due Date : 22-Dec-2013,2013-12-22,[],Note:Total payment due in 14 days.,INVOICE # INV/76-23/204,PO Number :53,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.44%):  21.98 $,21.98,COMMERCIAL INVOICE,TOTAL : 631.78 $,631.78,"Total in words:  six hundred and thirty-
+-one point seven eight",Template3_Instance195.json
+"BILL_TO:
+Ian Valdez
+86185 Patricia Via Suite 411
+Michaelland, CT 89529 US
+Tel:+(964)643-9047
+Email:brandipowers@example.net
+Site:https://www.dalton.com/",EUR,Date: 05-Nov-2004,2004-11-05,,Due Date : 03-Nov-2002,2002-11-03,[],"Note:
+This order is shipped through blue dart courier",INVOICE ID 7763-872,PO Number :16,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.20%):  21.08 EUR,21.08,INVOICE,TOTAL : 346.29 EUR,346.29,"Total in words:  three hundred and for-
+ty-six point two nine",Template3_Instance196.json
+"BILL_TO:
+Laura Miller
+3699 Long Forest
+New Rebeccastad, KY 59611 US
+Tel:+(394)314-7033
+Email:annette40@example.net
+Site:http://white-simmons.com/",USD,Date: 31-Aug-2002,2002-08-31,,Due Date : 08-May-2005,2005-05-08,[],Note:Total payment due in 14 days.,INVOICE # INV/95-12/917,PO Number :03,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.23%):  20.28 USD,20.28,COMMERCIAL INVOICE,TOTAL : 626.52 USD,626.52,"Total in words:  six hundred and twen-
+ty-six point five two",Template3_Instance197.json
+"BILL_TO:
+Brad Jones
+63759 Mcdonald Ville
+West Amy, MO 68934 US
+Tel:+(609)927-5319
+Email:williamwhite@example.com
+Site:https://www.wang.com/",USD,Invoice Date: 21-Jun-2008,2008-06-21,,Due Date : 22-Oct-2015,2015-10-22,[],Note:Total payment due in 14 days.,INVOICE ID 6Y5M8d-890,PO Number :08,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.98%):  62.18 USD,62.18,TAX INVOICE,TOTAL : 1061.06 USD,1.06,"Total in words:  one thousand and six-
+ty-one point zero six",Template3_Instance198.json
+"BILL_TO:
+Nicholas Elliott
+3520 Smith Wells Suite 439
+Patrickfort, WI 39647 US
+Tel:+(204)577-6829
+Email:twalker@example.net
+Site:https://jenkins.net/",EUR,Date: 01-Oct-2001,2001-10-01,,Due Date : 19-May-2022,2022-05-19,[],Thank you for choosing us!,INVOICE ID 4Y9M5d-977,PO Number :49,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.79%):  6.16 EUR,6.16,TAX INVOICE,TOTAL : 163.99 EUR,163.99,"Total in words:  one hundred and sixty-
+-three point nine nine",Template3_Instance199.json
+"BILL_TO:
+Catherine Bond
+93683 Mark Fort Suite 828
+Matthewview, OR 78680 US
+Tel:+(518)871-6539
+Email:matthew57@example.org
+Site:https://www.golden.biz/",USD,Invoice Date: 23-Jun-2022,2022-06-23,,Due Date : 01-Oct-2021,2021-10-01,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",Invoice number INV/47-99/962,PO Number :08,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.51%):  82.53 USD,82.53,INVOICE,TOTAL : 1312.51 USD,2.51,"Total in words:  one thousand, three hundre-
+d and twelve point five one",Template3_Instance2.json
+"BILL_TO:
+Jonathan Kerr
+453 Lee Port Suite 966
+East Candace, VT 33600 US
+Tel:+(450)071-9626
+Email:jbrady@example.org
+Site:https://ramos.com/",USD,Invoice Date: 27-Jan-2022,2022-01-27,,Due Date : 01-May-2021,2021-05-01,[],Thank you for your business!,Invoice number INV/05-29/852,PO Number :70,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.16%):  24.51 $,24.51,TAX INVOICE,TOTAL : 776.19 $,776.19,"Total in words:  seven hundred and seve-
+nty-six point one nine",Template3_Instance20.json
+"BILL_TO:
+Gary White
+3538 Walls Estate Suite 490
+North Mistyfurt, MA 33911 US
+Tel:+(169)956-9520
+Email:john93@example.org
+Site:https://johnson-smith.net/",USD,Date: 21-Oct-2012,2012-10-21,,Due Date : 21-May-2017,2017-05-21,[],Note:Total payment due in 14 days.,Invoice number INV/52-44/476,PO Number :09,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.23%):  17.93 $,17.93,INVOICE,TOTAL : 354.99 $,354.99,"Total in words:  three hundred and fift-
+y-four point nine nine",Template3_Instance21.json
+"BILL_TO:
+Laurie Ruiz
+70533 Hale Flat Suite 884
+West Marytown, AL 41719 US
+Tel:+(657)557-3718
+Email:miranda07@example.net
+Site:http://www.costa.com/",EUR,Date: 08-Aug-2003,2003-08-08,,Due Date : 29-Sep-2016,2016-09-29,[],Thank you for choosing us!,INVOICE ID 6114-257,PO Number :49,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.87%):  14.76 EUR,14.76,COMMERCIAL INVOICE,TOTAL : 308.56 EUR,308.56,"Total in words:  three hundred and e-
+ight point five six",Template3_Instance22.json
+"BILL_TO:
+Alexis Miller
+69764 Powell Plains
+East James, ID 90872 US
+Tel:+(596)238-6401
+Email:freemanjulie@example.com
+Site:http://green-weiss.biz/",USD,Invoice Date: 15-Nov-2002,2002-11-15,,Due Date : 02-Sep-2022,2022-09-02,[],Thank you for your business!,Invoice number INV/12-27/091,PO Number :50,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.18%):  32.44 USD,32.44,TAX INVOICE,TOTAL : 639.75 USD,639.75,"Total in words:  six hundred and thirty-
+-nine point seven five",Template3_Instance23.json
+"BILL_TO:
+Nicole Reed
+9354 Duffy Via
+East Kevin, MA 07523 US
+Tel:+(447)570-1561
+Email:matthewbray@example.org
+Site:https://www.vaughn.com/",EUR,Date: 11-Apr-2014,2014-04-11,,Due Date : 10-May-2005,2005-05-10,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE ID INV/69-28/494,PO Number :26,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.76%):  60.64 EUR,60.64,COMMERCIAL INVOICE,TOTAL : 912.98 EUR,912.98,"Total in words:  nine hundred and twe-
+lve point nine eight",Template3_Instance24.json
+"BILL_TO:
+Jeffery Young
+934 Taylor Pines
+New Matthewshire, CO 84588 US
+Tel:+(562)824-1061
+Email:michelle92@example.com
+Site:https://salazar-moore.org/",USD,Date: 06-Apr-2007,2007-04-06,,Due Date : 09-Mar-2018,2018-03-09,[],Thank you for your business!,Invoice number 6Y4M1d-691,PO Number :81,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.02%):  9.84 $,9.84,TAX INVOICE,TOTAL : 332.53 $,332.53,"Total in words:  three hundred and thir-
+ty-two point five three",Template3_Instance25.json
+"BILL_TO:
+Robert Cole
+3754 Bradford Mountains Apt. 575
+New Luis, RI 26646 US
+Tel:+(903)040-8926
+Email:yatesrichard@example.com
+Site:http://king.com/",USD,Date: 10-May-1993,1993-05-10,,Due Date : 12-May-2017,2017-05-12,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE # INV/55-66/252,PO Number :51,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.54%):  26.76 $,26.76,TAX INVOICE,TOTAL : 609.50 $,609.5,"Total in words:  six hundred and-
+nine point five",Template3_Instance26.json
+"BILL_TO:
+Brittany Fitzgerald
+6420 Danielle Underpass Apt. 163
+Lake Aaron, AR 06083 US
+Tel:+(515)037-0856
+Email:matthewyoung@example.org
+Site:https://porter.com/",EUR,Date: 20-Jan-1994,1994-01-20,,Due Date : 20-May-2008,2008-05-20,[],Thank you for your business!,Invoice number INV/89-90/067,PO Number :95,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.72%):  35.72 EUR,35.72,TAX INVOICE,TOTAL : 649.78 EUR,649.78,"Total in words:  six hundred and forty--
+nine point seven eight",Template3_Instance27.json
+"BILL_TO:
+Jennifer Bentley
+56230 Beck Gateway
+East Sara, AR 48373 US
+Tel:+(033)672-3858
+Email:ljohnson@example.com
+Site:https://www.taylor.net/",USD,Invoice Date: 08-Aug-2002,2002-08-08,,Due Date : 31-Jan-2006,2006-01-31,[],Thank you for your business!,Invoice number 5Y2M2d-428,PO Number :43,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.40%):  16.50 USD,16.5,TAX INVOICE,TOTAL : 318.22 USD,318.22,"Total in words:  three hundred and ei-
+ghteen point two two",Template3_Instance28.json
+"BILL_TO:
+Erin Andrews
+9077 Darlene Road
+Claytonburgh, GU 21315 US
+Tel:+(267)818-2529
+Email:hjohnson@example.org
+Site:https://stevens.net/",EUR,Invoice Date: 12-Jun-1997,1997-06-12,,Due Date : 07-Jan-2000,2000-01-07,[],"Note:
+This order is shipped through blue dart courier",Invoice number INV66500151,PO Number :75,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.53%):  35.03 EUR,35.03,INVOICE,TOTAL : 556.17 EUR,556.17,"Total in words:  five hundred and fift-
+y-six point one seven",Template3_Instance29.json
+"BILL_TO:
+Joseph Jenkins
+268 Krause Run
+Hesterview, MH 17423 US
+Tel:+(223)614-3008
+Email:burnswyatt@example.net
+Site:https://myers.org/",EUR,Invoice Date: 26-Oct-2011,2011-10-26,,Due Date : 22-Sep-2014,2014-09-22,[],Note:Total payment due in 14 days.,INVOICE ID INV67336140,PO Number :93,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.68%):  46.68 EUR,46.68,INVOICE,TOTAL : 1274.35 EUR,4.35,"Total in words:  one thousand, two hundred and-
+seventy-four point three five",Template3_Instance3.json
+"BILL_TO:
+Andrew Moody
+2516 Kathryn Shores
+Ariasside, MN 59708 US
+Tel:+(875)078-8711
+Email:woodsmichelle@example.com
+Site:https://wallace.biz/",USD,Date: 24-Aug-1996,1996-08-24,,Due Date : 01-Jun-2008,2008-06-01,[],Thank you for your business!,INVOICE # INV/13-51/271,PO Number :79,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.60%):  57.96 $,57.96,INVOICE,TOTAL : 916.03 $,916.03,"Total in words:  nine hundred and six-
+teen point zero three",Template3_Instance30.json
+"BILL_TO:
+Chelsea Wilson
+1349 Hubbard Forge Apt. 032
+Andrewfort, MO 29335 US
+Tel:+(216)925-6283
+Email:dunnerica@example.com
+Site:https://www.ellis.com/",EUR,Invoice Date: 20-Aug-2002,2002-08-20,,Due Date : 17-Jan-2001,2001-01-17,[],Note:Total payment due in 14 days.,INVOICE # INV20786193,PO Number :19,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.90%):  70.20 EUR,70.2,COMMERCIAL INVOICE,TOTAL : 1227.95 EUR,7.95,"Total in words:  one thousand, two hundred and-
+twenty-seven point nine five",Template3_Instance31.json
+"BILL_TO:
+Barbara Wood
+754 Lee Green Apt. 370
+East David, ME 34931 US
+Tel:+(704)982-9386
+Email:byrdmichael@example.com
+Site:https://www.hernandez-stevens.com/",USD,Date: 30-Sep-2000,2000-09-30,,Due Date : 10-Oct-2017,2017-10-10,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE # INV/85-67/603,PO Number :41,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.28%):  21.68 USD,21.68,COMMERCIAL INVOICE,TOTAL : 422.59 USD,422.59,"Total in words:  four hundred and twen-
+ty-two point five nine",Template3_Instance32.json
+"BILL_TO:
+Andre Quinn
+92236 Samantha Heights Apt. 345
+Tammyton, AZ 75233 US
+Tel:+(254)825-2613
+Email:david89@example.net
+Site:https://www.guzman.com/",USD,Date: 05-May-2002,2002-05-05,,Due Date : 28-Jan-1994,1994-01-28,[],Thank you for your business!,Invoice number 3163-736,PO Number :74,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.49%):  65.31 USD,65.31,COMMERCIAL INVOICE,TOTAL : 1054.49 USD,4.49,"Total in words:  one thousand and fift-
+y-four point four nine",Template3_Instance33.json
+"BILL_TO:
+Charles Stout
+42475 Gill Prairie Suite 747
+Roseview, TX 13277 US
+Tel:+(793)108-9995
+Email:ramseymelanie@example.net
+Site:https://www.hernandez.com/",USD,Invoice Date: 26-Jul-2012,2012-07-26,,Due Date : 14-Sep-1994,1994-09-14,[],Thank you for your business!,Invoice number 4302-910,PO Number :63,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.66%):  49.30 USD,49.3,COMMERCIAL INVOICE,TOTAL : 883.72 USD,883.72,"Total in words:  eight hundred and eight-
+y-three point seven two",Template3_Instance34.json
+"BILL_TO:
+Brenda Smith
+1264 Tracey Light
+Lake Marcomouth, OH 71324 US
+Tel:+(590)911-6722
+Email:waltersnathan@example.org
+Site:http://santos.info/",EUR,Invoice Date: 22-Sep-2004,2004-09-22,,Due Date : 27-Jan-2008,2008-01-27,[],Note:Total payment due in 14 days.,INVOICE # 1Y8M2d-439,PO Number :57,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.89%):  38.88 EUR,38.88,TAX INVOICE,TOTAL : 801.21 EUR,801.21,"Total in words:  eight hundred and-
+one point two one",Template3_Instance35.json
+"BILL_TO:
+Susan Jarvis
+95990 Charles Estates
+Lake Cameron, UT 97019 US
+Tel:+(659)695-6078
+Email:mhays@example.net
+Site:http://martinez-crawford.net/",USD,Date: 26-Apr-1997,1997-04-26,,Due Date : 30-May-2017,2017-05-30,[],"Note:
+This order is shipped through blue dart courier",INVOICE # 7521-972,PO Number :80,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.83%):  5.78 USD,5.78,TAX INVOICE,TOTAL : 101.88 USD,101.88,"Total in words:  one hundred and on-
+e point eight eight",Template3_Instance36.json
+"BILL_TO:
+Maria Werner
+9327 Lisa Roads
+Newtonview, MN 33259 US
+Tel:+(334)402-2399
+Email:matthew55@example.org
+Site:https://www.martinez-mckee.com/",USD,Invoice Date: 24-Feb-2008,2008-02-24,,Due Date : 14-Nov-2009,2009-11-14,[],Thank you for your business!,INVOICE ID INV67893796,PO Number :95,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.29%):  49.35 USD,49.35,COMMERCIAL INVOICE,TOTAL : 959.35 USD,959.35,"Total in words:  nine hundred and fifty-
+-nine point three five",Template3_Instance37.json
+"BILL_TO:
+Philip Pugh
+59561 Donaldson Plaza Suite 338
+Hallton, TX 67997 US
+Tel:+(315)332-5360
+Email:sierra42@example.com
+Site:https://oneill.org/",EUR,Date: 01-Aug-2002,2002-08-01,,Due Date : 15-Mar-2002,2002-03-15,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE # INV66303195,PO Number :52,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.23%):  8.68 EUR,8.68,INVOICE,TOTAL : 169.97 EUR,169.97,"Total in words:  one hundred and sixty-
+-nine point nine seven",Template3_Instance38.json
+"BILL_TO:
+Laura Howard
+00515 Alan Mount
+New Angela, AZ 10764 US
+Tel:+(540)678-7688
+Email:uanderson@example.com
+Site:http://www.walker.com/",USD,Date: 01-Oct-1995,1995-10-01,,Due Date : 31-Dec-2005,2005-12-31,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE ID 5Y1M7d-894,PO Number :83,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.56%):  28.18 USD,28.18,TAX INVOICE,TOTAL : 450.63 USD,450.63,"Total in words:  four hundred and fi-
+fty point six three",Template3_Instance39.json
+"BILL_TO:
+Kathy White
+72064 Carol Square
+Johnmouth, NY 59732 US
+Tel:+(973)178-0950
+Email:agraham@example.net
+Site:https://www.jones.com/",USD,Invoice Date: 20-Jun-2022,2022-06-20,,Due Date : 29-Dec-1999,1999-12-29,[],"Note:
+This order is shipped through blue dart courier",Invoice number INV87921890,PO Number :42,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.83%):  33.41 USD,33.41,INVOICE,TOTAL : 591.97 USD,591.97,"Total in words:  five hundred and ninet-
+y-one point nine seven",Template3_Instance4.json
+"BILL_TO:
+Gabriel Drake
+3966 Miller Radial
+North Alexhaven, DE 27862 US
+Tel:+(147)432-8009
+Email:maddoxmegan@example.net
+Site:https://www.williams.com/",EUR,Date: 15-Oct-2022,2022-10-15,,Due Date : 09-Aug-2008,2008-08-09,[],"Note:
+This order is shipped through blue dart courier",INVOICE ID INV/71-79/248,PO Number :08,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.22%):  16.56 EUR,16.56,COMMERCIAL INVOICE,TOTAL : 400.56 EUR,400.56,"Total in words:  four hundred -
+point five six",Template3_Instance40.json
+"BILL_TO:
+Debra Harper
+6613 Thompson Mall
+Mannmouth, ID 51160 US
+Tel:+(316)054-8792
+Email:alee@example.net
+Site:http://www.west.biz/",EUR,Invoice Date: 19-May-2022,2022-05-19,,Due Date : 22-Dec-2019,2019-12-22,[],Note:Total payment due in 14 days.,INVOICE ID INV05980978,PO Number :29,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.70%):  16.61 EUR,16.61,INVOICE,TOTAL : 458.66 EUR,458.66,"Total in words:  four hundred and fift-
+y-eight point six six",Template3_Instance41.json
+"BILL_TO:
+Nancy Leonard
+5720 Michael Keys
+Anthonystad, ND 69503 US
+Tel:+(877)504-2148
+Email:caleb32@example.org
+Site:https://www.martin-wyatt.com/",EUR,Date: 03-Aug-2001,2001-08-03,,Due Date : 13-Jun-2007,2007-06-13,[],Note:Total payment due in 14 days.,Invoice number INV30088725,PO Number :98,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.82%):  44.96 EUR,44.96,TAX INVOICE,TOTAL : 674.92 EUR,674.92,"Total in words:  six hundred and seven-
+ty-four point nine two",Template3_Instance42.json
+"BILL_TO:
+Karen Lee DVM
+100 Susan Flats
+Lake Thomasborough, GU 72110 US
+Tel:+(486)149-6818
+Email:igarza@example.net
+Site:https://www.andersen.net/",EUR,Date: 02-Apr-1995,1995-04-02,,Due Date : 17-Jan-2020,2020-01-17,[],Thank you for your business!,INVOICE # 8Y6M9d-559,PO Number :84,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.24%):  52.30 EUR,52.3,TAX INVOICE,TOTAL : 1014.59 EUR,4.59,"Total in words:  one thousand and fou-
+rteen point five nine",Template3_Instance43.json
+"BILL_TO:
+Christopher Jennings
+76182 Hopkins Estate Apt. 445
+Amyville, WI 39330 US
+Tel:+(984)221-6696
+Email:melissarojas@example.com
+Site:http://www.patel.net/",USD,Invoice Date: 12-Feb-2013,2013-02-12,,Due Date : 14-Nov-2015,2015-11-14,[],Note:Total payment due in 14 days.,INVOICE # INV/95-92/989,PO Number :32,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.74%):  22.30 USD,22.3,TAX INVOICE,TOTAL : 601.66 USD,601.66,"Total in words:  six hundred and -
+one point six six",Template3_Instance44.json
+"BILL_TO:
+Amber Neal
+3176 Philip Crossroad Suite 183
+Mikestad, MH 41454 US
+Tel:+(619)205-1564
+Email:chavezwilliam@example.net
+Site:http://www.lane.biz/",USD,Date: 29-Mar-2019,2019-03-29,,Due Date : 11-Jan-2021,2021-01-11,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE # 1480-718,PO Number :17,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.36%):  19.07 USD,19.07,COMMERCIAL INVOICE,TOTAL : 435.75 USD,435.75,"Total in words:  four hundred and thirt-
+y-five point seven five",Template3_Instance45.json
+"BILL_TO:
+Brady Castro
+7322 Angela Tunnel
+Lake Jessicaport, MH 82274 US
+Tel:+(267)866-4511
+Email:reynoldssamantha@example.org
+Site:https://www.davis.info/",EUR,Invoice Date: 03-Mar-2005,2005-03-03,,Due Date : 27-Oct-1996,1996-10-27,[],Note:Total payment due in 14 days.,INVOICE # INV/17-06/750,PO Number :28,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.96%):  60.22 EUR,60.22,TAX INVOICE,TOTAL : 1512.79 EUR,2.79,"Total in words:  one thousand, five hundred -
+and twelve point seven nine",Template3_Instance46.json
+"BILL_TO:
+Diana Brown
+475 Garza Rapid
+East Baileyfort, NM 00752 US
+Tel:+(014)139-6779
+Email:xrandolph@example.org
+Site:https://becker.com/",EUR,Date: 28-Oct-2014,2014-10-28,,Due Date : 04-Nov-2015,2015-11-04,[],Thank you for your business!,INVOICE # 9218-438,PO Number :30,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.08%):  109.77 EUR,109.77,INVOICE,TOTAL : 1877.85 EUR,7.85,"Total in words:  one thousand, eight hundred and-
+seventy-seven point eight five",Template3_Instance47.json
+"BILL_TO:
+Karen Smith
+0203 Eric Mall
+Port Ronnie, VT 45234 US
+Tel:+(764)679-1681
+Email:anne46@example.com
+Site:http://skinner-wallace.com/",USD,Invoice Date: 03-Nov-2012,2012-11-03,,Due Date : 01-May-2018,2018-05-01,[],"Note:
+This order is shipped through blue dart courier",Invoice number 0925-197,PO Number :30,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.59%):  50.76 $,50.76,TAX INVOICE,TOTAL : 1141.14 $,1.14,"Total in words:  one thousand, one hundred a-
+nd forty-one point one four",Template3_Instance48.json
+"BILL_TO:
+David Barker
+96198 Simon Dam Apt. 247
+Jenniferborough, OR 12913 US
+Tel:+(269)531-3317
+Email:ghoward@example.org
+Site:http://snyder.info/",USD,Invoice Date: 20-Apr-2011,2011-04-20,,Due Date : 01-Apr-2018,2018-04-01,[],Thank you for choosing us!,INVOICE # 4Y9M2d-326,PO Number :89,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.31%):  8.17 $,8.17,INVOICE,TOTAL : 135.86 $,135.86,"Total in words:  one hundred and thirt-
+y-five point eight six",Template3_Instance49.json
+"BILL_TO:
+Lauren Cox
+94207 Pineda Shores
+Lewisburgh, AK 41262 US
+Tel:+(770)257-3756
+Email:tsmith@example.org
+Site:http://www.perry-eaton.com/",USD,Date: 18-Apr-2003,2003-04-18,,Due Date : 17-Sep-2001,2001-09-17,[],Note:Total payment due in 14 days.,INVOICE # INV15059150,PO Number :82,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.64%):  10.68 USD,10.68,TAX INVOICE,TOTAL : 289.81 USD,289.81,"Total in words:  two hundred and eight-
+y-nine point eight one",Template3_Instance5.json
+"BILL_TO:
+Ashley Mathis
+7664 Elizabeth Parkway
+North Brittney, MD 13920 US
+Tel:+(493)645-3186
+Email:debrafigueroa@example.org
+Site:https://walters-moore.com/",EUR,Invoice Date: 14-Feb-2012,2012-02-14,,Due Date : 16-Mar-2007,2007-03-16,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",Invoice number 7Y9M8d-725,PO Number :15,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.59%):  33.08 EUR,33.08,COMMERCIAL INVOICE,TOTAL : 920.49 EUR,920.49,"Total in words:  nine hundred and tw-
+enty point four nine",Template3_Instance50.json
+"BILL_TO:
+Adrienne Morales
+61655 Sandra Knolls Apt. 778
+Frenchton, OR 04915 US
+Tel:+(670)112-0864
+Email:alvarezholly@example.net
+Site:https://www.mccall.com/",USD,Invoice Date: 08-Sep-2005,2005-09-08,,Due Date : 25-Apr-2016,2016-04-25,[],Note:Total payment due in 14 days.,Invoice number 0689-412,PO Number :78,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.61%):  37.79 USD,37.79,TAX INVOICE,TOTAL : 828.68 USD,828.68,"Total in words:  eight hundred and twent-
+y-eight point six eight",Template3_Instance51.json
+"BILL_TO:
+Daniel Kline
+91730 Hansen Row
+Baileyville, NE 05658 US
+Tel:+(118)699-4128
+Email:ioliver@example.net
+Site:http://www.holloway.org/",USD,Invoice Date: 12-Sep-1996,1996-09-12,,Due Date : 23-May-2003,2003-05-23,[],Thank you for your business!,INVOICE # INV/02-12/052,PO Number :62,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.34%):  39.87 USD,39.87,COMMERCIAL INVOICE,TOTAL : 920.38 USD,920.38,"Total in words:  nine hundred and twe-
+nty point three eight",Template3_Instance52.json
+"BILL_TO:
+Stephanie Bentley
+39872 Williams Glens
+Mcdanielton, GA 07552 US
+Tel:+(946)005-3349
+Email:susanthomas@example.net
+Site:http://scott.com/",USD,Invoice Date: 22-Sep-2007,2007-09-22,,Due Date : 09-Jan-2008,2008-01-09,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",Invoice number INV76884730,PO Number :43,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.14%):  95.36 USD,95.36,TAX INVOICE,TOTAL : 1599.27 USD,9.27,"Total in words:  one thousand, five hundred an-
+d ninety-nine point two seven",Template3_Instance53.json
+"BILL_TO:
+Jane Mays
+8101 Dean Mountain
+New Meganton, VA 43023 US
+Tel:+(580)610-6742
+Email:williamsonsandra@example.org
+Site:https://hess.net/",EUR,Date: 25-Jul-2016,2016-07-25,,Due Date : 25-May-2014,2014-05-25,[],"Note:
+This order is shipped through blue dart courier",INVOICE ID INV/14-26/810,PO Number :21,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.32%):  17.21 EUR,17.21,TAX INVOICE,TOTAL : 403.96 EUR,403.96,"Total in words:  four hundred and t-
+hree point nine six",Template3_Instance54.json
+"BILL_TO:
+Richard Mcpherson
+213 Melissa Run
+Murraytown, DC 97565 US
+Tel:+(367)180-2787
+Email:nflores@example.org
+Site:https://thompson.org/",USD,Invoice Date: 20-Aug-2017,2017-08-20,,Due Date : 31-Jan-2010,2010-01-31,[],Thank you for choosing us!,Invoice number INV/26-98/080,PO Number :40,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.07%):  40.82 $,40.82,TAX INVOICE,TOTAL : 838.48 $,838.48,"Total in words:  eight hundred and thirt-
+y-eight point four eight",Template3_Instance55.json
+"BILL_TO:
+Max Mclaughlin
+697 Victoria Lodge Suite 294
+East Beverlyshire, WV 68061 US
+Tel:+(768)990-1801
+Email:martinjerry@example.org
+Site:http://www.gamble-black.com/",EUR,Date: 21-Oct-2002,2002-10-21,,Due Date : 27-Apr-2013,2013-04-27,[],Thank you for choosing us!,INVOICE ID 1Y5M1d-684,PO Number :24,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.13%):  10.10 EUR,10.1,TAX INVOICE,TOTAL : 245.68 EUR,245.68,"Total in words:  two hundred and forty-
+-five point six eight",Template3_Instance56.json
+"BILL_TO:
+Jonathan Frey
+60560 Mooney Camp Suite 829
+Cheyennefurt, ID 61156 US
+Tel:+(722)207-8408
+Email:laurencontreras@example.net
+Site:http://wilkerson-crawford.com/",EUR,Invoice Date: 20-Mar-2022,2022-03-20,,Due Date : 15-Jun-2003,2003-06-15,[],Thank you for your business!,INVOICE # 2106-418,PO Number :50,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.61%):  24.30 EUR,24.3,COMMERCIAL INVOICE,TOTAL : 677.22 EUR,677.22,"Total in words:  six hundred and seven-
+ty-seven point two two",Template3_Instance57.json
+"BILL_TO:
+Elizabeth Gregory
+11398 Edwards Plain Suite 529
+South Manuelfurt, KY 00621 US
+Tel:+(586)556-5046
+Email:hurstashley@example.net
+Site:https://www.ewing-morgan.com/",USD,Date: 29-Jul-2014,2014-07-29,,Due Date : 27-Nov-1996,1996-11-27,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE ID INV32807300,PO Number :99,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.56%):  55.44 USD,55.44,COMMERCIAL INVOICE,TOTAL : 882.31 USD,882.31,"Total in words:  eight hundred and eigh-
+ty-two point three one",Template3_Instance58.json
+"BILL_TO:
+Miguel Valentine
+55793 Michael Trail Apt. 823
+Gibsonport, FL 60164 US
+Tel:+(088)190-6271
+Email:iford@example.com
+Site:http://www.peterson.biz/",USD,Date: 08-Sep-2001,2001-09-08,,Due Date : 10-Sep-2018,2018-09-10,[],Thank you for your business!,INVOICE # INV/15-21/217,PO Number :33,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.14%):  16.64 $,16.64,INVOICE,TOTAL : 399.72 $,399.72,"Total in words:  three hundred and nine-
+ty-nine point seven two",Template3_Instance59.json
+"BILL_TO:
+Madeline Harris
+640 Courtney Forge
+Port Miguel, DC 24632 US
+Tel:+(339)227-5180
+Email:anthony13@example.com
+Site:https://cruz.info/",USD,Date: 06-Mar-2006,2006-03-06,,Due Date : 23-Jun-2006,2006-06-23,[],Thank you for choosing us!,INVOICE ID 1940-488,PO Number :19,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.59%):  32.39 USD,32.39,TAX INVOICE,TOTAL : 717.93 USD,717.93,"Total in words:  seven hundred and seve-
+nteen point nine three",Template3_Instance6.json
+"BILL_TO:
+Steven Swanson
+1480 Kevin Cape
+North Crystal, ME 37316 US
+Tel:+(522)078-2480
+Email:jamesrandolph@example.org
+Site:http://www.morrow.com/",USD,Invoice Date: 06-Feb-1994,1994-02-06,,Due Date : 18-Feb-2018,2018-02-18,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE # 8Y8M1d-931,PO Number :00,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.65%):  38.39 USD,38.39,TAX INVOICE,TOTAL : 1061.18 USD,1.18,"Total in words:  one thousand and sixt-
+y-one point one eight",Template3_Instance60.json
+"BILL_TO:
+Devin Carlson
+6804 Pugh Parkway
+Carolview, VT 22811 US
+Tel:+(902)731-4305
+Email:dennis35@example.org
+Site:http://www.henson-kim.com/",USD,Invoice Date: 28-Feb-2007,2007-02-28,,Due Date : 22-Jan-1993,1993-01-22,[],Thank you for your business!,Invoice number 5Y8M7d-737,PO Number :36,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.29%):  42.28 USD,42.28,TAX INVOICE,TOTAL : 706.20 USD,706.2,"Total in words:  seven hundred a-
+nd six point two",Template3_Instance61.json
+"BILL_TO:
+Brandy Vargas
+85305 Kimberly Cape
+East Bethtown, SD 38850 US
+Tel:+(302)425-3219
+Email:stacy05@example.com
+Site:http://haynes-moreno.com/",USD,Invoice Date: 29-Dec-1994,1994-12-29,,Due Date : 24-Sep-2008,2008-09-24,[],"Note:
+This order is shipped through blue dart courier",Invoice number 0367-335,PO Number :58,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.24%):  67.49 USD,67.49,COMMERCIAL INVOICE,TOTAL : 1097.17 USD,7.17,"Total in words:  one thousand and ninet-
+y-seven point one seven",Template3_Instance62.json
+"BILL_TO:
+Paula Hawkins
+548 Brooks Manor
+Port Jessicaland, GA 09545 US
+Tel:+(527)026-4152
+Email:lambtaylor@example.net
+Site:https://www.petty.com/",EUR,Date: 01-Jan-2022,2022-01-01,,Due Date : 19-Jun-2010,2010-06-19,[],Thank you for choosing us!,INVOICE ID 2Y1M8d-245,PO Number :02,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.40%):  25.22 EUR,25.22,TAX INVOICE,TOTAL : 486.41 EUR,486.41,"Total in words:  four hundred and eigh-
+ty-six point four one",Template3_Instance63.json
+"BILL_TO:
+John Blake
+00205 Gallegos Light
+Potterstad, FM 83203 US
+Tel:+(004)493-4238
+Email:paige64@example.com
+Site:https://www.smith.org/",USD,Date: 17-May-2003,2003-05-17,,Due Date : 10-May-2021,2021-05-10,[],Thank you for choosing us!,Invoice number 9Y9M3d-509,PO Number :91,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.05%):  20.70 USD,20.7,INVOICE,TOTAL : 351.25 USD,351.25,"Total in words:  three hundred and fif-
+ty-one point two five",Template3_Instance64.json
+"BILL_TO:
+Leah Wells
+00972 Wade Street
+Mullinshaven, IL 75895 US
+Tel:+(887)847-7885
+Email:mpeterson@example.com
+Site:https://www.owens-newton.com/",EUR,Invoice Date: 05-Aug-2007,2007-08-05,,Due Date : 26-Oct-2014,2014-10-26,[],Thank you for your business!,INVOICE # 7Y2M4d-918,PO Number :72,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.87%):  83.23 EUR,83.23,COMMERCIAL INVOICE,TOTAL : 1262.24 EUR,2.24,"Total in words:  one thousand, two hundred a-
+nd sixty-two point two four",Template3_Instance65.json
+"BILL_TO:
+Candace Rogers
+178 Brian Oval
+Barryburgh, AR 82072 US
+Tel:+(891)459-3088
+Email:jennifer79@example.net
+Site:http://jones.com/",USD,Date: 16-Jul-1995,1995-07-16,,Due Date : 19-Jan-2017,2017-01-19,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE ID INV/89-69/681,PO Number :95,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.60%):  33.90 $,33.9,INVOICE,TOTAL : 633.04 $,633.04,"Total in words:  six hundred and thirty-
+-three point zero four",Template3_Instance66.json
+"BILL_TO:
+Isaiah Yates
+7566 Regina Wells Apt. 888
+Nobleberg, NM 20293 US
+Tel:+(479)372-9297
+Email:gregory23@example.net
+Site:https://patton.com/",USD,Invoice Date: 21-Sep-2009,2009-09-21,,Due Date : 15-Dec-1999,1999-12-15,[],Thank you for your business!,Invoice number 4Y2M1d-187,PO Number :56,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.53%):  42.71 USD,42.71,TAX INVOICE,TOTAL : 799.09 USD,799.09,"Total in words:  seven hundred and nine-
+ty-nine point zero nine",Template3_Instance67.json
+"BILL_TO:
+Kimberly Gomez
+132 Shea Points
+Normanton, NH 58411 US
+Tel:+(769)730-8326
+Email:djones@example.com
+Site:http://www.schneider.info/",USD,Invoice Date: 19-Nov-1994,1994-11-19,,Due Date : 31-Dec-1995,1995-12-31,[],Thank you for your business!,INVOICE ID INV86345750,PO Number :91,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.83%):  77.66 $,77.66,TAX INVOICE,TOTAL : 1166.72 $,6.72,"Total in words:  one thousand, one hundred a-
+nd sixty-six point seven two",Template3_Instance68.json
+"BILL_TO:
+Maria Cain
+3445 Pruitt Hills
+West Jose, HI 96647 US
+Tel:+(234)934-8247
+Email:taylormichelle@example.net
+Site:https://www.wright-tucker.com/",USD,Invoice Date: 20-Dec-2002,2002-12-20,,Due Date : 28-Jul-2012,2012-07-28,[],Thank you for your business!,INVOICE ID INV10564955,PO Number :66,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.02%):  20.42 USD,20.42,TAX INVOICE,TOTAL : 514.49 USD,514.49,"Total in words:  five hundred and fou-
+rteen point four nine",Template3_Instance69.json
+"BILL_TO:
+Taylor Santiago
+882 Steven Inlet
+Port John, TX 22658 US
+Tel:+(349)277-3643
+Email:dbowman@example.org
+Site:http://www.palmer.com/",USD,Invoice Date: 10-Jul-1996,1996-07-10,,Due Date : 31-Aug-2011,2011-08-31,[],"Note:
+This order is shipped through blue dart courier",INVOICE ID 5Y8M1d-775,PO Number :54,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.09%):  49.90 $,49.9,INVOICE,TOTAL : 844.65 $,844.65,"Total in words:  eight hundred and for-
+ty-four point six five",Template3_Instance7.json
+"BILL_TO:
+Wendy Brown
+209 Wesley Lock Suite 497
+East Michael, KY 52990 US
+Tel:+(195)341-9751
+Email:dnolan@example.com
+Site:http://www.garcia.com/",EUR,Invoice Date: 12-Feb-1994,1994-02-12,,Due Date : 15-Nov-1994,1994-11-15,[],Note:Total payment due in 14 days.,INVOICE # INV/69-74/934,PO Number :64,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.53%):  23.71 EUR,23.71,TAX INVOICE,TOTAL : 369.46 EUR,369.46,"Total in words:  three hundred and six-
+ty-nine point four six",Template3_Instance70.json
+"BILL_TO:
+Briana Howard
+204 Lopez Lakes
+West Jenniferfort, HI 97537 US
+Tel:+(043)571-8454
+Email:jeffrey16@example.com
+Site:https://alvarez.net/",USD,Invoice Date: 02-Sep-2005,2005-09-02,,Due Date : 11-Oct-2005,2005-10-11,[],"Note:
+This order is shipped through blue dart courier",INVOICE # 1646-499,PO Number :82,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.88%):  14.38 USD,14.38,INVOICE,TOTAL : 249.92 USD,249.92,"Total in words:  two hundred and fort-
+y-nine point nine two",Template3_Instance71.json
+"BILL_TO:
+Bethany Pace
+973 Amanda Forest Apt. 226
+Port Rickfort, MI 24782 US
+Tel:+(894)764-3655
+Email:dhobbs@example.net
+Site:http://erickson.info/",EUR,Date: 05-Jan-2005,2005-01-05,,Due Date : 22-Sep-2016,2016-09-22,[],Thank you for your business!,INVOICE # INV06655637,PO Number :80,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.26%):  63.31 EUR,63.31,INVOICE,TOTAL : 1050.91 EUR,0.91,"Total in words:  one thousand and f-
+ifty point nine one",Template3_Instance72.json
+"BILL_TO:
+Leslie Beard
+68897 John Knoll
+Andersonburgh, TN 78803 US
+Tel:+(694)061-3254
+Email:fhurst@example.org
+Site:https://www.curry.com/",EUR,Date: 20-Feb-2022,2022-02-20,,Due Date : 07-Nov-2022,2022-11-07,[],Thank you for choosing us!,Invoice number INV/72-06/371,PO Number :06,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.02%):  12.48 EUR,12.48,COMMERCIAL INVOICE,TOTAL : 311.19 EUR,311.19,"Total in words:  three hundred and e-
+leven point one nine",Template3_Instance73.json
+"BILL_TO:
+Jessica Guerrero
+0471 Schroeder Ports
+South Steven, DC 05696 US
+Tel:+(153)569-0147
+Email:welchlauren@example.com
+Site:http://www.preston-choi.com/",EUR,Invoice Date: 29-Dec-2010,2010-12-29,,Due Date : 01-Jan-2017,2017-01-01,[],Thank you for your business!,Invoice number 8Y4M3d-402,PO Number :87,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.95%):  51.22 EUR,51.22,COMMERCIAL INVOICE,TOTAL : 1046.68 EUR,6.68,"Total in words:  one thousand and fort-
+y-six point six eight",Template3_Instance74.json
+"BILL_TO:
+Dr. Larry Wilson
+7551 William Mountains
+North Kaylabury, NE 11422 US
+Tel:+(218)238-0966
+Email:eileen10@example.org
+Site:http://anderson-lopez.org/",EUR,Date: 06-Feb-1993,1993-02-06,,Due Date : 05-Dec-2022,2022-12-05,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE # INV/77-99/058,PO Number :85,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.76%):  35.13 EUR,35.13,INVOICE,TOTAL : 757.56 EUR,757.56,"Total in words:  seven hundred and fift-
+y-seven point five six",Template3_Instance75.json
+"BILL_TO:
+Austin Allen
+479 Kenneth Spring
+Jacobport, FL 21911 US
+Tel:+(540)523-0937
+Email:pprice@example.org
+Site:https://www.williams.com/",USD,Invoice Date: 04-Aug-2007,2007-08-04,,Due Date : 15-Jan-2001,2001-01-15,[],Note:Total payment due in 14 days.,INVOICE ID INV/01-62/982,PO Number :63,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.45%):  5.57 $,5.57,INVOICE,TOTAL : 127.75 $,127.75,"Total in words:  one hundred and twenty-
+-seven point seven five",Template3_Instance76.json
+"BILL_TO:
+Amy Ellis
+01033 Robert Crossroad Suite 739
+Lake Alexis, IA 41671 US
+Tel:+(342)912-5662
+Email:evansdenise@example.org
+Site:https://jennings-lewis.com/",EUR,Invoice Date: 13-Apr-2014,2014-04-13,,Due Date : 31-Oct-1999,1999-10-31,[],"Note:
+This order is shipped through blue dart courier",Invoice number 5263-575,PO Number :24,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.96%):  22.18 EUR,22.18,COMMERCIAL INVOICE,TOTAL : 570.95 EUR,570.95,"Total in words:  five hundred and sev-
+enty point nine five",Template3_Instance77.json
+"BILL_TO:
+Douglas Schneider
+593 Ryan Fort Suite 278
+Joanneville, MI 07468 US
+Tel:+(312)390-5768
+Email:ycarr@example.org
+Site:https://jones.com/",EUR,Date: 06-Jul-1995,1995-07-06,,Due Date : 29-Oct-2010,2010-10-29,[],Thank you for your business!,INVOICE # 0916-074,PO Number :46,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.58%):  19.36 EUR,19.36,COMMERCIAL INVOICE,TOTAL : 543.60 EUR,543.6,"Total in words:  five hundred and fo-
+rty-three point six",Template3_Instance78.json
+"BILL_TO:
+Erika Guzman
+16582 Collins Landing
+Port Christine, RI 73609 US
+Tel:+(366)650-4233
+Email:robertmoore@example.org
+Site:http://webb-gamble.biz/",USD,Invoice Date: 03-Oct-1995,1995-10-03,,Due Date : 05-Aug-2002,2002-08-05,[],Thank you for choosing us!,Invoice number INV/48-10/854,PO Number :54,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.30%):  56.34 USD,56.34,INVOICE,TOTAL : 1346.74 USD,6.74,"Total in words:  one thousand, three hundred a-
+nd forty-six point seven four",Template3_Instance79.json
+"BILL_TO:
+Jack Johnson
+093 Stafford Ferry Suite 317
+New Robert, VA 22277 US
+Tel:+(891)830-6249
+Email:justin40@example.net
+Site:http://montgomery-mendoza.com/",EUR,Date: 19-Mar-2016,2016-03-19,,Due Date : 14-Jul-2019,2019-07-14,[],Thank you for choosing us!,INVOICE # INV/54-88/223,PO Number :74,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.67%):  12.35 EUR,12.35,INVOICE,TOTAL : 267.38 EUR,267.38,"Total in words:  two hundred and sixty--
+seven point three eight",Template3_Instance8.json
+"BILL_TO:
+Susan Stewart
+05057 Alexander Points Suite 479
+Port Tommy, VT 17967 US
+Tel:+(465)982-3487
+Email:harrisamy@example.net
+Site:http://www.brady.com/",EUR,Date: 31-Jan-2013,2013-01-31,,Due Date : 06-Mar-1995,1995-03-06,[],Thank you for choosing us!,INVOICE # 7Y5M2d-217,PO Number :89,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.01%):  28.99 EUR,28.99,COMMERCIAL INVOICE,TOTAL : 965.39 EUR,965.39,"Total in words:  nine hundred and sixty-
+-five point three nine",Template3_Instance80.json
+"BILL_TO:
+Melissa Smith
+74398 Spencer Mountains Suite 917
+Stewartfort, VI 86106 US
+Tel:+(521)658-4562
+Email:fneal@example.com
+Site:http://phillips.info/",EUR,Invoice Date: 24-Nov-2008,2008-11-24,,Due Date : 07-Jan-2021,2021-01-07,[],"Note:
+This order is shipped through blue dart courier",Invoice number 1Y2M6d-212,PO Number :59,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.85%):  14.85 EUR,14.85,COMMERCIAL INVOICE,TOTAL : 221.04 EUR,221.04,"Total in words:  two hundred and twent-
+y-one point zero four",Template3_Instance81.json
+"BILL_TO:
+Marissa Mahoney
+4476 Evans Land
+North Justin, KS 06125 US
+Tel:+(107)201-3374
+Email:horntyrone@example.org
+Site:https://www.schaefer.com/",EUR,Date: 04-Dec-2005,2005-12-04,,Due Date : 30-May-2006,2006-05-30,[],Thank you for choosing us!,Invoice number 1784-499,PO Number :99,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.74%):  16.36 EUR,16.36,INVOICE,TOTAL : 436.33 EUR,436.33,"Total in words:  four hundred and thirt-
+y-six point three three",Template3_Instance82.json
+"BILL_TO:
+Charlotte Chambers
+9386 Molina Station Apt. 680
+Jenniferfurt, MO 98653 US
+Tel:+(861)665-7092
+Email:brownlaura@example.org
+Site:https://garcia.com/",EUR,Date: 24-Feb-2016,2016-02-24,,Due Date : 28-Sep-2007,2007-09-28,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",Invoice number 0363-627,PO Number :87,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.71%):  4.84 EUR,4.84,TAX INVOICE,TOTAL : 105.38 EUR,105.38,"Total in words:  one hundred and fiv-
+e point three eight",Template3_Instance83.json
+"BILL_TO:
+Jeffery Garcia
+2639 Moore Spurs Apt. 916
+North Jamesfurt, IA 99008 US
+Tel:+(179)341-1688
+Email:yadams@example.com
+Site:https://austin.com/",EUR,Invoice Date: 15-Feb-1993,1993-02-15,,Due Date : 07-Sep-2022,2022-09-07,[],"Note:
+This order is shipped through blue dart courier",Invoice number 5592-173,PO Number :22,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.04%):  16.30 EUR,16.3,TAX INVOICE,TOTAL : 328.58 EUR,328.58,"Total in words:  three hundred and twent-
+y-eight point five eight",Template3_Instance84.json
+"BILL_TO:
+Heather Black
+666 Elizabeth Meadow Suite 310
+New Stephaniefort, FM 81040 US
+Tel:+(667)773-7272
+Email:cynthia40@example.com
+Site:http://brooks.com/",USD,Invoice Date: 02-Jul-2005,2005-07-02,,Due Date : 09-Apr-1998,1998-04-09,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE # INV/98-15/356,PO Number :37,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.31%):  17.74 $,17.74,TAX INVOICE,TOTAL : 418.88 $,418.88,"Total in words:  four hundred and eigh-
+teen point eight eight",Template3_Instance85.json
+"BILL_TO:
+Kathryn Navarro
+29858 Jackson Street
+East Heatherfurt, CO 72110 US
+Tel:+(635)943-0795
+Email:peter04@example.org
+Site:https://harris-dalton.com/",USD,Invoice Date: 09-Jul-2017,2017-07-09,,Due Date : 12-Jan-2022,2022-01-12,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",Invoice number 4728-391,PO Number :18,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.77%):  21.43 $,21.43,COMMERCIAL INVOICE,TOTAL : 322.83 $,322.83,"Total in words:  three hundred and twent-
+y-two point eight three",Template3_Instance86.json
+"BILL_TO:
+Paige Curry
+41215 Cody Hills Apt. 990
+Port Gary, NM 41727 US
+Tel:+(352)716-2108
+Email:wallerkyle@example.org
+Site:http://www.hudson.com/",EUR,Date: 28-Sep-2015,2015-09-28,,Due Date : 04-Feb-2014,2014-02-04,[],Thank you for your business!,INVOICE # 0010-520,PO Number :36,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.67%):  26.49 EUR,26.49,COMMERCIAL INVOICE,TOTAL : 477.31 EUR,477.31,"Total in words:  four hundred and sevent-
+y-seven point three one",Template3_Instance87.json
+"BILL_TO:
+Joseph Ramirez
+3847 Edward Flats Suite 528
+Taylorville, MP 16875 US
+Tel:+(203)334-3943
+Email:dorothy06@example.org
+Site:http://valentine.com/",USD,Date: 22-Sep-2016,2016-09-22,,Due Date : 16-Feb-2009,2009-02-16,[],Thank you for your business!,INVOICE # 6716-402,PO Number :96,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.59%):  50.08 $,50.08,INVOICE,TOTAL : 930.54 $,930.54,"Total in words:  nine hundred and th-
+irty point five four",Template3_Instance88.json
+"BILL_TO:
+Timothy Ibarra
+5973 Smith Wells
+South Katherineborough, DE 78154 US
+Tel:+(927)503-5372
+Email:kimberly20@example.net
+Site:https://norris-hayden.com/",EUR,Date: 11-Mar-2008,2008-03-11,,Due Date : 10-Dec-2010,2010-12-10,[],"Note:
+This order is shipped through blue dart courier",INVOICE # INV11884501,PO Number :49,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.89%):  27.61 EUR,27.61,COMMERCIAL INVOICE,TOTAL : 473.93 EUR,473.93,"Total in words:  four hundred and sevent-
+y-three point nine three",Template3_Instance89.json
+"BILL_TO:
+Rebecca Gray
+9583 White Green Apt. 110
+Port Nicholas, OR 66999 US
+Tel:+(980)364-3481
+Email:stevensonbrett@example.org
+Site:https://www.hobbs.com/",USD,Date: 26-Feb-1996,1996-02-26,,Due Date : 25-Jan-2000,2000-01-25,[],"Note: All payments to be made in cash.
+Contact us for queries on these quotations.",INVOICE ID INV02668839,PO Number :46,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.49%):  7.68 USD,7.68,COMMERCIAL INVOICE,TOTAL : 176.52 USD,176.52,"Total in words:  one hundred and seven-
+ty-six point five two",Template3_Instance9.json
+"BILL_TO:
+Jared Perkins
+1514 Lori Vista
+South Justin, KS 24669 US
+Tel:+(026)701-3788
+Email:cassandra69@example.net
+Site:http://meyer-baker.org/",EUR,Invoice Date: 06-Nov-2004,2004-11-06,,Due Date : 11-Dec-2011,2011-12-11,[],Thank you for your business!,Invoice number INV/61-65/309,PO Number :52,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.98%):  3.71 EUR,3.71,TAX INVOICE,TOTAL : 94.63 EUR,94.63,"Total in words:  ninety-four p-
+oint six three",Template3_Instance90.json
+"BILL_TO:
+Antonio Wilson
+6749 Glenn Valleys Apt. 184
+Robertton, MI 16270 US
+Tel:+(603)352-0530
+Email:robbinsmelissa@example.net
+Site:http://collier-mason.org/",EUR,Invoice Date: 07-Sep-2021,2021-09-07,,Due Date : 07-Aug-2012,2012-08-07,[],Note:Total payment due in 14 days.,Invoice number 9829-982,PO Number :56,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.07%):  67.42 EUR,67.42,TAX INVOICE,TOTAL : 1135.63 EUR,5.63,"Total in words:  one thousand, one hundred an-
+d thirty-five point six three",Template3_Instance91.json
+"BILL_TO:
+Karen Evans
+4198 Heather Forge Apt. 808
+South Samanthaborough, RI 01606 US
+Tel:+(904)006-5102
+Email:heidilee@example.org
+Site:https://mathis.com/",USD,Date: 07-Jul-2011,2011-07-07,,Due Date : 23-Jul-1993,1993-07-23,[],"Note:
+This order is shipped through blue dart courier",INVOICE ID INV03010608,PO Number :66,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (6.01%):  29.02 USD,29.02,TAX INVOICE,TOTAL : 488.86 USD,488.86,"Total in words:  four hundred and eight-
+y-eight point eight six",Template3_Instance92.json
+"BILL_TO:
+Evan Blackwell
+369 Cortez Village
+South Edward, NH 51139 US
+Tel:+(204)396-6688
+Email:jenniferorozco@example.org
+Site:https://www.heath-ayala.com/",EUR,Date: 26-Feb-2007,2007-02-26,,Due Date : 15-Aug-2009,2009-08-15,[],"Note:
+This order is shipped through blue dart courier",Invoice number INV/89-14/498,PO Number :02,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (5.22%):  20.08 EUR,20.08,COMMERCIAL INVOICE,TOTAL : 389.10 EUR,389.1,"Total in words:  three hundred and e-
+ighty-nine point one",Template3_Instance93.json
+"BILL_TO:
+Courtney Flores
+506 Sutton Trail
+Gibsonfort, MI 58106 US
+Tel:+(395)089-8671
+Email:kimberlymann@example.com
+Site:http://www.mcneil.com/",EUR,Date: 24-Apr-1998,1998-04-24,,Due Date : 22-Dec-1997,1997-12-22,[],Thank you for your business!,Invoice number INV/75-14/456,PO Number :81,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 390.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.82%):  14.96 EUR,14.96,INVOICE,TOTAL : 388.60 EUR,388.6,"Total in words:  three hundred and ei-
+ghty-eight point six",Template3_Instance94.json
+"BILL_TO:
+Jacob Sullivan
+19800 Alan Point
+South Amanda, VT 14184 US
+Tel:+(496)662-1155
+Email:cgarcia@example.org
+Site:http://watts.net/",USD,Invoice Date: 08-Jul-2004,2004-07-08,,Due Date : 16-Feb-2001,2001-02-16,[],Note:Total payment due in 14 days.,INVOICE ID INV/62-70/792,PO Number :97,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.75%):  16.53 USD,16.53,COMMERCIAL INVOICE,TOTAL : 442.40 USD,442.4,"Total in words:  four hundred and f-
+orty-two point four",Template3_Instance95.json
+"BILL_TO:
+Jessica Pope
+3425 Brady Corners Apt. 969
+Johnhaven, PR 43118 US
+Tel:+(126)911-6377
+Email:xsolomon@example.net
+Site:http://www.dillon-wood.com/",EUR,Invoice Date: 06-May-2019,2019-05-06,,Due Date : 12-Feb-2021,2021-02-12,[],"Note:
+This order is shipped through blue dart courier",INVOICE # 3Y5M5d-853,PO Number :63,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 408.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.81%):  19.29 EUR,19.29,TAX INVOICE,TOTAL : 411.03 EUR,411.03,"Total in words:  four hundred and ele-
+ven point zero three",Template3_Instance96.json
+"BILL_TO:
+Marilyn Fisher
+5773 Rodriguez Lights
+New Sarah, GU 66725 US
+Tel:+(314)286-6942
+Email:robin59@example.org
+Site:http://www.hammond.biz/",USD,Invoice Date: 01-Sep-2022,2022-09-01,,Due Date : 21-Dec-2000,2000-12-21,[],"Note:
+This order is shipped through blue dart courier",INVOICE ID 3980-697,PO Number :65,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (4.93%):  66.44 $,66.44,TAX INVOICE,TOTAL : 1385.50 $,5.5,"Total in words:  one thousand, three hundred-
+and eighty-five point five",Template3_Instance97.json
+"BILL_TO:
+Jacqueline Sanders
+3328 Mullins Orchard Apt. 935
+Lake Christopher, VI 59601 US
+Tel:+(945)591-7613
+Email:dennis29@example.com
+Site:https://allen.info/",USD,Date: 18-Sep-2021,2021-09-18,,Due Date : 12-Nov-2012,2012-11-12,[],Thank you for your business!,INVOICE # 2177-597,PO Number :93,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 426.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.40%):  37.65 $,37.65,COMMERCIAL INVOICE,TOTAL : 1094.17 $,4.17,"Total in words:  one thousand and ninet-
+y-four point one seven",Template3_Instance98.json
+"BILL_TO:
+Shawn Schultz
+5611 Wallace Roads
+West Bryanfort, NC 80177 US
+Tel:+(801)864-3280
+Email:fhuerta@example.com
+Site:http://garza.com/",USD,Date: 19-May-2018,2018-05-19,,Due Date : 14-Mar-2007,2007-03-14,[],"Note:
+This order is shipped through blue dart courier",INVOICE # INV41636514,PO Number :70,"Kirk, Murphy and Daniels",,"[[{'bbox': [[3.0, 372.8898], [543.0, 318.8898]]}]]",TAX:VAT (3.24%):  4.58 USD,4.58,INVOICE,TOTAL : 144.01 USD,144.01,"Total in words:  one hundred and fort-
+y-four point zero one",Template3_Instance99.json
